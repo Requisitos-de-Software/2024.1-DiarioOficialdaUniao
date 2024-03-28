@@ -40,14 +40,14 @@ theme:
   palette:
 
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Mudar para o modo claro
+    #- media: "(prefers-color-scheme)"
+     # toggle:
+      #  icon: material/brightness-auto
+       # name: Mudar para o modo claro
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: claro 
       toggle:
         icon: material/brightness-7
         name: Mudar para o modo escuro
@@ -60,8 +60,8 @@ theme:
         name: Mudar para a preferência do sistema
 
   language: pt-BR
-  # favicon: assets/arquivo.png
-  # logo: assets/arquivo.png
+  favicon: assets/logoWhite.png
+  logo: assets/logoWhite.png
 
 extra:
   version:
