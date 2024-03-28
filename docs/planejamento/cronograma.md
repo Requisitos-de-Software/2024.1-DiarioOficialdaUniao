@@ -17,8 +17,7 @@ Entrega da apresentação do projeto etapa 2: (Etapa altamente corrida, estudar 
 |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto|Início dia 03/04 Fim dia 05/04|Douglas Marinho e João Artur|Início dia 05/04 Fim dia 05/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/04|
 |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04|
 |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04
-Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|
-Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 12/04|Fim dia 14/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/04|
+Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 12/04|Fim dia 14/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/04|
 |Iteração do Git Pages|Início dia 03/04 Fim dia 16/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|Início dia 14/04 Fim dia 17/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|17/04|
 |Período de gravação da apresentação|Início dia 14/04 Fim dia 16/04| Douglas Marinho|Início dia 14/04 Fim dia 16/04|Eric Silveira|17/04|
 |Correção pós apresentação|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
@@ -41,8 +40,7 @@ Entrega da apresentação do projeto etapa 4: (Tempo curtíssimo, história de u
  
 |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
 |----------|-------------------|---------|----------|-----------|------------|
-|Modelagem de Requisitos - Ágil: Backlogs|Início dia 07/05 Fim dia 10/05|Arthur Alves e Eric Silveira|
-Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
+|Modelagem de Requisitos - Ágil: Backlogs|Início dia 07/05 Fim dia 10/05|Arthur Alves e Eric Silveira|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
 Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim dia 10/05|João Artur e Diego Sousa|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
 |Modelagem de Requisitos - Ágil: NFR Framework|Início dia 07/05 Fim dia 10/05|Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
 |Iteração do Git Pages|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
@@ -58,4 +56,14 @@ Entrega da apresentação do projeto etapa 5.1:
 |Iteração do Git Pages|Início dia 14/05 Fim dia 21/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|Início dia 21/05 Fim dia 22/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|22/05|
 |Período de gravação da apresentação|Início dia 20/05 Fim dia 21/05|Douglas Marinho|Início dia 20/05 Fim dia 21/05|Eric Silveira|22/05|
 |Correção pós apresentação|Início dia 22/05 Fim dia 23/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 22/05 Fim dia 23/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega
+
+Entrega da apresentação do projeto etapa 5.2: 
+ 
+|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+|----------|-------------------|---------|----------|-----------|------------|
+|Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados)|Início dia 04/06 Fim dia 09/06|Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 09/06 Fim dia 15/06|Arthur Alves, Eric Silveira e João Artur|17/06|
+|Validação: Prototipação e Comprovação Informal|Início dia 04/06 Fim dia 09/06| Arthur Alves, Eric Silveira e João Artur|Início dia 09/06 Fim dia 15/06|Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo|17/06|
+|Iteração do Git Pages|Início dia 04/06|Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 04/06 Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/06|
+|Período de gravação da apresentação|Início dia 15/06 Fim dia 16/06|Douglas Marinho|Início dia 15/06 Fim dia 16/06|Eric Silveira|17/06|
+|Correção pós apresentação|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
