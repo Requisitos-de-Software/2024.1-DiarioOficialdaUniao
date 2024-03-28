@@ -35,3 +35,17 @@ Entrega da apresentação do projeto etapa 3: (Essa entrega é perfeita para des
 |Iteração do Git Pages|Início dia 19/04 Fim dia 05/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 19/04 Fim dia 05/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|06/05|
 |Período de gravação da apresentação|Início dia 03/05 Fim dia 05/05|Douglas Marinho|Início dia 03/05 Fim dia 05/05|Eric Silveira|06/05|
 |Correção pós apresentação|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+
+
+Entrega da apresentação do projeto etapa 4: (Tempo curtíssimo, história de usuário e requisitos não funcionais devem ser feitos sob demanda, conforme o vá sendo implementado para não perder tempo)
+ 
+|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+|----------|-------------------|---------|----------|-----------|------------|
+|Modelagem de Requisitos - Ágil: Backlogs|Início dia 07/05 Fim dia 10/05|Arthur Alves e Eric Silveira|
+Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
+Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim dia 10/05|João Artur e Diego Sousa|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
+|Modelagem de Requisitos - Ágil: NFR Framework|Início dia 07/05 Fim dia 10/05|Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
+|Iteração do Git Pages|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
+|Período de gravação da apresentação|Início dia 10/05 Fim dia 12/05|Douglas Marinho|Início dia 10/05 Fim dia 12/05|Eric Silveira|13/05|
+|Correção pós apresentação|Início dia 13/05|Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo| Início dia 13/05 Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+
