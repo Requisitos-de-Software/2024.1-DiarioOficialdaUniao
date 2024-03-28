@@ -49,3 +49,13 @@ Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim di
 |Período de gravação da apresentação|Início dia 10/05 Fim dia 12/05|Douglas Marinho|Início dia 10/05 Fim dia 12/05|Eric Silveira|13/05|
 |Correção pós apresentação|Início dia 13/05|Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo| Início dia 13/05 Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
+Entrega da apresentação do projeto etapa 5.1:
+ 
+|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+|----------|-------------------|---------|----------|-----------|------------|
+|Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados)|Início dia 14/05 Fim dia 18/05|Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 18/05 Fim dia 21/05|Arthur Alves, Eric Silveira e João Artur|22/05|
+|Validação: Prototipação e Comprovação Informal|Início dia 14/05 Fim dia 18/05|Arthur Alves, Eric Silveira e João Artur|Início dia 18/05 Fim dia 21/05|Arthur Alves, Eric Silveira, Henrique Torres e João Artur|22/05|
+|Iteração do Git Pages|Início dia 14/05 Fim dia 21/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|Início dia 21/05 Fim dia 22/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|22/05|
+|Período de gravação da apresentação|Início dia 20/05 Fim dia 21/05|Douglas Marinho|Início dia 20/05 Fim dia 21/05|Eric Silveira|22/05|
+|Correção pós apresentação|Início dia 22/05 Fim dia 23/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 22/05 Fim dia 23/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega
+
