@@ -3,7 +3,7 @@
 
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="..\assets\images\logoDOU.png" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="..\assets\images\logoDUO.jpg" width = 40%></p>
 
 
 
