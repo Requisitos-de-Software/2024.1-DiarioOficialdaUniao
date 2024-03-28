@@ -3,7 +3,9 @@
 
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="..\assets\images\logoDUO.jpg" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets\logoDOU.png" width = 40%></p>
+
+<font size="2"><p style="text-align: center">Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.in.doumobile&hl=pt&pli=1).</p></font>
 
 
 
@@ -12,7 +14,7 @@
 
 # Sobre o projeto
 
-Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Requisitos de Software da Faculdade do Gama da Universidade de Brasília (FGA-UnB), durante o primeiro semestre de 2024. O propósito do projeto é realizar estudos de requisitos de software, tendo como objeto de estudo o aplicativo do "Diário Oficial da União", assim concretizando o cumprimento das entregas e atividades da disciplina, além da absorção de conhecimento do grupo. 
+Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Requisitos de Software da Faculdade do Gama da Universidade de Brasília (FGA-UnB), durante o primeiro semestre de 2024. O propósito do projeto é realizar estudos de requisitos de software, tendo como objeto de estudo o aplicativo do [Diário Oficial da União](https://play.google.com/store/apps/details?id=br.gov.in.doumobile), assim concretizando o cumprimento das entregas e atividades da disciplina, além da absorção de conhecimento do grupo. O Diário Oficial da União, representado na Figura 1, é uma plataforma digital que visa facilitar o acesso às publicações oficiais do governo brasileiro, utilizando tecnologia moderna para garantir ampla divulgação e transparência.
 
 ## Equipe
 
@@ -33,4 +35,5 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 | Versão | Data       | Descrição              | Autor(es)                                         | Revisor(es)                                                                             |
 | ------ | ---------- | ---------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | `1.0`  | 20/03/2024 | Criação da documentação no pages | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
-| `2.0`  | 28/03/2024 | Atualização da documentação principal com a definição do tema | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.1`  | 28/03/2024 | Atualização da documentação principal com a definição do tema | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.2`  | 20/03/2024 | Atualização de cor e correções | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Eric Silveira](https://github.com/ericbky) e [Arthur Alves](https://github.com/Arthrok) |
