@@ -45,7 +45,7 @@ Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim di
 |Modelagem de Requisitos - Ágil: NFR Framework|Início dia 07/05 Fim dia 10/05|Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 10/05 Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
 |Iteração do Git Pages|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 08/05 Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|13/05|
 |Período de gravação da apresentação|Início dia 10/05 Fim dia 12/05|Douglas Marinho|Início dia 10/05 Fim dia 12/05|Eric Silveira|13/05|
-|Correção pós apresentação|Início dia 13/05|Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo| Início dia 13/05 Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+|Correção pós apresentação|Início dia 13/05 Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo| Início dia 13/05 Fim dia 14/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
 Entrega da apresentação do projeto etapa 5.1:
  
@@ -63,7 +63,30 @@ Entrega da apresentação do projeto etapa 5.2:
 |----------|-------------------|---------|----------|-----------|------------|
 |Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados)|Início dia 04/06 Fim dia 09/06|Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo|Início dia 09/06 Fim dia 15/06|Arthur Alves, Eric Silveira e João Artur|17/06|
 |Validação: Prototipação e Comprovação Informal|Início dia 04/06 Fim dia 09/06| Arthur Alves, Eric Silveira e João Artur|Início dia 09/06 Fim dia 15/06|Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo|17/06|
-|Iteração do Git Pages|Início dia 04/06|Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 04/06 Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/06|
+|Iteração do Git Pages|Início dia 04/06 Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 04/06 Fim dia 15/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|17/06|
 |Período de gravação da apresentação|Início dia 15/06 Fim dia 16/06|Douglas Marinho|Início dia 15/06 Fim dia 16/06|Eric Silveira|17/06|
 |Correção pós apresentação|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+
+Entrega da apresentação do projeto etapa 6: (Simultâneamente a etapa 5.2)
+ 
+|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+|----------|-------------------|---------|----------|-----------|------------|
+|Pós-rastreabilidade: Backward-form|Início dia 25/05 Fim dia 28/05|Arthur Alves, Eric Silveira e Douglas Marinho|Início dia 28/05 Fim dia 29/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|03/06|
+|Pós-rastreabilidade: Forward-form|Início dia 25/05 Fim dia 28/05|Diego Sousa, Henrique Torres, João Artur e Luiz Gustavo|Início dia 28/05 Fim dia 29/05|Arthur Alves, Eric Silveira e Douglas Marinho|03/06|
+|Iteração do Git Pages|Início dia 25/05 Fim dia 02/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 25/05 Fim dia 02/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|03/06|
+|Período de gravação da apresentação|Início dia 01/06 Fim dia 02/06|Douglas Marinho|Início dia 01/06 Fim dia 02/06|Eric Silveira|03/06|
+|Correção pós apresentação|Início dia 03/06 Fim dia 04/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 03/06 Fim dia 04/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+
+Entrega da apresentação do projeto etapa final:
+ 
+|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+|----------|-------------------|---------|----------|-----------|------------|
+|Desenvolvimento do projeto final (correção e complemento)|Início: 17/06 Fim: 22/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início: 17/06 Fim: 22/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|24/06|
+|Iteração do Git Pages|Início dia 17/06 Fim dia 23/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 17/06 Fim dia 23/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|24/06|
+|Período de gravação da apresentação|Início dia 22/06 Fim dia 23/06|Douglas Marinho|Início dia 22/06 Fim dia 23/06|Eric Silveira|24/06|
+|Correção pós apresentação|Início dia 24/06 Fim dia 25/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 24/06 Fim dia 25/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
+
+
+
+
 
