@@ -1,3 +1,13 @@
+
+## <a>Histórico de Versão</a>
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|27/03/2024|29/03/2024|1.0|Criação do Documento|[Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
+
+## Objetivo
+
+O principal objetivo desse cronograma é definir prazos, distribuir atividades entre os membros da equipe e aprimorar a nossa organização, visando o cumprimento das atividades e entregas da disciplina de Requisitos de Software.
+
 | Atividades                           | Período de Desenvolvimento     | Responsável  | Revisão                        | Revisores     | Data de Entrega |
 | ------------------------------------ | ------------------------------ | ------------ | ------------------------------ | ------------- | --------------- |
 | Planejamento do Projeto - Cronograma | Início dia 19/03 Fim dia 24/03 | Arthur Alves | Início dia 24/03 Fim dia 29/03 | Eric Silveira | 01/04           |
