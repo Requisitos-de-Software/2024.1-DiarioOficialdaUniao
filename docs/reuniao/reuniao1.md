@@ -40,10 +40,15 @@ Foram apresentados alguns aplicativos para discutirmose selecionarmos para serem
 5. Conclusão
 
 As reuniões foram definidas como sendo:
+
 - Sprint Planning na segunda-feira após a nossa reunião relacionada a disciplina Interação Humano Computador (mesmo grupo).
+
 - Adaptação de Daily Scrum (Somente na quarta-feira), também após a nossa reunião relacionada a disciplina Interação Humano Computador.
+
 - Review na sexta-feira, também após a nossa reunião relacionada a disciplina Interação Humano Computador.
 
-O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Oficial da União, com a seguinte classificação: 
+O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Oficial da União, com a seguinte classificação:
+
 - 1º opção: Diário Oficial da União - 5 votos
+
 - 2º opção: Guardiões da Saúde - 5 votos (escolha reserva, após a primeira votação)
