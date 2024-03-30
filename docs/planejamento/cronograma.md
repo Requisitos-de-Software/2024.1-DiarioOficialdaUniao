@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|27/03/2024|29/03/2024|1.0|Criação do Documento|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
+|27/03/2024|29/03/2024|1.0|Criação do Documento|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
 
 ## Objetivo
 
