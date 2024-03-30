@@ -26,6 +26,7 @@ nav:
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
+    - Ferramentas: planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
 
