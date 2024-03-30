@@ -1,7 +1,6 @@
 <div style="align:center">
     <div>
         <h1 style="align: center;">Diário Oficial da União</h1>
-        <font size="2"><p style="align: center;">Figura 1: Logo.</p></font>
     </div>
 </div>
 
