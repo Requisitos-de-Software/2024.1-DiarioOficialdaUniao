@@ -1,3 +1,8 @@
+## <a>Histórico de Versão</a>
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|27/03/2024|29/03/2024|1.0|Criação do Documento|Arthur Alves, Luiz Gustavo e João Arthur|Arthur Alves e Eric Silveira|
+
 ## Introdução
 O richpicture é uma ferramenta visual para expressar ideias e analisar problemas, tudo isso de forma informal e de fácil entendimento. No contexto da engenharia de software, ele é utilizado para abstrair o funcionamento de sistemas de software e se apresenta na forma de um diagrama com alguns elementos básicos como: atores, processos, armazenamento de dados, setas e limites do sistema. <a id="TEC1" href="#RP1">^1^</a>
 
