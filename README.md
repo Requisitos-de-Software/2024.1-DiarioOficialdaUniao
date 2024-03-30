@@ -1,11 +1,11 @@
-<div style="display:flex; justify-content:center;">
+<div style="display:flex; justify-content:center; align:center">
     <div>
-        <h1 style="text-align: center;">Diário Oficial da União</h1>
-        <font size="2"><p style="text-align: center;">Figura 1: Logo.</p></font>
+        <h1 style="align: center;">Diário Oficial da União</h1>
+        <font size="2"><p style="align: center;">Figura 1: Logo.</p></font>
     </div>
 </div>
 
-<div style="text-align:center; display:flex; justify-content:center;">
+<div style="text-align:center; align:center;">
     <img src="docs/assets/logoDOU.png" alt="Logo DOU" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
 
