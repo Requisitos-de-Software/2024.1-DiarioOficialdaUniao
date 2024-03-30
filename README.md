@@ -1,8 +1,9 @@
-<h1 style="text-align: center;">Diário Oficial da União</h1>
+<div style="display:flex; justify-content: center">
+    <h1 style="text-align: center;">Diário Oficial da União</h1>
+    <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
+</div>
 
-<font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
-
-<div style="text-align:center;">
+<div style="text-align:center; display:flex; justify-content: center">
     <img src="docs/assets/logoDOU.png" alt="Logo DOU" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
 
