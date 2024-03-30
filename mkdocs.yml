@@ -21,12 +21,14 @@ nav:
   - Home: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
-  - Atas:
-      - Ata 1: atas/ata1.md
+  - Reuniões:
+      - Reunião 1: reuniao/reuniao1.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
     - Ferramentas: planejamento/ferramentas.md
+  - Pré-Rastreabilidade:
+    - Rich Picture: pre-rastreabilidade/rich-picture.md
 
 
 theme:

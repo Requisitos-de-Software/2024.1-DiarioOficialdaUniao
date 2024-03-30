@@ -2,7 +2,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|27/03/2024|29/03/2024|1.0|Criação do Documento|[Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
+|27/03/2024|29/03/2024|1.0|Criação do Documento|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
 
 ## Objetivo
 
@@ -13,12 +13,13 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 | Planejamento do Projeto - Cronograma | Início dia 19/03 Fim dia 24/03 | Arthur Alves | Início dia 24/03 Fim dia 29/03 | Eric Silveira | 01/04           |
 |Heatmap de disponibilidade dos integrantes|Início dia 19/03 Fim dia 20/03 |Arthur Alves|Início dia 24/03 Fim dia 29/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04|
 |Seleção do app|Início dia 19/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Arthur e Luiz Gustavo|Início dia 25/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04
-|Ferramentas do projeto|Início dia 25/03 Fim dia 27/03|Douglas Marinho e Henrique Torres|Início dia 27/03 Fim dia 27/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04|Rich Picture|Início dia 27/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Arthur|Início dia 29/03 Fim dia 01/04|Arthur Alves e Eric Silveira|01/04|
+|Ferramentas do projeto|Início dia 25/03 Fim dia 27/03|Douglas Marinho e Henrique Torres|Início dia 27/03 Fim dia 27/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04|
+|Rich Picture|Início dia 27/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Arthur|Início dia 29/03 Fim dia 01/04|Arthur Alves e Eric Silveira|01/04|
 |Documentação da Equipe|Início dia 24/03 Fim dia 29/03|Diego Sousa|Início dia 24/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04|
 |Período de gravação da apresentação|Início dia 29/03 Fim dia 31/03|Douglas Marinho e Henrique Torres|Início dia 29/03|Fim dia 31/03|Eric Silveira|01/04|
 |Implementação do Git Pages|Início dia 19/03|Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 29/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|01/04|Correção pós apresentação|Início dia 01/04 Fim dia 02/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 02/04 Fim dia 02/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
-Entrega da apresentação do projeto etapa 2: (Etapa altamente corrida, estudar o quanto antes as técnicas para definir o restante do cronograma)
+Entrega da apresentação do projeto etapa 2:
 
 |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
 |----------|-------------------|---------|----------|-----------|------------|
@@ -33,7 +34,7 @@ Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|Arthu
 |Correção pós apresentação|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur, Luiz Gustavo|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
 
-Entrega da apresentação do projeto etapa 3: (Essa entrega é perfeita para descansar, pouca coisa para entregar e que dá pra fazer em um tempo curto, remanejar as datas dependendo do cronograma de IHC)
+Entrega da apresentação do projeto etapa 3: 
  
 |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
 |----------|-------------------|---------|----------|-----------|------------|
@@ -46,7 +47,7 @@ Entrega da apresentação do projeto etapa 3: (Essa entrega é perfeita para des
 |Correção pós apresentação|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
 
-Entrega da apresentação do projeto etapa 4: (Tempo curtíssimo, história de usuário e requisitos não funcionais devem ser feitos sob demanda, conforme o vá sendo implementado para não perder tempo)
+Entrega da apresentação do projeto etapa 4: 
  
 |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
 |----------|-------------------|---------|----------|-----------|------------|
@@ -77,7 +78,7 @@ Entrega da apresentação do projeto etapa 5.2:
 |Período de gravação da apresentação|Início dia 15/06 Fim dia 16/06|Douglas Marinho|Início dia 15/06 Fim dia 16/06|Eric Silveira|17/06|
 |Correção pós apresentação|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Início dia 17/06 Fim dia 18/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Arthur e Luiz Gustavo|Não há entrega|
 
-Entrega da apresentação do projeto etapa 6: (Simultâneamente a etapa 5.2)
+Entrega da apresentação do projeto etapa 6: 
  
 |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
 |----------|-------------------|---------|----------|-----------|------------|

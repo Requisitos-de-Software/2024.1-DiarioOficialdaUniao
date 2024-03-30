@@ -34,6 +34,6 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 
 | Versão | Data       | Descrição              | Autor(es)                                         | Revisor(es)                                                                             |
 | ------ | ---------- | ---------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| `1.0`  | 20/03/2024 | Criação da documentação no pages | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
+| `1.0`  | 20/03/2024 | Criação e configuração do pages | [Arthur Alves](https://github.com/Arthrok) | [João Artur](https://github.com/joao-artl) e [Diego Sousa](https://github.com/DiegoSousaLeite) |
 | `1.1`  | 28/03/2024 | Atualização da documentação principal com a definição do tema | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo)|
 | `1.2`  | 20/03/2024 | Atualização de cor e correções | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Eric Silveira](https://github.com/ericbky) e [Arthur Alves](https://github.com/Arthrok) |
