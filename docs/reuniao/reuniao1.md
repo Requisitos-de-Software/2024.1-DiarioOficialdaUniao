@@ -21,7 +21,7 @@ Na reunião, faltaram dois integrantes do grupo na participação, sendo então 
 - Diego Sousa
 - Douglas Marinho
 - Eric Silveira
-- João Arthur
+- João Artur
 - Luiz Gustavo
 
 ## 3. Pontos de Discussão Importantes
@@ -33,7 +33,7 @@ Foram apresentados alguns aplicativos para discutirmose selecionarmos para serem
 |Membro|Aplicativo|
 |-----|-----------|
 |Arthur Alves|Diário oficial da União|
-|João Arthur|Guardiões da Saúde|
+|João Artur|Guardiões da Saúde|
 |Eric Silveira|e-Título|
 |Luiz Gustavo|Caixa Econômica Federal e Administração Regional de Planaltina|
 
