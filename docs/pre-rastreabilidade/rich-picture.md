@@ -7,12 +7,12 @@ A aplicação Canvas foi utilizada para elaborar tanto o richpicture quanto sua 
 
 <font size="3"><p style="text-align: center">Figura 1: Rich Picture versão 1.</p></font>
 
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
+<img src='https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/assets/images/Rich%20Picture.png?raw=true'></img><br>
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 <font size="3"><p style="text-align: center">Figura 2: Legenda Rich Picture versão 1.</p></font>
-<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
+<img src='https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/assets/images/Legenda.png?raw=true'></img><br>
 
 ## Referências
 
