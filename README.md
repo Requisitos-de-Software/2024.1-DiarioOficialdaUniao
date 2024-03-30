@@ -2,9 +2,9 @@
 
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="assets\logoDOU.png" width = 40%></p>
-
-<font size="2"><p style="text-align: center">Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.in.doumobile&hl=pt&pli=1).</p></font>
+<div style="text-align:center;">
+    <img src="docs/assets/logoDOU.png" alt="Logo DOU" style="border-radius: 50%; width: 200px; height: 200px;">
+</div>
 
 ## Equipe
 
