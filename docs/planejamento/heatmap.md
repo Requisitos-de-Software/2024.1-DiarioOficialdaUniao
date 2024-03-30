@@ -3,7 +3,7 @@
 ## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|20/03/2024|21/03/2024|1.0|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|[Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/DiegoSousaLeite), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|20/03/2024|21/03/2024|`1.0`|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|[Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/DiegoSousaLeite), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
 
 
 ## <a>Heatmap de quadro de indisponibilidade</a>

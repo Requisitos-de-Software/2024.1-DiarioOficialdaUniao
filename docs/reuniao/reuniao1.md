@@ -2,9 +2,9 @@
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 29/03/2024| Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| ------- | ------ | ------- | -------- | -------- | -------- |
+| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
 
 ## 1.  Data, Horário, Duração e Local
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
@@ -21,7 +21,7 @@ Na reunião, faltaram dois integrantes do grupo na participação, sendo então 
 - Diego Sousa
 - Douglas Marinho
 - Eric Silveira
-- João Arthur
+- João Artur
 - Luiz Gustavo
 
 ## 3. Pontos de Discussão Importantes
@@ -33,7 +33,7 @@ Foram apresentados alguns aplicativos para discutirmose selecionarmos para serem
 |Membro|Aplicativo|
 |-----|-----------|
 |Arthur Alves|Diário oficial da União|
-|João Arthur|Guardiões da Saúde|
+|João Artur|Guardiões da Saúde|
 |Eric Silveira|e-Título|
 |Luiz Gustavo|Caixa Econômica Federal e Administração Regional de Planaltina|
 
