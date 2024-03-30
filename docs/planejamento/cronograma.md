@@ -27,6 +27,7 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 |Documentação da Equipe|Início dia 24/03 Fim dia 29/03|Diego Sousa|Início dia 24/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
 |Período de gravação da apresentação|Início dia 29/03 Fim dia 31/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 31/03|Eric Silveira|01/04|
 |Implementação do Git Pages|Início dia 19/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 29/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+
 ### Executado
 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
