@@ -2,9 +2,9 @@
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 29/03/2024| Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| ------- | ------ | ------- | -------- | -------- | -------- |
+| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
 
 ## 1.  Data, Horário, Duração e Local
 As informações sobre data, horário, duração e local estão detalhadas a seguir:

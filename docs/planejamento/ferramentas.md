@@ -2,11 +2,9 @@
 
 ## Histórico de Versões
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 29/03/2024 |            Criação da página de ferramentas.            | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
-
-=======
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :-----: | :--------: | :----------: | :-----: | :--------------------------------------------: | :----: |
+|  29/03/2024  | 29/03/2024 | `1.0`  | Criação da página de ferramentas. | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
 
 ## Introdução
 
