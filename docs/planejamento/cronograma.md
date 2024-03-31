@@ -11,38 +11,37 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 ## Entrega 1 - Planejamento do Projeto
 
-### Planejado
+=== "Cronograma Planejado"
+    Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
-Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
+    <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Planejamento do Projeto</p></font>
+    | Atividades | Período de Desenvolvimento   | Responsável  | Revisão    | Revisores     | Data de Entrega |
+    | ---------- | --------- | ------------ | -------------- | ------------- | --------------- |
+    | Planejamento do Projeto - Cronograma | Início dia 19/03 Fim dia 24/03 | Arthur Alves | Início dia 24/03 Fim dia 29/03 | Eric Silveira | 01/04 |
+    |Heatmap de disponibilidade dos integrantes|Início dia 19/03 Fim dia 20/03 |Arthur Alves|Início dia 24/03 Fim dia 29/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Seleção do app|Início dia 19/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo|Início dia 25/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04
+    |Ferramentas do projeto|Início dia 25/03 Fim dia 27/03|Douglas Marinho e Henrique Torres|Início dia 27/03 Fim dia 27/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Rich Picture|Início dia 27/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Artur|Início dia 29/03 Fim dia 01/04|Arthur Alves e Eric Silveira|01/04|
+    |Documentação da Equipe|Início dia 24/03 Fim dia 29/03|Diego Sousa|Início dia 24/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Período de gravação da apresentação|Início dia 29/03 Fim dia 31/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 31/03|Eric Silveira|01/04|
+    |Implementação do Git Pages|Início dia 19/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 29/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
 
-| Atividades | Período de Desenvolvimento   | Responsável  | Revisão    | Revisores     | Data de Entrega |
-| ---------- | --------- | ------------ | -------------- | ------------- | --------------- |
-| Planejamento do Projeto - Cronograma | Início dia 19/03 Fim dia 24/03 | Arthur Alves | Início dia 24/03 Fim dia 29/03 | Eric Silveira | 01/04 |
-|Heatmap de disponibilidade dos integrantes|Início dia 19/03 Fim dia 20/03 |Arthur Alves|Início dia 24/03 Fim dia 29/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Seleção do app|Início dia 19/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo|Início dia 25/03 Fim dia 25/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04
-|Ferramentas do projeto|Início dia 25/03 Fim dia 27/03|Douglas Marinho e Henrique Torres|Início dia 27/03 Fim dia 27/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Rich Picture|Início dia 27/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Artur|Início dia 29/03 Fim dia 01/04|Arthur Alves e Eric Silveira|01/04|
-|Documentação da Equipe|Início dia 24/03 Fim dia 29/03|Diego Sousa|Início dia 24/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Período de gravação da apresentação|Início dia 29/03 Fim dia 31/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 31/03|Eric Silveira|01/04|
-|Implementação do Git Pages|Início dia 19/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 29/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-### Executado
+=== "Cronograma Executado"
+    Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
 
-Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
+    <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Execução do Planejamento do Projeto</p></font>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
-
-| Atividades | Período de Desenvolvimento   | Responsável  | Revisão    | Revisores     | Data de Entrega |
-| ---------- | --------- | ------------ | -------------- | ------------- | ------ |
-| Planejamento do Projeto - Cronograma | Início dia 27/03 Fim dia 29/03 | Arthur Alves e Eric Silveira | Início dia 29/03 Fim dia 30/03 | Eric Silveira e João Artur| 01/04 |
-|Heatmap de disponibilidade dos integrantes|20/03 |Arthur Alves|21/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Seleção do app|Início dia 27/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo| 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04
-|Ferramentas do projeto|Início dia 28/03 Fim dia 29/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 30/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Rich Picture|Início dia 28/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Artur| 30/03 |Eric Silveira|01/04|
-|Documentação da Equipe|Início dia 24/03 Fim dia 30/03|Diego Sousa|Início dia 24/03 Fim dia 31/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
-|Período de gravação da apresentação|Início dia 30/03 Fim dia 31/03|Douglas Marinho e Henrique Torres| 31/03|Eric Silveira|01/04|
-|Implementação do Git Pages|Início dia 26/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 28/03 Fim dia 31/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    | Atividades | Período de Desenvolvimento   | Responsável  | Revisão    | Revisores     | Data de Entrega |
+    | ---------- | --------- | ------------ | -------------- | ------------- | ------ |
+    | Planejamento do Projeto - Cronograma | Início dia 27/03 Fim dia 29/03 | Arthur Alves e Eric Silveira | Início dia 29/03 Fim dia 30/03 | Eric Silveira e João Artur| 01/04 |
+    |Heatmap de disponibilidade dos integrantes|20/03 |Arthur Alves|21/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Seleção do app|Início dia 27/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo| 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04
+    |Ferramentas do projeto|Início dia 28/03 Fim dia 29/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 30/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Rich Picture|Início dia 28/03 Fim dia 29/03|Arthur Alves, Luiz Gustavo e João Artur| 30/03 |Eric Silveira|01/04|
+    |Documentação da Equipe|Início dia 24/03 Fim dia 30/03|Diego Sousa|Início dia 24/03 Fim dia 31/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
+    |Período de gravação da apresentação|Início dia 30/03 Fim dia 31/03|Douglas Marinho e Henrique Torres| 31/03|Eric Silveira|01/04|
+    |Implementação do Git Pages|Início dia 26/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 28/03 Fim dia 31/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
 
 ## Entrega 2 - Elicitação – Técnicas e Priorização
 
