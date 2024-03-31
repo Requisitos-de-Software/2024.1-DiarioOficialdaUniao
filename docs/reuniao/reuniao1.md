@@ -2,9 +2,10 @@
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 29/03/2024| Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| ------- | ------ | ------- | -------- | -------- | -------- |
+| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
+| 30/03/2024 | 30/03/2024| `1.1` |Vídeo da Reunião| [Arthur Alves](https://github.com/arthrok) |    --- |
 
 ## 1.  Data, Horário, Duração e Local
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
@@ -21,7 +22,7 @@ Na reunião, faltaram dois integrantes do grupo na participação, sendo então 
 - Diego Sousa
 - Douglas Marinho
 - Eric Silveira
-- João Arthur
+- João Artur
 - Luiz Gustavo
 
 ## 3. Pontos de Discussão Importantes
@@ -33,7 +34,7 @@ Foram apresentados alguns aplicativos para discutirmose selecionarmos para serem
 |Membro|Aplicativo|
 |-----|-----------|
 |Arthur Alves|Diário oficial da União|
-|João Arthur|Guardiões da Saúde|
+|João Artur|Guardiões da Saúde|
 |Eric Silveira|e-Título|
 |Luiz Gustavo|Caixa Econômica Federal e Administração Regional de Planaltina|
 
@@ -52,3 +53,6 @@ O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Ofici
 - 1º opção: Diário Oficial da União - 5 votos
 
 - 2º opção: Guardiões da Saúde - 5 votos (escolha reserva, após a primeira votação)
+
+## Gravação da Reunião
+<iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>

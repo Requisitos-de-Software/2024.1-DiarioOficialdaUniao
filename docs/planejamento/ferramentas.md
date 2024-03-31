@@ -2,9 +2,9 @@
 
 ## Histórico de Versões
 
-| Versão  |    Data    |                        Descrição                        |                                             Autor(es)                                             |                  Revisor(es)                   |
-| :-----: | :--------: | :-----------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :--------------------------------------------: |
-|  `1.0`  | 29/03/2024 |            Criação da página de ferramentas.            | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :-----: | :--------: | :----------: | :-----: | :--------------------------------------------: | :----: |
+|  29/03/2024  | 29/03/2024 | `1.0`  | Criação da página de ferramentas. | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
 
 ## Introdução
 
@@ -40,4 +40,3 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 > <a id="FRM2" href="#anchor_6">6.</a> Pacote Office. Disponível em: [https://learn.microsoft.com/pt-br/microsoft-365/?view=o365-worldwide](). Acesso em: 29 de mar. de 2024.
 >
 > <a id="FRM2" href="#anchor_7">7.</a> VsCode. Disponível em: [https://code.visualstudio.com/](). Acesso em: 29 de mar. de 2024.
->
