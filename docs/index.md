@@ -24,9 +24,9 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
     <td align="center"><a href="https://github.com/DiegoSousaLeite"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92549594?v=4" width="100px;" alt=""/><br /><sub><b>Diego Sousa</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/M4RINH0"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/95291227?v=4" width="100px;" alt=""/><br /><sub><b>Douglas Marinho </b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
     <td align="center"><a href="https://github.com/ericbky"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/65634855?v=4" width="100px;" alt=""/><br /><sub><b>Eric Silveira</b></sub></a><br />
+    <td align="center"><a href="https://github.com/henriqtorresl"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102327244?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Torres</b></sub></a><br />
     <td align="center"><a href="https://github.com/joao-artl"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/124414056?v=4" width="100px;" alt=""/><br /><sub><b>João Artur Leles</b></sub></a><br />
     <td align="center"><a href="https://github.com/LuizGust4vo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/62315709?v=4" width="100px;" alt=""/><br /><sub><b>Luiz Gustavo</b></sub></a><br />
-       <td align="center"><a href="https://github.com/henriqtorresl"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102327244?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Torres</b></sub></a><br />
   </tr>
 </table>
 
