@@ -25,7 +25,7 @@ A git page possui?  | Sim/Não/Incompleto
 1 - O histórico de versão padronizado? | Sim|
 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim|
 3 - A motivação e os critérios para a escolha do App? | Sim
-4 - Vídeo de apresentação na categoria “não listado” no youtube? | Não|
+4 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim|
 5 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim|
 6 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim|
 7 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim|
@@ -40,3 +40,6 @@ A git page possui?  | Sim/Não/Incompleto
 
 
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
+
+## Gravação da Reunião
+<iframe src="https://youtu.be/Pc3TQlD6xAM" width="640" height="480" allow="autoplay"></iframe>
