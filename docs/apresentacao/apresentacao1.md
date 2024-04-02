@@ -11,9 +11,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 ## Vídeo de Apresentação
 
-< Em produção... >
-
-
+<iframe src="https://youtu.be/Pc3TQlD6xAM" width="640" height="480" allow="autoplay"></iframe>
 
 ## Tale de Critérios para a entrega 1
 
@@ -41,6 +39,3 @@ A git page possui?  | Sim/Não/Incompleto
 
 
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
-
-## Gravação da Reunião
-<iframe src="https://youtu.be/Pc3TQlD6xAM" width="640" height="480" allow="autoplay"></iframe>
