@@ -3,7 +3,7 @@
 |Data|Versão|Descrição|Autor|Revisor|
 | ------- | ------- | -------- | -------- | ----- |
 |31/03/2024 | `1.0` |Descrição da Apresentação referente a entrega 1 (sem vídeo)| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
-|31/03/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
+|01/04/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
 
 ## Introdução
 
