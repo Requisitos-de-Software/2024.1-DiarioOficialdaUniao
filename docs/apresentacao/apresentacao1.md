@@ -3,6 +3,7 @@
 |Data|Versão|Descrição|Autor|Revisor|
 | ------- | ------- | -------- | -------- | ----- |
 |31/03/2024 | `1.0` |Descrição da Apresentação referente a entrega 1 (sem vídeo)| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
+|01/04/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
 
 ## Introdução
 
@@ -10,9 +11,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 ## Vídeo de Apresentação
 
-< Em produção... >
-
-
+<iframe src="https://youtu.be/Pc3TQlD6xAM" width="640" height="480" allow="autoplay"></iframe>
 
 ## Tale de Critérios para a entrega 1
 
@@ -25,7 +24,7 @@ A git page possui?  | Sim/Não/Incompleto
 1 - O histórico de versão padronizado? | Sim|
 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim|
 3 - A motivação e os critérios para a escolha do App? | Sim
-4 - Vídeo de apresentação na categoria “não listado” no youtube? | Não|
+4 - Vídeo de apresentação na categoria “não listado” no youtube? | Sim|
 5 - Referências bibliográficas e/ou bibliografia em todos os artefatos? | Sim|
 6 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim|
 7 - Um texto fazendo uma introdução dos artefatos, por exemplo das “Ferramentas”? | Sim|
