@@ -63,8 +63,7 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 ## Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## Histórico de versão
-
+## <a>Histórico de Versão</a>
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
