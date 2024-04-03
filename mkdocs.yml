@@ -21,7 +21,8 @@ site_name: Grupo 01
 
 
 nav:
-  - Home: docs/Home/index.md
+  - Home: 
+      - Home: index.md
       - Termo de Uso: docs/Home/termoDeUso.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
