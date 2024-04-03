@@ -11,7 +11,8 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 ## Vídeo de Apresentação
 
-<iframe src="https://youtu.be/Pc3TQlD6xAM" width="640" height="480" allow="autoplay"></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/Pc3TQlD6xAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ## Tale de Critérios para a entrega 1
 
