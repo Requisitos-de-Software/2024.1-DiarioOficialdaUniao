@@ -160,3 +160,9 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega 
 |Iteração do Git Pages|Início dia 17/06 Fim dia 23/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 17/06 Fim dia 23/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|24/06|
 |Período de gravação da apresentação|Início dia 22/06 Fim dia 23/06|Douglas Marinho|Início dia 22/06 Fim dia 23/06|Eric Silveira|24/06|
 |Correção pós apresentação|Início dia 24/06 Fim dia 25/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 24/06 Fim dia 25/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
+
+## <a>Bibliografia</a>
+
+> Cronograma Lichess. Disponível em: <<https://requisitos-de-software.github.io/2022.2-Lichess/planejamento/cronograma/>>. Acesso em 27 de março de 2024.
+
+> Cronograma Bilheteria Digital. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 27 de março de 2024.
