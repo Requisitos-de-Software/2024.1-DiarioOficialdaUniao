@@ -1,12 +1,5 @@
 # Ata de reunião de Requisitos de Software do dia 27/03
 
-## Histórico de versão
-
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| ------- | ------ | ------- | -------- | -------- | -------- |
-| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
-| 30/03/2024 | 30/03/2024| `1.1` |Vídeo da Reunião| [Arthur Alves](https://github.com/arthrok) |    --- |
-
 ## 1.  Data, Horário, Duração e Local
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
@@ -54,5 +47,26 @@ O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Ofici
 
 - 2º opção: Guardiões da Saúde - 5 votos (escolha reserva, após a primeira votação)
 
+## 5. Divisão das atividades
+
+Sobre a divisão das atividades do grupo, ficou da seguinte forma:
+
+|Atividades|Responsável|Revisores|
+|----------|-----------|---------|
+| Planejamento do Projeto - Cronograma | Arthur Alves | Eric Silveira |
+|Heatmap de disponibilidade dos integrantes|Arthur Alves|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|
+|Seleção do app|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|
+|Ferramentas do projeto|Douglas Marinho e Henrique Torres|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|
+|Rich Picture|Arthur Alves, Luiz Gustavo e João Artur|Arthur Alves e Eric Silveira|
+|Documentação da Equipe|Diego Sousa|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|
+
 ## Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
+
+## Histórico de versão
+
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| ------- | ------ | ------- | -------- | -------- | -------- |
+| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
+| 30/03/2024 | 30/03/2024| `1.1` |Vídeo da Reunião| [Arthur Alves](https://github.com/arthrok) | --- |
+|02/04/2024| Sem revisão |`1.2`|Adicionando Divisão de tarefas do grupo| [Eric Silveira](https://github.com/ericbky)| --- |
