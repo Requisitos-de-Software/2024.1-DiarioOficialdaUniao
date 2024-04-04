@@ -32,16 +32,17 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 |Atividades|Responsável|Revisores|
 |----------|-----------|---------|
 |  |  |  |
-| Estudo do perfil dos usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo|
-| Estudo das técnicas de elicitação de requisitos | Diego Sousa e Luiz Gustavo | Arthur Alves, Douglas Marinho, Eric Silveira, Henrique Torres e João Artur |
-| Estudo das técnicas de priorização de requisitos | Douglas Marinho e João Artur | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres e Luiz Gustavo |
-| Ajeitar termos de Uso (home) | João Arthur | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres e Luiz Gustavo |
-| Motivação do aplicativo (home) | Diego Sousa | Arthur Alves, Douglas Marinho, Eric Silveira, Henrique Torres e João Artur |
-| Adaptação do Scrum (planejamento) | Douglas Marinho | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Verificar todas as referências, incluindo a formatação | João Artur | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres e Luiz Gustavo |
-| Arrumar referências do cronograma e do aprender | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Arrumar histórico de versões | Henrique Torres | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo |
-| Criar ata da reunião | Eric Silveira | Luiz Gustavo |  
+| Estudo do perfil dos usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo |
+| Estudo das técnicas de elicitação de requisitos | Diego Sousa e Luiz Gustavo | Todos os integrantes |
+| Estudo das técnicas de priorização de requisitos | Douglas Marinho e João Artur | Todos os integrantes |
+| Arrumar termos de Uso (home) | João Arthur | Todos os integrantes |
+| Motivação do aplicativo (home) | Diego Sousa | Todos os integrantes |
+| Adaptação do Scrum (planejamento) | Douglas Marinho | Todos os integrantes |
+| Verificar todas as referências, incluindo a formatação | João Artur | Todos os integrantes |
+| Arrumar referências do cronograma e do aprender | Arthur Alves | Todos os integrantes |
+| Arrumar histórico de versões | Henrique Torres | Todos os integrantes |
+| Documentação dos aplicativos escolhidos por cada membro (Rich Picture) | Diego Sousa | - |
+| Criar ata da reunião | Eric Silveira | Luiz Gustavo |
 
 ## 5. Gravação da Reunião
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
