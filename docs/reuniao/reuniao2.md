@@ -30,8 +30,7 @@ Também foram atribuídas as tarefas de cada membro para a segunda entrega (Elic
 Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 
 |Atividades|Responsável|Revisores|
-|----------|-----------|---------|
-|  |  |  |
+| - | - | - |
 | Estudo do perfil dos usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo |
 | Estudo das técnicas de elicitação de requisitos | Diego Sousa e Luiz Gustavo | Todos os integrantes |
 | Estudo das técnicas de priorização de requisitos | Douglas Marinho e João Artur | Todos os integrantes |
