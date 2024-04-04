@@ -1,15 +1,6 @@
 # 2024.1-Grupo01
 
-<h1 style="text-align: center;">Diário Oficial da União</h1>
-
-<font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
-
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="docs\assets\logoDOU.png" width = 40%></p>
-
-<font size="2"><p style="text-align: center">Fonte: [Google Play](https://play.google.com/store/apps/details?id=br.gov.in.doumobile&hl=pt&pli=1).</p></font>
-
-
-
+# Diário Oficial da União
 
 <!-- <font size="2"><p style="text-align: center">Fonte: [Google](https://www.google.com/?client=safari).</p></font> -->
 
