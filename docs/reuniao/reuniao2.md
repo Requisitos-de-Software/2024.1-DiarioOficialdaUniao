@@ -29,7 +29,7 @@ Também foram atribuídas as tarefas de cada membro para a segunda entrega (Elic
 
 Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 
-|Atividades|Responsável|Revisores|
+| Atividades | Responsável | Revisores |
 | - | - | - |
 | Estudo do perfil de usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo |
 | Estudo das técnicas de elicitação de requisitos | Diego Sousa e Luiz Gustavo | Todos os integrantes |
@@ -46,8 +46,11 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 ## 5. Gravação da Reunião
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
-## 6. Histórico de Versão
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+## 6. Bibliografia
+
+
+## Histórico de Versão
+| Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | 03/04/2024 | 04/04/2024| `1.0` | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 | 03/04/2024 | 04/04/2024| `1.1` | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | - |
