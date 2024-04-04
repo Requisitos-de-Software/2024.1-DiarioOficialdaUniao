@@ -31,10 +31,10 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 
 |Atividades|Responsável|Revisores|
 | - | - | - |
-| Estudo do perfil dos usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo |
+| Estudo do perfil de usuários | Arthur Alves e Eric Silveira | João Arthur e Luiz Gustavo |
 | Estudo das técnicas de elicitação de requisitos | Diego Sousa e Luiz Gustavo | Todos os integrantes |
 | Estudo das técnicas de priorização de requisitos | Douglas Marinho e João Artur | Todos os integrantes |
-| Arrumar termos de Uso (home) | João Arthur | Todos os integrantes |
+| Arrumar os termos de Uso (home) | João Arthur | Todos os integrantes |
 | Motivação do aplicativo (home) | Diego Sousa | Todos os integrantes |
 | Adaptação do Scrum (planejamento) | Douglas Marinho | Todos os integrantes |
 | Verificar todas as referências, incluindo a formatação | João Artur | Todos os integrantes |
@@ -50,4 +50,4 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | 03/04/2024 | 04/04/2024| `1.0` | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| 03/04/2024 | 04/04/2024| `1.1` |Vídeo da Reunião| [Arthur Alves](https://github.com/arthrok) | --- |
+| 03/04/2024 | 04/04/2024| `1.1` | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | - |
