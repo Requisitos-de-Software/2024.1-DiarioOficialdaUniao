@@ -53,4 +53,4 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | 03/04/2024 | 04/04/2024| `1.0` | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| 03/04/2024 | 04/04/2024| `1.1` | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | - |
+| 03/04/2024 | 04/04/2024| `1.1` | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
