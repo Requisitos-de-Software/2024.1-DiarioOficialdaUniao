@@ -21,7 +21,7 @@ site_name: Grupo 01
 
 
 nav:
-  - Página Inicial: 
+  - Início: 
       - Sobre: index.md
       - Termo de Uso: termoDeUso.md
   - Apresentações:
