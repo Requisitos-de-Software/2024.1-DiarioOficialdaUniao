@@ -1,10 +1,3 @@
-## Histórico de versão
-
-|Data|Versão|Descrição|Autor|Revisor|
-| ------- | ------- | -------- | -------- | ----- |
-|31/03/2024 | `1.0` |Descrição da Apresentação referente a entrega 1 (sem vídeo)| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
-|01/04/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
-
 ## Introdução
 
 O propósito desta página é hospedar o vídeo da apresentação da Primeira Entrega e a demonstrar a tabela de critérios solicitados para a entrega 1. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
@@ -40,3 +33,9 @@ A git page possui?  | Sim/Não/Incompleto
 
 
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
+
+## <a>Histórico de Versão</a>
+|Data|Versão|Descrição|Autor|Revisor|
+| ------- | ------- | -------- | -------- | ----- |
+|31/03/2024 | `1.0` |Descrição da Apresentação referente a entrega 1 (sem vídeo)| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
+|01/04/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|

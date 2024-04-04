@@ -1,12 +1,5 @@
 # Heatmap
 
-## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|20/03/2024|21/03/2024|`1.0`|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|[Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/DiegoSousaLeite), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
-|02/04/2024| --------| 1.1 | Atualizaçãod o link de referência | [Eric Silveira](https://github.com/ericbky) | ------ |
-
-
 ## <a>Heatmap de quadro de indisponibilidade</a>
 Neste documento está apresentado o quadro de disponibilidade dos integrantes do grupo. Os membros preencheram tabelas individuais indicando seus dias disponíveis (veja mais). Este processo permite a identificação dos períodos nos quais há maior disponibilidade coletiva, facilitando reunir o grupo em atividades que exigem a participação do maior número possível de integrantes. A figura 1 abaixo ilustra o quadro de disponibilidade, fornecendo uma visualização clara das informações.<br><br>
 
@@ -31,4 +24,10 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 
 ## <a>Bibliografia</a>
 - HEATMAP. Disponível em: <a href="https://neilpatel.com/br/blog/heatmap-o-que-e">https://neilpatel.com/br/blog/heatmap-o-que-e</a>
- Acesso em: 20 de março de 2024.
+Acesso em: 20 de março de 2024.
+
+## <a>Histórico de Versão</a>
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|20/03/2024|21/03/2024|`1.0`|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|[Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/DiegoSousaLeite), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|02/04/2024| --------| `1.1` | Atualizaçãod o link de referência | [Eric Silveira](https://github.com/ericbky) | ------ |
