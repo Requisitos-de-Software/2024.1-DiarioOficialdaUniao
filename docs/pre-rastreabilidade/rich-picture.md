@@ -18,6 +18,7 @@ A aplicação Canvas foi utilizada para elaborar tanto o richpicture quanto sua 
 > <a id="RP1" href="#TEC1">1.</a> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. **Aprender 3**. Distrito Federal, 2016. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4 Requisitos%20-%20Aula%2004%20-%20Parte%202%20RichPicture.pdf>>. Acesso em: 16/04/2023.
 
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|27/03/2024|29/03/2024|`1.0`|Criação do Documento|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
+|`1.0`| 27/03/2024 | 29/03/2024 |Criação do Documento | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.1`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |

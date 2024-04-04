@@ -35,7 +35,8 @@ A git page possui?  | Sim/Não/Incompleto
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
 
 ## <a>Histórico de Versão</a>
-|Data|Versão|Descrição|Autor|Revisor|
-| ------- | ------- | -------- | -------- | ----- |
-|31/03/2024 | `1.0` |Descrição da Apresentação referente a entrega 1 (sem vídeo)| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
-|01/04/2024 | `1.1` |Adicionando vídeo|[João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
+|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
+|`1.0`| 31/03/2024 | 31/03/2024 | Descrição da Apresentação referente a entrega 1 (sem vídeo) | [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
+|`1.1`| 01/03/2024 | 01/03/2024 | Adicionando vídeo | [João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
+|`1.2`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |

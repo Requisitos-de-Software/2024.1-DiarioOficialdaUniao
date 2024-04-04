@@ -64,8 +64,9 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| ------- | ------ | ------- | -------- | -------- | -------- |
-| 29/03/2024 | 29/03/2024| `1.0` |Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) |    --- |
-| 30/03/2024 | 30/03/2024| `1.1` |Vídeo da Reunião| [Arthur Alves](https://github.com/arthrok) | --- |
-|02/04/2024| Sem revisão |`1.2`|Adicionando Divisão de tarefas do grupo| [Eric Silveira](https://github.com/ericbky)| --- |
+|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
+|`1.0`| 29/03/2024 | 29/03/2024 | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
+|`1.1`| 30/03/2024 | 30/03/2024 | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | ------ |
+|`1.2`| 02/04/2024 | 02/04/2024 | Adicionando Divisão de tarefas do grupo | [Eric Silveira](https://github.com/ericbky)| ------ |
+|`1.3`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |

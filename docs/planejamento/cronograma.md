@@ -161,7 +161,8 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega 
 > Cronograma Bilheteria Digital. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 27 de março de 2024.
 
 ## <a>Histórico de Versão</a>
-|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
-| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
-|27/03/2024|29/03/2024|`1.0`|Criação do Documento|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
-|27/03/2024|29/03/2024|`1.1`|Adicionando Cronograma Executado| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
+|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
+|`1.0`|27/03/2024|29/03/2024|Criação do Documento | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
+|`1.1`| 27/03/2024 | 29/03/2024 | Adicionando Cronograma Executado| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
+|`1.2`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
