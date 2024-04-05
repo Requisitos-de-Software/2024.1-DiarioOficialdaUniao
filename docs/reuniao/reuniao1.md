@@ -31,7 +31,6 @@ Foram apresentados alguns aplicativos para discutirmos e selecionarmos para sere
 | Luiz Gustavo | Caixa Econômica Federal e Administração Regional de Planaltina |
 
 ## 4. Conclusão
-
 As reuniões foram definidas como sendo:
 
 - Sprint Planning na segunda-feira após a nossa reunião relacionada a disciplina Interação Humano Computador (mesmo grupo).
@@ -47,17 +46,16 @@ O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Ofici
 - 2º opção: Guardiões da Saúde - 5 votos (escolha reserva, após a primeira votação)
 
 ## 5. Divisão das atividades
-
 Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 
 | Atividades | Responsável | Revisores |
 | ---------- | ----------- | --------- |
 | Planejamento do Projeto - Cronograma | Arthur Alves | Eric Silveira |
-| Heatmap de disponibilidade dos integrantes | Arthur Alves|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Seleção do app | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Ferramentas do projeto | Douglas Marinho e Henrique Torres | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Rich Picture | Arthur Alves, Luiz Gustavo e João Artur | Arthur Alves e Eric Silveira |
-| Documentação da Equipe | Diego Sousa | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
+| Heatmap de disponibilidade dos integrantes | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
+| Seleção do app | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
+| Ferramentas do projeto | Douglas Marinho e Henrique Torres | Arthur Alves, Diego Sousa, Eric Silveira, João Artur e Luiz Gustavo |
+| Rich Picture | Arthur Alves, Luiz Gustavo e João Artur | Eric Silveira |
+| Documentação da Equipe | Diego Sousa | Arthur Alves, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
 
 ## 6. Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
