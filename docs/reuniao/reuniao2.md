@@ -45,7 +45,7 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a>Histórico de Versão</a>
-|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 |`1.0`| 03/04/2024 | 04/04/2024 | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 |`1.1`| 03/04/2024 | 04/04/2024 | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
