@@ -1,8 +1,8 @@
-## Observação
+## <a>Observação</a>
 
 * O uso da logo e de imagens relacionadas ao conteúdo(textos, gráficos) do aplicativo é proibidio pelo termo de uso, em respeiro ao termo de uso não serão utilizadas imagens reais do aplicativo durante o desenvolvimento do projeto.
 
-## Termo de uso
+## <a>Termo de uso</a>
 
 ### 1. Quais informações estão presentes neste documento?
 
