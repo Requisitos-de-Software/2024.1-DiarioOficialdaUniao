@@ -70,8 +70,8 @@ theme:
         name: Mudar para a preferência do sistema
 
   language: pt-BR
-  favicon: assets/logoWhite.png
-  logo: assets/logoWhite.png
+  # favicon: assets/logoWhite.png
+  # logo: assets/logoWhite.png
 
 extra:
   version:
