@@ -35,6 +35,8 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
+  - Elicitação:
+    - Priorização: elicitacao/priorizacao.md
 
 
 theme:
