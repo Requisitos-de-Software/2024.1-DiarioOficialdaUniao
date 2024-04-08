@@ -21,9 +21,7 @@ site_name: Grupo 01
 
 
 nav:
-  - Início: 
-      - Sobre: index.md
-      - Termo de Uso: termoDeUso.md
+  - Início: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Reuniões:
@@ -37,6 +35,7 @@ nav:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Elicitação:
     - Priorização: elicitacao/priorizacao.md
+  - Termo de Uso: termoDeUso.md
 
 
 theme:
