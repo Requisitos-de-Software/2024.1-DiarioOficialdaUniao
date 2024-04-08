@@ -1,16 +1,16 @@
 # Priorização
 
-## Introdução
+## <a>Introdução</a>
 
 As técnicas de priorização de requisitos têm como principal objetivo ajudar os projetos de desenvolvimento de software a determinar quais requisitos são mais importantes, essenciais ou urgentes para serem implementados. Isso é crucial porque, em qualquer projeto de software, há uma quantidade limitada de recursos, como tempo, dinheiro e mão de obra. Portanto, é fundamental garantir que esses recursos sejam alocados da maneira mais eficiente possível para atender às necessidades e expectativas dos clientes ou usuários finais.
 
-## Técnicas Utilizadas
+## <a>Técnicas Utilizadas</a>
 
 - [MoSCoW](#moscow)
 - [$100](#100)
 - [First Things First(FTF)](#first-things-firstftf)
 
-## MoSCoW
+## <a>MoSCoW</a>
 
 A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
 
@@ -28,9 +28,9 @@ Na tabela 1 estão identificados os requisitos elicitados respectivamente priori
 <figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
 </br>
 
-após a elicitação mais requisitos serão adicionados
+**após a elicitação mais requisitos serão adicionados**
 
-## $100
+## <a>$100</a>
 
 O método de $100 é uma técnica simples e eficaz que envolve atribuir um valor monetário fictício de $100 para cada parte interessada (stakeholder) ou para a equipe responsável pela priorização dos requisitos. Este valor monetário representa o "orçamento" total que a equipe tem para distribuir entre os requisitos.
 
@@ -48,9 +48,9 @@ Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acord
 <figcaption>Tabela 2: Tabela de priorização $100.</figcaption>
 </br>
 
-após a elicitação mais requisitos serão adicionados
+**após a elicitação mais requisitos serão adicionados**
 
-## First Things First(FTF)
+## <a>First Things First(FTF)</a>
 
 ## <a>Bibliografia</a>
 
@@ -60,4 +60,4 @@ após a elicitação mais requisitos serão adicionados
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
-|`1.0`|08/04/2024|08/04/2024| Adicionando seção sobre $100 | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre $100 | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
