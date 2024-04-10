@@ -1,5 +1,5 @@
 ## Introdução
-No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso. <a href="/planejamento/appsavaliados">Aqui</a> é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo.
+No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso. <a href="/2024.1-DiarioOficialdaUniao/planejamento/appsavaliados">Aqui</a> é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo.
 
 ## Critérios de escolha
 - Novidade para a disciplina, garantindo que não repetíssemos um trabalho anterior.
@@ -28,7 +28,7 @@ Fazendo uma análise para a escolha do aplicativo, usando o aplicativo e lendo o
 - Conteúdo digitado na pesquisa é levado ao pé da letra
 
 ## Termos de Uso
-A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os <a href="/termoDeUso">termos de uso</a> do aplicativo Diário Oficial da União (DOU) para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que não havia uma cláusula específica que permitisse a análise do aplicativo ou qualquer menção, apesar de não permitir o uso de imagens. Então o grupo teve que retirar as imagens da documentação para respeitar os termos.
+A fim de realizar o projeto de maneira ética e legal, o grupo decidiu verificar os <a href="/2024.1-DiarioOficialdaUniao/termoDeUso/">termos de uso</a> do aplicativo Diário Oficial da União (DOU) para garantir que possuíamos permissão explícita para realizar a análise. Após uma cuidadosa leitura dos termos de uso do aplicativo, o grupo constatou que não havia uma cláusula específica que permitisse a análise do aplicativo ou qualquer menção, apesar de não permitir o uso de imagens. Então o grupo teve que retirar as imagens da documentação para respeitar os termos.
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
