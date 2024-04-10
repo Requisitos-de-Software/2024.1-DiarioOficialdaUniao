@@ -40,7 +40,7 @@ Sobre a divisão das atividades do grupo, confira na tabela 1:
 | Verificar todas as referências, incluindo a formatação | João Artur | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres e Luiz Gustavo |
 | Arrumar referências do cronograma e do aprender | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
 | Arrumar histórico de versões | Henrique Torres | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo |
-| Documentação dos aplicativos escolhidos por cada membro (Rich Picture) | Diego Sousa | ------ |
+| Documentação dos aplicativos escolhidos por cada membro (Rich Picture) | Diego Sousa | Arthur Alves |
 | Criar ata da reunião | Eric Silveira | Luiz Gustavo |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>

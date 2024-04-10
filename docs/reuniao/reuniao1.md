@@ -58,7 +58,7 @@ Sobre a divisão das atividades do grupo, confira como ficaram alocadas as ativi
 | ---------- | ----------- | --------- |
 | Planejamento do Projeto - Cronograma | Arthur Alves | Eric Silveira |
 | Heatmap de disponibilidade dos integrantes | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
-| Seleção do app | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
+| Seleção do app | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo |
 | Ferramentas do projeto | Douglas Marinho e Henrique Torres | Arthur Alves, Diego Sousa, Eric Silveira, João Artur e Luiz Gustavo |
 | Rich Picture | Arthur Alves, Luiz Gustavo e João Artur | Eric Silveira |
 | Documentação da Equipe | Diego Sousa | Arthur Alves, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |

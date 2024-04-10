@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela abaixo, estão listadas as ferramentas selecionadas para condução deste projeto.
+Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela 1, estão listadas as ferramentas selecionadas para condução deste projeto.
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Ferramentas selecionadas</b></p></font>
 
 |                                                                                                                           |        Ferramenta         |                               Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
