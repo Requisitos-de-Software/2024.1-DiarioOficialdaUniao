@@ -25,7 +25,9 @@ Na segunda reunião com os integrantes, foi discutido as correções e melhorias
 Também foram atribuídas as tarefas de cada membro para a segunda entrega (Elicitação - Técnicas e Priorização), com base nas melhorias necessárias e no cronograma.
 
 ## 4. Divisão das atividades
-Sobre a divisão das atividades do grupo, ficou da seguinte forma:
+Sobre a divisão das atividades do grupo, confira na tabela 1:
+
+<font size="3"><p style="text-align: center">Tabela 1 - Divisão de atividades do grupo.</p></font>
 
 | Atividades | Responsável | Revisores |
 | - | - | - |
@@ -41,6 +43,8 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 | Documentação dos aplicativos escolhidos por cada membro (Rich Picture) | Diego Sousa | ------ |
 | Criar ata da reunião | Eric Silveira | Luiz Gustavo |
 
+<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
 ## 5. Gravação da Reunião
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
@@ -49,4 +53,5 @@ Sobre a divisão das atividades do grupo, ficou da seguinte forma:
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 |`1.0`| 03/04/2024 | 04/04/2024 | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 |`1.1`| 03/04/2024 | 04/04/2024 | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-|`1.2`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
+|`1.2`| 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/arthrok) |
+|`1.3`| 10/04/2024 | 11/04/2024 | Adicionado legenda e fonte nas tabelas e atualizado revisores no histórico de versão | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |

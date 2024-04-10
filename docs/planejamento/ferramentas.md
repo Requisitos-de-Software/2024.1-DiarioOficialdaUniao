@@ -39,4 +39,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`| 29/03/2024 | 29/03/2024 | Criação da página de ferramentas. | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
-|`1.1`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
+|`1.1`| 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves Melo](https://github.com/Arthrok) |

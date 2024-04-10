@@ -39,4 +39,4 @@ A git page possui?  | Sim/Não/Incompleto
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`| 31/03/2024 | 31/03/2024 | Descrição da Apresentação referente a entrega 1 (sem vídeo) | [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
 |`1.1`| 01/03/2024 | 01/03/2024 | Adicionando vídeo | [João Artur](https://github.com/joao-artl)  |[Eric Silveira](https://github.com/ericbky)|
-|`1.2`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
+|`1.2`| 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) |

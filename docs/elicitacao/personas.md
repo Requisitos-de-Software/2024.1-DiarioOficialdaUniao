@@ -93,4 +93,4 @@ As personas são personagens fictícias criadas para representar os usuários da
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|08/04/2024|10/04/2024| Criação do documento sobre personas | [Arthur Alves](https://github.com/arthrok)| --- |
+|`1.0`|08/04/2024|10/04/2024| Criação do documento sobre personas | [Arthur Alves](https://github.com/arthrok)| [João Artur](https://github.com/joao-artl) |
