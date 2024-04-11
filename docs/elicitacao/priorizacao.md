@@ -6,9 +6,14 @@ As técnicas de priorização de requisitos têm como principal objetivo ajudar 
 
 ## <a>Técnicas Utilizadas</a>
 
-- [MoSCoW](#moscow)
-- [$100](#100)
-- [First Things First(FTF)](#first-things-firstftf)
+- [Priorização](#priorização)
+  - [Introdução](#introdução)
+  - [Técnicas Utilizadas](#técnicas-utilizadas)
+  - [MoSCoW](#moscow)
+  - [$100](#100)
+  - [First Things First(FTF)](#first-things-firstftf)
+  - [Bibliografia](#bibliografia)
+  - [Histórico de Versão](#histórico-de-versão)
 
 ## <a>MoSCoW</a>
 
@@ -21,11 +26,13 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
     - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
 
 Na tabela 1 estão identificados os requisitos elicitados respectivamente priorizados:
+<figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
 | Identificador | Requisito | Priorização |
-| :-----------: | ---- | :---------: |
+| ----------- | ---- | --------- |
 |     Req1    | exemplo  |  Could  |
 
-<figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
 </br>
 
 **após a elicitação mais requisitos serão adicionados**
@@ -41,11 +48,14 @@ A equipe então discute e vota nos requisitos, distribuindo seus $100 entre eles
 3. Concentrar o orçamento em requisitos que agregam mais valor ao cliente ou que têm um impacto significativo no sucesso do projeto
 
 Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acordo com o mais crítico:
-| Identificador | Requisito | Priorização |
-| :-----------: | ---- | :---------: |
-|     Req1    | exemplo  |  $20  |
 
 <figcaption>Tabela 2: Tabela de priorização $100.</figcaption>
+
+| Identificador | Requisito | Priorização |
+|----------- | ---- | --------- |
+|     Req1    | exemplo  |  $20  |
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 </br>
 
 **após a elicitação mais requisitos serão adicionados**
@@ -61,3 +71,4 @@ Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acord
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
 |`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre $100 | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|

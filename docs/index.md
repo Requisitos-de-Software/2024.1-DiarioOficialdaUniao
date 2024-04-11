@@ -27,5 +27,7 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 | `1.1`  | 28/03/2024 | 28/03/2024 | Atualização da documentação principal com a definição do tema | [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo)|
 | `1.2`  | 20/03/2024 | 20/03/2024 | Atualização de cor e correções | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Eric Silveira](https://github.com/ericbky) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.3`  | 03/03/2024 | 03/03/2024 | Adicionando Termo de Uso | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.4`  | 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
-| `1.5`  | 04/04/2024 | ------ | Remoção de imagens referentes ao Diário Oficial da União (explicitado no Termo de Uso a proibição) | [Eric Silveira](https://github.com/ericbky) | ------ |
+| `1.4`  | 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) |
+| `1.5`  | 04/04/2024 | 04/04/204 | Remoção de imagens referentes ao Diário Oficial da União (explicitado no Termo de Uso a proibição) | [Eric Silveira](https://github.com/ericbky) |  [Arthur Alves](https://github.com/Arthrok) |
+| `1.6`  | 05/04/2024 | 05/04/2024 | Remoção da imagem do favicon referente ao APP Diário Oficial da União (explicitado no Termo de Uso a proibição) | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |
+| `1.7`  | 10/04/2024 | 11/04/2024 | Atualização dos revisores no histórico de versão | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |

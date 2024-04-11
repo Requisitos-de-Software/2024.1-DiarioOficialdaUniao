@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela abaixo, estão listadas as ferramentas selecionadas para condução deste projeto.
+Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela 1, estão listadas as ferramentas selecionadas para condução deste projeto.
 
 ## Ferramentas Utilizadas
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b></p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1 - Ferramentas selecionadas</b></p></font>
 
 |                                                                                                                           |        Ferramenta         |                               Finalidade                               |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------: | :--------------------------------------------------------------------: |
@@ -39,4 +39,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`| 29/03/2024 | 29/03/2024 | Criação da página de ferramentas. | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
-|`1.1`| 04/04/2024 | ------ | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | ------ |
+|`1.1`| 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves Melo](https://github.com/Arthrok) |
