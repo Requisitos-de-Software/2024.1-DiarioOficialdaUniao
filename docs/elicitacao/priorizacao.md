@@ -62,6 +62,20 @@ Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acord
 
 ## <a>First Things First(FTF)</a>
 
+O método First Things First (FTF) é uma abordagem de gerenciamento de tempo e priorização popularizada por Stephen R. Covey em seu livro "First Things First", que é uma continuação de seu best-seller "Os 7 Hábitos das Pessoas Altamente Eficazes".
+
+Em resumo, o método FTF enfoca a identificação e a priorização das atividades mais importantes e significativas em nossa vida, em vez de simplesmente reagir às demandas urgentes do momento. Aqui estão os princípios-chave do método:
+
+1. Identificar o que é importante: O FTF incentiva a identificação das atividades que são verdadeiramente importantes para alcançar nossos objetivos pessoais e profissionais. Isso envolve uma reflexão profunda sobre nossos valores e metas.
+
+2. Priorização das atividades importantes: Uma vez identificadas as atividades importantes, é necessário priorizá-las com base em sua relevância e impacto em nossos objetivos de longo prazo. Isso implica em concentrar tempo e energia nas coisas que realmente importam.
+
+3. Eliminação do desnecessário: O método FTF também sugere eliminar ou minimizar atividades que não contribuem significativamente para nossos objetivos prioritários. Isso pode envolver dizer não a compromissos desnecessários ou delegar tarefas menos importantes.
+
+4. Planejamento e organização: Uma parte fundamental do FTF é o planejamento e a organização do tempo para se concentrar nas atividades prioritárias. Isso pode incluir o uso de agendas, listas de tarefas e outras ferramentas de gerenciamento de tempo.
+
+5. Equilíbrio entre vida pessoal e profissional: O método FTF reconhece a importância de equilibrar as demandas da vida pessoal e profissional. Isso significa reservar tempo para atividades familiares, lazer e autocuidado, além de trabalho e responsabilidades profissionais.
+
 ## <a>Bibliografia</a>
 
 > WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf), Acesso em 7 de abr. 2024.
@@ -72,3 +86,4 @@ Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acord
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
 |`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre $100 | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
+|`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
