@@ -26,18 +26,7 @@ A chave para o sucesso dessa técnica reside na concordância das partes interes
 
 - Baixa prioridade: requisitos que não são nem importantes nem urgentes, e sua implementação pode ser adiada para um momento posterior.
 
-Embora a técnica não envolva a atribuição de classificações numéricas aos requisitos, mas sim uma categorização em grupos de prioridade, é crucial considerar as dependências entre eles. As interdependências podem influenciar a importância e o impacto dos requisitos, portanto, é recomendado avaliá-las durante o processo de priorização. Dessa forma, as decisões informadas sobre a priorização podem ser tomadas levando em conta todas as interações entre os requisitos
-
-<figcaption>Tabela 1: Tabela de priorização Three Level Scale.</figcaption>
-
-| Identificador | Requisito | Priorização |
-|----------- | ---- | --------- |
-|     Req1    | exemplo  |  $20  |
-
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
-</br>
-
-**após a elicitação mais requisitos serão adicionados**
+Embora a técnica não envolva a atribuição de classificações numéricas aos requisitos, mas sim uma categorização em grupos de prioridade, é crucial considerar as dependências entre eles. As interdependências podem influenciar a importância e o impacto dos requisitos, portanto, é recomendado avaliá-las durante o processo de priorização. Dessa forma, as decisões informadas sobre a priorização podem ser tomadas levando em conta todas as interações entre os requisitos.
 
 ## <a>First Things First(FTF)</a>
 
@@ -55,14 +44,6 @@ Em resumo, o método FTF enfoca a identificação e a priorização das atividad
 
 5. Equilíbrio entre vida pessoal e profissional: O método FTF reconhece a importância de equilibrar as demandas da vida pessoal e profissional. Isso significa reservar tempo para atividades familiares, lazer e autocuidado, além de trabalho e responsabilidades profissionais.
 
-Na tabela 2 estão identificados os requisitos elicitados respectivamente priorizados por essa metodologia:
-
-<figcaption>Tabela 2: Tabela de priorização FTF.</figcaption>
-
-| Identificador | Requisito | Priorização |
-|----------- | ---- | --------- |
-|     Req1    | exemplo  |  $20  |
-
 ## <a>MoSCoW</a>
 
 A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
@@ -73,14 +54,15 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
     - **C**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
     - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
 
-Na tabela 3 estão identificados os requisitos elicitados respectivamente priorizados por essa metodologia:
-<figcaption>Tabela 3: Tabela de priorização MoSCoW.</figcaption>
+## <a>Tabela de requisitos priorizados</a>
+
+<figcaption>Tabela 1: Tabela de priorização de requisitos.</figcaption>
 
 | Identificador | Requisito | Priorização |
-| ----------- | ---- | --------- |
-|     Req1    | exemplo  |  Could  |
+|----------- | ---- | --------- |
+|     Req1    | exemplo  |  $20  |
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </br>
 
 ## <a>Bibliografia</a>
@@ -96,4 +78,4 @@ Na tabela 3 estão identificados os requisitos elicitados respectivamente priori
 |`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre MoSCoW | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
 |`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
-|`1.4`|10/04/2024|15/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)| ----- |
+|`1.4`|10/04/2024|15/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |[Diego Sousa](https://github.com/DiegoSousaLeite) |
