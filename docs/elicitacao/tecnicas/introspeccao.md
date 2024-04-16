@@ -91,4 +91,4 @@ Legenda das Tabelas 2 e 3:
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|06/04/2024|06/04/2024| Introdução e ideias iniciais | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
 |`1.1`|16/04/2024|16/04/2024| Adição da aba de requisitos | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
-|`1.1`|16/04/2024|16/04/2024| Correção tabela e bibliografia | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
+|`1.2`|16/04/2024|16/04/2024| Correção tabela e bibliografia | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
