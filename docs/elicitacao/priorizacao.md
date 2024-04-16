@@ -70,7 +70,7 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 - As definições de cada categoria são:
     - **M**ust have: Esses são os requisitos essenciais para que o projeto seja considerado um sucesso. Eles são críticos e não podem ser deixados de fora.
     - **S**hould have: Esses são os requisitos importantes, mas não vitais para o sucesso do projeto. Eles são considerados secundários em relação aos "Must haves", mas ainda são significativos e devem ser incluídos se possível.
-    - **Co**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
+    - **C**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
     - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
 
 Na tabela 3 estão identificados os requisitos elicitados respectivamente priorizados por essa metodologia:
@@ -93,7 +93,7 @@ Na tabela 3 estão identificados os requisitos elicitados respectivamente priori
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
-|`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre Three Level Scale | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre MoSCoW | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
 |`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
 |`1.4`|10/04/2024|15/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)| ----- |
