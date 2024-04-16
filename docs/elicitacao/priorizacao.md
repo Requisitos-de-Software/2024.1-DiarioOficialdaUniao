@@ -6,50 +6,29 @@ As técnicas de priorização de requisitos têm como principal objetivo ajudar 
 
 ## <a>Técnicas Utilizadas</a>
 
-- [Priorização](#priorização)
-  - [Introdução](#introdução)
-  - [Técnicas Utilizadas](#técnicas-utilizadas)
-  - [MoSCoW](#moscow)
-  - [$100](#100)
+  - [Three Level Scale](#three-level-scale)
   - [First Things First(FTF)](#first-things-firstftf)
-  - [Bibliografia](#bibliografia)
-  - [Histórico de Versão](#histórico-de-versão)
+  - [MoSCoW](#moscow)
 
-## <a>MoSCoW</a>
-
-A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
-
-- As definições de cada categoria são:
-    - **M**ust have: Esses são os requisitos essenciais para que o projeto seja considerado um sucesso. Eles são críticos e não podem ser deixados de fora.
-    - **S**hould have: Esses são os requisitos importantes, mas não vitais para o sucesso do projeto. Eles são considerados secundários em relação aos "Must haves", mas ainda são significativos e devem ser incluídos se possível.
-    - **Co**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
-    - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
-
-Na tabela 1 estão identificados os requisitos elicitados respectivamente priorizados:
-<figcaption>Tabela 1: Tabela de priorização MoSCoW.</figcaption>
-| Identificador | Requisito | Priorização |
-| ----------- | ---- | --------- |
-|     Req1    | exemplo  |  Could  |
-
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
-
-</br>
+## <a>Participantes da priorização</a>
 
 **após a elicitação mais requisitos serão adicionados**
 
-## <a>$100</a>
+## <a>Three Level Scale</a>
 
-O método de $100 é uma técnica simples e eficaz que envolve atribuir um valor monetário fictício de $100 para cada parte interessada (stakeholder) ou para a equipe responsável pela priorização dos requisitos. Este valor monetário representa o "orçamento" total que a equipe tem para distribuir entre os requisitos.
+Na abordagem da técnica de priorização Three Level Scale, os requisitos são divididos em três categorias de acordo com sua prioridade relativa: alta, média e baixa. Este método foi aplicado por um desenvolvedor em conjunto com um usuário, onde o desenvolvedor desempenhou o papel de facilitador, orientando o usuário durante o processo.
 
-A equipe então discute e vota nos requisitos, distribuindo seus $100 entre eles de acordo com a importância percebida de cada um. Eles podem distribuir o dinheiro de várias maneiras, como por exemplo:
+A chave para o sucesso dessa técnica reside na concordância das partes interessadas sobre o significado de cada nível de prioridade na escala. Assim, durante o processo de priorização, consideramos tanto a urgência quanto a importância de cada requisito. Desta forma, as categorias de prioridade foram definidas da seguinte maneira:
 
-1. Atribuir uma quantia maior para os requisitos considerados mais críticos ou essenciais.
-2. Distribuir igualmente entre todos os requisitos.
-3. Concentrar o orçamento em requisitos que agregam mais valor ao cliente ou que têm um impacto significativo no sucesso do projeto
+- Alta prioridade: requisitos que são tanto importantes quanto urgentes, e devem ser implementados na próxima release.
 
-Na Tabela 2 estão identificados os requisitos elicitados e priorizados de acordo com o mais crítico:
+- Média prioridade: requisitos importantes, mas que não têm urgência imediata, portanto, podem ser programados para uma release futura.
 
-<figcaption>Tabela 2: Tabela de priorização $100.</figcaption>
+- Baixa prioridade: requisitos que não são nem importantes nem urgentes, e sua implementação pode ser adiada para um momento posterior.
+
+Embora a técnica não envolva a atribuição de classificações numéricas aos requisitos, mas sim uma categorização em grupos de prioridade, é crucial considerar as dependências entre eles. As interdependências podem influenciar a importância e o impacto dos requisitos, portanto, é recomendado avaliá-las durante o processo de priorização. Dessa forma, as decisões informadas sobre a priorização podem ser tomadas levando em conta todas as interações entre os requisitos
+
+<figcaption>Tabela 1: Tabela de priorização Three Level Scale.</figcaption>
 
 | Identificador | Requisito | Priorização |
 |----------- | ---- | --------- |
@@ -76,14 +55,45 @@ Em resumo, o método FTF enfoca a identificação e a priorização das atividad
 
 5. Equilíbrio entre vida pessoal e profissional: O método FTF reconhece a importância de equilibrar as demandas da vida pessoal e profissional. Isso significa reservar tempo para atividades familiares, lazer e autocuidado, além de trabalho e responsabilidades profissionais.
 
+Na tabela 2 estão identificados os requisitos elicitados respectivamente priorizados por essa metodologia:
+
+<figcaption>Tabela 2: Tabela de priorização FTF.</figcaption>
+
+| Identificador | Requisito | Priorização |
+|----------- | ---- | --------- |
+|     Req1    | exemplo  |  $20  |
+
+## <a>MoSCoW</a>
+
+A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
+
+- As definições de cada categoria são:
+    - **M**ust have: Esses são os requisitos essenciais para que o projeto seja considerado um sucesso. Eles são críticos e não podem ser deixados de fora.
+    - **S**hould have: Esses são os requisitos importantes, mas não vitais para o sucesso do projeto. Eles são considerados secundários em relação aos "Must haves", mas ainda são significativos e devem ser incluídos se possível.
+    - **C**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
+    - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
+
+Na tabela 3 estão identificados os requisitos elicitados respectivamente priorizados por essa metodologia:
+<figcaption>Tabela 3: Tabela de priorização MoSCoW.</figcaption>
+
+| Identificador | Requisito | Priorização |
+| ----------- | ---- | --------- |
+|     Req1    | exemplo  |  Could  |
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+</br>
+
 ## <a>Bibliografia</a>
 
-> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf), Acesso em 7 de abr. 2024.
+> [link](https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf), Acesso em 7 de abr. 2024.
+
+> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf), Acesso em 10 de abr. 2024.
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
-|`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre $100 | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre MoSCoW | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
 |`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
+|`1.4`|10/04/2024|15/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)| ----- |
