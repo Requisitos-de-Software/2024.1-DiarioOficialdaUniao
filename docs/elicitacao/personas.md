@@ -65,7 +65,7 @@ As personas são personagens fictícias criadas para representar os usuários da
     <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves</p></font>
 
 === "Persona 4: Dona Kleber"
-    <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Dona Kleber</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Dona Klaúdia</p></font>
 
     | ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen1116cc5e5888b525654dae77a9608246.jpg) |Figura 4 - Persona Secundária Dona Klaúdia <br> Fonte: Elaborado por Arthur Alves (2024).4|
     |---------------------|-------------------|
