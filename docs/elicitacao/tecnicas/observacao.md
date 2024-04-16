@@ -58,15 +58,15 @@ Legenda das Tabelas 2 e 3:
 
 |Tipo| Descrição | <a id="anchor_OBS" style="visibility: hidden;"></a> ID | Implementado|
 |----|-----------|--------------------------------------------------------|-------------|
-|RFN01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 | Sim|
-|RFN02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11| Não|
-|RFN03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Sim|
-|RFN04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Não|
-|RFN05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Não |
-|RFN06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Sim|
-|RFN07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Não|
-|RFN08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17| Sim|
-|RFN09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 | Sim|
+|RNF01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 | Sim|
+|RNF02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11| Não|
+|RNF03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Sim|
+|RNF04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Não|
+|RNF05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Não |
+|RNF06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Sim|
+|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Não|
+|RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17| Sim|
+|RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 | Sim|
 
 </center>
 
@@ -81,3 +81,4 @@ Legenda das Tabelas 2 e 3:
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|06/04/2024|06/04/2024| Introdução e ideias iniciais | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
 |`1.1`| 15/04/2024 | 16/04/2024 | Adição da aba de requisitos elicitados | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
+|`1.2`| 15/04/2024 | 16/04/2024 | Correção nas tabelas| [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
