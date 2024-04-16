@@ -16,8 +16,6 @@
     --md-typeset-table-color--light: rgba(128, 128, 128, 0.157);
   }
 
-  
-  
   [data-md-color-scheme="claro"] img[src$="#only-dark"],
   [data-md-color-scheme="claro"] img[src$="#gh-dark-mode-only"] {
     display: none;
