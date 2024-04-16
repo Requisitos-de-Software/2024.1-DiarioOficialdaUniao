@@ -44,23 +44,42 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 ### Planejado
 
-Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+=== "Cronograma Planejado"
+    Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Elicitação – Técnicas e Priorização</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Elicitação – Técnicas e Priorização</p></font>
 
-|Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
-|----------|-------------------|---------|----------|-----------|------------|
-|Perfil dos usuários|Início dia 03/04 Fim dia 05/04|Arthur Alves e Eric Silveira|Início dia 03/04 Fim dia 05/04|João Artur, Luiz Gustavo|17/04|
-|Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto|Início dia 03/04 Fim dia 05/04|Diego Sousa e Luiz Gustavo|Início dia 05/04 Fim dia 05/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-|Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto|Início dia 03/04 Fim dia 05/04|Douglas Marinho e João Artur|Início dia 05/04 Fim dia 05/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-|CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04|
-|CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04
-Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 12/04|Fim dia 14/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-|Iteração do Git Pages|Início dia 03/04 Fim dia 16/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|Início dia 14/04 Fim dia 17/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|17/04|
-|Período de gravação da apresentação|Início dia 14/04 Fim dia 16/04| Douglas Marinho|Início dia 14/04 Fim dia 16/04|Eric Silveira|17/04|
-|Correção pós apresentação|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|Início dia 17/04 Fim dia 18/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
+    |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+    |----------|-------------------|---------|----------|-----------|------------|
+    |Perfil dos usuários| -- |Arthur Alves e Eric Silveira| -- |João Artur, Luiz Gustavo|17/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04|
+    |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04
+    Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 12/04|Fim dia 14/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    |Iteração do Git Pages|Início dia 03/04 Fim dia 16/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|Início dia 14/04 Fim dia 17/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|17/04|
+    |Período de gravação da apresentação| -- | Douglas Marinho| -- |Eric Silveira|17/04|
+    |Correção pós apresentação| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+=== "Cronograma Executado"
+    Na Tabela 4, está explicitado o cronograma executado das atividades da primeira entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Execução da Elicitação – Técnicas e Priorização</p></font>
+
+    |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
+    |----------|-------------------|---------|----------|-----------|------------|
+    |Perfil dos usuários| -- |Arthur Alves e Eric Silveira| -- |João Artur, Luiz Gustavo|17/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    Entrevista para elicitação de requisitos| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
+    |Iteração do Git Pages| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|17/04|
+    |Período de gravação da apresentação| -- | Douglas Marinho| -- |Eric Silveira|17/04|
+    |Correção pós apresentação| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
+
+    <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
+
 
 ## Entrega 3 - Modelagem de Requisitos
 
