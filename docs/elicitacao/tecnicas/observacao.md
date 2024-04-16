@@ -64,7 +64,7 @@ Legenda das Tabelas 2 e 3:
 |RNF04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Não|
 |RNF05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Não |
 |RNF06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Sim|
-|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Não|
+|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Sim|
 |RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17| Sim|
 |RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 | Sim|
 
