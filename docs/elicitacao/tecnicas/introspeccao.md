@@ -78,7 +78,7 @@ Legenda das Tabelas 2 e 3:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [Arthur de Melo](https://github.com/arthurmlv) e [Gabriel Campello](https://github.com/G16C).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl).</p></font>
 
 
 
@@ -89,3 +89,4 @@ Legenda das Tabelas 2 e 3:
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|06/04/2024|06/04/2024| Introdução e ideias iniciais | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
 |`1.1`|16/04/2024|16/04/2024| Adição da aba de requisitos | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
+|`1.1`|16/04/2024|16/04/2024| Correção tabela | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
