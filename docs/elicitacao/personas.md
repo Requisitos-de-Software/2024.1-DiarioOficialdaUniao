@@ -47,7 +47,7 @@ As personas são personagens fictícias criadas para representar os usuários da
 === "Persona 3: Kauan Barreto"
     <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Kauan Barreto</p></font>
 
-    | ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen2e1331d9133d9e656e7b89161f092324.jpg) |Figura 3 - Persona Secundária Kauan Barreto <br> Fonte: Elaborado por Arthur lves (2024).3|
+    | ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen2e1331d9133d9e656e7b89161f092324.jpg) |Figura 3 - Persona Secundária Kauan Barreto <br> Fonte: Elaborado por Arthur Alves (2024).3|
     |---------------------|-------------------|
     | Nome                | Kauan Barreto     |
     | Status              | Persona Secundária |
@@ -67,9 +67,9 @@ As personas são personagens fictícias criadas para representar os usuários da
 === "Persona 4: Dona Kleber"
     <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Persona Secundária Dona Kleber</p></font>
 
-    | ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen1116cc5e5888b525654dae77a9608246.jpg) |Figura 4 - Persona Secundária Dona Kleber <br> Fonte: Elaborado por Arthur lves (2024).4|
+    | ![Avatar](https://this-person-does-not-exist.com/img/avatar-gen1116cc5e5888b525654dae77a9608246.jpg) |Figura 4 - Persona Secundária Dona Klaúdia <br> Fonte: Elaborado por Arthur Alves (2024).4|
     |---------------------|-------------------|
-    | Nome                | Dona Kleber        |
+    | Nome                | Dona Klaúdia        |
     | Status              | Persona Secundária |
     | Gênero              | Não informado      |
     | Idade               | 48                 |
@@ -83,8 +83,6 @@ As personas são personagens fictícias criadas para representar os usuários da
     | Tarefas             | Ler e analisar decretos e regulamentos, compartilhar informações com colegas pedagógicos, incorporar mudanças nas políticas educacionais em seu planejamento de aulas, buscar suporte para lidar com serviços digitais |
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves</p></font>
-
-
 
 ## <a>Bibliografia</a>
 
