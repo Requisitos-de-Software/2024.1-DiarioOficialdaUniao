@@ -83,10 +83,12 @@ Legenda das Tabelas 2 e 3:
 
 
 ## <a>Bibliografia</a>
+> SERRANO, Milene, SERRANO, Maurício. Requisitos (Aula 06):  Elicitação de Requisitos - Técnicas . **UnB Gama**, Brasília, 2024. Disponível em: <<https://aprender3.unb.br/pluginfile.php/2844983/mod_resource/content/4/Elicitacao%20de%20Req%202.pdf>>. Acesso em: 10/04/2024.
+
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|06/04/2024|06/04/2024| Introdução e ideias iniciais | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
 |`1.1`|16/04/2024|16/04/2024| Adição da aba de requisitos | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
-|`1.1`|16/04/2024|16/04/2024| Correção tabela | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
+|`1.1`|16/04/2024|16/04/2024| Correção tabela e bibliografia | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/arthrok) |
