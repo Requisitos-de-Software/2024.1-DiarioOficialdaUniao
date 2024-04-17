@@ -1,21 +1,21 @@
-##O que é o perfil do usuário?
+## <a>O que é o perfil do usuário?</a>
 
 O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Silva & Barbosa, 2010).
 
-##Objetivo do perfil do usuário?
+## <a>Objetivo do perfil do usuário?</a>
 
 De acordo com Silva: "*Devemos identificar características de interesse como cargo, função, experiência, faixa etária entre outros e conduzir um estudo para coletar dados, a fim de agregar valor a esses grupos na qual os usuários estão inseridos*". <a id="anchor_1" href="#FRM1">^1^</a>
 
-##Metodologia
+## <a>Metodologia</a>
 
 Em geral, um perfil de usuário é caracterizado por dados sobre o próprio usuário, dados sobre sua relação com tecnologia, sobre seu conhecimento do domínio do produto e das tarefas que deverá realizar utilizando o produto (Hackos e Redish, 1998; Courage e Baxter, 2005)<a id="anchor_2" href="#FRM2">^2^</a>. Baseado nisso, iremos traçar o perfil dos usuários através da técnica de levantamento de dados por meio de questionário. <a id="anchor_3" href="#FRM3">^3^</a> Também utilizamos a técnica de análise de documentos, que é um meio de elicitação de requisitos pelo estudo de documentação disponível, sendo ela sobre o domínio do problema que permitam alacançar determinados objetivos e a identificação de informações.<a id="anchor_4" href="#FRM4">^4^</a>
 
-##Motivação para a escolha da metodologia
+## <a>Motivação para a escolha da metodologia</a>
 
 Esta técnica de aplicação do questionário em diferentes públicos e supostos públicos algos permite a coleta de dados de forma rápida e quantitativa na qual tem como vantagem: coletar informações de muitos usuários, rapidez no processo e na análise dos dados e seu custo é relativamente barato, com pouco esforço de distribuição, porém requer um certo cuidado para evitar perguntas muito fechadas, para não limitar as expressões do respondente.<a id="anchor_5" href="#FRM5">^5^</a>
 Já a análise de documentos, aproveita um material já existente, é uma das primeiras técnicas a ser utilizada na elicitação, complementa ou ajuda na elicitação, facilitam um nivelamento preliminar do domínio de identificações, seja do problema, de informações, assim por diante.<a id="anchor_6" href="#FRM6">^6^</a>
 
-##Processo
+## <a>Processo</a>
 
 O processo para descobrir o perfil dos usuários do Diário Oficial da União foi complicado, pois de início pensamos que seria um perfil mais generalista e tínhamos uma mínima ideia sobre os usuários principais serem servidores públicos e sindicalistas.
 
@@ -35,7 +35,7 @@ Por fim, depois de uma intensa pesquisa, encontramos presente no site do Gov.br,
 
 <iframe src="../../assets/Relatório de Gestão Integrado da Presidência da República-2019.pdf" width="100%" height="600px"></iframe>
 
-##Resultados
+## <a>Resultados</a>
 
 <....>
 
