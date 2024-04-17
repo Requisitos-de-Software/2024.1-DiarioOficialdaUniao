@@ -59,6 +59,14 @@ Em resumo, o método FTF enfoca a identificação e a priorização das atividad
 
 5. Equilíbrio entre vida pessoal e profissional: O método FTF reconhece a importância de equilibrar as demandas da vida pessoal e profissional. Isso significa reservar tempo para atividades familiares, lazer e autocuidado, além de trabalho e responsabilidades profissionais.
 
+Durante o metódo de priorização FTF um requisito pode ser dividido em três tipos:
+
+- First Things (FT): Essa categoria inclui os requisitos que são considerados prioritários e essenciais para o sucesso do projeto. São as funcionalidades ou características sem as quais o projeto não pode ser considerado um sucesso. Esses requisitos geralmente estão alinhados com os objetivos centrais do projeto e têm um impacto significativo no valor entregue aos usuários ou clientes.
+
+- Important Things (IT): Esta categoria engloba os requisitos que são importantes para o projeto, mas não são críticos para sua conclusão bem-sucedida. São funcionalidades ou características que agregam valor ao projeto e são desejáveis de se ter, mas sua ausência não comprometeria fundamentalmente o sucesso do projeto.
+
+- Nice to Have (NTH): Estes são os requisitos que são considerados bons de se ter, mas não são essenciais para o sucesso do projeto. Geralmente são funcionalidades ou características adicionais que podem aumentar a satisfação do usuário ou melhorar a experiência do produto, mas sua implementação pode ser adiada para versões futuras do software ou projetos posteriores
+
 ## <a>MoSCoW</a>
 
 A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
@@ -73,9 +81,26 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 
 <figcaption>Tabela 2: Tabela de priorização de requisitos.</figcaption>
 
-| Identificador | Requisito | Priorização |
-|----------- | ---- | --------- |
-|     Req1    | exemplo  |  $20  |
+| Tipo | Descrição         | <a id="anchor_IS" style="visibility: hidden;"></a> ID | Three Level Scale |FTF | MoSCoW |
+| ---- | ---------------- | ----------------- | ------------ | ---- | ---- | 
+|RF01|	Autenticação de usuários para acesso seguro.	| OBS01 |  Alto | First Things | Must Have|
+|RF02|	Visualização de edições diárias do Diário Oficial.|	OBS02|  Alto | First Things | Must Have |
+|RF03|	Busca por palavras-chave em documentos.	|OBS03|  Baixo | Important Things | Could Have |
+|RF04|	Filtragem de conteúdo por data, categoria ou órgão emissor.	|OBS04|  Alto | First Things | Must Have |
+|RF05|	Download de edições e documentos em formatos PDF.	|OBS05|  Médio | Nice to Have  | Won't Have |
+|RF06|	Notificações push sobre novas publicações relevantes.|	OBS06|  Médio | Important Things | Could Have |
+|RF07|	Acesso a edições anteriores arquivadas.	|OBS07|  Médio | First Things | Must Have |
+|RF08|	Integração com sistemas de assinatura digital.	|OBS08| Baixo |  Nice to Have  | Won't Have|
+|RF09|	Compartilhamento de documentos via redes sociais e email.|OBS09 |  Baixo | First Things | Must Have |
+|RNF01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 |  Alto | First Things | Won't Have |
+|RNF02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11|  Médio | Important Things | Could Have |
+|RNF03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Alto | First Things | Must Have |
+|RNF04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Alto | First Things | Must Have|
+|RNF05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Médio | Nice to Have | Won't Have |
+|RNF06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Alto | First Things | Must Have |
+|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Alto |First Things | Must Have |
+|RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17|  Médio | First Things | Must Have |
+|RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 |  Médio | First Things | Must Have |
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </br>
