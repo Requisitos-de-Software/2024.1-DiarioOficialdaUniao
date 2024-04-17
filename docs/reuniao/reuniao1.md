@@ -23,7 +23,9 @@ Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas
 
 Foram apresentados alguns aplicativos para discutirmos e selecionarmos para serem o material de estudo da matéria, veja na tabela 1:
 
-<font size="3"><p style="text-align: center">Tabela 1 - Aplicativos selecionados para análise</p></font>
+<center> 
+
+**Tabela 1** - Aplicativos selecionados para análise
 
 | Membro | Aplicativo |
 | ----- | ----------- |
@@ -32,7 +34,9 @@ Foram apresentados alguns aplicativos para discutirmos e selecionarmos para sere
 | Eric Silveira | e-Título |
 | Luiz Gustavo | Caixa Econômica Federal e Administração Regional de Planaltina |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
+</center>
 
 ## 4. Conclusão
 As reuniões foram definidas como sendo:
@@ -52,7 +56,9 @@ O aplicativo definido foi o sugerido pelo integrante Arthur Alves: Diário Ofici
 ## 5. Divisão das atividades
 Sobre a divisão das atividades do grupo, confira como ficaram alocadas as atividades na tabela 2:
 
-<font size="3"><p style="text-align: center">Tabela 2 - Divisão de atividades do grupo.</p></font>
+<center>
+
+**Tabela 2** - Divisão de atividades do grupo.
 
 | Atividades | Responsável | Revisores |
 | ---------- | ----------- | --------- |
@@ -63,7 +69,9 @@ Sobre a divisão das atividades do grupo, confira como ficaram alocadas as ativi
 | Rich Picture | Arthur Alves, Luiz Gustavo e João Artur | Eric Silveira |
 | Documentação da Equipe | Diego Sousa | Arthur Alves, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
+</center>
 
 ## 6. Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
