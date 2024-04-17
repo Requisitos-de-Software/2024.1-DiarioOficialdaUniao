@@ -4,15 +4,30 @@
 
 As técnicas de priorização de requisitos têm como principal objetivo ajudar os projetos de desenvolvimento de software a determinar quais requisitos são mais importantes, essenciais ou urgentes para serem implementados. Isso é crucial porque, em qualquer projeto de software, há uma quantidade limitada de recursos, como tempo, dinheiro e mão de obra. Portanto, é fundamental garantir que esses recursos sejam alocados da maneira mais eficiente possível para atender às necessidades e expectativas dos clientes ou usuários finais.
 
+## <a>Participantes</a>
+
+No dia 16 de abril de 2024, a reunião entre os três membros da equipe e o usuário ocorreu de forma online atráves da plataforma [Microsoft Teams](https://teams.microsoft.com), onde foi possível discutir e realizar a priorização dos requisitos do projeto. Utilizando ferramentas virtuais, todos colaboraram ativamente para identificar e classificar as necessidades essenciais, garantindo um alinhamento estratégico e eficiente para as próximas etapas do projeto. Na tabela 1 a seguir é possível ver os participantes da reunião:
+
+<font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
+
+<center>
+
+| Nome                                             | Função                   |
+| ------------------------------------------------ | ------------------------ |
+|[Douglas Marinho](https://github.com/M4RINH0) | Entrevistador              |
+|[João Artur](https://github.com/joao-artl) | Entrevistador              |
+|[Luiz Gustavo](https://github.com/LuizGust4vo) | Entrevistador              |
+| José Roberto | Usuário |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
 ## <a>Técnicas Utilizadas</a>
 
   - [Three Level Scale](#three-level-scale)
   - [First Things First(FTF)](#first-things-firstftf)
   - [MoSCoW](#moscow)
-
-## <a>Participantes da priorização</a>
-
-**após a elicitação mais requisitos serão adicionados**
 
 ## <a>Three Level Scale</a>
 
@@ -54,9 +69,9 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
     - **C**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
     - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
 
-## <a>Tabela de requisitos priorizados</a>
+## <a>Tabela de Requisitos Priorizados</a>
 
-<figcaption>Tabela 1: Tabela de priorização de requisitos.</figcaption>
+<figcaption>Tabela 2: Tabela de priorização de requisitos.</figcaption>
 
 | Identificador | Requisito | Priorização |
 |----------- | ---- | --------- |
@@ -65,9 +80,13 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </br>
 
+## <a>Gravação da Reunião</a>
+
 ## <a>Bibliografia</a>
 
-> [link](https://aprender3.unb.br/pluginfile.php/2844990/mod_resource/content/2/PriorizaA%CC%83%C2%A7A%CC%83%C2%A3o%20de%20Req.pdf), Acesso em 7 de abr. 2024.
+> SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível no [link](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 7 de abr. 2024.
+
+> Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital. Acesso em: 10 abr. 2024
 
 > WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf), Acesso em 10 de abr. 2024.
 
@@ -78,4 +97,4 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 |`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre MoSCoW | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
 |`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
-|`1.4`|10/04/2024|15/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |[Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`1.4`|16/04/2024|17/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |[Diego Sousa](https://github.com/DiegoSousaLeite) |
