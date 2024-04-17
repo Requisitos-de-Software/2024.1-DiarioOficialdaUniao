@@ -42,9 +42,11 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
-Para as entregas dessa etapa, iremos nos basear, principalmente, nos livros: 
+Para as entregas dessa etapa, iremos nos basear, principalmente, nos livros:
+
 - Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Com foco no capítulo 8. Organização do Espaço de Problema.
+
 - WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível em: https://www.processimpact.com/articles/prioritizing.pdf, Acesso em 10 de abr. 2024.
 
 Na reunião, foi definido que a apresentação seria no dia 16/04/2024 às 20:30 da noite, porém, tivemos alguns imprevistos e sugestões de melhorias por parte do professor André, portanto, iremos gravar a apresentação no dia 17/04/2024, no mesmo horário.
