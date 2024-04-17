@@ -27,7 +27,9 @@ Também foram atribuídas as tarefas de cada membro para a segunda entrega (Elic
 ## 4. Divisão das atividades
 Sobre a divisão das atividades do grupo, confira na tabela 1:
 
-<font size="3"><p style="text-align: center">Tabela 1 - Divisão de atividades do grupo.</p></font>
+<center>
+
+**Tabela 1** - Divisão de atividades do grupo.
 
 | Atividades | Responsável | Revisores |
 | - | - | - |
@@ -43,7 +45,9 @@ Sobre a divisão das atividades do grupo, confira na tabela 1:
 | Documentação dos aplicativos escolhidos por cada membro (Rich Picture) | Diego Sousa | Arthur Alves |
 | Criar ata da reunião | Eric Silveira | Luiz Gustavo |
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
+</center>
 
 ## 5. Gravação da Reunião
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
