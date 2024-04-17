@@ -31,9 +31,22 @@ Seguindo na mesma linha de pesquisamos, encontramos o site e-dou<a id="anchor_8"
 
 Assim, isso nos ajudou a definir um perfil de foco na qual poderiam ser candidatos a receberem a aplicação do questionário para conseguirmos mais informações sobre nosso perfil do usuário. Vale lembrar que já havíamos publicado o questionário aleatóriamente em um grupo da faculdade e não obtivemos sucesso sobre a utilização do aplicativo.
 
-Por fim, depois de uma intensa pesquisa, encontramos presente no site do Gov.br, na parte de auditorias, o Relatório de Gestão Integrado da Presidência da República – 2019<a id="anchor_9" href="#FRM9">^9^</a>, na qual contém resultados sobre o Perfil dos Usuários do aplicativo do Diário Oficial da União, localizado no tópico 2.6.4. Secretaria-Geral, página 50, no documento anexado a seguir:
+Após uma pesquisa meticulosa, conseguimos acessar o Relatório de Gestão Integrado da Presidência da República - 2019, este documento trata-se de um relato integrado que transmite de maneira simples, precisa e ampla como os recursos orçamentários foram utilizados e em que medida beneficiaram a sociedade brasileira<a id="anchor_11" href="#FRM11">^11^</a>. Dentro do relatório, buscamos informações relacionadas à Imprensa Nacional, o órgão que tem como finalidade realizar a publicação, no Diário Oficial da União, de novas informações atribuídas aos atos oficiais da administração pública federal<a id="anchor_12" href="#FRM12">^12^</a>. Como resultado da incessante busca, encontramos a definição dos perfis do usuário no relatório, elaboradas pelo referido órgão<a id="anchor_13" href="#FRM13">^13^</a>:
 
-Fonte: Gov.br, Relatório de Gestão Integrado da Presidência da República – 2019.
+- Estado: Órgãos Estatais: órgãos da administração pública
+dos Poderes Legislativo, Judiciário e Executivo que utilizam
+os serviços do DOU e/ou parque gráfico ou acompanham as
+informações publicadas das esferas: i) federal; ii) estadual;
+e iii) municipal.
+- Sociedade: Cidadãos: que utilizam os serviços de publicidade no DOU ou acompanham as informações publicadas;
+Sociedade Civil Organizada: organizações da sociedade civil organizada que utilizam ou acompanham os serviços do
+DOU; Academia: Pesquisadores e acadêmicos que acompanham as informações publicadas no DOU; Mídia: empresas
+jornalísticas e autônomos que utilizam o Diário Oficial da
+União para acompanhar os atos oficiais do governo brasileiro.
+- Mercado: Anunciantes/leitores da iniciativa privada: Empresas que utilizam os serviços do DOU ou acompanham as
+informações publicadas; Fornecedores: empresas que são
+fornecedoras de produtos ou serviços à Imprensa Nacional. 
+
 
 <iframe src="../../assets/Relatório de Gestão Integrado da Presidência da República-2019.pdf" width="100%" height="600px"></iframe>
 
@@ -41,7 +54,7 @@ Fonte: Gov.br, Relatório de Gestão Integrado da Presidência da República –
 
 <....>
 
-## <a>Bibliografia</a>
+## <a>Referência Bibliográfica</a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, capítulo 8, tópico 8.1 Perfil de Usuário, página 166, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
@@ -62,6 +75,14 @@ Fonte: Gov.br, Relatório de Gestão Integrado da Presidência da República –
 
 >  <a id="FRM9" href="#anchor_9">9.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Gov br. 2019. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024 às 01:27.
 
+> <a id="FRM11" href="#anchor_11">11.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 1 "Mensagem dos Dirigentes". Página 21. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
+
+> <a id="FRM12" href="#anchor_12">12.</a> O que é a Imprensa Nacional e como ela surgiu?". DSI Publicações. Publicado em 16/12/2021. Disponível em: https://dsipublicacoes.com.br/o-que-e-a-imprensa-nacional-e-como-ela-surgiu/. Acesso em: 17/04/2024.
+
+> <a id="FRM13" href="#anchor_13">13.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 2.6.4. "Secretaria-Geral". Página 50. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
+
+
+## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 17/04/2024 | 17/04/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | João Artur, Luiz Gustavo |
