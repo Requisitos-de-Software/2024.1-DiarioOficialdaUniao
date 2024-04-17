@@ -60,5 +60,5 @@ Também foi decidido que o Henrique ficaria responsável por fazer a prototipage
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
-| `1.0` | 15/04/2024 | 16/04/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok) |
+| `1.0` | 15/04/2024 | 17/04/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok) |
 | `1.1` | 17/04/2024 | 17/04/2024 | Adicionado o Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
