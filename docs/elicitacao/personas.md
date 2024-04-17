@@ -6,7 +6,7 @@ As personas são personagens fictícias criadas para representar os usuários da
 O propósito das personas é oferecer uma representação do comportamento, pensamentos e objetivos do usuário, bem como os motivos subjacentes a cada ação. Embora não sejam indivíduos reais, as personas devem ser fundamentadas em perfis autênticos de usuários <a id="anchor_2" href="#FRM2">^2^</a>.
 
 ### <a>Criação e Contribuição</a>
-Como mencionado anteriormente, as personas devem ser construídas com base em <a href="/elicitacao/perfilUsuario/">perfis reais de usuários</a>. Em outras palavras, a eficácia e qualidade de uma persona estão diretamente ligadas à qualidade dos dados coletados sobre os usuários reais. Os dados foram obtidos, principalmente, com os seguintes métodos:
+Como mencionado anteriormente, as personas devem ser construídas com base em <a href="/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/">perfis reais de usuários</a>. Em outras palavras, a eficácia e qualidade de uma persona estão diretamente ligadas à qualidade dos dados coletados sobre os usuários reais. Os dados foram obtidos, principalmente, com os seguintes métodos:
 
 - Obtenção de informações diretamente com os stakeholders;
 - Realização de pesquisas de mercado e questionários direcionados a grupos de foco;
@@ -19,7 +19,7 @@ Como mencionado anteriormente, as personas devem ser construídas com base em <a
 - Promoção do consenso em relação ao design e medição de sua eficácia;
 
 ### <a>Escolha das Personas</a>
-Na definição dos <a href="/elicitacao/perfilUsuario/">perfis de usuário</a>, identificamos três categorias principais: Estado, Sociedade e Mercado. Optamos por criar pelo menos uma persona para cada categoria, seguindo critérios específicos:
+Na definição dos <a href="/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/">perfis de usuário</a>, identificamos três categorias principais: Estado, Sociedade e Mercado. Optamos por criar pelo menos uma persona para cada categoria, seguindo critérios específicos:
 
 - Estado: Este perfil abrange os órgãos da administração pública dos Poderes Legislativo, Judiciário e Executivo, que utilizam os serviços do Diário Oficial da União em nível federal, estadual ou municipal. Decidimos representar essa categoria com uma única persona, considerando que a variação reside apenas no grau de hierarquia, mas com objetivos semelhantes.
 - Sociedade: Nesta categoria, os usuários são cidadãos, e para abranger alguns dos diversos segmentos dentro desta esfera, optamos por criar três personas: uma para organizações da sociedade civil, outra para servidores públicos e uma terceira para pesquisadores e acadêmicos.
