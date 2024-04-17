@@ -107,6 +107,8 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 
 ## <a>Gravação da Reunião</a>
 
+<iframe width="640" height="480" src="https://youtu.be/VJBoFk9SVfA?si=5YPXg2TfEddUkBUr" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## <a>Bibliografia</a>
 
 > SERRANO, Milene; SERRANO, Maurício. Requisitos (Aula 07): Elicitação, Modelagem e Análise. 2022. Apresentação de Power Point. 50 slides. color. Disponível no [link](https://aprender3.unb.br/pluginfile.php/2844984/mod_resource/content/2/Requisitos%20-%20Aula%2007.pdf). Acesso em 7 de abr. 2024.
