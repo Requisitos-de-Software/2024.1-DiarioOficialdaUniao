@@ -4,9 +4,6 @@ O propósito desta página é hospedar o vídeo da apresentação da Segunda Ent
 
 ## Vídeo de Apresentação
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/Pc3TQlD6xAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 ## Tale de Critérios para a entrega 2
 
 A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
