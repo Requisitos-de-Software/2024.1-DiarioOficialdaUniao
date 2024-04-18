@@ -107,7 +107,7 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 
 ## <a>Gravação da Reunião</a>
 
-<iframe width="640" height="480" src="https://youtu.be/VJBoFk9SVfA?si=5YPXg2TfEddUkBUr" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/VJBoFk9SVfA?si=qF1-Jg9Ru15jWvFv" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## <a>Bibliografia</a>
 
