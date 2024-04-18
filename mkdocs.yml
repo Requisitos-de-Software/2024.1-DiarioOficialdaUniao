@@ -38,6 +38,7 @@ nav:
   - Pré-Rastreabilidade:
     - Rich Picture: pre-rastreabilidade/rich-picture.md
   - Elicitação:
+    - Perfil dos Usuários: elicitacao/perfilUsuario.md
     - Priorização: elicitacao/priorizacao.md
     - Personas: elicitacao/personas.md
     - Técnicas: 
