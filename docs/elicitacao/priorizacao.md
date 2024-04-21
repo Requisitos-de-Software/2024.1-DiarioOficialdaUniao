@@ -6,7 +6,7 @@ As técnicas de priorização de requisitos têm como principal objetivo ajudar 
 
 ## <a>Participantes</a>
 
-No dia 16 de abril de 2024, às 19h30, foi realizada uma reunião online entre três membros da equipe e o usuário José Roberto, servidor público do TST, utilizando a plataforma [Microsoft Teams](https://teams.microsoft.com). Durante a reunião, eles discutiram e priorizaram os requisitos do projeto, colaborando ativamente para identificar e classificar as necessidades essenciais. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de priorização está disponível em [Link](2024.1-DiarioOficialdaUniao/docs/reuniao/reuniaoPriorizacao.md) A tabela 1 apresenta os participantes da reunião.
+No dia 16 de abril de 2024, às 19h30, foi realizada uma reunião online entre três membros da equipe e o usuário José Roberto, servidor público do TST, utilizando a plataforma [Microsoft Teams](https://teams.microsoft.com). Durante a reunião, eles discutiram e priorizaram os requisitos do projeto, colaborando ativamente para identificar e classificar as necessidades essenciais. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de priorização está disponível em [Link](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos) A tabela 1 apresenta os participantes da reunião.
 
 <font size="3"><p style="text-align: center">Tabela 1: Participantes.</p></font>
 

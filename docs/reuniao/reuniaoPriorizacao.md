@@ -11,9 +11,9 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 ## 2. Participantes
 Participantes da reunião:
 
-- Douglas Marinho ([GitHub](https://github.com/M4RINH0)) - Entrevistador
-- João Artur ([GitHub](https://github.com/joao-artl)) - Entrevistador
-- Luiz Gustavo ([GitHub](https://github.com/LuizGust4vo)) - Entrevistador
+- [Douglas Marinho](https://github.com/M4RINH0) - Entrevistador
+- [João Artur](https://github.com/joao-artl) - Entrevistador
+- [Luiz Gustavo](https://github.com/LuizGust4vo) - Entrevistador
 - José Roberto - Usuário, servidor público do TST
 
 ## 3. Objetivo da Reunião
@@ -30,7 +30,7 @@ Discutir e priorizar os requisitos do projeto, utilizando técnicas como Three L
 Foram priorizados requisitos essenciais como autenticação de usuários, visualização e filtragem de conteúdo.
 
 ## 5. Encaminhamentos
-- **Documentação:** Inclusão das priorizações no documento de requisitos. Disponível em [Link]()
+- **Documentação:** Inclusão das priorizações no documento de priorização de requisitos. Disponível em [Link](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/)
 
 ## 6. Gravação da Reunião
 A reunião foi gravada e está disponível para revisão no seguinte link:
