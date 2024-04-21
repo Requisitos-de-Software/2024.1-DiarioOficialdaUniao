@@ -57,23 +57,31 @@ O resultado do questionário reflete as respostas obtidas de grupos específicos
 </br>
 Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori01][def]
+![Relatori01](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio01.png?raw=true)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
 
 </br>
 Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori02][def2]
+![Relatori02](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png?raw=true)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
 
 </br>
+
 Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori03][def3]
+![Relatori03](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio03.png?raw=true)
+<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
 
 ### Conclusão
 
-Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, concluímos que:
+Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, concluímos, conforme a tabela 01, que:
 
 ### Resultados do Questionário
+
+Tabela 01: Resultados do Questionário
 
 | Aspecto                         | Resultado                                                          |
 |---------------------------------|-----------------------------------------------------------------------|
@@ -83,6 +91,8 @@ Contudo, após a análise desses resultados obtidos do questionário e dos docum
 | Atividades Predominantes | Verificação de e-mails, uso de redes sociais, pesquisas gerais e leitura de notícias. |
 | Motivação Principal              | Obtenção de informações sobre decretos, leis, avisos e comunicados oficiais. |
 | Principais Ocupações       | Funcionários públicos, profissionais da educação e da área jurídica, além de estudantes vinculados a pesquisas específicas. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 
 
 Contudo:
