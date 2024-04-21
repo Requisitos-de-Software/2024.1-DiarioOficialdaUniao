@@ -30,11 +30,11 @@ Discutir e priorizar os requisitos do projeto, utilizando técnicas como Three L
 Foram priorizados requisitos essenciais como autenticação de usuários, visualização e filtragem de conteúdo.
 
 ## 5. Encaminhamentos
-- **Documentação:** Inclusão das priorizações no documento de priorização de requisitos. Disponível em [Link](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/)
+- **Documentação:** Inclusão das priorizações no documento de priorização de requisitos. Disponível em [link](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/)
 
 ## 6. Gravação da Reunião
-A reunião foi gravada e está disponível para revisão no seguinte link:
-[Gravação da Reunião](https://www.youtube.com/embed/VJBoFk9SVfA?si=qF1-Jg9Ru15jWvFv)
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/VJBoFk9SVfA?si=qF1-Jg9Ru15jWvFv" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## <a>Histórico de Versão</a>
 | Versão | Data       | Data Prevista de Revisão | Descrição      | Autor(es)   | Revisor(es)    |
