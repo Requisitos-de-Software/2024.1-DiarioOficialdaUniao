@@ -51,14 +51,14 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
     |----------|-------------------|---------|----------|-----------|------------|
-    |Perfil dos usuários| -- |Arthur Alves e Eric Silveira| -- |João Artur, Luiz Gustavo|17/04|
-    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04|
-    |CAMPO RESERVADO PARA ADICIONAR ATIVIDADES TÉCNICAS APÓS O ESTUDO|  |    |   |    |17/04
-    Entrevista para elicitação de requisitos|Início dia 10/04 Fim dia 12/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 12/04|Fim dia 14/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    |Iteração do Git Pages|Início dia 03/04 Fim dia 16/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|Início dia 14/04 Fim dia 17/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|17/04|
-    |Período de gravação da apresentação| -- | Douglas Marinho| -- |Eric Silveira|17/04|
+    |Perfil dos usuários| -- |Arthur Alves e Eric Silveira| -- |João Artur, Luiz Gustavo|22/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    | Execução das técnicas de elicitação de requisitos: Introspecção,Observação e Análise de Interface | -- |  Diego Sousa, João Artur, Henrique Torres  | --  | Arthur Alves, João Artur |22/04|
+    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | -- |  João Artur, Arthur Alves, Douglas Marinho, Luiz Gustavo  | --  |  Henrique Torres, Luiz Gustavo, João Artur, Diego Sousa  |22/04
+    Entrevista para priorização de requisitos|Início dia 10/04 Fim dia 12/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 12/04 Fim dia 14/04| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo |22/04|
+    |Iteração do Git Pages|Início dia 03/04 Fim dia 16/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|Início dia 14/04 Fim dia 17/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|22/04|
+    |Período de gravação da apresentação| -- | Douglas Marinho| -- |Eric Silveira|22/04|
     |Correção pós apresentação| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
@@ -70,13 +70,15 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
     |----------|-------------------|---------|----------|-----------|------------|
-    |Perfil dos usuários| -- |Arthur Alves e Eric Silveira| -- |João Artur, Luiz Gustavo|17/04|
-    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    Entrevista para elicitação de requisitos| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|17/04|
-    |Iteração do Git Pages| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|17/04|
-    |Período de gravação da apresentação| -- | Douglas Marinho| -- |Eric Silveira|17/04|
-    |Correção pós apresentação| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
+    |Perfil dos usuários| Início dia 17/04 Fim dia 21/04 |Arthur Alves e Eric Silveira| Início dia 17/04 Fim dia 21/04 |João Artur, Luiz Gustavo|22/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    | Execução das técnicas de elicitação de requisitos: Introspecção,Observação e Análise de Interface | Início dia 06/04 Fim dia 17/04 |  Diego Sousa, João Artur, Henrique Torres  | Início dia 06/04 Fim dia 17/04  | Arthur Alves, João Artur |22/04|
+    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | Início dia 06/04 Fim dia 16/04 |  João Artur, Arthur Alves, Douglas Marinho, Luiz Gustavo  | Início dia 08/04 Fim dia 17/04  |  Henrique Torres, Luiz Gustavo, João Artur, Diego Sousa  |22/04
+    Entrevista para elicitação de requisitos| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Iteração do Git Pages| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|22/04|
+    |Período de gravação da apresentação| 21/04 | Douglas Marinho| 21/04 |Eric Silveira|22/04|
+    |Correção pós apresentação| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
 
     <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
 
