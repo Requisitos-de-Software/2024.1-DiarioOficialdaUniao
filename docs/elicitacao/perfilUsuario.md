@@ -1,6 +1,6 @@
 ## <a>O que é o perfil do usuário?</a>
 
-O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Silva & Barbosa, 2010).
+O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Silva & Barbosa, 2010)<a id="anchor_3" href="#FRM3">^3^</a>.
 
 ## <a>Objetivo do perfil do usuário?</a>
 
@@ -31,7 +31,7 @@ Seguindo na mesma linha de pesquisamos, encontramos o site e-dou<a id="anchor_8"
 
 Assim, isso nos ajudou a definir um perfil de foco na qual poderiam ser candidatos a receberem a aplicação do questionário para conseguirmos mais informações sobre nosso perfil do usuário. Vale lembrar que já havíamos publicado o questionário aleatóriamente em um grupo da faculdade e não obtivemos sucesso sobre a utilização do aplicativo.
 
-Após uma pesquisa meticulosa, conseguimos acessar o Relatório de Gestão Integrado da Presidência da República - 2019, este documento trata-se de um relato integrado que transmite de maneira simples, precisa e ampla como os recursos orçamentários foram utilizados e em que medida beneficiaram a sociedade brasileira<a id="anchor_11" href="#FRM11">^11^</a>. Dentro do relatório, buscamos informações relacionadas à Imprensa Nacional, o órgão que tem como finalidade realizar a publicação, no Diário Oficial da União, de novas informações atribuídas aos atos oficiais da administração pública federal<a id="anchor_12" href="#FRM12">^12^</a>. Como resultado da incessante busca, encontramos a definição dos perfis do usuário no relatório, elaboradas pelo referido órgão<a id="anchor_13" href="#FRM13">^13^</a>:
+Após uma pesquisa meticulosa, conseguimos acessar o Relatório de Gestão Integrado da Presidência da República - 2019, este documento trata-se de um relato integrado que transmite de maneira simples, precisa e ampla como os recursos orçamentários foram utilizados e em que medida beneficiaram a sociedade brasileira<a id="anchor_10" href="#FRM10">^10^</a>. Dentro do relatório, buscamos informações relacionadas à Imprensa Nacional, o órgão que tem como finalidade realizar a publicação, no Diário Oficial da União, de novas informações atribuídas aos atos oficiais da administração pública federal<a id="anchor_11" href="#FRM11">^11^</a>. Como resultado da incessante busca, encontramos a definição dos perfis do usuário no relatório, elaboradas pelo referido órgão<a id="anchor_12" href="#FRM12">^12^</a>:
 
 - Estado: Órgãos Estatais: órgãos da administração pública
 dos Poderes Legislativo, Judiciário e Executivo que utilizam
@@ -52,7 +52,59 @@ fornecedoras de produtos ou serviços à Imprensa Nacional.
 
 ## <a>Resultados</a>
 
-<....>
+O resultado do questionário reflete as respostas obtidas de grupos específicos de usuários do aplicativo do Diário Oficial da União. Estes grupos incluem membros de sindicatos, profissionais envolvidos na gestão de empresas paraestatais, educadores, grupo de funcionários da Câmara dos Deputados e estudantes pesquisadores que têm um contato direto e regular com o aplicativo. Observe de forma gráfica os resultados nas figuras 01, 02 e 03:
+
+</br>
+Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori01](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio01.png?raw=true)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
+</br>
+Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori02](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png?raw=true)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
+</br>
+
+Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori03](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio03.png?raw=true)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
+
+### Conclusão
+
+Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, concluímos, conforme a tabela 01, que:
+
+### Resultados do Questionário
+
+Tabela 01: Resultados do Questionário
+
+| Aspecto                         | Resultado                                                          |
+|---------------------------------|-----------------------------------------------------------------------|
+| Gênero                          | Predominância do gênero feminino, com pouca diferença.                |
+| Faixa Etária                     | Maioria entre 31 e 50 anos.                                           |
+| Experiência de Usabilidade | Predominantemente neutra, indicando facilidade de uso.                 |
+| Atividades Predominantes | Verificação de e-mails, uso de redes sociais, pesquisas gerais e leitura de notícias. |
+| Motivação Principal              | Obtenção de informações sobre decretos, leis, avisos e comunicados oficiais. |
+| Principais Ocupações       | Funcionários públicos, profissionais da educação e da área jurídica, além de estudantes vinculados a pesquisas específicas. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
+
+
+Contudo:
+
+- O perfil dos usuários demonstra uma predominância do gênero feminino, especialmente entre 31 e 50 anos, com uma experiência de usabilidade geralmente neutra, indicando uma interface amigável.
+- As atividades mais comuns dos usuários incluem a verificação de e-mails, uso de redes sociais, pesquisas gerais e leitura de notícias, com uma motivação principal voltada para a obtenção de informações oficiais e legais.
+- As principais ocupações dos usuários são funcionários públicos, profissionais da educação e da área jurídica, além de estudantes envolvidos em pesquisas específicas relacionadas aos serviços oferecidos.
+
+Essas informações são valiosas porque permitem entender as necessidades, preferências e expectativas do público-alvo. Ao conhecer melhor o perfil dos usuários, é possível direcionar esforços para fazer ajustes e melhorias específicas que atendam de forma mais eficiente e eficaz às demandas desses usuários, proporcionando uma experiência mais satisfatória e aumentando a utilidade do aplicativo para eles.
+
+
+
+
 
 ## <a>Referência Bibliográfica</a>
 
@@ -75,14 +127,21 @@ fornecedoras de produtos ou serviços à Imprensa Nacional.
 
 >  <a id="FRM9" href="#anchor_9">9.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Gov br. 2019. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024 às 01:27.
 
-> <a id="FRM11" href="#anchor_11">11.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 1 "Mensagem dos Dirigentes". Página 21. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
+> <a id="FRM10" href="#anchor_10">10.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 1 "Mensagem dos Dirigentes". Página 21. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
 
-> <a id="FRM12" href="#anchor_12">12.</a> O que é a Imprensa Nacional e como ela surgiu?". DSI Publicações. Publicado em 16/12/2021. Disponível em: https://dsipublicacoes.com.br/o-que-e-a-imprensa-nacional-e-como-ela-surgiu/. Acesso em: 17/04/2024.
+> <a id="FRM11" href="#anchor_11">11.</a> O que é a Imprensa Nacional e como ela surgiu?". DSI Publicações. Publicado em 16/12/2021. Disponível em: https://dsipublicacoes.com.br/o-que-e-a-imprensa-nacional-e-como-ela-surgiu/. Acesso em: 17/04/2024.
 
-> <a id="FRM13" href="#anchor_13">13.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 2.6.4. "Secretaria-Geral". Página 50. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
+> <a id="FRM12" href="#anchor_12">12.</a> Relatório de Gestão Integrado da Presidência da República – 2019. Secretaria-Geral. 2019. Tópico 2.6.4. "Secretaria-Geral". Página 50. Disponível em: <https://www.gov.br/imprensanacional/pt-br/acesso-a-informacao/auditorias/relatorios-de-gestao/relatorio-gestao-do-exercicio-de-2019.pdf/view>. Acesso em 17 de abril de 2024
 
 
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 17/04/2024 | 17/04/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | João Artur, Luiz Gustavo |
+| `1.1` | 21/04/2024 | 21/04/2024 |Finalização Documentação do Perfil dos Usuários | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok)|
+
+[def]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio01.png
+
+[def2]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png
+
+[def3]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png

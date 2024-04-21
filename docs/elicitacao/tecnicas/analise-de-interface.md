@@ -52,5 +52,5 @@ Legenda das Tabelas 1 e 2:
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|16/04/2024|17/04/2024| Criação da página | [Henrique Torres](https://github.com/henriqtorresl)| |
-|`1.1`|17/04/2024|17/04/2024| Adicionando o conteúdo da página | [Henrique Torres](https://github.com/henriqtorresl)| |
+|`1.0`|16/04/2024|17/04/2024| Criação da página | [Henrique Torres](https://github.com/henriqtorresl)| [Arthur Alves](https://github.com/arthrok) |
+|`1.1`|17/04/2024|17/04/2024| Adicionando o conteúdo da página | [Henrique Torres](https://github.com/henriqtorresl)| [Arthur Alves](https://github.com/arthrok) |

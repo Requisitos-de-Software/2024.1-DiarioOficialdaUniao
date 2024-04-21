@@ -22,6 +22,8 @@ Em 13 de abril de 2024, das 14h às 15h, membros da equipe se reuniram numa sess
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
+### [Link para a gravação da observação.](https://www.youtube.com/watch?v=WXvd3PULKm4)
+
 
 ## Requisitos elicitados
 Legenda das Tabelas 2 e 3:
@@ -41,7 +43,7 @@ Legenda das Tabelas 2 e 3:
 |RF02|	Visualização de edições diárias do Diário Oficial.|	OBS02| Sim|
 |RF03|	Busca por palavras-chave em documentos.	|OBS03| Não|
 |RF04|	Filtragem de conteúdo por data, categoria ou órgão emissor.	|OBS04| Sim |
-|RF05|	Download de edições e documentos em formatos PDF.	|OBS05| Não |
+|RF05|	Download de edições e documentos em formatos PDF.	|OBS05| Sim |
 |RF06|	Notificações push sobre novas publicações relevantes.|	OBS06| Não|
 |RF07|	Acesso a edições anteriores arquivadas.	|OBS07| Sim|
 |RF08|	Integração com sistemas de assinatura digital.	|OBS08| Não|
@@ -82,3 +84,4 @@ Legenda das Tabelas 2 e 3:
 |`1.0`|06/04/2024|06/04/2024| Introdução e ideias iniciais | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
 |`1.1`| 15/04/2024 | 16/04/2024 | Adição da aba de requisitos elicitados | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
 |`1.2`| 15/04/2024 | 16/04/2024 | Correção nas tabelas| [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |
+|`1.2`| 16/04/2024 | 16/04/2024 | Adição do vídeo | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/arthrok) e [João Artur](https://github.com/joao-artl) |

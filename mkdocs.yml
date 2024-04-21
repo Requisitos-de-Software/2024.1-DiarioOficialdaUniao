@@ -42,7 +42,6 @@ nav:
     - Priorização: elicitacao/priorizacao.md
     - Personas: elicitacao/personas.md
     - Técnicas: 
-      - Brainstorming: elicitacao/tecnicas/brainstorming.md
       - Introspecção: elicitacao/tecnicas/introspeccao.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Analise de Interface: elicitacao/tecnicas/analise-de-interface.md
