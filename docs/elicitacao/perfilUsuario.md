@@ -52,28 +52,27 @@ fornecedoras de produtos ou serviços à Imprensa Nacional.
 
 ## <a>Resultados</a>
 
-O resultado do questionário reflete as respostas obtidas de grupos específicos de usuários do aplicativo do Diário Oficial da União. Estes grupos incluem membros de sindicatos, profissionais envolvidos na gestão de empresas paraestatais, educadores, grupo de funcionários da Câmara dos Deputados e estudantes pesquisadores que têm um contato direto e regular com o aplicativo.
+O resultado do questionário reflete as respostas obtidas de grupos específicos de usuários do aplicativo do Diário Oficial da União. Estes grupos incluem membros de sindicatos, profissionais envolvidos na gestão de empresas paraestatais, educadores, grupo de funcionários da Câmara dos Deputados e estudantes pesquisadores que têm um contato direto e regular com o aplicativo. Observe de forma gráfica os resultados nas figuras 01, 02 e 03:
 
 </br>
 Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
 
 ![Relatori01](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio01.png?raw=true)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 </br>
 Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
 
 ![Relatori02](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png?raw=true)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 </br>
 
 Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
 
 ![Relatori03](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio03.png?raw=true)
-<font size="3"><p style="text-align: center"><b>Fonte:</b> TROCAR ERIC</p></font>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 
 ### Conclusão
 
