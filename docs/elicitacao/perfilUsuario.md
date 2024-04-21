@@ -52,7 +52,50 @@ fornecedoras de produtos ou serviços à Imprensa Nacional.
 
 ## <a>Resultados</a>
 
-<....>
+O resultado do questionário reflete as respostas obtidas de grupos específicos de usuários do aplicativo do Diário Oficial da União. Estes grupos incluem membros de sindicatos, profissionais envolvidos na gestão de empresas paraestatais, educadores, grupo de funcionários da Câmara dos Deputados e estudantes pesquisadores que têm um contato direto e regular com o aplicativo.
+
+</br>
+Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori01][def]
+
+</br>
+Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori02][def2]
+
+</br>
+Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
+
+![Relatori03][def3]
+
+### Conclusão
+
+Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, concluímos que:
+
+### Resultados do Questionário
+
+| Aspecto                         | Resultado                                                          |
+|---------------------------------|-----------------------------------------------------------------------|
+| Gênero                          | Predominância do gênero feminino, com pouca diferença.                |
+| Faixa Etária                     | Maioria entre 31 e 50 anos.                                           |
+| Experiência de Usabilidade | Predominantemente neutra, indicando facilidade de uso.                 |
+| Atividades Predominantes | Verificação de e-mails, uso de redes sociais, pesquisas gerais e leitura de notícias. |
+| Motivação Principal              | Obtenção de informações sobre decretos, leis, avisos e comunicados oficiais. |
+| Principais Ocupações       | Funcionários públicos, profissionais da educação e da área jurídica, além de estudantes vinculados a pesquisas específicas. |
+
+
+Contudo:
+
+- O perfil dos usuários demonstra uma predominância do gênero feminino, especialmente entre 31 e 50 anos, com uma experiência de usabilidade geralmente neutra, indicando uma interface amigável.
+- As atividades mais comuns dos usuários incluem a verificação de e-mails, uso de redes sociais, pesquisas gerais e leitura de notícias, com uma motivação principal voltada para a obtenção de informações oficiais e legais.
+- As principais ocupações dos usuários são funcionários públicos, profissionais da educação e da área jurídica, além de estudantes envolvidos em pesquisas específicas relacionadas aos serviços oferecidos.
+
+Essas informações são valiosas porque permitem entender as necessidades, preferências e expectativas do público-alvo. Ao conhecer melhor o perfil dos usuários, é possível direcionar esforços para fazer ajustes e melhorias específicas que atendam de forma mais eficiente e eficaz às demandas desses usuários, proporcionando uma experiência mais satisfatória e aumentando a utilidade do aplicativo para eles.
+
+
+
+
 
 ## <a>Referência Bibliográfica</a>
 
@@ -86,3 +129,10 @@ fornecedoras de produtos ou serviços à Imprensa Nacional.
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 17/04/2024 | 17/04/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | João Artur, Luiz Gustavo |
+| `1.1` | 21/04/2024 | 21/04/2024 |Finalização Documentação do Perfil dos Usuários | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok)|
+
+[def]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio01.png
+
+[def2]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png
+
+[def3]: https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/Relatorio02.png
