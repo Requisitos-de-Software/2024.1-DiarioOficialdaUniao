@@ -74,7 +74,7 @@ Legenda das Tabelas 2 e 3:
 | RNF05 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. | IS13                                   | Sim         |
 | RNF06 |O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.      | IS14                        | Não         |
 | RNF07 |O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.      | IS15         | Sim         |
-| RNF08 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. |  IS16      | Nã          |
+| RNF08 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. |  IS16      | Não         |
 
 </center>
 
