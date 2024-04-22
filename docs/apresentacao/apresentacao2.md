@@ -3,6 +3,7 @@
 O propósito desta página é hospedar o vídeo da apresentação da Segunda Entrega e a demonstrar a tabela de critérios solicitados para a entrega 2. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
 ## Vídeo de Apresentação
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/w9e5tQl3Iso" title="Apresentação da Entrega 2 - Grupo 01 (Diário Oficial da União)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tale de Critérios para a entrega 2
 
@@ -37,3 +38,4 @@ A git page possui?  | Sim/Não/Incompleto
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|16/04/2024|17/04/2024| Descrição da Apresentação referente a entrega 2 (sem vídeo) | [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
+|`1.1`| 22/04/2024 | 22/04/2024 | Vídeo da Apresentação | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |
