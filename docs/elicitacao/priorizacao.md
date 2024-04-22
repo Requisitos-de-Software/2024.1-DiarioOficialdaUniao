@@ -92,6 +92,14 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 |RF07|	Acesso a edições anteriores arquivadas.	|OBS07|  Médio | First Things | Must Have |
 |RF08|	Integração com sistemas de assinatura digital.	|OBS08| Baixo |  Nice to Have  | Won't Have|
 |RF09|	Compartilhamento de documentos via redes sociais e email.|OBS09 |  Baixo | First Things | Must Have |
+| RF10  | O aplicativo deve permitir buscas detalhadas por tópicos específicos.               | IS01  | Médio             | Important Things| Could Have |
+| RF11  | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline. | IS02  | Alto              | First Things    | Must Have  |
+| RF12  | O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes. | IS03  | Médio             | Important Things| Could Have |
+| RF13  | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.         | IS04  | Baixo             | Nice to Have    | Won't Have |
+| RF14  | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | IS05  | Médio  | Important Things| Could Have |
+| RF15  | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos. | IS06  | Alto   | First Things    | Must Have  |
+| RF16  | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.     | IS07  | Médio             | Nice to Have    | Won't Have |
+| RF17  | O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados. | IS08  | Baixo | Nice to Have    | Won't Have |
 |RNF01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 |  Alto | First Things | Won't Have |
 |RNF02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11|  Médio | Important Things | Could Have |
 |RNF03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Alto | First Things | Must Have |
@@ -101,6 +109,14 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 |RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Alto |First Things | Must Have |
 |RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17|  Médio | First Things | Must Have |
 |RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 |  Médio | First Things | Must Have |
+| RNF10 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.        | IS09  | Alto              | First Things    | Must Have  |
+| RNF11 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.      | IS10  | Alto              | First Things    | Must Have  |
+| RNF12 | O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada. | IS11  | Alto | First Things    | Must Have  |
+| RNF13 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. | IS12  | Alto              | First Things    | Must Have  |
+| RNF14 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.               | IS13  | Médio             | Important Things| Could Have |
+| RNF15 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.        | IS14  | Médio             | Nice to Have    | Won't Have |
+| RNF16 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. | IS15  | Alto | First Things    | Must Have  |
+| RNF17 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | IS16  | Médio | Nice to Have    | Won't Have |
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </br>
