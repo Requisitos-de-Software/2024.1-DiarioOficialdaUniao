@@ -83,8 +83,6 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 ## Entrega 3 - Modelagem de Requisitos
 
-### Planejado
-
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Modelagem de Requisitos</p></font>
@@ -103,8 +101,6 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da primeira 
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
-### Planejado
-
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Modelagem de Requisitos - Ágil</p></font>
@@ -122,8 +118,6 @@ Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim di
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
-### Planejado
-
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da primeira metade da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de Requisitos: Verificação e Validação</p></font>
@@ -139,8 +133,6 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da primeira 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
-
-### Planejado
 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da segunda parte da quinta entrega.
 
@@ -158,8 +150,6 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da segunda 
 
 ## Entrega 6 - Pós-Rastreabilidade
 
-### Planejado
-
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Pós-Rastreabilidade</p></font>
@@ -175,8 +165,6 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 ## Entrega Final
-
-### Planejado
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega final.
 
