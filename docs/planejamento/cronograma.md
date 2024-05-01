@@ -42,8 +42,6 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 ## Entrega 2 - Elicitação – Técnicas e Priorização
 
-### Planejado
-
 === "Cronograma Planejado"
     Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
