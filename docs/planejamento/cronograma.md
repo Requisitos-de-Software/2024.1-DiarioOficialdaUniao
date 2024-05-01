@@ -42,8 +42,6 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 ## Entrega 2 - Elicitação – Técnicas e Priorização
 
-### Planejado
-
 === "Cronograma Planejado"
     Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
@@ -71,11 +69,11 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
     |----------|-------------------|---------|----------|-----------|------------|
     |Perfil dos usuários| Início dia 17/04 Fim dia 21/04 |Arthur Alves e Eric Silveira| Início dia 17/04 Fim dia 21/04 |João Artur, Luiz Gustavo|22/04|
-    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
-    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| -- |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| Início dia 06/04 Fim dia 14/04 |Diego Sousa e Luiz Gustavo| 15/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| Início dia 06/04 Fim dia 15/04 |Douglas Marinho e João Artur| 15/04 |Henrique Torres, João Artur e Luiz Gustavo|22/04|
     | Execução das técnicas de elicitação de requisitos: Introspecção,Observação e Análise de Interface | Início dia 06/04 Fim dia 17/04 |  Diego Sousa, João Artur, Henrique Torres  | Início dia 06/04 Fim dia 17/04  | Arthur Alves, João Artur |22/04|
-    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | Início dia 06/04 Fim dia 16/04 |  João Artur, Arthur Alves, Douglas Marinho, Luiz Gustavo  | Início dia 08/04 Fim dia 17/04  |  Henrique Torres, Luiz Gustavo, João Artur, Diego Sousa  |22/04
-    Entrevista para elicitação de requisitos| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | 16/04 | Douglas Marinho, João Artur, Luiz Gustavo  | 17/04  | Diego Sousa  |22/04
+    Entrevista para priorização de requisitos| 16/04 |Douglas Marinho,João Artur e Luiz Gustavo| 21/04 | Diego Sousa |22/04|
     |Iteração do Git Pages| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|22/04|
     |Período de gravação da apresentação| 21/04 | Douglas Marinho| 21/04 |Eric Silveira|22/04|
     |Correção pós apresentação| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
@@ -84,8 +82,6 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
 
 ## Entrega 3 - Modelagem de Requisitos
-
-### Planejado
 
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da primeira entrega.
 
@@ -105,8 +101,6 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da primeira 
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
-### Planejado
-
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Modelagem de Requisitos - Ágil</p></font>
@@ -124,8 +118,6 @@ Modelagem de Requisitos - Ágil: Histórias de Usuário|Início dia 07/05 Fim di
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
-### Planejado
-
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da primeira metade da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Análise de Requisitos: Verificação e Validação</p></font>
@@ -141,8 +133,6 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da primeira 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
-
-### Planejado
 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da segunda parte da quinta entrega.
 
@@ -160,8 +150,6 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da segunda 
 
 ## Entrega 6 - Pós-Rastreabilidade
 
-### Planejado
-
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Pós-Rastreabilidade</p></font>
@@ -177,8 +165,6 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta en
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 ## Entrega Final
-
-### Planejado
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega final.
 
