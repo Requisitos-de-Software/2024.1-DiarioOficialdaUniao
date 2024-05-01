@@ -71,10 +71,10 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Atividade|Período de desenvolvimento|Responsável|Revisão|Revisores|Data da Entrega|
     |----------|-------------------|---------|----------|-----------|------------|
     |Perfil dos usuários| Início dia 17/04 Fim dia 21/04 |Arthur Alves e Eric Silveira| Início dia 17/04 Fim dia 21/04 |João Artur, Luiz Gustavo|22/04|
-    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| -- |Diego Sousa e Luiz Gustavo| Início dia 06/04 Fim dia 14/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
-    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| -- |Douglas Marinho e João Artur| Início dia 06/04 Fim dia 15/04 |Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de elicitação de requisitos e quais serão usadas no projeto| Início dia 06/04 Fim dia 14/04 |Diego Sousa e Luiz Gustavo| 15/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|22/04|
+    |Estudo das técnicas de priorização de requisitos e quais serão usadas no projeto| Início dia 06/04 Fim dia 15/04 |Douglas Marinho e João Artur| 15/04 |Henrique Torres, João Artur e Luiz Gustavo|22/04|
     | Execução das técnicas de elicitação de requisitos: Introspecção,Observação e Análise de Interface | Início dia 06/04 Fim dia 17/04 |  Diego Sousa, João Artur, Henrique Torres  | Início dia 06/04 Fim dia 17/04  | Arthur Alves, João Artur |22/04|
-    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | 16/04 | Douglas Marinho, João Artur, Luiz Gustavo  | Início dia 08/04 Fim dia 17/04  | Diego Sousa  |22/04
+    | Execução das técnicas de priorização de requisitos: Three Level Scale, First Things First(FTF), MoSCoW | 16/04 | Douglas Marinho, João Artur, Luiz Gustavo  | 17/04  | Diego Sousa  |22/04
     Entrevista para priorização de requisitos| 16/04 |Douglas Marinho,João Artur e Luiz Gustavo| 21/04 | Diego Sousa |22/04|
     |Iteração do Git Pages| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 21/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo|22/04|
     |Período de gravação da apresentação| 21/04 | Douglas Marinho| 21/04 |Eric Silveira|22/04|
