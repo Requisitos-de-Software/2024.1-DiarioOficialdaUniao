@@ -26,8 +26,8 @@ No dia 16 de abril de 2024, às 19h30, foi realizada uma reunião online entre t
 ## <a>Técnicas Utilizadas</a>
 
   - [Three Level Scale](#three-level-scale)
-  - [First Things First(FTF)](#first-things-firstftf)
   - [MoSCoW](#moscow)
+  - [In or Out](#in-or-out)
 
 ## <a>Three Level Scale</a>
 
@@ -43,30 +43,6 @@ A chave para o sucesso dessa técnica reside na concordância das partes interes
 
 Embora a técnica não envolva a atribuição de classificações numéricas aos requisitos, mas sim uma categorização em grupos de prioridade, é crucial considerar as dependências entre eles. As interdependências podem influenciar a importância e o impacto dos requisitos, portanto, é recomendado avaliá-las durante o processo de priorização. Dessa forma, as decisões informadas sobre a priorização podem ser tomadas levando em conta todas as interações entre os requisitos.
 
-## <a>First Things First(FTF)</a>
-
-O método First Things First (FTF) é uma abordagem de gerenciamento de tempo e priorização popularizada por Stephen R. Covey em seu livro "First Things First", que é uma continuação de seu best-seller "Os 7 Hábitos das Pessoas Altamente Eficazes".
-
-Em resumo, o método FTF enfoca a identificação e a priorização das atividades mais importantes e significativas em nossa vida, em vez de simplesmente reagir às demandas urgentes do momento. Aqui estão os princípios-chave do método:
-
-1. Identificar o que é importante: O FTF incentiva a identificação das atividades que são verdadeiramente importantes para alcançar nossos objetivos pessoais e profissionais. Isso envolve uma reflexão profunda sobre nossos valores e metas.
-
-2. Priorização das atividades importantes: Uma vez identificadas as atividades importantes, é necessário priorizá-las com base em sua relevância e impacto em nossos objetivos de longo prazo. Isso implica em concentrar tempo e energia nas coisas que realmente importam.
-
-3. Eliminação do desnecessário: O método FTF também sugere eliminar ou minimizar atividades que não contribuem significativamente para nossos objetivos prioritários. Isso pode envolver dizer não a compromissos desnecessários ou delegar tarefas menos importantes.
-
-4. Planejamento e organização: Uma parte fundamental do FTF é o planejamento e a organização do tempo para se concentrar nas atividades prioritárias. Isso pode incluir o uso de agendas, listas de tarefas e outras ferramentas de gerenciamento de tempo.
-
-5. Equilíbrio entre vida pessoal e profissional: O método FTF reconhece a importância de equilibrar as demandas da vida pessoal e profissional. Isso significa reservar tempo para atividades familiares, lazer e autocuidado, além de trabalho e responsabilidades profissionais.
-
-Durante o metódo de priorização FTF um requisito pode ser dividido em três tipos:
-
-- First Things (FT): Essa categoria inclui os requisitos que são considerados prioritários e essenciais para o sucesso do projeto. São as funcionalidades ou características sem as quais o projeto não pode ser considerado um sucesso. Esses requisitos geralmente estão alinhados com os objetivos centrais do projeto e têm um impacto significativo no valor entregue aos usuários ou clientes.
-
-- Important Things (IT): Esta categoria engloba os requisitos que são importantes para o projeto, mas não são críticos para sua conclusão bem-sucedida. São funcionalidades ou características que agregam valor ao projeto e são desejáveis de se ter, mas sua ausência não comprometeria fundamentalmente o sucesso do projeto.
-
-- Nice to Have (NTH): Estes são os requisitos que são considerados bons de se ter, mas não são essenciais para o sucesso do projeto. Geralmente são funcionalidades ou características adicionais que podem aumentar a satisfação do usuário ou melhorar a experiência do produto, mas sua implementação pode ser adiada para versões futuras do software ou projetos posteriores
-
 ## <a>MoSCoW</a>
 
 A ideia central do método MoSCoW é classificar os requisitos ou funcionalidades do projeto em quatro categorias, ajudando a equipe a focar nos elementos mais importantes e decisivos para o sucesso do projeto. As quatro categorias formam um acrônimo - Must have, Should have, Could have e Won't have.
@@ -77,46 +53,52 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
     - **C**uld have: Esses são os requisitos desejáveis, mas não essenciais. Eles são considerados opcionais e podem ser incluídos se houver tempo e recursos disponíveis. 
     - **W**on't have: Esses são os requisitos que a equipe decidiu explicitamente não incluir no escopo do projeto, pelo menos na iteração atual. Eles podem ser considerados para futuras versões do projeto, mas não serão abordados no momento. Isso geralmente é feito devido a restrições de tempo, recursos ou prioridades.
 
+## <a>In or Out</a>
+
+A técnica "In or Out" é uma abordagem simples para priorizar requisitos. Consiste em listar os requisitos e, junto com um grupo de stakeholders, tomar uma decisão binária: "Está dentro ou está fora?". Ao aplicar essa técnica, é importante ter em mente os objetivos do negócio e procurar reduzir a lista de requisitos para apenas o mínimo necessário para aquela versão. Posteriormente, ao implementar essa versão, o processo pode ser repetido com os requisitos restantes para a próxima entrega.
+
+
 ## <a>Tabela de Requisitos Priorizados</a>
 
 <figcaption>Tabela 2: Tabela de priorização de requisitos.</figcaption>
 
-| Tipo | Descrição         | <a id="anchor_IS" style="visibility: hidden;"></a> ID | Three Level Scale |FTF | MoSCoW |
-| ---- | ---------------- | ----------------- | ------------ | ---- | ---- | 
-|RF01|	Autenticação de usuários para acesso seguro.	| OBS01 |  Alto | First Things | Must Have|
-|RF02|	Visualização de edições diárias do Diário Oficial.|	OBS02|  Alto | First Things | Must Have |
-|RF03|	Busca por palavras-chave em documentos.	|OBS03|  Baixo | Important Things | Could Have |
-|RF04|	Filtragem de conteúdo por data, categoria ou órgão emissor.	|OBS04|  Alto | First Things | Must Have |
-|RF05|	Download de edições e documentos em formatos PDF.	|OBS05|  Médio | Nice to Have  | Won't Have |
-|RF06|	Notificações push sobre novas publicações relevantes.|	OBS06|  Médio | Important Things | Could Have |
-|RF07|	Acesso a edições anteriores arquivadas.	|OBS07|  Médio | First Things | Must Have |
-|RF08|	Integração com sistemas de assinatura digital.	|OBS08| Baixo |  Nice to Have  | Won't Have|
-|RF09|	Compartilhamento de documentos via redes sociais e email.|OBS09 |  Baixo | First Things | Must Have |
-| RF10  | O aplicativo deve permitir buscas detalhadas por tópicos específicos.               | IS01  | Médio             | Important Things| Could Have |
-| RF11  | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline. | IS02  | Alto              | First Things    | Must Have  |
-| RF12  | O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes. | IS03  | Médio             | Important Things| Could Have |
-| RF13  | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.         | IS04  | Baixo             | Nice to Have    | Won't Have |
-| RF14  | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | IS05  | Médio  | Important Things| Could Have |
-| RF15  | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos. | IS06  | Alto   | First Things    | Must Have  |
-| RF16  | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.     | IS07  | Médio             | Nice to Have    | Won't Have |
-| RF17  | O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados. | IS08  | Baixo | Nice to Have    | Won't Have |
-|RNF01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 |  Alto | First Things | Won't Have |
-|RNF02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11|  Médio | Important Things | Could Have |
-|RNF03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Alto | First Things | Must Have |
-|RNF04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Alto | First Things | Must Have|
-|RNF05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Médio | Nice to Have | Won't Have |
-|RNF06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Alto | First Things | Must Have |
-|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Alto |First Things | Must Have |
-|RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17|  Médio | First Things | Must Have |
-|RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 |  Médio | First Things | Must Have |
-| RNF10 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.        | IS09  | Alto              | First Things    | Must Have  |
-| RNF11 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.      | IS10  | Alto              | First Things    | Must Have  |
-| RNF12 | O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada. | IS11  | Alto | First Things    | Must Have  |
-| RNF13 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. | IS12  | Alto              | First Things    | Must Have  |
-| RNF14 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.               | IS13  | Médio             | Important Things| Could Have |
-| RNF15 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.        | IS14  | Médio             | Nice to Have    | Won't Have |
-| RNF16 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. | IS15  | Alto | First Things    | Must Have  |
-| RNF17 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | IS16  | Médio | Nice to Have    | Won't Have |
+| Tipo | Descrição         | <a id="anchor_IS" style="visibility: hidden;"></a> ID | Three Level Scale | MoSCoW | In or Out |
+| ---- | ---------------- | ----------------- | ------------ | ---- | --------- |
+|RF01|	Autenticação de usuários para acesso seguro.	| OBS01 |  Alto | Must Have | In |
+|RF02|	Visualização de edições diárias do Diário Oficial.|	OBS02|  Alto | Must Have | In |
+|RF03|	Busca por palavras-chave em documentos.	|OBS03|  Baixo  | Could Have | In |
+|RF04|	Filtragem de conteúdo por data, categoria ou órgão emissor.	|OBS04|  Alto | Must Have | In |
+|RF05|	Download de edições e documentos em formatos PDF.	|OBS05|  Médio | Won't Have | Out |
+|RF06|	Notificações push sobre novas publicações relevantes.|	OBS06|  Médio | Could Have | In |
+|RF07|	Acesso a edições anteriores arquivadas.	|OBS07|  Médio | Must Have | In |
+|RF08|	Integração com sistemas de assinatura digital.	|OBS08| Baixo | Won't Have| Out |
+|RF09|	Compartilhamento de documentos via redes sociais e email.|OBS09 |  Baixo | Must Have | In |
+| RF10  | O aplicativo deve permitir buscas detalhadas por tópicos específicos.               | IS01  | Médio             | Could Have | In |
+| RF11  | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline. | IS02  | Alto              | Must Have  | In |
+| RF12  | O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes. | IS03  | Médio             | Could Have | In |
+| RF13  | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.         | IS04  | Baixo             | Won't Have | Out |
+| RF14  | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | IS05  | Médio  | Could Have | In |
+| RF15  | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos. | IS06  | Alto   | Must Have  | In |
+| RF16  | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.     | IS07  | Médio             | Won't Have | Out |
+| RF17  | O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados. | IS08  | Baixo | Won't Have | Out |
+|RNF01|	Alta disponibilidade do sistema, com 99,9% de uptime.	| OBS10 |  Alto | Won't Have | Out |
+|RNF02|	Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|	OBS11|  Médio | Could Have | In |
+|RNF03|	Design responsivo que se adapta a tablets e smartphones.	|OBS12| Alto | Must Have | In |
+|RNF04|	Segurança de dados com criptografia de ponta-a-ponta.	|OBS13| Alto | Must Have| In |
+|RNF05|	Suporte multilíngue para facilitar o acesso por usuários não-nativos.	|OBS14| Médio | Won't Have | Out |
+|RNF06|	Tempo de resposta de busca inferior a 2 segundos.|	OBS15| Alto | Must Have | In |
+|RNF07|	Implementação de medidas de acessibilidade para usuários com deficiência.	|OBS16| Alto | Must Have | In |
+|RNF08|	Facilidade de atualização de conteúdo pelo gestor do sistema.	|OBS17|  Médio | Must Have | In |
+|RNF09|	Suporte técnico com tempo de resposta de 24 horas.|OBS18 |  Médio | Must Have | In |
+| RNF10 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.        | IS09  | Alto              | Must Have  | In |
+| RNF11 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.      | IS10  | Alto              | Must Have  | In |
+| RNF12 | O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada. | IS11  | Alto | Must Have  | In |
+| RNF13 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. | IS12  | Alto              | Must Have  | In |
+| RNF14 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.               | IS13  | Médio             | Could Have | In |
+| RNF15 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.        | IS14  | Médio             | Won't Have | Out |
+| RNF16 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. | IS15  | Alto | Must Have  | In |
+| RNF17 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | IS16  | Médio | Won't Have | Out |
+
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </br>
@@ -131,7 +113,7 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 
 > Requisitos de Software. Bilheteria Digital (2023.1). Disponível em: https://github.com/Requisitos-de-Software/2023.1-BilheteriaDigital. Acesso em: 10 abr. 2024
 
-> WIEGERS Karl E. First Things First: Prioritizing Requirements. Setembro de 1999. Disponível no [link](https://www.processimpact.com/articles/prioritizing.pdf), Acesso em 10 de abr. 2024.
+> COHN, Mike. Succeeding with Agile: Software Development Using Scrum. Addison-Wesley, 2010. Acesso em: 03 mai. 2024
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
@@ -141,3 +123,4 @@ A ideia central do método MoSCoW é classificar os requisitos ou funcionalidade
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
 |`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
 |`1.4`|16/04/2024|17/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |[Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`1.5`|02/05/2024|03/05/2024| Alteração de priorização FTF para In Or Out | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl) |
