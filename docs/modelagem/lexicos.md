@@ -41,7 +41,7 @@ A seguir, as Tabelas de 3 a 8 representam os léxicos:
 
 ### <a> L01: Filtrar Publicações </a>
 
-O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="../../elicitacao/priorizacao.md">OBS03</a>, <a href="../../elicitacao/priorizacao.md">OBS04</a> e <a href="../../elicitacao/priorizacao.md">IS01</a>.
+O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="..\elicitacao\priorizacao.md">OBS03</a>, <a href="..\elicitacao\priorizacao.md">OBS04</a> e <a href="..\elicitacao\priorizacao.md">IS01</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Léxico 1: Filtrar Publicações</p></font>
