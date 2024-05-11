@@ -121,6 +121,5 @@ A técnica "In or Out" é uma abordagem simples para priorizar requisitos. Consi
 |`1.0`|07/04/2024|08/04/2024| Criação do documento sobre priorização de requisitos | [João Artur](https://github.com/joao-artl)|[Henrique Torres](https://github.com/henriqtorresl)|
 |`1.1`|08/04/2024|08/04/2024| Adicionando seção sobre MoSCoW | [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
 |`1.2`|10/04/2024|11/04/2024| Correção bug tabela e adicionado fonte nas tabelas | [Arthur Alves](https://github.com/arthrok)|[João Artur](https://github.com/joao-artl)|
-|`1.3`|10/04/2024|15/04/2024| Adição do método First Things First | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
+|`1.3`|10/04/2024|15/04/2024| Adição do método In Or Out | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
 |`1.4`|16/04/2024|17/04/2024| Priorização dos requisitos | [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |[Diego Sousa](https://github.com/DiegoSousaLeite) |
-|`1.5`|02/05/2024|03/05/2024| Alteração de priorização FTF para In Or Out | [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl) |

@@ -26,9 +26,10 @@ nav:
       - Apresentação 1: apresentacao/apresentacao1.md
       - Apresentação 2: apresentacao/apresentacao2.md
   - Reuniões:
-      - Reunião 1: reuniao/reuniao1.md
-      - Reunião 2: reuniao/reuniao2.md
-      - Reunião 3: reuniao/reuniao3.md
+      - Reunião 1: reuniao/reuniao01.md
+      - Reunião 2: reuniao/reuniao02.md
+      - Reunião 3: reuniao/reuniao03.md
+      - Reunião 4: reuniao/reuniao04.md
       - Reunião de Priorização: reuniao/reuniaoPriorizacao.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
@@ -46,6 +47,8 @@ nav:
       - Introspecção: elicitacao/tecnicas/introspeccao.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Analise de Interface: elicitacao/tecnicas/analise-de-interface.md
+  - Modelagem de Requisitos: 
+    - Léxicos: modelagem/lexicos.md
   - Termo de Uso: termoDeUso.md
 
 
