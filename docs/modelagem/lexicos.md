@@ -73,9 +73,9 @@ O léxico "Publicação Oficial" é essencial para garantir uma compreensão cla
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 </figure>
 
-### </a> L03: Usuário </a>
+### <a> L03: Usuário </a>
 
-O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que interagem com o sistema em questão. Este léxico classifica o usuário como um objeto e detalha seu impacto como alguém que interage ativamente com o sistema. Ele faz uso dos requisitos <a href="../elicitacao/priorizacao.md">IS05</a>, <a href="../elicitacao/priorizacao.md">IS05</a> e <a href="../elicitacao/priorizacao.md">IS05</a>.
+O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que interagem com o sistema em questão. Este léxico classifica o usuário como um objeto e detalha seu impacto como alguém que interage ativamente com o sistema. Ele faz uso dos requisitos <a href="../elicitacao/priorizacao.md">OBS02</a>, <a href="../elicitacao/priorizacao.md">OBS05</a>, <a href="../elicitacao/priorizacao.md">OBS06</a>, <a href="../elicitacao/priorizacao.md">OBS08</a>, <a href="../elicitacao/priorizacao.md">OBS09</a> e <a href="../elicitacao/priorizacao.md">IS03</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Léxico 3: Usuário</p></font>
