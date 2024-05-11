@@ -47,6 +47,8 @@ nav:
       - Introspecção: elicitacao/tecnicas/introspeccao.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Analise de Interface: elicitacao/tecnicas/analise-de-interface.md
+  - Modelagem de Requisitos: 
+    - Léxicos: modelagem/lexicos.md
   - Termo de Uso: termoDeUso.md
 
 
