@@ -6,7 +6,6 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/Pc3TQlD6xAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-
 ## Tale de Critérios para a entrega 1
 
 A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
@@ -30,7 +29,6 @@ A git page possui?  | Sim/Não/Incompleto
 13 – A gravação da reunião do grupo. | Sim|
 14 – No artefato “Rich Picture” possui uma legenda explicando os símbolos utilizados no diagrama? | Sim|
 15 – Todos os 5 componentes de um “Rich Picture” estão presentes no artefato do “Rich Picture” apresentado pelo grupo. | Sim|
-
 
 <font size="3"><p style="text-align: center">Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
 
