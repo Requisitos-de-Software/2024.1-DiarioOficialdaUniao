@@ -91,8 +91,8 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da primeira 
 |----------|-------------------|---------|----------|-----------|------------|
 |Modelagem de Requisitos: Cenários|Início dia 19/04 Fim dia 23/04|Arthur Alves e Eric Silveira|Início dia 23/04 Fim dia 25/04|Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo|06/05|
 |Modelagem de Requisitos: Léxico|Início dia 19/04 Fim dia 23/04|João Artur e Luiz Gustavo|Início dia 23/04 Fim dia 25/04|Diego Sousa e Douglas Marinho|06/05|
-|Modelagem de Requisitos: Use Case|Início dia 19/04 Fim dia 23/04|Diego Sousa,  Douglas Marinho, Henrique Torres|Início dia 23/04 Fim dia 25/04|Arthur Alves e Eric Silveira|06/05|
-|Modelagem de Requisitos: Especificação Suplementar|Início dia 25/04 Fim dia 02/05|Douglas Marinho, Diego Sousa e Henrique Torres|Início dia 23/04 Fim dia 28/04|Arthur Alves e João Artur|06/05|
+|Modelagem de Requisitos: Use Case|Início dia 19/04 Fim dia 23/04|Douglas Marinho, Henrique Torres|Início dia 23/04 Fim dia 25/04|Arthur Alves e Eric Silveira|06/05|
+|Modelagem de Requisitos: Especificação Suplementar|Início dia 25/04 Fim dia 02/05|Diego Sousa |Início dia 23/04 Fim dia 28/04|Arthur Alves e João Artur|06/05|
 |Iteração do Git Pages|Início dia 19/04 Fim dia 05/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 19/04 Fim dia 05/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|06/05|
 |Período de gravação da apresentação|Início dia 03/05 Fim dia 05/05|Douglas Marinho|Início dia 03/05 Fim dia 05/05|Eric Silveira|06/05|
 |Correção pós apresentação|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 06/05 Fim dia 07/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
