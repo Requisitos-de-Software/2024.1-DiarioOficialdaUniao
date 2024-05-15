@@ -16,7 +16,7 @@ As estrutura do modelo do cenário e suas especificações sobre cada tópico es
 
 <p style="text-align: center"><b>Tabela 1:</b> Descrição do modelo texto estruturado.</p>
 
-|Tópico|Descricação|
+|Elemento|Descricação|
 |-----------|---------------|
 |Título (title)| identifica o cenário.|
 |Objetivo (goal)| estabelece a finalidade de um cenário. O cenário deve descrever de que modo este objetivo deve ser alcançado.|
