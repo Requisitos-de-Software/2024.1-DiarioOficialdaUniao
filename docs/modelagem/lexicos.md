@@ -52,7 +52,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Libre Offi
 
 ## <a> Léxicos </a>
 
-A seguir, as tabelas de 4 a 9 representam os léxicos:
+As tabelas de 4 a 9, representam os léxicos do projeto moldados de acordo com o template fornecido anteriormente.
 
 ### <a> L01: Filtrar Publicações </a>
 
@@ -107,13 +107,13 @@ O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que
 
 ## <a>Referência Bibliográfica</a>
 
-> Léxicos Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 10 de maio de 2024.
-
-> Léxicos Libre Office Writer . Disponível em: <https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/>. Acesso em 10 de maio de 2024
+> <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
 
 ## <a>Bibliografia</a>
 
-> <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
+> Léxicos Bilheteria Digital. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/lexicos/>. Acesso em 10 de maio de 2024.
+
+> Léxicos Libre Office Writer . Disponível em: <https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/>. Acesso em 10 de maio de 2024
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
