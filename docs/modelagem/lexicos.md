@@ -56,7 +56,7 @@ As tabelas de 4 a 9, representam os léxicos do projeto moldados de acordo com o
 
 ### <a> L01: Filtrar Publicações </a>
 
-O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS03</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados>IS01</a>.
+O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS03</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS01</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Léxico 1: Filtrar Publicações</p></font>
