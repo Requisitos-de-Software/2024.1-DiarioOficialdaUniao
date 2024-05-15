@@ -52,7 +52,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Libre Offi
 
 ## <a> Léxicos </a>
 
-As tabelas de 4 a 9, representam os léxicos do projeto moldados de acordo com o template fornecido anteriormente.
+As tabelas de 4 a 8, representam os léxicos do projeto moldados de acordo com o template fornecido anteriormente.
 
 ### <a> L01: Filtrar Publicações </a>
 
