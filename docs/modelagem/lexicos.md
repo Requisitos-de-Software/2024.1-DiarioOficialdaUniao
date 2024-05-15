@@ -52,11 +52,9 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Libre Offi
 
 ## <a> Léxicos </a>
 
-As tabelas de 4 a 8, representam os léxicos do projeto moldados de acordo com o template fornecido anteriormente.
-
 ### <a> L01: Filtrar Publicações </a>
 
-O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS03</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS01</a>.
+O léxico "Filtrar Publicações" representado na tabela 4, descreve um conjunto de termos e conceitos relacionados à ação de filtrar informações no Sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS03</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS01</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Léxico 1: Filtrar Publicações</p></font>
@@ -71,9 +69,9 @@ O léxico "Filtrar Publicações" descreve um conjunto de termos e conceitos rel
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 </figure>
 
-### <a> L02: Publicação Oficial </a>
+### <a> L02: Diário Oficial </a>
 
-O léxico "Publicação Oficial" é essencial para garantir uma compreensão clara e consistente dos documentos legais e avisos importantes dentro do Diário Oficial da União. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS05</a>.
+O léxico "Diário Oficial" representado na tabela 5, descreve a publicação de diários oficiais e avisos importantes dentro do Diário Oficial da União. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS05</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Léxico 2: Publicação Oficial</p></font>
@@ -81,16 +79,16 @@ O léxico "Publicação Oficial" é essencial para garantir uma compreensão cla
 | L02 | Descrição |
 |-----|-----------|
 | Classificação | Objeto |
-| Impacto | Serve como meio legal de comunicação de atos governamentais, leis, e avisos importantes. |
-| Noção | Documento ou informação que é publicado no Diário Oficial da União. |
-| Sinônimos | Aviso oficial, Decreto, Lei. |
+| Impacto | Sua principal finalidade é informar todos os assuntos oficiais e tornar público todas as decisões tomadas, reuniões, editais, nomeações e todos os demais assuntos que possam interressar à população. |
+| Noção | É um jornal impresso e/ou online governamental municipal, federativo e/ou estadual. |
+| Sinônimos | Publicações, Jornais Oficiais |
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 </figure>
 
 ### <a> L03: Usuário </a>
 
-O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que interagem com o sistema em questão. Este léxico classifica o usuário como um objeto e detalha seu impacto como alguém que interage ativamente com o sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS05</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS08</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS09</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
+O léxico "Usuário", representado na tabela 6, descreve os termos e conceitos relacionados às pessoas que interagem com o sistema em questão. Este léxico classifica o usuário como um objeto e detalha seu impacto como alguém que interage ativamente com o sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS05</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS08</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS09</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Léxico 3: Usuário</p></font>
@@ -107,7 +105,7 @@ O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que
 
 ### <a> L04: Favoritar </a>
 
-O léxico "Favoritar" descreve a ação de escolher um ou mais diários para separar dos demais. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS07</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS02</a>.
+O léxico "Favoritar", representado na tabela 7, descreve a ação de escolher um ou mais diários para separar dos demais. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS07</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS02</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Léxico 4: Favoritar</p></font>
@@ -124,7 +122,7 @@ O léxico "Favoritar" descreve a ação de escolher um ou mais diários para sep
 
 ### <a> L05: Diário Publicado </a>
 
-O léxico "Diário Publicado" descreve o estado de um diário oficial quando ele se torna público. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS05</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
+O léxico "Diário Publicado", representado na tabela 8, descreve o estado de um diário oficial quando ele se torna público. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS05</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Léxico 5: Diário Publicado</p></font>
@@ -134,7 +132,7 @@ O léxico "Diário Publicado" descreve o estado de um diário oficial quando ele
 | Classificação | Estado |
 | Impacto | Transparência e acesso à informação, qualquer cidadão pode acompanhar os assuntos oficiais, permitindo a participação popular e o combate à corrupção |
 | Noção | Todos os assuntos oficiais do diário tornam-se de livre acesso |
-| Sinônimos | - |
+| Sinônimos | Não possui sinônimos |
 
 <font size="3"><p style="text-align: center">Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </figure>
@@ -154,5 +152,5 @@ O léxico "Diário Publicado" descreve o estado de um diário oficial quando ele
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor | Revisor |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 10/05/2024 | 12/05/2024 | Criação do documento sobre Léxicos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
-| `1.1` | 11/05/2024 | 13/05/2024 | Adicionando Léxicos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.1` | 11/05/2024 | 13/05/2024 | Adicionando Léxicos (01, 02 e 03)| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.2` | 15/05/2024 | 16/05/2024 | Adicionando mais Léxicos (04 e 05) | [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
