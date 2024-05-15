@@ -16,7 +16,9 @@ Um diagrama de casos de uso é composto pelos seguintes elementos:
 
 Os atores representam os usuários e sistemas envolvidos nas interações com o sistema. Eles são comumente representados por ícones de bonecos de palitos.
 
-![Ator](images/ator-uml.png)
+<p align="center">
+  <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/ator-uml.png?raw=true" alt="Ator" />
+</p>
 <div style="text-align: center">
 <p> Figura 1: Ator (Fonte: Douglas Marinho, 2024).</p>
 </div>
@@ -25,7 +27,9 @@ Os atores representam os usuários e sistemas envolvidos nas interações com o 
 
 O cenário é a sequência de eventos que ocorre quando um usuário interage com o sistema. É representado por uma caixa que delimita as atividades dentro do escopo do sistema.
 
-![Cenário](images/container-uml.png)
+<p align="center">
+  <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/container-uml.png?raw=true" alt="Cenário" />
+</p>
 <div style="text-align: center">
 <p> Figura 2: Cenário (Fonte: Douglas Marinho, 2024).</p>
 </div>
@@ -34,7 +38,9 @@ O cenário é a sequência de eventos que ocorre quando um usuário interage com
 
 Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário. É representado por uma forma oval horizontal e deve ser descrito com verbos no infinitivo.
 
-![Casos de Uso](images/usecase-uml.png)
+<p align="center">
+  <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/usecase-uml.png?raw=true" alt="Casos de Uso" />
+</p>
 <div style="text-align: center">
 <p> Figura 3: Caso de uso (Fonte: Douglas Marinho, 2024).</p>
 </div>
@@ -51,7 +57,9 @@ As comunicações representam as ações que conectam os usuários aos casos de 
   
   - Notação no diagrama: *<<extends\>\>*
 
-![Figura 4: Comunicação (Fonte: Douglas Marinho, 2024).](images/action-uml.png)
+<p align="center">
+  <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/action-uml.png?raw=true" alt="Comunicação" />
+</p>
 <div style="text-align: center">
 <p> Figura 4: Comunicação (Fonte: Douglas Marinho, 2024).</p>
 </div>
