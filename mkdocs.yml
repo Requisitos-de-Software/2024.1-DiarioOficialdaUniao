@@ -48,6 +48,7 @@ nav:
       - Observação: elicitacao/tecnicas/observacao.md
       - Analise de Interface: elicitacao/tecnicas/analise-de-interface.md
   - Modelagem: 
+    - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
   - Termo de Uso: termoDeUso.md
 
