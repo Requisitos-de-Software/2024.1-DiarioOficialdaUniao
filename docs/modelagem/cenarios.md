@@ -7,7 +7,7 @@ De acordo com o livro "Interação Humano-Computador e Experiência do usuário"
 ## Modelo de Cenário
 
 De acordo com Weidenhaupt, em seu estudo sobre o uso de cenários no desenvolvimento de software, foram identificados cinco formas para a descrição de cenários, sendo elas: texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações.
-Uma das formas mais utilizadas é a de **texto estruturado** e devido a essa razão, por questões de materiais base, adotamos o mesmo modelo<a id="anchor_2" href="#FRM2">^2^</a>.
+Uma das formas mais utilizadas é a de **texto estruturado** e devido a essa razão, por questões de mais acessibilidade a materiais base, adotamos o mesmo modelo<a id="anchor_2" href="#FRM2">^2^</a>.
 Segundo a tese "Evolução de Cenários Através de um Mecanismo de
 Rastreamento Baseado em Transformações", essa notação utiliza uma linguagem natural semi-estruturada (ancorada no mundo real), partindo da premissa que a utilização da linguagem da aplicação e não do software facilita o entendimento e a validação dos requisitos por parte dos clientes<a id="anchor_2" href="#FRM2">^2^</a>.
 
