@@ -105,6 +105,40 @@ O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 </figure>
 
+### <a> L04: Favoritar </a>
+
+O léxico "Favoritar" descreve a ação de escolher um ou mais diários para separar dos demais. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS04</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS07</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS02</a>.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Léxico 4: Favoritar</p></font>
+
+| L04 | Descrição |
+|-----|-----------|
+| Classificação | Verbo |
+| Impacto | Quando um diário oficial é favoritado, significa que ele possui alguma informação relevante para o usuário, logo, se um diário é muito favoritado, significa que ele é importante para muitos usuários |
+| Noção | Definir um diário oficial como sendo preferido, mais relevante que os demais |
+| Sinônimos | Marcar, separar, preferir |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+</figure>
+
+### <a> L05: Diário Publicado </a>
+
+O léxico "Diário Publicado" descreve o estado de um diário oficial quando ele se torna público. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS05</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Léxico 5: Diário Publicado</p></font>
+
+| L05 | Descrição |
+|-----|-----------|
+| Classificação | Estado |
+| Impacto | Transparência e acesso à informação, qualquer cidadão pode acompanhar os assuntos oficiais, permitindo a participação popular e o combate à corrupção |
+| Noção | Todos os assuntos oficiais do diário tornam-se de livre acesso |
+| Sinônimos | - |
+
+<font size="3"><p style="text-align: center">Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+</figure>
+
 ## <a>Referência Bibliográfica</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
@@ -115,8 +149,10 @@ O léxico "Usuário" descreve os termos e conceitos relacionados às pessoas que
 
 > Léxicos Libre Office Writer . Disponível em: <https://requisitos-de-software.github.io/2023.2-LibreOffice/modelagem/lexicos/>. Acesso em 10 de maio de 2024
 
-## <a>Histórico de Versão</a>
-|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
-| :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|10/05/2024|12/05/2024| Criação do documento sobre Léxicos | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0)|
-|`1.1`|11/05/2024|13/05/2024| Adicionando Léxicos | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0)|
+## <a> Histórico de Versão </a>
+
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor | Revisor |
+| :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
+| `1.0` | 10/05/2024 | 12/05/2024 | Criação do documento sobre Léxicos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.1` | 11/05/2024 | 13/05/2024 | Adicionando Léxicos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.2` | 15/05/2024 | 16/05/2024 | Adicionando mais Léxicos (04 e 05) | [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
