@@ -40,7 +40,7 @@ A tabela 3 mostra o template criado com base nos Léxicos do projeto [Libre Offi
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Template Léxicos</p></font>
 
-| L03 | Descrição |
+| Léxico | Descrição |
 |-----|-----------|
 | Classificação | Estado/Objeto/Verbo |
 | Impacto | Descrição de ações e de seus efeitos |
