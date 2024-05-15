@@ -90,12 +90,12 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     
     | Atividade| Período de desenvolvimento | Responsável| Revisão |Revisores | Data da Entrega |
     |------------------------------------------------|-----------------------------|--------------------------------------------------|--------------------------------------|---------------------------------------------------------------|-----------------|
-    | Modelagem de Requisitos: Cenários | Início dia 01/05 Fim dia 12/05 | Arthur Alves e Eric Silveira | Início dia 13/05 Fim dia 15/05| Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo   | 20/05|
-    | Modelagem de Requisitos: Léxico  | Início dia 01/05 Fim dia 12/05 | João Artur e Luiz Gustavo | Início dia 13/05 Fim dia 15/05| Diego Sousa e Douglas Marinho | 20/05 |
-    | Modelagem de Requisitos: Use Case| Início dia 01/05 Fim dia 12/05 | Douglas Marinho, Henrique Torres | Início dia 13/05 Fim dia 15/05  | Arthur Alves e Eric Silveira | 20/05|
-    | Modelagem de Requisitos: Especificação Suplementar | Início dia 13/05 Fim dia 19/05 | Diego Sousa  | Início dia 16/05 Fim dia 18/05       | Arthur Alves e João Artur | 20/05 |
+    | Modelagem de Requisitos: Cenários | Início dia 01/05 Fim dia 12/05 | Arthur Alves e Eric Silveira | Início dia 18/05 Fim dia 19/05| Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo   | 20/05|
+    | Modelagem de Requisitos: Léxico  | Início dia 01/05 Fim dia 12/05 | João Artur e Luiz Gustavo | Início dia 18/05 Fim dia 19/05| Diego Sousa e Douglas Marinho | 20/05 |
+    | Modelagem de Requisitos: Use Case| Início dia 01/05 Fim dia 12/05 | Douglas Marinho, Henrique Torres | Início dia 18/05 Fim dia 19/05  | Arthur Alves e Eric Silveira | 20/05|
+    | Modelagem de Requisitos: Especificação Suplementar | Início dia 01/05 Fim dia 18/05 | Diego Sousa  | Início dia 18/05 Fim dia 19/05       | Arthur Alves e João Artur | 20/05 |
     | Iteração do Git Pages  | Início dia 01/05 Fim dia 19/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 20/05 Fim dia 21/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 20/05  |
-    | Período de gravação da apresentação | Início dia 13/05 Fim dia 19/05 | Douglas Marinho| Início dia 22/05 Fim dia 24/05 | Eric Silveira  | 20/05  |
+    | Período de gravação da apresentação | Início dia 18/05 Fim dia 19/05 | Douglas Marinho| Início dia 22/05 Fim dia 24/05 | Eric Silveira  | 20/05  |
     | Correção pós apresentação  | Início dia 22/05 Fim dia 23/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 24/05 Fim dia 25/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
