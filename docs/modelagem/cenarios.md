@@ -2,6 +2,8 @@
 
 O cenário reclaciona a interação dos usuários com o sistema, de forma detalhada sobre a execução de uma atividade do software. Assim, a abordagem de **Design Baseado em Cenários** é um processo que utiliza diferentes tipos de cenários como representação básica e fundamental durante todas as atividades envolvidas na concepção de uma solução de IHC (Rosson e Carroll, 2002; Carroll, 1995)<a id="anchor_1" href="#FRM1">^1^</a>.
 
+## Por que utilizar Design Baseado em Cenários
+
 De acordo com o livro "Interação Humano-Computador e Experiência do usuário", a equipe de design (incluindo representantes dos usuários) tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido, a partir do **Design Baseado em Cenários**. Desse modo, cenários são uma ferramenta útil e barata para gerar e avaliar diversas ideias durante as atividades de design<a id="anchor_1" href="#FRM1">^1^</a>.
 
 ## Modelo de Cenário
