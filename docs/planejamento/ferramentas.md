@@ -17,7 +17,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 | ![Logo do MkDocs](../assets/mkdocs.png)                                                                     |          MkDocs           | Para geração de documentação estática a partir de arquivos Markdown.<a id="anchor_5" href="#FRM5">^5^</a> |
 | ![Logo do Pacote Office](../assets/office.png){: style="height:100px;width:120px"}                          |       Pacote Office       | Para criação e edição de documentos.<a id="anchor_6" href="#FRM6">^6^</a> |
 | ![Logo do VsCode](../assets/vscode.png){: style="height:100px;width:100px"}                                 |          VsCode           | Para edição eficiente e desenvolvimento de código.<a id="anchor_7" href="#FRM7">^7^</a> |
-| ![Logo do ChatGPT](../assets/chatGpt.png){: style="height:100px;width:100px"}                               |          ChatGPT          | Para obter assistência nos códigos markdown e gerar ideias.<a id="anchor_8" href="#FRM8">^8^</a> |
+| ![Logo do LucidChart](../assets/lucidchart.png){: style="height:100px;width:100px"}                         |          LucidChart          | Para gerar diagramas e gráficos.<a id="anchor_8" href="#FRM8">^8^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
@@ -36,7 +36,7 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 >
 > <a id="FRM7" href="#anchor_7">7.</a> VsCode. Disponível em: <https://code.visualstudio.com/>. Acesso em: 29 de mar. de 2024.
 >
-> <a id="FRM8" href="#anchor_8">8.</a> ChatGPT. Disponível em: <https://www.openai.com/chatgpt>. Acesso em: 16 de mai. de 2024.
+> <a id="FRM8" href="#anchor_8">8.</a> LucidChart. Disponível em: <https://www.lucidchart.com/pages/pt>. Acesso em: 16 de mai. de 2024.
 
 
 ## <a>Histórico de Versão</a>
