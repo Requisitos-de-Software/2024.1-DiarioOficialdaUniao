@@ -35,9 +35,9 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
 
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Exemplo de descrição de um cenário.</p></font>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/ModeloTextoEstruturado.png?raw=true" alt="Modelo" />
-</p> -->
+</p>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.</p></font>
 
