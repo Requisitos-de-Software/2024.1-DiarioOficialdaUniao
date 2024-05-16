@@ -71,6 +71,26 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 <p> Figura 5: Diagrama de casos de uso 2ª versão. <a href="../images/usecase-diagram-v1.png"> 1ª versão</a>. (Fonte: Douglas Marinho, 2024).</p>
 </div> -->
 
+Seguem abaixo, a especificação dos casos de uso que foram identificados.
+
+### UC01. NomeDoCasoDeUso
+
+| UC01 | NomeDoCasoDeUso |
+| -: | :- |
+| **Atores** | |
+| **Frequência de uso** | |
+| **Requisitos** | |
+| **Condição de entrada** | |
+| **Fluxo principal** | |
+| **Fluxos alternativos** | |
+| **Fluxos de exceção** | |
+| **Pós condições** | |
+| **Rastreabilidade** | |
+
+<div style="text-align: center">
+<p> Tabela 1: Especificação do caso de uso: NomeDoCasoDeUso. (Fonte: <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>, 2024).</p>
+</div>
+
 ## <a>Bibliografia</a>
 
 > Macedo, Lucas. "Caso de uso". Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/). Acesso em: 15 mai. 2024.
@@ -85,3 +105,4 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|15/05/2024|15/05/2024| Criação do documento sobre Casos de uso | [Douglas Marinho](https://github.com/M4RINH0)|[Henrique Torres](https://github.com/henriqtorresl)|
+|`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas de casos de uso | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
