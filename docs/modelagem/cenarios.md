@@ -84,11 +84,48 @@ A tabela 3 descreve o cenário que tem como objetivo receber notificações gera
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira.</p></font>
 
+
+### C03 - Configurar o aplicativo
+
+Atores: Diana Sousa (graduanda em Psicologia e bolsista de pesquisa pela UnB)
+
+Diana Sousa, ao utilizar o aplicativo Diário Oficial da União em seu dispositivo móvel, sente a necessidade de ajustar as configurações para atender às suas necessidades específicas, incluindo melhor acessibilidade e personalização de conteúdo. Ela busca principalmente ajustar o contraste e ativar o suporte para tecnologia assistiva, como o talkback, além de configurar notificações e filtros para receber apenas informações relevantes dos órgãos de seu interesse. Diana acessa o menu de configurações do aplicativo, onde enfrenta um processo não muito intuitivo que envolve várias etapas para cada ajuste desejado. Ela ajusta o contraste para facilitar a leitura, ativa o talkback para auxílio na navegação, e configura as notificações para receber alertas apenas de novas edições que incluem tópicos específicos de sua área de estudo. Cada ação requer que ela navegue por diferentes submenus, o que torna o processo tedioso e susceptível a erros. Ao final das configurações, Diana verifica se as alterações foram aplicadas corretamente revisitando cada opção ajustada. A experiência deixa claro que, embora possível, a configuração é mais complexa e demorada do que o necessário, indicando uma área de melhoria para uma interface mais simplificada e eficiente.
+
+
+A tabela 3 descreve o cenário que tem como objetivo configurar o aplicativo.
+
+<p style="text-align: center"><b>Tabela 3:</b> Configurar aplicativo.</p>
+<center>
+
+| Elemento     | Descrição | Perguntas selecionadas |
+|--------------|-----------|------------------------|
+| Título       | Configurar Aplicativo do Diário Oficial da União | N/A |
+| Objetivo     | Os atores querem personalizar as configurações do aplicativo para facilitar o acesso às informações e garantir que o conteúdo seja acessível e relevante às suas necessidades específicas, como ativar alto contraste ou talkback para usuários com deficiência visual. O objetivo está relacionado a garantir que todas as informações relevantes sejam facilmente acessíveis e que o usuário possa consumir, manipular ou destruir informações de acordo com suas preferências e necessidades. | Por que os atores querem ou precisam alcançar esse objetivo? Quais informações são criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? Que outros objetivos estão relacionados a esse?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ambiente     | O cenário ocorre sempre que o usuário deseja ajustar o aplicativo para melhorar sua experiência ou quando há mudanças em suas necessidades de acessibilidade ou interesse em conteúdos específicos. As pressões incluem a necessidade de rapidez e eficiência na personalização, bem como a dependência de uma conexão estável à internet. As tecnologias envolvidas incluem dispositivos móveis e o próprio aplicativo, que deve ser intuitivo e acessível. | Em que situações o cenário ocorre? Quais pressões existem para o alcance do objetivo? Quais são as tecnologias utilizadas no ambiente? Como os usuários as utilizam?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ator         | Diana Sousa, graduanda em Psicologia e bolsista de pesquisa pela UnB, que precisa personalizar o aplicativo para atender às suas necessidades acadêmicas e pessoais. | (N/A) |
+| Planejamento | Diana atualmente alcança seu objetivo navegando pelas configurações padrão do aplicativo, mas gostaria de ter uma interface mais personalizável e intuitiva. Ela precisa decidir sobre configurações como filtros de conteúdo e notificações, e essas decisões dependem de quão bem o sistema suporta suas necessidades. Uma decisão errada pode levar a uma sobrecarga de informações ou falta de acesso a informações críticas. | Como os atores alcançam o objetivo atualmente? Como gostariam de fazê-lo? Que decisões os atores precisam tomar a cada momento? De que maneira o ambiente e o sistema auxiliam ou impedem que os atores tomem decisões adequadas? Quais as consequências de uma decisão errada? Que ações realizam? Como essas ações estão relacionadas? Em que ordem os atores precisam realizar as ações? Gostariam de realizá-las em outra ordem?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ação         | As precondições incluem ter o aplicativo instalado e estar logado. Diana realiza as ações através do menu de configurações, onde ajusta as preferências. Ela gostaria de ter atalhos mais diretos para certas configurações. Erros como configurações mal ajustadas podem ser revertidos através do menu de configurações, mas podem causar perda de tempo e frustração. | Quais as precondições para essa ação? Como os atores as realizam? Os atores gostariam de fazer isso de outra maneira? Como o fariam? De que informações ou conhecimento os atores precisam para realizar essa ação? Que recursos estão disponíveis para realizá-la? Quais erros podem ser cometidos ao realizá-la? Como podem ser desfeitos? Quais suas consequências? Quais informações são criadas, consumidas, manipuladas ou destruídas pela realização da ação?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Evento       | Eventos que disparam a necessidade de alcançar o objetivo incluem mudanças nas necessidades de acessibilidade de Diana ou interesse em áreas específicas do diário oficial. A conclusão das configurações desencadeia uma experiência de usuário mais personalizada e eficiente. | Quais eventos disparam a necessidade de alcançar o objetivo? Quais eventos são disparados pela conclusão desse objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Avaliação    | Diana pode avaliar o sucesso de suas ações verificando se as configurações aplicadas refletem suas preferências no aplicativo. O resultado bem-sucedido é um aplicativo que atende melhor às suas necessidades específicas, facilitando o acesso e a gestão da informação. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+
+#### Análise do Cenário
+A análise do cenário proposto para a configuração do aplicativo Diário Oficial da União revela pontos que podem ser problemáticos e que devem ser considerados para um eventual redesenho da interação humano-computador (IHC):
+
+- O cenário atual não especifica claramente como os usuários recebem feedback sobre a eficácia das configurações que eles ajustam. Por exemplo, após ajustar as notificações ou filtros, não está claro como ou quando os usuários são notificados de que suas ações foram bem-sucedidas. A falta de feedback imediato pode deixar os usuários incertos sobre se suas ações tiveram o efeito desejado, o que pode levar a repetições desnecessárias e frustração.
+
+
+
 ## <a>Referência Bibliográfica</a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, capítulo 6, tópico 6.3.5 Design Baseado em Cenários, página 122, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="FRM2" href="#anchor_2">2.</a> Bergmann, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. Capítulo 3.1 Modelo de Cenário, p.47. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+
+> <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021). *Interação Humano-Computador e Experiência do Usuário*. Autopublicação. Capítulo 8, Tópico 8.3 Cenários, p. 175. ISBN: 978-65-00-19677-1. Inclui Tabela 8.3: Perguntas utilizadas para refinar cada elemento de um cenário ou auxiliar a análise.
 
 
 ## <a>Bibliografia</a>
