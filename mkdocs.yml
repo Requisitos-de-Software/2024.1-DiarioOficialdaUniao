@@ -51,6 +51,7 @@ nav:
     - Cenários: modelagem/cenarios.md
     - Léxicos: modelagem/lexicos.md
     - Casos de Uso: modelagem/useCase.md
+    - Especificação Suplementar: modelagem/especificacao.md
   - Termo de Uso: termoDeUso.md
 
 
