@@ -99,6 +99,7 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 > <a>Barbosa, S. D. J.; Silva, B. S.</a> "Interação Humano-Computador". Rio de Janeiro: Elsevier, 2011.
 
+> <a>SERRANO M., SERRANO M. Requisitos</a> - Aula 13. Disponível na plataforma Aprender3. Acessado em 08 de dez. de 2022.
 
 ## <a>Histórico de Versão</a>
 
