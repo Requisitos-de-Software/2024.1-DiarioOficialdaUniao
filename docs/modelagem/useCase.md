@@ -73,23 +73,95 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 
 Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
-### UC01. NomeDoCasoDeUso
+### UC01. Consultar Documentos Legislativos
 
-| UC01 | NomeDoCasoDeUso |
+<font size="3"><p style="text-align: center">Tabela 1: Especificação do caso de uso - Consultar Documentos Legislativos.</p></font>
+
+| UC01 | Consultar Documentos Legislativos |
 | -: | :- |
-| **Atores** | |
-| **Frequência de uso** | |
-| **Requisitos** | |
-| **Condição de entrada** | |
-| **Fluxo principal** | |
-| **Fluxos alternativos** | |
-| **Fluxos de exceção** | |
-| **Pós condições** | |
-| **Rastreabilidade** | |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário acessa a aplicação e seleciona a opção de consulta de documentos legislativos |
+| **Fluxo principal** | <ol> <li> O sistema apresenta a interface de busca de documentos legislativos <li> O usuário insere os critérios de busca <li> O sistema busca e exibe os documentos legislativos que correspondem aos critérios inseridos </ol>|
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Conexão com a internet perdida** <ol> <li> O sistema detecta a perda de conexão <li> O sistema apresenta uma mensagem de erro "Falha na conexão. Tentar novamente?" e opções "Sim" e "Retornar à tela inicial" <ul> <li> O usuário seleciona "Sim" e o sistema tenta reconectar <li> O usuário seleciona "Retornar à tela inicial" e a operação é cancelada </ul> </ol> |
+| **Pós-condições** | O usuário visualiza os documentos legislativos de acordo com os critérios de busca inseridos |
+| **Rastreabilidade** | [IS01](../elicitacao/tecnicas/introspeccao.md#funcionais) [IS04](../elicitacao/tecnicas/introspeccao.md#funcionais) [OBS03](../elicitacao/tecnicas/observacao.md#requisitos-funcionais) |
 
-<div style="text-align: center">
-<p> Tabela 1: Especificação do caso de uso: NomeDoCasoDeUso. (Fonte: <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>, 2024).</p>
-</div>
+<font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
+
+### UC02. Salvar Documentos para Consulta Offline
+
+<font size="3"><p style="text-align: center">Tabela 2: Especificação do caso de uso - Salvar Documentos para Consulta Offline.</p></font>
+
+| UC02 | Salvar Documentos para Consulta Offline |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Média |
+| **Requisitos** | Conexão com a internet (para salvar) |
+| **Condição de entrada** | O usuário acessa a aplicação e seleciona um documento legislativo para salvar |
+| **Fluxo principal** | <ol> <li> O sistema exibe o documento legislativo selecionado <li> O usuário seleciona a opção de salvar o documento para consulta offline <li> O sistema salva o documento no dispositivo do usuário </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Conexão com a internet perdida durante o salvamento** <ol> <li> O sistema detecta a perda de conexão <li> O sistema apresenta uma mensagem de erro "Falha na conexão. Tentar novamente?" e opções "Sim" e "Retornar à tela inicial" <ul> <li> O usuário seleciona "Sim" e o sistema tenta reconectar e salvar novamente <li> O usuário seleciona "Retornar à tela inicial" e a operação é cancelada </ul> </ol> |
+| **Pós-condições** | O documento legislativo está disponível para consulta offline no dispositivo do usuário |
+| **Rastreabilidade** | [IS02](../elicitacao/tecnicas/introspeccao.md#funcionais) [OBS05](../elicitacao/tecnicas/observacao.md#requisitos-funcionais) |
+
+<font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
+
+### UC03. Receber Notificações Personalizadas
+
+<font size="3"><p style="text-align: center">Tabela 3: Especificação do caso de uso - Receber Notificações Personalizadas.</p></font>
+
+| UC03 | Receber Notificações Personalizadas |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário ativa a opção de notificações personalizadas nas configurações da aplicação |
+| **Fluxo principal** | <ol> <li> O sistema apresenta opções de configuração de notificações <li> O usuário seleciona os critérios para notificações personalizadas <li> O sistema salva as configurações de notificações <li> O sistema envia notificações de acordo com os critérios selecionados pelo usuário </ol> |
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Falha na entrega da notificação** <ol> <li> O sistema detecta a falha na entrega <li> O sistema registra a falha e tenta reenviar a notificação quando a conexão for restabelecida </ol> |
+| **Pós-condições** | O usuário recebe notificações personalizadas sobre novas publicações relevantes |
+| **Rastreabilidade** | [IS03](../elicitacao/tecnicas/introspeccao.md#funcionais) [OBS06](../elicitacao/tecnicas/observacao.md#requisitos-funcionais) |
+
+<font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
+
+### UC04. Acessar Histórico de Publicações Legislativas
+
+<font size="3"><p style="text-align: center">Tabela 4: Especificação do caso de uso - Acessar Histórico de Publicações Legislativas.</p></font>
+
+| UC04 | Acessar Histórico de Publicações Legislativas |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário acessa a aplicação e seleciona a opção de histórico de publicações |
+| **Fluxo principal** | <ol> <li> O sistema apresenta a interface de histórico de publicações <li> O usuário insere os critérios de busca no histórico <li> O sistema busca e exibe as publicações legislativas que correspondem aos critérios inseridos </ol>|
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Conexão com a internet perdida** <ol> <li> O sistema detecta a perda de conexão <li> O sistema apresenta uma mensagem de erro "Falha na conexão. Tentar novamente?" e opções "Sim" e "Retornar à tela inicial" <ul> <li> O usuário seleciona "Sim" e o sistema tenta reconectar <li> O usuário seleciona "Retornar à tela inicial" e a operação é cancelada </ul> </ol> |
+| **Pós-condições** | O usuário visualiza o histórico de publicações legislativas conforme os critérios inseridos |
+| **Rastreabilidade** | [IS04](../elicitacao/tecnicas/introspeccao.md#funcionais) [OBS07](../elicitacao/tecnicas/observacao.md#requisitos-funcionais) |
+
+<font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
+
+### UC05. Filtrar Documentos por Data, Categoria ou Órgão Emissor
+
+<font size="3"><p style="text-align: center">Tabela 5: Especificação do caso de uso - Filtrar Documentos por Data, Categoria ou Órgão Emissor.</p></font>
+
+| UC05 | Filtrar Documentos por Data, Categoria ou Órgão Emissor |
+| -: | :- |
+| **Atores** | Usuário |
+| **Frequência de uso** | Alta |
+| **Requisitos** | Conexão com a internet |
+| **Condição de entrada** | O usuário acessa a aplicação e seleciona a opção de filtragem de documentos |
+| **Fluxo principal** | <ol> <li> O sistema apresenta a interface de filtragem de documentos <li> O usuário seleciona os critérios de filtragem desejados (data, categoria, órgão emissor) <li> O sistema busca e exibe os documentos que correspondem aos critérios de filtragem inseridos </ol>|
+| **Fluxos alternativos** | Não há |
+| **Fluxos de exceção** | **Conexão com a internet perdida** <ol> <li> O sistema detecta a perda de conexão <li> O sistema apresenta uma mensagem de erro "Falha na conexão. Tentar novamente?" e opções "Sim" e "Retornar à tela inicial" <ul> <li> O usuário seleciona "Sim" e o sistema tenta reconectar <li> O usuário seleciona "Retornar à tela inicial" e a operação é cancelada </ul> </ol> |
+| **Pós-condições** | O usuário visualiza os documentos filtrados conforme os critérios inseridos |
+| **Rastreabilidade** | [OBS04](../elicitacao/tecnicas/observacao.md#requisitos-funcionais) |
+
+<font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 ## <a>Bibliografia</a>
 
@@ -106,4 +178,4 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|15/05/2024|15/05/2024| Criação do documento sobre Casos de uso | [Douglas Marinho](https://github.com/M4RINH0)|[Henrique Torres](https://github.com/henriqtorresl)|
-|`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas de casos de uso | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
+|`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas dos casos de uso especificados | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
