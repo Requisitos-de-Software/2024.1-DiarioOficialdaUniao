@@ -179,3 +179,4 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|15/05/2024|15/05/2024| Criação do documento sobre Casos de uso | [Douglas Marinho](https://github.com/M4RINH0)|[Henrique Torres](https://github.com/henriqtorresl)|
 |`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas dos casos de uso especificados | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
+|`1.2`|17/05/2024|18/05/2024| Adição do Diagrama UML | [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
