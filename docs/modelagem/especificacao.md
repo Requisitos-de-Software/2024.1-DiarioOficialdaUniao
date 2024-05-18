@@ -29,9 +29,8 @@ Por fim, o modelo FURPS+ é uma abordagem abrangente para classificar e definir 
 ## <a> Metodologia FURPS+ aplicada ao Diario Oficial da União </a>
 
 ### <a> Funcionalidade </a>
-Na seção de elicitação, foram identificados os requisitos funcionais e a tabela 1 da página de requisitos elicitados demonstra todos os requisitos priorizados.
+Na seção de elicitação, foram identificados os requisitos funcionais e a tabela 2 das páginas das técnicas de requisitos de [introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#funcionais) e [observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#requisitos-funcionais) e a tabela 1 da [análise de interface](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/analise-de-interface/#requisitos-funcionais).
 
-**A TABELA AINDA VAI SER FEITA EM UM NOVO ARTEFATO**
 
 ## <a> Usabilidade </a>
 A Tabela 1 lista os requisitos essenciais de usabilidade para o aplicativo Diário Oficial da União. Desenvolvidos para garantir uma interface intuitiva, acessível e eficiente, esses requisitos abrangem compatibilidade com modos de alto contraste, design acessível e caminhos simplificados para realizar tarefas. O objetivo é proporcionar uma experiência de usuário melhorada, facilitando o uso e aumentando a satisfação do usuário.
@@ -126,3 +125,4 @@ A Tabela 4 apresenta os requisitos abrangentes de suportabilidade para o LibreOf
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor | Revisor |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 17/05/2024 | 19/05/2024 | Criação do documento  | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) |
+| `1.1` | 18/05/2024 | 19/05/2024 | Correções no texto  | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) |
