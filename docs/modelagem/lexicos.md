@@ -71,7 +71,7 @@ O léxico "Filtrar Publicações" representado na tabela 4, descreve um conjunto
 
 ### <a> L02: Diário Oficial </a>
 
-O léxico "Diário Oficial" representado na tabela 5, descreve a publicação de diários oficiais e avisos importantes dentro do Diário Oficial da União. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS05</a>.
+O léxico "Diário Oficial" representado na tabela 5, descreve a publicação de Diários Oficiais e avisos importantes dentro do Diário Oficial da União. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS02</a>, <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS05</a>.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Léxico 2: Publicação Oficial</p></font>
@@ -137,6 +137,42 @@ O léxico "Diário Publicado", representado na tabela 8, descreve o estado de um
 <font size="3"><p style="text-align: center">Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </figure>
 
+### <a> L06: Configuração de Notificações </a>
+
+O léxico "Configuração de Notificações", representado na tabela 9, descreve o conjunto de ações e opções disponíveis para os usuários ajustarem como desejam receber avisos e atualizações do sistema. Ele faz uso dos requisitos <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">OBS06</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">IS03</a>.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Léxico 6: Configuração de Notificações</p></font>
+
+| L06 | Descrição |
+|-----|-----------|
+| Classificação | Objeto |
+| Impacto | As configurações de notificações permitem que os usuários recebam alertas sobre publicações relevantes no Diário Oficial da União de acordo com suas preferências e interesses específicos. |
+| Noção | Os usuários podem personalizar as configurações de notificações para receberem informações específicas, garantindo que estejam sempre atualizados sobre os conteúdos que lhes interessam. |
+| Sinônimos | Configurações de Notificações, Preferências de Alerta, Ajustes de Avisos |
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+</figure>
+
+## <a> Relacionamento dos Léxicos </a>
+
+O Relacionamento dos léxicos, representado na tabela 10, mostra como cada léxico é associado a outros léxicos relevantes, com uma descrição detalhada de como essas entidades estão conectadas. A tabela serve não só como uma ferramenta de referência rápida, mas também como uma base para a revisão e melhoria.
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Tabela de Relacionamento dos Léxicos</p></font>
+
+| Léxico | Relaciona-se com   | Descrição do Relacionamento  |
+|--------|--------------------|------------------------------|
+| [L01: Filtrar Publicações](#l01-filtrar-publicações) | [L02: Diário Oficial](#l02-diário-oficial), [L03: Usuário](#l03-usuário)    | O usuário (L03) utiliza o sistema para filtrar publicações de Diários Oficiais (L02)|
+| [L02: Diário Oficial](#l02-diário-oficial)  | [L03: Usuário](#l03-usuário), [L05: Diário Publicado](#l05-diário-publicado)| O Diário Oficial (L02) torna-se um Diário Publicado (L05) e é acessado pelo Usuário (L03) |
+| [L03: Usuário](#l03-usuário)   | [L02: Diário Oficial](#l02-diário-oficial), [L04: Favoritar](#l04-favoritar), [L03: Usuário](#l03-usuário), [L05: Diário Publicado](#l05-diário-publicado), [L06: Configuração de Notificações](#l06-configuração-de-notificações)| O Usuário (L03) interage com todos os outros elementos do sistema de acordo com suas necessidades |
+| [L04: Favoritar](#l04-favoritar)  | [L02: Diário Oficial](#l02-diário-oficial), [L03: Usuário](#l03-usuário) | O Usuário (L03) seleciona Diários Oficiais (L02) como favoritos para acesso rápido |
+| [L05: Diário Publicado](#l05-diário-publicado)  | [L02: Diário Oficial](#l02-diário-oficial), [L03: Usuário](#l03-usuário)    | Após a publicação, o Diário Oficial (L02) é acessível ao Usuário (L03) como um Diário Publicado (L05) |
+| [L06: Configuração de Notificações](#l06-configuração-de-notificações) | [L03: Usuário](#l03-usuário) | O Usuário (L03) configura notificações para receber atualizações personalizadas |
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+</figure>
+
 ## <a>Referência Bibliográfica</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
@@ -154,3 +190,5 @@ O léxico "Diário Publicado", representado na tabela 8, descreve o estado de um
 | `1.0` | 10/05/2024 | 12/05/2024 | Criação do documento sobre Léxicos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.1` | 11/05/2024 | 13/05/2024 | Adicionando Léxicos (01, 02 e 03)| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.2` | 15/05/2024 | 16/05/2024 | Adicionando mais Léxicos (04 e 05) | [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
+| `1.3` | 17/05/2024 | 18/05/2024 | Adicionando Léxico 06| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.4` | 17/05/2024 | 18/05/2024 | Adicionando tabela de relacionamentos| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
