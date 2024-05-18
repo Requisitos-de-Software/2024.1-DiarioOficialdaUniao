@@ -88,7 +88,7 @@ A Tabela 3 apresenta os requisitos essenciais de desempenho para o aplicativo Di
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
 ## <a> Suportabilidade </a>
-A Tabela 4 apresenta os requisitos abrangentes de suportabilidade para o LibreOffice Writer. Esses requisitos incluem a disponibilidade de serviços de atendimento ao cliente, recursos de rastreabilidade e tolerância a falhas. O objetivo é garantir que o software seja adaptável, evolutivo e resiliente diante de desafios, proporcionando uma experiência de usuário consistente e confiável ao longo do tempo.
+A Tabela 4 apresenta os requisitos abrangentes de suportabilidade para o Diário Oficial da União. Esses requisitos incluem a disponibilidade de serviços de atendimento ao cliente, recursos de rastreabilidade e tolerância a falhas. O objetivo é garantir que o software seja adaptável, evolutivo e resiliente diante de desafios, proporcionando uma experiência de usuário consistente e confiável ao longo do tempo.
 
 <font><p style="text-align: center">**Tabela 4** - Requisitos de Suportabilidade.</p></font>
 
