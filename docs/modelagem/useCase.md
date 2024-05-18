@@ -194,7 +194,7 @@ O caso de uso "Filtrar Documentos por Data, Categoria ou Órgão Emissor" descri
 
 ## <a>Referência Bibliográfica</a>
 
-> <a id="REF1" href="#anchor_1">1.</a> MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Especificação de Caso de Uso. Aula 12. Disponível na plataforma Aprender3. Acessado dia 15 de mai. de 2024.
+> <a id="REF1" href="#anchor_1">1.</a> [MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES](https://aprender3.unb.br/pluginfile.php/2845011/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf). Especificação de Caso de Uso. Aula 12. Disponível na plataforma Aprender3. Acessado dia 15 de mai. de 2024.
 
 ## <a>Bibliografia</a>
 
