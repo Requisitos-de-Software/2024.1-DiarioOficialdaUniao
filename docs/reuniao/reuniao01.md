@@ -77,6 +77,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 <iframe src="https://drive.google.com/file/d/1n1ZUV48gBMTg477Bg8AcIo8bJT6igpEZ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a>Histórico de Versão</a>
+
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 |`1.0`| 29/03/2024 | 29/03/2024 | Criação da Ata da Reunião | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok) |
