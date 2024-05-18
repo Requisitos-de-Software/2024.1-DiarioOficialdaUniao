@@ -45,6 +45,7 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.</p></font>
 
 ## Cenários identificados
+Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>.
 
 ### C01 - Efetuar a leitura de uma publicação
 Atores: Usuário do aplicativo Diário Oficial da União
@@ -73,9 +74,7 @@ A tabela 2 descreve o cenário que tem como objetivo efetuar a leitura de uma pu
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira e Arthur Alves.</p></font>
 
 #### Análise de Cenário
-A análise do cenário de leitura de publicações no aplicativo Diário Oficial da União revela aspectos que podem afetar negativamente a experiência do usuário e que são importantes para considerar em futuras melhorias da interação humano-computador (IHC):
-
-- O processo para filtrar e selecionar as publicações desejadas pode ser complexo e não intuitivo, especialmente para novos usuários ou aqueles com necessidades especiais de acessibilidade. Isso pode levar a uma experiência frustrante e ao consumo de tempo desnecessário.
+O processo para filtrar e selecionar as publicações desejadas pode ser complexo e não intuitivo, especialmente para novos usuários ou aqueles com necessidades especiais de acessibilidade. Isso pode levar a uma experiência frustrante e ao consumo de tempo desnecessário.
 
 ### C02 - Receber notificações gerais
 Atores: Usuário do aplicativo Diário Oficial da União
@@ -105,9 +104,7 @@ A tabela 3 descreve o cenário que tem como objetivo receber notificações gera
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira e Arthur Alves.</p></font>
 
 #### Análise do Cenário
-A análise do cenário de recebimento de notificações gerais no aplicativo Diário Oficial da União destaca várias questões que podem impactar negativamente a experiência do usuário e que deveriam ser abordadas para melhorar a interação humano-computador (IHC):
-
-- As configurações e o recebimento de notificações dependem de uma conexão contínua e estável com a internet. Interrupções na conectividade podem não apenas impedir o acesso ao processo de configuração, mas também afetar a recepção de notificações importantes, limitando a utilidade do aplicativo em condições de conectividade precária.
+As configurações e o recebimento de notificações dependem de uma conexão contínua e estável com a internet. Interrupções na conectividade podem não apenas impedir o acesso ao processo de configuração, mas também afetar a recepção de notificações importantes, limitando a utilidade do aplicativo em condições de conectividade precária.
 
 
 ### C03 - Configurar o aplicativo
@@ -138,11 +135,37 @@ A tabela 4 descreve o cenário que tem como objetivo configurar o aplicativo.
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 #### Análise do Cenário
-A análise do cenário proposto para a configuração do aplicativo Diário Oficial da União revela pontos que podem ser problemáticos e que devem ser considerados para um eventual redesenho da interação humano-computador (IHC):
+O cenário atual não especifica claramente como os usuários recebem feedback sobre a eficácia das configurações que eles ajustam. Por exemplo, após ajustar as notificações ou filtros, não está claro como ou quando os usuários são notificados de que suas ações foram bem-sucedidas. A falta de feedback imediato pode deixar os usuários incertos sobre se suas ações tiveram o efeito desejado, o que pode levar a repetições desnecessárias e frustração.
 
-- O cenário atual não especifica claramente como os usuários recebem feedback sobre a eficácia das configurações que eles ajustam. Por exemplo, após ajustar as notificações ou filtros, não está claro como ou quando os usuários são notificados de que suas ações foram bem-sucedidas. A falta de feedback imediato pode deixar os usuários incertos sobre se suas ações tiveram o efeito desejado, o que pode levar a repetições desnecessárias e frustração.
+### C04 - Filtrar publicações
+
+Atores: Usuário do aplicativo Diário Oficial da União
+
+No cenário de uso do aplicativo Diário Oficial da União, o usuário principal busca personalizar as configurações de filtragem para garantir que apenas as publicações relevantes sejam exibidas, alinhadas aos seus interesses específicos. Este processo é realizado tanto em ambientes profissionais quanto pessoais, onde a rapidez na obtenção da informação é crucial e a filtragem eficiente é essencial para evitar a sobrecarga de informação. O usuário, tipicamente um usuário do aplicativo, planeja suas sessões de uso para coincidir com momentos em que precisa de informações específicas, decidindo quais filtros aplicar para maximizar a relevância do conteúdo. As ações envolvidas incluem acessar o menu de configurações de filtros e selecionar critérios específicos como tipo de publicação, data ou palavras-chave. Eventualmente, ajustes mal configurados podem ser corrigidos para refinar os resultados de busca. Este processo é desencadeado quando o usuário abre o aplicativo e deseja visualizar apenas publicações recentes ou específicas, com o sucesso do filtro sendo avaliado pela relevância e precisão das informações apresentadas. A experiência do usuário em todo esse processo é crucial para a eficácia da personalização e gestão do tempo e atenção dedicados ao aplicativo.
+
+A tabela 5 descreve o cenário que tem como objetivo filtrar as publicações.
+
+<p style="text-align: center"><b>Tabela 5:</b> Filtrar publicações.</p>
+<center>
+
+| Elemento     | Descrição                                                                                                                                                                                                                                                                                                                    | Perguntas selecionadas |
+|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|
+| Título       | Filtrar Publicações                                                                                                                                                                                                                                                                                                          | N/A                    |
+| Objetivo     | Os atores querem personalizar as configurações de filtragem do aplicativo para garantir que apenas as publicações relevantes sejam exibidas, de acordo com seus interesses específicos. Este objetivo permite que o usuário gerencie melhor seu tempo e atenção, concentrando-se em informações que são estritamente pertinentes. | Por que os atores querem ou precisam alcançar esse objetivo? Quais informações são criadas, consumidas, manipuladas ou destruídas pelo alcance do objetivo? Que outros objetivos estão relacionados a esse?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ambiente     | Este cenário ocorre em qualquer ambiente onde o usuário possa acessar seu dispositivo móvel com uma conexão à internet. Comum em ambientes tanto profissionais quanto pessoais, as pressões incluem a necessidade de informação rápida e a filtragem eficiente para evitar sobrecarga de informação. | Em que situações o cenário ocorre? Quais pressões existem para o alcance do objetivo? Quais são as tecnologias utilizadas no ambiente? Como os usuários as utilizam?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ator         | Usuário do aplicativo Diário Oficial da União                                                                                                                                                                                                                                                                                 | N/A                    |
+| Planejamento | O usuário planeja suas sessões de uso do aplicativo para coincidir com momentos de busca por informações específicas, decidindo quais filtros aplicar para maximizar a relevância do conteúdo exibido. Decisões inadequadas nos filtros podem resultar em falha ao acessar informações críticas. | Como os atores alcançam o objetivo atualmente? Como gostariam de fazê-lo? Que decisões os atores precisam tomar a cada momento? De que maneira o ambiente e o sistema auxiliam ou impedem que os atores tomem decisões adequadas? Quais as consequências de uma decisão errada?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Ação         | O usuário acessa o menu de configurações de filtros, selecionando critérios específicos como tipo de publicação, data ou palavras-chave. Ajustes mal configurados podem ser revisados e corrigidos para refinar os resultados de busca. | Quais as precondições para essa ação? Como os atores as realizam? Os atores gostariam de fazer isso de outra maneira? Como o fariam? De que informações ou conhecimento os atores precisam para realizar essa ação? Que recursos estão disponíveis para realizá-la? Quais erros podem ser cometidos ao realizá-la? Como podem ser desfeitos? Quais suas consequências? Quais informações são criadas, consumidas, manipuladas ou destruídas pela realização da ação?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Evento       | A aplicação dos filtros é disparada quando o usuário abre o aplicativo e deseja visualizar apenas publicações recentes ou específicas. A conclusão do processo de filtragem resulta na exibição de publicações que atendem aos critérios definidos. | Quais eventos disparam a necessidade de alcançar o objetivo? Quais eventos são disparados pela conclusão desse objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
+| Avaliação    | O usuário avalia a eficácia do filtro aplicado revendo se as publicações exibidas correspondem às configurações estabelecidas. O sucesso é medido pela relevância e precisão das informações apresentadas como resultado dos filtros aplicados. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+
+</center>
+
+#### Análise do Cenário
+A capacidade de ajustar facilmente os filtros é essencial, especialmente em um contexto dinâmico onde as necessidades de informação do usuário podem mudar rapidamente. A possibilidade de revisão e correção de ajustes mal configurados é positiva, mas o sistema poderia beneficiar-se de uma interface mais intuitiva que facilite esses ajustes e com mais opções de filtros.
 
 ## <a>Referência Bibliográfica</a>
 
