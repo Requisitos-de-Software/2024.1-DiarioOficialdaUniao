@@ -66,7 +66,7 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de casos de uso.</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/diagrama-UseCase.png.png?raw=true" alt="Diagrama UML" />
+<img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/diagrama-UseCase.png?raw=true" alt="Diagrama UML" />
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
