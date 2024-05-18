@@ -42,7 +42,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
-## 4. Divisão das atividades e Decisões
+## 4. Divisão das atividades
 Segue na tabela 2 abaixo, a divisão das atividades entre os integrantes do grupo, feita para a entrega 3 com base na disponibilidade e no cronograma da disciplina.
 
 <center>
@@ -60,8 +60,6 @@ Segue na tabela 2 abaixo, a divisão das atividades entre os integrantes do grup
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
-
-Arthur Melo, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo
 
 ## 5. Gravação da Reunião
 https://www.youtube.com/embed/JK_bJJpVil8
