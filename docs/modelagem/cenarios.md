@@ -55,9 +55,9 @@ Atores: Diana Sousa (graduanda em Psicologia e bolsista de pesquisa pela UnB)
 Diana Sousa, ao utilizar o aplicativo Diário Oficial da União em seu dispositivo móvel, sente a necessidade de ajustar as configurações para atender às suas necessidades específicas, incluindo melhor acessibilidade e personalização de conteúdo. Ela busca principalmente ajustar o contraste e ativar o suporte para tecnologia assistiva, como o talkback, além de configurar notificações e filtros para receber apenas informações relevantes dos órgãos de seu interesse. Diana acessa o menu de configurações do aplicativo, onde enfrenta um processo não muito intuitivo que envolve várias etapas para cada ajuste desejado. Ela ajusta o contraste para facilitar a leitura, ativa o talkback para auxílio na navegação, e configura as notificações para receber alertas apenas de novas edições que incluem tópicos específicos de sua área de estudo. Cada ação requer que ela navegue por diferentes submenus, o que torna o processo tedioso e suscetível a erros. Ao final das configurações, Diana verifica se as alterações foram aplicadas corretamente revisitando cada opção ajustada. A experiência deixa claro que, embora possível, a configuração é mais complexa e demorada do que o necessário, indicando uma área de melhoria para uma interface mais simplificada e eficiente.
 
 
-A tabela 4 descreve o cenário que tem como objetivo configurar o aplicativo.
+A tabela 3 descreve o refinamento do cenário que tem como objetivo configurar o aplicativo.
 
-<p style="text-align: center"><b>Tabela 4:</b> Configurar aplicativo.</p>
+<p style="text-align: center"><b>Tabela 3:</b> Refinamento do cenário: Configurar aplicativo.</p>
 <center>
 
 | Elemento     | Descrição | Perguntas selecionadas |
@@ -71,9 +71,16 @@ A tabela 4 descreve o cenário que tem como objetivo configurar o aplicativo.
 | Evento       | Eventos que disparam a necessidade de alcançar o objetivo incluem mudanças nas necessidades de acessibilidade de Diana ou interesse em áreas específicas do diário oficial. A conclusão das configurações desencadeia uma experiência de usuário mais personalizada e eficiente. | Quais eventos disparam a necessidade de alcançar o objetivo? Quais eventos são disparados pela conclusão desse objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Diana pode avaliar o sucesso de suas ações verificando se as configurações aplicadas refletem suas preferências no aplicativo. O resultado bem-sucedido é um aplicativo que atende melhor às suas necessidades específicas, facilitando o acesso e a gestão da informação. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+
+
+A tabela 4 descreve o formato de especificação funcional do cenário que tem como objetivo configurar o aplicativo.
+
+<p style="text-align: center"><b>Tabela 4:</b> Formato de especificação funcional: Configuração do aplicativo.</p>
+
 
 | Denominação     | Configurar o Aplicativo |
 |-----------------|-------------------------|
@@ -104,9 +111,10 @@ Robson Pinto é Servidor Público Federal no Tribunal Superior do Trabalho (TST)
 
 Em um dia específico, Robson precisa encontrar todas as publicações relacionadas ao tema "Direito Trabalhista" e especificamente as portarias que têm impacto nacional. Sem esses filtros, ele gasta muito tempo navegando por diversas publicações, muitas das quais não são relevantes para sua pesquisa. Robson percebe que a implementação de filtros temáticos e outros critérios avançados no aplicativo do DOU seria extremamente benéfica. Isso permitiria que ele encontrasse as informações de forma rápida e precisa, economizando tempo e melhorando a eficiência de seu trabalho.
 
-A tabela 5 descreve o cenário que tem como objetivo filtrar as publicações.
+A tabela 5 descreve o refinamento do cenário que tem como objetivo filtrar as publicações.
 
-<p style="text-align: center"><b>Tabela 5:</b> Filtrar Publicações por Temas.</p>
+<p style="text-align: center"><b>Tabela 5:</b>  Refinamento do cenário: Filtrar Publicações por Temas.</p>
+
 <center>
 
 | Elemento     | Descrição | Perguntas selecionadas |
@@ -121,9 +129,13 @@ A tabela 5 descreve o cenário que tem como objetivo filtrar as publicações.
 | Avaliação    | Robson saberá que atingiu seu objetivo quando conseguir usar filtros temáticos e avançados para encontrar publicações específicas no DOU de forma rápida e precisa. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
 
 </center>
+A tabela 6 descreve o formato de especificação funcional do cenário que tem como objetivo filtrar as publicações.
+
+<p style="text-align: center"><b>Tabela 6:</b> Formato de especificação funcional: Filtrar as publicações.</p>
 
 | Denominação     | Filtros Temáticos |
 |-----------------|-------------------------------------------------|
@@ -150,9 +162,9 @@ Atores: Camila Oliveira (Assessora Jurídica)
 Camila Oliveira é assessora jurídica em um escritório de advocacia e seu trabalho envolve garantir a conformidade legal das publicações do STJ no Diário Oficial da União (DOU). Parte essencial do seu trabalho é revisar e editar os atos antes da publicação. Frequentemente, Camila precisa buscar palavras-chave específicas em várias edições do DOU para localizar atos ou referências relevantes rapidamente. No entanto, o aplicativo atual do DOU não possui uma funcionalidade de busca por palavras-chave eficiente, o que a obriga a ler manualmente vários diários para encontrar a informação necessária. Em um dia específico, Camila precisa encontrar todas as menções a uma nova regulamentação que foi discutida em diversas edições do DOU ao longo das últimas semanas. Sem uma ferramenta de busca eficaz, ela gasta horas tentando localizar cada menção, o que atrasa seu trabalho e gera frustração. A falta de uma funcionalidade de busca por palavras-chave torna o processo extremamente ineficiente, especialmente quando há urgência em revisar e preparar os atos para publicação. Camila percebe que a implementação de uma funcionalidade de busca por palavras-chave no aplicativo do DOU melhoraria significativamente sua produtividade e eficiência. Isso permitiria que ela localizasse rapidamente as informações necessárias, garantindo que os atos sejam revisados e publicados dentro dos prazos estipulados.
 
 
-A tabela 6 descreve o cenário que tem como objetivo achar diários por palavras-chave.
+A tabela 7 descreve refinamento do cenário que tem como objetivo achar diários por palavras-chave.
 
-<p style="text-align: center"><b>Tabela 6:</b> Obter diários por palavras-chave.</p>
+<p style="text-align: center"><b>Tabela 7:</b> Refinamento do cenário: Obter diários por palavras-chave.</p>
 <center>
 
 | Elemento     | Descrição | Perguntas selecionadas |
@@ -166,9 +178,13 @@ A tabela 6 descreve o cenário que tem como objetivo achar diários por palavras
 | Evento       | A necessidade de revisar menções a uma nova regulamentação publicada no DOU em diversas edições. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Camila saberá que atingiu seu objetivo quando conseguir encontrar rapidamente todas as menções às palavras-chave no DOU utilizando a ferramenta de busca. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
 
 </center>
+A tabela 8 descreve o formato de especificação funcional do cenário que tem como objetivo achar diários por palavras-chave.
+
+<p style="text-align: center"><b>Tabela 8:</b> Formato de especificação funcional: Achar diários por palavras-chave.</p>
 
 | Denominação     | Busca por Palavras-chave |
 |-----------------|--------------------------|
@@ -193,9 +209,9 @@ Atores: Dona Kláudia (Gerente de Qualidade Agrícola)
 Dona Kláudia é Gerente de Qualidade Agrícola em uma grande cooperativa rural. Parte essencial de seu trabalho é acompanhar publicações de regulamentações sobre agrotóxicos e produtos fitossanitários no Diário Oficial da União (DOU) para garantir a conformidade regulatória na produção agrícola, bem como identificar novas oportunidades e restrições no mercado. Dona Kláudia frequentemente precisa acessar essas informações enquanto está em campo, longe de seu escritório. No entanto, o aplicativo do DOU não é otimizado para tablets e smartphones, tornando a leitura e navegação das publicações muito difíceis em dispositivos móveis. Ela precisa ampliar a tela constantemente, rolar lateralmente e lidar com textos e botões mal dimensionados, o que atrapalha seu trabalho e consome muito tempo. Em um dia específico, enquanto estava em uma visita a uma das fazendas da cooperativa, Dona Kláudia recebeu uma notificação sobre uma nova regulamentação publicada no DOU. Ao tentar acessar o documento em seu tablet, ela enfrentou dificuldades com a interface não responsiva. O texto estava pequeno demais para ser lido facilmente, e a navegação entre as seções do documento era complicada, resultando em uma experiência frustrante. Dona Kláudia percebe que uma interface responsiva, que se adapta automaticamente ao tamanho da tela de tablets e smartphones, melhoraria significativamente sua eficiência. Isso permitiria que ela acessasse as informações necessárias de forma rápida e confortável, independentemente de sua localização. Com um design responsivo, Dona Kláudia poderia garantir que a produção agrícola da cooperativa estivesse sempre em conformidade com as regulamentações mais recentes, sem os inconvenientes atuais.
 
 
-A tabela 7 descreve o cenário que tem como objetivo um design responsivo que se adapta a tablets e smartphones.
+A tabela 9 descreve refinamento do cenário que tem como objetivo um design responsivo que se adapta a tablets e smartphones.
 
-<p style="text-align: center"><b>Tabela 7:</b> Design responsivo para tablets e smartphones.</p>
+<p style="text-align: center"><b>Tabela 9:</b> Refinamento do cenário: Design responsivo para tablets e smartphones.</p>
 <center>
 
 | Elemento     | Descrição | Perguntas selecionadas |
@@ -209,9 +225,13 @@ A tabela 7 descreve o cenário que tem como objetivo um design responsivo que se
 | Evento       | A necessidade de acessar uma nova regulamentação publicada no DOU enquanto está em campo. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Dona Kláudia saberá que atingiu seu objetivo quando conseguir acessar e ler facilmente as publicações do DOU em seu dispositivo móvel. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
 
 </center>
+A tabela 10 descreve o formato de especificação funcional do cenário que tem como objetivo o design responsivo para tablets e smartphones.
+
+<p style="text-align: center"><b>Tabela 10:</b> Formato de especificação funcional: Design responsivo para tablets e smartphones.</p>
 
 | Denominação     | Design Responsivo que se Adapta a Tablets e Smartphones |
 |-----------------|---------------------------------------------------------|
@@ -236,9 +256,9 @@ Atores: Diana Sousa (Bolsista e Graduanda)
 
 Diana Sousa é bolsista e graduanda, pesquisadora pelo PIBIT, trabalhando com sistemas embarcados automotivos. Ela acompanha o Diário Oficial da União (DOU) pelo celular para verificar verbas destinadas pelo Ministério da Educação para sua faculdade. Diana depende do aplicativo do DOU para estar informada sobre as publicações de interesse, e frequentemente precisa acessar essas informações enquanto está em trânsito ou em diferentes locais de estudo e pesquisa. Recentemente, Diana atualizou o sistema operacional do seu smartphone para a versão mais recente. Desde a atualização, ela começou a enfrentar problemas de compatibilidade com o aplicativo do DOU. O aplicativo apresenta falhas ao carregar, trava frequentemente, e algumas funcionalidades essenciais, como notificações e a visualização de documentos, não estão funcionando corretamente. Essas dificuldades têm impactado negativamente a capacidade de Diana de acompanhar as verbas e demais informações relevantes de forma eficiente. Em um dia específico, Diana precisa urgentemente verificar uma publicação recente sobre a destinação de verbas para um projeto de pesquisa em que está envolvida. Ao tentar abrir o aplicativo do DOU, o aplicativo trava repetidamente, impedindo-a de acessar a informação necessária. Sem conseguir utilizar o aplicativo, Diana perde tempo precioso tentando encontrar um tablet disponível para acessar o DOU pelo navegador web. Diana percebe que a compatibilidade do aplicativo do DOU com as versões mais recentes dos sistemas operacionais móveis é crucial para garantir sua eficiência e produtividade. Com um aplicativo compatível e atualizado, ela poderia acessar as informações necessárias em qualquer lugar e a qualquer momento, sem enfrentar interrupções ou falhas técnicas.
 
-A tabela 8 descreve o cenário que tem como objetivo uma plataforma que seja compatível com as versões mais recentes de SO móveis.
+A tabela 11 descreve o refinamento do cenário que tem como objetivo uma plataforma que seja compatível com as versões mais recentes de SO móveis.
 
-<p style="text-align: center"><b>Tabela 8:</b> Compatibilidade com versões mais recentes de SO móveis.</p>
+<p style="text-align: center"><b>Tabela 11:</b>Refinamento do cenário: Compatibilidade com versões mais recentes de SO móveis.</p>
 <center>
 
 
@@ -253,9 +273,13 @@ A tabela 8 descreve o cenário que tem como objetivo uma plataforma que seja com
 | Evento       | A necessidade de verificar uma publicação recente sobre a destinação de verbas para um projeto de pesquisa. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Diana saberá que atingiu seu objetivo quando conseguir acessar e utilizar o aplicativo do DOU em seu smartphone atualizado sem problemas de compatibilidade. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
 
 </center>
+A tabela 12 descreve o formato de especificação funcional do cenário que tem como objetivo o design responsivo para tablets e smartphones.
+
+<p style="text-align: center"><b>Tabela 12:</b> Formato de especificação funcional: Compatibilidade com versões mais recentes de SO móveis.</p>
 
 | Denominação     | Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis |
 |-----------------|-------------------------------------------------------------------------------|
@@ -282,9 +306,9 @@ Atores: Thomas Edson (Estudante Estrangeiro de Pós-Graduação)
 
 Thomas Edson é um estudante de pós-graduação alemão que está realizando uma pesquisa sobre políticas públicas brasileiras em uma universidade no Brasil. Ele precisa acessar frequentemente o Diário Oficial da União (DOU) para consultar legislações, regulamentos e outras publicações que são fundamentais para sua pesquisa. Embora Thomas tenha um bom entendimento de português, ele ainda encontra dificuldades com termos técnicos e jurídicos, o que torna a leitura das publicações no DOU um desafio. Atualmente, o aplicativo do DOU não oferece suporte multilíngue, o que significa que todas as informações estão disponíveis apenas em português. Isso obriga Thomas a utilizar ferramentas de tradução externas que nem sempre são precisas, causando interpretações errôneas e atrasos em sua pesquisa. Thomas se sente frustrado porque essa barreira linguística está afetando a eficiência e a precisão de seu trabalho acadêmico. Em um dia específico, Thomas precisa consultar rapidamente uma legislação recente que impacta diretamente a linha de pesquisa de sua tese. Ao tentar entender o texto complexo em português e usar traduções automáticas, ele acaba confundido e inseguro sobre a interpretação correta da lei. Isso resulta em mais tempo gasto e a necessidade de pedir ajuda a colegas brasileiros, o que nem sempre é prático ou imediato. Thomas percebe que um suporte multilíngue no aplicativo do DOU, com traduções para inglês, seria extremamente benéfico. Isso permitiria a ele e a outros pesquisadores estrangeiros acessar as informações de maneira mais precisa e eficiente, melhorando a qualidade da pesquisa e economizando tempo.
 
-A tabela 9 descreve o cenário que tem como objetivo suporte multilíngue para a plataforma.
+A tabela 13 descreve refinamento do cenário que tem como objetivo suporte multilíngue para a plataforma.
 
-<p style="text-align: center"><b>Tabela 9:</b> Suporte Multilíngue.</p>
+<p style="text-align: center"><b>Tabela 13:</b>Refinamento do cenário: Suporte Multilíngue.</p>
 <center>
 
 | Elemento     | Descrição | Perguntas selecionadas |
@@ -298,9 +322,13 @@ A tabela 9 descreve o cenário que tem como objetivo suporte multilíngue para a
 | Evento       | A necessidade de consultar uma legislação recente que impacta diretamente sua pesquisa acadêmica. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Thomas saberá que atingiu seu objetivo quando conseguir acessar e entender as publicações do DOU em inglês sem a necessidade de ferramentas de tradução externas. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
 </center>
+
+A tabela 14 descreve o formato de especificação funcional do cenário que tem como objetivo o suporte multilíngue para a plataforma.
+
+<p style="text-align: center"><b>Tabela 14:</b> Formato de especificação funcional: suporte multilíngue.</p>
 
 | Denominação     | Suporte Multilíngue |
 |-----------------|---------------------|
@@ -326,9 +354,9 @@ Atores: Kauan Barreto (Coordenador de Projetos Sociais)
 
 Kauan Barreto é Coordenador de Projetos Sociais com pós-graduação em Serviço Social. Ele frequentemente utiliza o Diário Oficial da União (DOU) para acompanhar a publicação de editais, chamadas públicas e legislação relacionada a projetos sociais. Sua função envolve identificar oportunidades de financiamento e parcerias, além de se manter atualizado sobre políticas e programas governamentais relevantes. Recentemente, Kauan enfrentou um problema técnico ao tentar acessar um edital importante no aplicativo do DOU. O aplicativo não carregava a página correta, impedindo-o de visualizar as informações necessárias. Diante dessa situação, Kauan precisou de suporte técnico para resolver o problema rapidamente, já que o prazo para inscrição no edital estava se aproximando. O suporte técnico do DOU, no entanto, demorou vários dias para responder à solicitação de Kauan, causando grande frustração e ansiedade. Durante esse período, Kauan teve que encontrar soluções alternativas, como pedir ajuda a colegas e usar dispositivos diferentes, mas sem sucesso. O atraso na resposta do suporte técnico resultou em uma perda significativa de tempo e colocou em risco a participação de sua organização no edital. Kauan percebe que um suporte técnico com um tempo de resposta garantido de 24 horas é crucial para garantir que ele possa acessar as informações necessárias de forma eficiente e sem interrupções. Um suporte rápido e eficaz permitiria que ele solucionasse problemas técnicos rapidamente, garantindo a continuidade de seu trabalho e a competitividade de sua organização nos processos de seleção de projetos.
 
-A tabela 10 descreve o cenário que tem como objetivo suporte técnico em até 24 horas.
+A tabela 15 descreve o refinamento do cenário que tem como objetivo suporte técnico em até 24 horas.
 
-<p style="text-align: center"><b>Tabela 10:</b> Suporte Técnico em até 24 horas.</p>
+<p style="text-align: center"><b>Tabela 15:</b> Refinamento do cenário: Suporte Técnico em até 24 horas.</p>
 <center>
 
 
@@ -343,9 +371,13 @@ A tabela 10 descreve o cenário que tem como objetivo suporte técnico em até 2
 | Evento       | A necessidade urgente de acessar um edital importante que não está carregando corretamente no aplicativo do DOU. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Kauan saberá que atingiu seu objetivo quando conseguir acessar o suporte técnico e resolver problemas técnicos em até 24 horas, garantindo acesso contínuo às informações do DOU. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
 </center>
+
+A tabela 16 descreve o formato de especificação funcional do cenário que tem como objetivo o suporte técnico em até 24 horas.
+
+<p style="text-align: center"><b>Tabela 16:</b> Formato de especificação funcional: Suporte técnico em até 24 horas.</p>
 
 | Denominação     | Suporte Técnico com Tempo de Resposta de 24 Horas |
 |-----------------|---------------------------------------------------|
