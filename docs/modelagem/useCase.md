@@ -2,7 +2,7 @@
 
 ## <a>Introdução</a>
 
-O diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e seus usuários externos, destacando as principais funcionalidades do sistema e como os usuários as utilizam.
+Segundo Barbosa e Silva no livro Interação Humano-Computador, o diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e seus usuários externos, destacando as principais funcionalidades do sistema e como os usuários as utilizam.
 
 ## <a>Metodologia</a>
 
@@ -14,7 +14,7 @@ Um diagrama de casos de uso é composto pelos seguintes elementos:
 
 ### <a>Atores</a>
 
-Os atores representam os usuários e sistemas envolvidos nas interações com o sistema. Eles são comumente representados por ícones de bonecos de palitos.
+Os atores representam os usuários e sistemas envolvidos nas interações com o sistema. Eles são comumente representados por ícones de bonecos de palitos como é possivel ver na figura 1.
 
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Ator</p></font>
 <p align="center">
@@ -24,7 +24,7 @@ Os atores representam os usuários e sistemas envolvidos nas interações com o 
 
 ### <a>Cenário</a>
 
-O cenário é a sequência de eventos que ocorre quando um usuário interage com o sistema. É representado por uma caixa que delimita as atividades dentro do escopo do sistema.
+O cenário é a sequência de eventos que ocorre quando um usuário interage com o sistema. É representado por uma caixa que delimita as atividades dentro do escopo do sistema, visto na figura 2.
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Cenário</p></font>
 <p align="center">
@@ -34,7 +34,7 @@ O cenário é a sequência de eventos que ocorre quando um usuário interage com
 
 ### <a>Caso de Uso</a>
 
-Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário. É representado por uma forma oval horizontal e deve ser descrito com verbos no infinitivo.
+Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário. É representado por uma forma oval horizontal e deve ser descrito com verbos no infinitivo, representado na figura 3.
 
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Caso de uso</p></font>
 
@@ -45,15 +45,15 @@ Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário.
 
 ### <a>Comunicação (ou Ação)</a>
 
-As comunicações representam as ações que conectam os usuários aos casos de uso. Elas podem ser de dois tipos:
+As comunicações representam as ações que conectam os usuários aos casos de uso ligadas por linha como na figura 4. Elas podem ser de dois tipos:
 
 - **Inclusão:** Indica que um caso de uso depende da execução de outro caso de uso.
   
-  - Notação no diagrama: *<<includes\>\>*
+  - Notação no diagrama: *<<incluir\>\>*
   
 - **Extensão:** Indica que um caso de uso pode ser estendido por outro, adicionando novos passos ou funcionalidades.
   
-  - Notação no diagrama: *<<extends\>\>*
+  - Notação no diagrama: *<<estender\>\>*
 
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Comunicação</p></font>
 <p align="center">
@@ -63,6 +63,8 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 
 
 ## <a>Diagrama de Casos de Uso</a>
+
+Na figura 5 temos o diagrama UML com os principais casos de uso da aplicação
 
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de casos de uso.</p></font>
 
