@@ -45,7 +45,7 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
 <font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.</p></font>
 
 ## <a>Cenários identificados</a>
-Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>. Os atores escolhidos para cada cenário fazem parte do artefato <a href="/2024.1-DiarioOficialdaUniao/elicitacao/personas">Peronas</a>.
+Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>. Os atores escolhidos para cada cenário fazem parte do artefato <a href="/2024.1-DiarioOficialdaUniao/elicitacao/personas">Personas</a>.
 
 ### <a>C01 - Efetuar a leitura de uma publicação</a>
 Atores: Usuário do aplicativo Diário Oficial da União
