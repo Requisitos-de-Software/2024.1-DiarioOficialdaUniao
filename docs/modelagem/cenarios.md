@@ -15,9 +15,13 @@ Rastreamento Baseado em Transformações", essa notação utiliza uma linguagem 
 
 Em geral, cada cenário apresenta um ator principal e um objetivo principal. Tal objetivo pode ser desdobrado em subobjetivos, numa atividade de planejamento que se passa na cabeça dos atores. Quando essa atividade mental for importante para uma situação, o cenário pode incluir informações sobre planejamento e avaliação das ações realizadas. Cada cenário costuma ter um título que descreve brevemente a situação, sem muitos detalhes; os atores que participam do cenário; uma breve descrição da situação inicial em que os atores se encontram; e referências a outros cenários que permitam aos atores atingir os mesmos objetivos de diferentes maneiras<a id="anchor_3" href="#FRM3">^3^</a>.
 
-Neste projeto, detalhamos os cenários utilizando técnicas textuais descritivas e estruturadas e complementamos com especificações detalhadas dos elementos característicos de cada cenário em tabelas e cada elemento conta com "Perguntas utilizadas para refinar cada elemento de um cenário ou auxiliar a análise."<a id="anchor_3" href="#FRM3">^3^</a>. Para uma visão mais aprofundada sobre os elementos característicos de cada cenário, consulte a Tabela 1.
+Neste projeto, detalhamos os cenários utilizando 3 técnicas:
 
-<p style="text-align: center"><b>Tabela 1:</b> Descrição do modelo texto estruturado.</p>
+1. Refinamento dos Elementos: Utilizamos uma metodologia que envolve responder a um conjunto de perguntas pré-definidas para cada elemento do cenário. Essas perguntas são projetadas para ajudar a refinar e detalhar mais profundamente os elementos do cenário<a id="anchor_3" href="#FRM3">^3^</a>. Um exemplo prático dessa aplicação pode ser observado na Tabela 3.
+2. Texto Descritivo: Após o refinamento dos elementos, sintetizamos as informações em um texto narrativo<a id="anchor_3" href="#FRM3">^3^</a>. Esse texto descritivo serve para contar a história do cenário de forma envolvente e clara, proporcionando um entendimento fluido das situações e desafios enfrentados pelos atores envolvidos. Para uma visão mais aprofundada sobre os elementos característicos de cada cenário, consulte a Tabela 1.
+3. Texto Estruturado: Para cada cenário, elaboramos uma segunda tabela que apresenta o texto estruturado. Este formato, detalhado na Tabela 2 e exemplificado na Tabela 4, propõe uma versão do cenário que foca mais nos aspectos funcionais.
+
+<p style="text-align: center"><b>Tabela 1:</b> Descrição dos elementos de cenário do texto descritivo.</p>
 
 |Elemento|Descricação|
 |-----------|---------------|
@@ -33,6 +37,24 @@ Neste projeto, detalhamos os cenários utilizando técnicas textuais descritivas
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Rosson e Carroll (2002); Cooper (1999)<a id="anchor_3" href="#FRM3">^3^</a>.</p></font>
 
 <br>
+
+As estrutura do modelo do cenário e suas especificações sobre cada tópico estão na tabela 2:
+
+<p style="text-align: center"><b>Tabela 2:</b> Descrição do modelo texto estruturado.</p>
+
+|Elemento|Descricação|
+|-----------|---------------|
+|Título (title)| identifica o cenário.|
+|Objetivo (goal)| estabelece a finalidade de um cenário. O cenário deve descrever de que modo este objetivo deve ser alcançado.|
+|Contexto (context)| descreve o estado inicial de um cenário, suas précondições, o local (físico) e tempo. Na sua definição podem ser especificadas restrições sobre estes elementos (constraint).|
+|Recurso (resource)| identifica os objetos passivos com os quais lidam os atores. Na sua definição podem ser especificadas restrições sobre os objetos a serem lidados pelo cenário (constraint)|
+|Ator (actor)| Pessoa ou estrutura organizacional que tem um papel no cenário.|
+|Episódio (episode)| Cada episódio representa uma ação realizada por um ator onde participam outros atores utilizando recursos disponíveis. Um episódio também pode se referir a outro cenário. Episódios podem conter restrições (constraint) e exceções (exception). Uma restrição é 50 qualquer imposição que restrinja um episódio de um cenário. Uma exceção é o tratamento para uma situação excepcional ou de erro.|
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações.</p></font>
+
+<br>
+
 Na figura 1, temos um exemplo de utilização da notação para a descrição de um cenário para um sistema de controle de luzes.
 
 
@@ -48,7 +70,7 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
 Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>. Os atores escolhidos para cada cenário fazem parte do artefato <a href="/2024.1-DiarioOficialdaUniao/elicitacao/personas">Personas</a>.
 
 
-### <a>C03 - Configurar o aplicativo</a>
+### <a>C01 - Configurar o aplicativo</a>
 
 Atores: Diana Sousa (graduanda em Psicologia e bolsista de pesquisa pela UnB)
 
@@ -100,7 +122,7 @@ A tabela 4 descreve o formato de especificação funcional do cenário que tem c
 - A complexidade e o tempo necessário para navegar por diferentes submenus e ajustar cada configuração.
 - A importância de uma interface de configuração mais intuitiva e eficiente para melhorar a experiência do usuário.
 
-### <a>C04 - Filtrar Publicações por Temas</a>
+### <a>C02 - Filtrar Publicações por Temas</a>
 
 Atores: Robson Pinto (Servidor Público Federal)
 
@@ -156,7 +178,7 @@ A tabela 6 descreve o formato de especificação funcional do cenário que tem c
 - A importância de filtros temáticos e outros critérios avançados para melhorar a eficiência e a precisão das buscas no DOU.
 
 
-### <a>C05 - Busca por Palavras-chave</a>
+### <a>C03 - Busca por Palavras-chave</a>
 Atores: Camila Oliveira (Assessora Jurídica)
 
 Camila Oliveira é assessora jurídica em um escritório de advocacia e seu trabalho envolve garantir a conformidade legal das publicações do STJ no Diário Oficial da União (DOU). Parte essencial do seu trabalho é revisar e editar os atos antes da publicação. Frequentemente, Camila precisa buscar palavras-chave específicas em várias edições do DOU para localizar atos ou referências relevantes rapidamente. No entanto, o aplicativo atual do DOU não possui uma funcionalidade de busca por palavras-chave eficiente, o que a obriga a ler manualmente vários diários para encontrar a informação necessária. Em um dia específico, Camila precisa encontrar todas as menções a uma nova regulamentação que foi discutida em diversas edições do DOU ao longo das últimas semanas. Sem uma ferramenta de busca eficaz, ela gasta horas tentando localizar cada menção, o que atrasa seu trabalho e gera frustração. A falta de uma funcionalidade de busca por palavras-chave torna o processo extremamente ineficiente, especialmente quando há urgência em revisar e preparar os atos para publicação. Camila percebe que a implementação de uma funcionalidade de busca por palavras-chave no aplicativo do DOU melhoraria significativamente sua produtividade e eficiência. Isso permitiria que ela localizasse rapidamente as informações necessárias, garantindo que os atos sejam revisados e publicados dentro dos prazos estipulados.
@@ -204,7 +226,7 @@ A tabela 8 descreve o formato de especificação funcional do cenário que tem c
 - O atraso e a frustração causados pela ineficiência na busca manual de informações.
 - A importância de uma ferramenta de busca eficaz para melhorar a produtividade e garantir a conformidade legal das publicações.
 
-### <a>C06 - Design responsivo que se adapta a tablets e smartphones</a>
+### <a>C04 - Design responsivo que se adapta a tablets e smartphones</a>
 Atores: Dona Kláudia (Gerente de Qualidade Agrícola)
 Dona Kláudia é Gerente de Qualidade Agrícola em uma grande cooperativa rural. Parte essencial de seu trabalho é acompanhar publicações de regulamentações sobre agrotóxicos e produtos fitossanitários no Diário Oficial da União (DOU) para garantir a conformidade regulatória na produção agrícola, bem como identificar novas oportunidades e restrições no mercado. Dona Kláudia frequentemente precisa acessar essas informações enquanto está em campo, longe de seu escritório. No entanto, o aplicativo do DOU não é otimizado para tablets e smartphones, tornando a leitura e navegação das publicações muito difíceis em dispositivos móveis. Ela precisa ampliar a tela constantemente, rolar lateralmente e lidar com textos e botões mal dimensionados, o que atrapalha seu trabalho e consome muito tempo. Em um dia específico, enquanto estava em uma visita a uma das fazendas da cooperativa, Dona Kláudia recebeu uma notificação sobre uma nova regulamentação publicada no DOU. Ao tentar acessar o documento em seu tablet, ela enfrentou dificuldades com a interface não responsiva. O texto estava pequeno demais para ser lido facilmente, e a navegação entre as seções do documento era complicada, resultando em uma experiência frustrante. Dona Kláudia percebe que uma interface responsiva, que se adapta automaticamente ao tamanho da tela de tablets e smartphones, melhoraria significativamente sua eficiência. Isso permitiria que ela acessasse as informações necessárias de forma rápida e confortável, independentemente de sua localização. Com um design responsivo, Dona Kláudia poderia garantir que a produção agrícola da cooperativa estivesse sempre em conformidade com as regulamentações mais recentes, sem os inconvenientes atuais.
 
@@ -251,7 +273,7 @@ A tabela 10 descreve o formato de especificação funcional do cenário que tem 
 - A frustração e o tempo perdido ao tentar acessar informações importantes enquanto está em campo.
 - A importância de uma interface responsiva para melhorar a eficiência e a conformidade regulatória na produção agrícola.
 
-### <a>C07 - Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</a>
+### <a>C05 - Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</a>
 Atores: Diana Sousa (Bolsista e Graduanda)
 
 Diana Sousa é bolsista e graduanda, pesquisadora pelo PIBIT, trabalhando com sistemas embarcados automotivos. Ela acompanha o Diário Oficial da União (DOU) pelo celular para verificar verbas destinadas pelo Ministério da Educação para sua faculdade. Diana depende do aplicativo do DOU para estar informada sobre as publicações de interesse, e frequentemente precisa acessar essas informações enquanto está em trânsito ou em diferentes locais de estudo e pesquisa. Recentemente, Diana atualizou o sistema operacional do seu smartphone para a versão mais recente. Desde a atualização, ela começou a enfrentar problemas de compatibilidade com o aplicativo do DOU. O aplicativo apresenta falhas ao carregar, trava frequentemente, e algumas funcionalidades essenciais, como notificações e a visualização de documentos, não estão funcionando corretamente. Essas dificuldades têm impactado negativamente a capacidade de Diana de acompanhar as verbas e demais informações relevantes de forma eficiente. Em um dia específico, Diana precisa urgentemente verificar uma publicação recente sobre a destinação de verbas para um projeto de pesquisa em que está envolvida. Ao tentar abrir o aplicativo do DOU, o aplicativo trava repetidamente, impedindo-a de acessar a informação necessária. Sem conseguir utilizar o aplicativo, Diana perde tempo precioso tentando encontrar um tablet disponível para acessar o DOU pelo navegador web. Diana percebe que a compatibilidade do aplicativo do DOU com as versões mais recentes dos sistemas operacionais móveis é crucial para garantir sua eficiência e produtividade. Com um aplicativo compatível e atualizado, ela poderia acessar as informações necessárias em qualquer lugar e a qualquer momento, sem enfrentar interrupções ou falhas técnicas.
@@ -300,7 +322,7 @@ A tabela 12 descreve o formato de especificação funcional do cenário que tem 
 - A importância de garantir a compatibilidade do aplicativo do DOU com as versões mais recentes dos sistemas operacionais móveis para melhorar a eficiência e produtividade dos usuários.
 
 
-### <a>C08 - Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</a>
+### <a>C06 - Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</a>
 
 Atores: Thomas Edson (Estudante Estrangeiro de Pós-Graduação)
 
@@ -348,7 +370,7 @@ A tabela 14 descreve o formato de especificação funcional do cenário que tem 
 - A frustração e o tempo gasto devido à barreira linguística.
 - A importância de um suporte multilíngue no aplicativo do DOU para melhorar a eficiência e precisão na pesquisa acadêmica.
 
-### <a>C09 - Suporte Técnico com Tempo de Resposta de 24 Horas</a>
+### <a>C07 - Suporte Técnico com Tempo de Resposta de 24 Horas</a>
 
 Atores: Kauan Barreto (Coordenador de Projetos Sociais)
 
