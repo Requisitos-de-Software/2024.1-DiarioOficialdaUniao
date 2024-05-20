@@ -134,6 +134,17 @@ A tabela 4 descreve o cenário que tem como objetivo configurar o aplicativo.
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
+| Denominação     | Configurar o Aplicativo |
+|-----------------|-------------------------|
+| Objetivo/meta   | Permitir que o usuário ajuste as configurações do aplicativo DOU para atender às suas necessidades específicas de acessibilidade e personalização de conteúdo. |
+| Contexto        | **Contexto:** Diana Sousa precisa ajustar o aplicativo DOU para melhorar a acessibilidade e personalizar o conteúdo. <br> **Local:** Menu de configurações do aplicativo DOU. <br> **Tempo:** A configuração pode levar de 5 a 15 minutos, dependendo da quantidade de ajustes necessários. <br> **Pré-condição:** Diana deve estar autenticada no sistema e ter acesso ao menu de configurações. |
+| Atores          | Diana Sousa (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU; <br> Conexão à internet. |
+| Episódios       | 1. Diana faz login no aplicativo do DOU. <br> 2. Diana acessa o menu de configurações. <br> 3. Diana ajusta o contraste e ativa o suporte para talkback. <br> 4. Diana configura notificações e filtros para receber informações de órgãos específicos. <br> 5. Diana revisa todas as configurações para garantir que foram aplicadas corretamente. |
+| Exceção         | 1. Se ocorrer um erro ao salvar as configurações, uma mensagem de erro é exibida e Diana é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Diana é instruída a tentar novamente mais tarde. |
+| Restrição       | 1. As configurações devem estar de acordo com os padrões de acessibilidade. <br> 2. A conexão à internet deve estar estável durante o processo de configuração. <br> 3. O sistema deve permitir que as configurações sejam facilmente revertidas ou ajustadas novamente. |
+
+
 #### <a>Análise do Cenário</a>
 
 - A necessidade de ajustar configurações de acessibilidade, como contraste e suporte para talkback.
@@ -141,7 +152,7 @@ A tabela 4 descreve o cenário que tem como objetivo configurar o aplicativo.
 - A complexidade e o tempo necessário para navegar por diferentes submenus e ajustar cada configuração.
 - A importância de uma interface de configuração mais intuitiva e eficiente para melhorar a experiência do usuário.
 
-### <a>C04 - Filtrar Publicações por Temass</a>
+### <a>C04 - Filtrar Publicações por Temas</a>
 
 Atores: Robson Pinto (Servidor Público Federal)
 
@@ -172,6 +183,17 @@ A tabela 5 descreve o cenário que tem como objetivo filtrar as publicações.
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 </center>
+
+| Denominação     | Filtros Temáticos |
+|-----------------|-------------------------------------------------|
+| Objetivo/meta   | Permitir que Robson filtre publicações do DOU por temas e outros critérios avançados para localizar informações específicas de forma eficiente. |
+| Contexto        | **Contexto:** Robson precisa encontrar publicações específicas relacionadas ao Direito Trabalhista. <br> **Local:** No menu de filtros avançados do aplicativo do DOU. <br> **Tempo:** A busca pode levar de 5 a 15 minutos, dependendo dos critérios de filtro aplicados. <br> **Pré-condição:** Robson deve estar autenticado no sistema e ter acesso ao menu de filtros avançados. |
+| Atores          | Robson Pinto (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU; <br> Conexão à internet; <br> Banco de dados de publicações. |
+| Episódios       | 1. Robson faz login no aplicativo do DOU. <br> 2. Robson acessa o menu de filtros avançados. <br> 3. Robson seleciona os critérios de filtro desejados (e.g., tema, impacto geográfico). <br> 4. O sistema aplica os filtros e exibe as publicações relevantes. <br> 5. Robson revisa as publicações e encontra a informação necessária. |
+| Exceção         | 1. Se ocorrer um erro na aplicação dos filtros, uma mensagem de erro é exibida e Robson é orientado a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Robson é instruído a tentar novamente mais tarde. |
+| Restrição       | 1. O sistema deve garantir que os filtros sejam aplicados corretamente e as informações sejam precisas. <br> 2. A conexão à internet deve estar estável durante o processo de busca. <br> 3. Os filtros devem estar atualizados e cobrir uma ampla gama de temas e critérios. |
+
 
 #### <a>Análise do Cenário</a>
 
@@ -207,6 +229,17 @@ A tabela 6 descreve o cenário que tem como objetivo achar diários por palavras
 
 </center>
 
+| Denominação     | Busca por Palavras-chave |
+|-----------------|--------------------------|
+| Objetivo/meta   | Permitir que o usuário, como Camila Oliveira, localize rapidamente atos e referências específicas no DOU usando palavras-chave. |
+| Contexto        | **Contexto:** Camila precisa encontrar menções a uma nova regulamentação no DOU. <br> **Local:** Função de busca no aplicativo DOU. <br> **Tempo:** A busca pode levar de 2 a 10 minutos, dependendo da quantidade de dados. <br> **Pré-condição:** Camila deve estar autenticada no sistema e ter o aplicativo atualizado. |
+| Atores          | Camila Oliveira (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU; <br> Conexão à internet; <br> Banco de dados de publicações. |
+| Episódios       | 1. Camila faz login no aplicativo do DOU. <br> 2. Camila acessa a função de busca por palavras-chave. <br> 3. Camila insere a palavra-chave da regulamentação que deseja encontrar. <br> 4. O sistema processa a busca e exibe os resultados relevantes. <br> 5. Camila revisa os resultados e localiza a informação necessária. |
+| Exceção         | 1. Se ocorrer um erro na busca, uma mensagem de erro é exibida e Camila é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Camila é instruída a tentar novamente mais tarde. |
+| Restrição       | 1. As palavras-chave devem ser precisas para obter resultados relevantes. <br> 2. A conexão à internet deve estar estável durante o processo de busca. <br> 3. O sistema deve garantir que as publicações estejam indexadas corretamente para facilitar a busca. |
+
+
 #### <a>Análise do Cenário</a>
 
 - A necessidade de ler manualmente várias edições do DOU para encontrar palavras-chave específicas.
@@ -238,6 +271,17 @@ A tabela 7 descreve o cenário que tem como objetivo um design responsivo que se
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 </center>
+
+| Denominação     | Design Responsivo que se Adapta a Tablets e Smartphones |
+|-----------------|---------------------------------------------------------|
+| Objetivo/meta   | Permitir que usuários como Dona Kláudia acessem o DOU de maneira eficiente em dispositivos móveis, independentemente do tamanho da tela. |
+| Contexto        | **Contexto:** Dona Kláudia precisa acessar o DOU enquanto está em campo. <br> **Local:** Aplicativo do DOU em tablets e smartphones. <br> **Tempo:** A consulta pode levar de 5 a 20 minutos, dependendo da quantidade de informações. <br> **Pré-condição:** Dona Kláudia deve ter o aplicativo instalado e atualizado em seu dispositivo móvel. |
+| Atores          | Dona Kláudia (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU com design responsivo; <br> Conexão à internet. |
+| Episódios       | 1. Dona Kláudia faz login no aplicativo do DOU em seu tablet. <br> 2. Dona Kláudia navega até a publicação relevante. <br> 3. O sistema adapta automaticamente a interface ao tamanho da tela. <br> 4. Dona Kláudia ajusta o zoom e navega pelo documento sem dificuldades. <br> 5. Dona Kláudia revisa as informações necessárias de forma eficiente. |
+| Exceção         | 1. Se o design responsivo não funcionar corretamente, uma mensagem de erro é exibida e Dona Kláudia é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Dona Kláudia é instruída a tentar novamente mais tarde. |
+| Restrição       | 1. O design responsivo deve garantir uma boa experiência de usuário em diferentes tamanhos de tela. <br> 2. A conexão à internet deve estar estável durante o acesso às informações. <br> 3. O sistema deve permitir ajustes manuais de zoom e navegação para melhorar a usabilidade. |
+
 
 #### <a>Análise do Cenário</a>
 
@@ -271,6 +315,17 @@ A tabela 8 descreve o cenário que tem como objetivo uma plataforma que seja com
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 </center>
+
+| Denominação     | Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis |
+|-----------------|-------------------------------------------------------------------------------|
+| Objetivo/meta   | Garantir que o aplicativo DOU funcione corretamente em dispositivos com as versões mais recentes de sistemas operacionais móveis. |
+| Contexto        | **Contexto:** Diana Sousa atualizou o sistema operacional de seu smartphone e enfrenta problemas com o aplicativo DOU. <br> **Local:** Aplicativo do DOU em dispositivos móveis atualizados. <br> **Tempo:** A resolução dos problemas pode levar de 10 a 30 minutos. <br> **Pré-condição:** Diana deve ter o aplicativo instalado e atualizado em seu dispositivo móvel. |
+| Atores          | Diana Sousa (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU; <br> Conexão à internet; <br> Equipe de desenvolvimento do DOU. |
+| Episódios       | 1. Diana faz login no aplicativo do DOU após atualizar seu sistema operacional. <br> 2. Diana tenta acessar uma publicação e o aplicativo trava. <br> 3. Diana entra em contato com o suporte técnico e descreve o problema. <br> 4. A equipe de desenvolvimento analisa e resolve o problema de compatibilidade. <br> 5. Diana atualiza o aplicativo e verifica se o problema foi resolvido. |
+| Exceção         | 1. Se o problema de compatibilidade não for resolvido imediatamente, Diana é notificada sobre o prazo estimado para a solução. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Diana é instruída a tentar novamente mais tarde. |
+| Restrição       | 1. O aplicativo deve ser compatível com as versões mais recentes dos sistemas operacionais móveis. <br> 2. A equipe de desenvolvimento deve estar disponível para resolver problemas de compatibilidade rapidamente. <br> 3. A conexão à internet deve estar estável durante a atualização e uso do aplicativo. |
+
 
 #### <a>Análise do Cenário</a>
 
@@ -306,6 +361,17 @@ A tabela 9 descreve o cenário que tem como objetivo suporte multilíngue para a
 
 </center>
 
+| Denominação     | Suporte Multilíngue |
+|-----------------|---------------------|
+| Objetivo/meta   | Permitir que usuários estrangeiros, como Thomas, acessem informações no DOU em inglês para melhorar a eficiência e a precisão na pesquisa. |
+| Contexto        | **Contexto:** Thomas precisa consultar legislações e regulamentos no DOU em inglês. <br> **Local:** Na seção de publicações do DOU. <br> **Tempo:** A consulta pode levar de 10 a 20 minutos, dependendo da quantidade de informações a serem traduzidas. <br> **Pré-condição:** O usuário deve estar autenticado no sistema e ter o aplicativo configurado para o idioma desejado. |
+| Atores          | Thomas Edson (Usuário Primário); <br> Sistema de Tradução (Usuário Secundário); <br> DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU com suporte multilíngue; <br> Conexão à internet; <br> Banco de dados de traduções. |
+| Episódios       | 1. Thomas faz login no aplicativo do DOU. <br> 2. Thomas acessa a seção de configurações de idioma. <br> 3. Thomas seleciona o idioma inglês. <br> 4. O sistema aplica a configuração e traduz as interfaces e publicações para o inglês. <br> 5. Thomas navega até a seção de publicações e consulta as legislações e regulamentos necessários. |
+| Exceção         | 1. Se ocorrer um erro na tradução, uma mensagem de erro é exibida e Thomas é orientado a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Thomas é instruído a tentar novamente mais tarde. |
+| Restrição       | 1. O sistema deve garantir que as traduções estejam atualizadas e precisas. <br> 2. As traduções devem estar de acordo com os termos jurídicos oficiais. <br> 3. A conexão à internet deve estar estável durante o processo de tradução. |
+
+
 #### <a>Análise do Cenário</a>
 
 - A dificuldade de entender termos técnicos e jurídicos em português.
@@ -339,6 +405,17 @@ A tabela 10 descreve o cenário que tem como objetivo suporte técnico em até 2
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 </center>
+
+| Denominação     | Suporte Técnico com Tempo de Resposta de 24 Horas |
+|-----------------|---------------------------------------------------|
+| Objetivo/meta   | Garantir que Kauan receba suporte técnico eficiente e com um tempo de resposta de 24 horas para resolver problemas de acesso ao DOU. |
+| Contexto        | **Contexto:** Kauan precisa acessar um edital importante no DOU. <br> **Local:** No menu de suporte técnico do aplicativo do DOU. <br> **Tempo:** O tempo de resposta deve ser de até 24 horas. <br> **Pré-condição:** Kauan deve estar autenticado no sistema e ter acesso ao menu de suporte técnico. |
+| Atores          | Kauan Barreto (Usuário Primário); <br> Suporte Técnico (Usuário Secundário); <br> Sistema do DOU (Usuário Secundário) |
+| Recursos        | Aplicativo do DOU; <br> Conexão à internet; <br> Equipe de suporte técnico. |
+| Episódios       | 1. Kauan faz login no aplicativo do DOU. <br> 2. Kauan acessa o menu de suporte técnico. <br> 3. Kauan descreve o problema e envia uma solicitação de suporte. <br> 4. O sistema registra a solicitação e encaminha para a equipe de suporte técnico. <br> 5. A equipe de suporte técnico analisa e responde à solicitação em até 24 horas. <br> 6. Kauan recebe a resposta e verifica se o problema foi resolvido. |
+| Exceção         | 1. Se o suporte técnico não conseguir resolver o problema em 24 horas, Kauan é notificado sobre o atraso e recebe uma previsão de tempo para a solução. |
+| Restrição       | 1. O suporte técnico deve estar disponível 24/7. <br> 2. O sistema deve garantir que as solicitações sejam encaminhadas imediatamente após serem enviadas. <br> 3. A conexão à internet deve estar estável durante o processo de solicitação. |
+
 
 #### <a>Análise do Cenário</a>
 
