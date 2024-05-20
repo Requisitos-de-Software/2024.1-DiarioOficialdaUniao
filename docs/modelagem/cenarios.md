@@ -423,3 +423,4 @@ Universidade Católica do Rio de Janeiro. Disponível em: <https://www-di.inf.pu
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 15/05/2024 | 19/05/2024 |Criação da Documentação de Cenários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo |
+| `1.1` | 20/05/2024 | 21/05/2024 | Refatoração das tabelas referentes aos Cenários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo |
