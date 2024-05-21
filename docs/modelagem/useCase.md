@@ -2,7 +2,7 @@
 
 ## <a>Introdução</a>
 
-O diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e seus usuários externos, destacando as principais funcionalidades do sistema e como os usuários as utilizam.
+Segundo Barbosa e Silva no livro Interação Humano-Computador, o diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e seus usuários externos, destacando as principais funcionalidades do sistema e como os usuários as utilizam.
 
 ## <a>Metodologia</a>
 
@@ -14,7 +14,7 @@ Um diagrama de casos de uso é composto pelos seguintes elementos:
 
 ### <a>Atores</a>
 
-Os atores representam os usuários e sistemas envolvidos nas interações com o sistema. Eles são comumente representados por ícones de bonecos de palitos.
+Os atores representam os usuários e sistemas envolvidos nas interações com o sistema. Eles são comumente representados por ícones de bonecos de palitos como é possivel ver na figura 1.
 
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Ator</p></font>
 <p align="center">
@@ -24,7 +24,7 @@ Os atores representam os usuários e sistemas envolvidos nas interações com o 
 
 ### <a>Cenário</a>
 
-O cenário é a sequência de eventos que ocorre quando um usuário interage com o sistema. É representado por uma caixa que delimita as atividades dentro do escopo do sistema.
+O cenário é a sequência de eventos que ocorre quando um usuário interage com o sistema. É representado por uma caixa que delimita as atividades dentro do escopo do sistema, visto na figura 2.
 
 <font size="3"><p style="text-align: center"><b>Figura 2:</b> Cenário</p></font>
 <p align="center">
@@ -34,7 +34,7 @@ O cenário é a sequência de eventos que ocorre quando um usuário interage com
 
 ### <a>Caso de Uso</a>
 
-Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário. É representado por uma forma oval horizontal e deve ser descrito com verbos no infinitivo.
+Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário. É representado por uma forma oval horizontal e deve ser descrito com verbos no infinitivo, representado na figura 3.
 
 <font size="3"><p style="text-align: center"><b>Figura 3:</b> Caso de uso</p></font>
 
@@ -45,15 +45,15 @@ Um caso de uso descreve uma funcionalidade ou atividade realizada pelo usuário.
 
 ### <a>Comunicação (ou Ação)</a>
 
-As comunicações representam as ações que conectam os usuários aos casos de uso. Elas podem ser de dois tipos:
+As comunicações representam as ações que conectam os usuários aos casos de uso ligadas por linha como na figura 4. Elas podem ser de dois tipos:
 
 - **Inclusão:** Indica que um caso de uso depende da execução de outro caso de uso.
   
-  - Notação no diagrama: *<<includes\>\>*
+  - Notação no diagrama: *<<incluir\>\>*
   
 - **Extensão:** Indica que um caso de uso pode ser estendido por outro, adicionando novos passos ou funcionalidades.
   
-  - Notação no diagrama: *<<extends\>\>*
+  - Notação no diagrama: *<<estender\>\>*
 
 <font size="3"><p style="text-align: center"><b>Figura 4:</b> Comunicação</p></font>
 <p align="center">
@@ -64,18 +64,41 @@ As comunicações representam as ações que conectam os usuários aos casos de 
 
 ## <a>Diagrama de Casos de Uso</a>
 
+Na figura 5 temos o diagrama UML com os principais casos de uso da aplicação
+
 <font size="3"><p style="text-align: center"><b>Figura 5:</b> Diagrama de casos de uso.</p></font>
 
-<img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/diagrama-UseCase.png.png?raw=true" alt="Diagrama UML" />
+<img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/main/docs/modelagem/images/diagrama-UseCase.png?raw=true" alt="Diagrama UML" />
 
 <font size="3"><p style="text-align: center">Fonte: [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
+## <a>Especificação de Caso de Uso</a>
 
-Seguem abaixo, a especificação dos casos de uso que foram identificados.
+Para especificar os casos de uso, foi utilizado um documento exemplificativo do Ministério da Ciência, Tecnologia, Inovações e Comunicações <a id="anchor_1" href="#REF1">^1^</a>, aplicando os conceitos detalhados na Tabela abaixo.
+
+<font size="3"><p style="text-align: center">Tabela 1: Especificação do caso de uso </p></font>
+
+| Elemento | Descrição |
+| -: | :- |
+| **Atores** | Entidades que interagem com o sistema para realizar um caso de uso. |
+| **Frequência de uso** | Frequência com que o caso de uso é executado, como diária, semanal, ou sob demanda. |
+| **Requisitos** | Conjunto de condições ou capacidades necessárias para a realização do caso de uso. |
+| **Condição de entrada** | Pré-condições que devem ser satisfeitas antes que o caso de uso possa iniciar. |
+| **Fluxo principal** | Sequência padrão de passos executados para realizar o caso de uso com sucesso. |
+| **Fluxos alternativos** | Variações no fluxo principal que podem ocorrer para atingir o mesmo objetivo de maneira diferente. |
+| **Fluxos de exceção** | Situações anômalas ou erros que desviam do fluxo principal e como são tratadas. |
+| **Pós-condições** | Estado do sistema após a execução bem-sucedida do caso de uso. |
+| **Rastreabilidade** | Relacionamento do caso de uso com outros artefatos de desenvolvimento, como requisitos ou testes. |
+
+<font size="3"><p style="text-align: center">Fonte: Ministério da Ciência, Tecnologia, Inovações e Comunicações <a id="anchor_1" href="#REF1">^1^</a>.</p></font>
+
+A seguir, apresenta-se a especificação dos casos de uso identificados.
 
 ### UC01. Consultar Documentos Legislativos
 
-<font size="3"><p style="text-align: center">Tabela 1: Especificação do caso de uso - Consultar Documentos Legislativos.</p></font>
+O caso de uso "Consultar Documentos Legislativos" detalhado na tabela 2 descreve a interação do usuário com o sistema para buscar e visualizar documentos legislativos. Este processo envolve a inserção de critérios de busca e a exibição dos resultados correspondentes.
+
+<font size="3"><p style="text-align: center">Tabela 2: Caso de uso 1 - Consultar Documentos Legislativos.</p></font>
 
 | UC01 | Consultar Documentos Legislativos |
 | -: | :- |
@@ -93,7 +116,9 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 ### UC02. Salvar Documentos para Consulta Offline
 
-<font size="3"><p style="text-align: center">Tabela 2: Especificação do caso de uso - Salvar Documentos para Consulta Offline.</p></font>
+O caso de uso "Salvar Documentos para Consulta Offline" detalhado na tabela 3 descreve como o usuário pode salvar documentos legislativos no dispositivo para acesso posterior sem conexão com a internet.
+
+<font size="3"><p style="text-align: center">Tabela 3: Caso de uso 2 - Salvar Documentos para Consulta Offline.</p></font>
 
 | UC02 | Salvar Documentos para Consulta Offline |
 | -: | :- |
@@ -111,7 +136,9 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 ### UC03. Receber Notificações Personalizadas
 
-<font size="3"><p style="text-align: center">Tabela 3: Especificação do caso de uso - Receber Notificações Personalizadas.</p></font>
+O caso de uso "Receber Notificações Personalizadas" descrito na tabela 4 detalha como o usuário pode configurar e receber notificações baseadas em critérios específicos, mantendo-o atualizado sobre novas publicações legislativas relevantes.
+
+<font size="3"><p style="text-align: center">Tabela 4: Caso de uso 3 - Receber Notificações Personalizadas.</p></font>
 
 | UC03 | Receber Notificações Personalizadas |
 | -: | :- |
@@ -129,7 +156,9 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 ### UC04. Acessar Histórico de Publicações Legislativas
 
-<font size="3"><p style="text-align: center">Tabela 4: Especificação do caso de uso - Acessar Histórico de Publicações Legislativas.</p></font>
+O caso de uso "Acessar Histórico de Publicações Legislativas" apresentado na tabela 5 descreve como o usuário pode buscar e visualizar o histórico de publicações legislativas, permitindo uma análise das publicações anteriores.
+
+<font size="3"><p style="text-align: center">Tabela 5: Caso de uso 4 - Acessar Histórico de Publicações Legislativas.</p></font>
 
 | UC04 | Acessar Histórico de Publicações Legislativas |
 | -: | :- |
@@ -147,7 +176,9 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 ### UC05. Filtrar Documentos por Data, Categoria ou Órgão Emissor
 
-<font size="3"><p style="text-align: center">Tabela 5: Especificação do caso de uso - Filtrar Documentos por Data, Categoria ou Órgão Emissor.</p></font>
+O caso de uso "Filtrar Documentos por Data, Categoria ou Órgão Emissor" descrito na tabela 6 detalha como o usuário pode aplicar filtros específicos para encontrar documentos legislativos de acordo com critérios como data, categoria ou órgão emissor.
+
+<font size="3"><p style="text-align: center">Tabela 6: Caso de uso 5 - Filtrar Documentos por Data, Categoria ou Órgão Emissor.</p></font>
 
 | UC05 | Filtrar Documentos por Data, Categoria ou Órgão Emissor |
 | -: | :- |
@@ -163,6 +194,10 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
+## <a>Referência Bibliográfica</a>
+
+> <a id="REF1" href="#anchor_1">1.</a> [MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES](https://aprender3.unb.br/pluginfile.php/2845011/mod_resource/content/3/SiglaProjeto_EspecificacaoCasoUso.pdf). Especificação de Caso de Uso. Aula 12. Disponível na plataforma Aprender3. Acessado dia 15 de mai. de 2024.
+
 ## <a>Bibliografia</a>
 
 > Macedo, Lucas. "Caso de uso". Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: [https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/](https://requisitos-de-software.github.io/2022.2-Lichess/modelagem/casos_de_uso/). Acesso em: 15 mai. 2024.
@@ -177,5 +212,6 @@ Seguem abaixo, a especificação dos casos de uso que foram identificados.
 
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|15/05/2024|15/05/2024| Criação do documento sobre Casos de uso | [Douglas Marinho](https://github.com/M4RINH0)|[Henrique Torres](https://github.com/henriqtorresl)|
-|`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas dos casos de uso especificados | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
+|`1.0`|15/05/2024|15/05/2024| Criação do documento sobre Casos de uso | [Douglas Marinho](https://github.com/M4RINH0)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|
+|`1.1`|16/05/2024|16/05/2024| Adicionando as tabelas dos casos de uso especificados | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
+|`1.2`|17/05/2024|18/05/2024| Adição do Diagrama UML | [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|

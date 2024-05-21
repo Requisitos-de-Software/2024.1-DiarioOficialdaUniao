@@ -23,7 +23,6 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 Na planning de segunda-feira, primeiramente, alinhamos as ideias e organizamos as tarefas para a entrega e apresentação da "Etapa 2 - Elicitação – Técnicas e Priorização". Também realizamos correções no pages e padronização das atas.
 
 ## 4. Divisão das atividades e Decisões
-
 Segue na tabela abaixo a divisão das atividades entre os integrantes do grupo, com base na disponibilidade e cronograma da disciplina.
 
 <center>
