@@ -100,6 +100,24 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+=== "Cronograma Executado"
+    Na Tabela 6, está explicitado o cronograma executado das atividades da segunda entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Execução modelagem de Requisitos</p></font>
+
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    |-----------|----------------------------|-------------|---------|-----------|-----------------|
+    | Modelagem de Requisitos: Cenários | Início: 01/05, Fim: 14/05 | Arthur Alves e Eric Silveira | Início: 15/05, Fim: 17/05 | Douglas Marinho, João Artur, Henrique Torres e Luiz Gustavo | 20/05 |
+    | Modelagem de Requisitos: Léxico | Início: 01/05, Fim: 14/05 | João Artur e Luiz Gustavo | Início: 15/05, Fim: 17/05 | Diego Sousa e Douglas Marinho | 20/05 |
+    | Modelagem de Requisitos: Use Case | Início: 01/05, Fim: 14/05 | Douglas Marinho, Henrique Torres | Início: 15/05, Fim: 17/05 | Arthur Alves e Eric Silveira | 20/05 |
+    | Modelagem de Requisitos: Especificação Suplementar | Início: 01/05, Fim: 14/05 | Diego Sousa | Início: 15/05, Fim: 17/05 | Arthur Alves e João Artur | 20/05 |
+    | Iteração do Git Pages | Início: 01/05, Fim: 17/05 | Todos os membros do time | Início: 01/05, Fim: 20/05 | Todos os membros do time | 20/05 |
+    | Período de gravação da apresentação | Início: 20/05, Fim: 20/05 | Douglas Marinho | Sem revisão | Eric Silveira | 20/05 |
+    | Correção pós apresentação | Início: 18/05, Fim: 19/05 | Todos os membros do time | Início: 20/05, Fim: 20/05 | Todos os membros do time | 20/05 |
+
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+
 ## Entrega 4 - Modelagem de Requisitos - Ágil
 
 
@@ -115,7 +133,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Modelagem de Requisitos - Ágil: NFR Framework   | Início dia 21/05 Fim dia 24/05 | Douglas Marinho, Henrique Torres e Luiz Gustavo | Início dia 25/05 Fim dia 26/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 27/05   |
     | Iteração do Git Pages  | Início dia 22/05 Fim dia 26/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 27/05 Fim dia 28/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 27/05   |
     | Período de gravação da apresentação    | Início dia 24/05 Fim dia 26/05 | Douglas Marinho  | Início dia 29/05 Fim dia 31/05 | Eric Silveira | 27/05   |
-    | Correção pós apresentação| Início dia 29/05 Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
+    | Correção pós apresentação| Início dia 21/05 Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
