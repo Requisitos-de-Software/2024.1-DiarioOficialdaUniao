@@ -4,7 +4,7 @@ A Especificação Suplementar abrange os requisitos do sistema que não são dir
 Para a especificação suplementar, o grupo decidiu adotar o modelo **FURPS+**.
 
 ## <a> Finalidade </a>
-A finalidade deste documento é definir os requisitos do sistema Diário Oficial da União. Esta Especificação Suplementar detalha os requisitos que não são diretamente capturados nos casos de uso do modelo de casos de uso. Juntas, as Especificações Suplementares e o modelo de casos de uso fornecem um conjunto completo de requisitos do sistema.
+A finalidade deste documento é definir os requisitos do sistema Diário Oficial da União. Esta Especificação Suplementar detalha os requisitos que não são diretamente capturados nos [casos de uso](../modelagem/useCase.md) do modelo de casos de uso. Juntas, as Especificações Suplementares e o modelo de casos de uso fornecem um conjunto completo de requisitos do sistema<a id="anchor_2" href="#REF2">^2^</a>.
 
 ## <a> Escopo </a>
 O objetivo do aplicativo Diário Oficial da União é facilitar o acesso e a consulta das publicações oficiais para cidadãos, empresas e órgãos governamentais, permitindo que se mantenham informados sobre atos legislativos, administrativos e judiciais de maneira prática e eficiente.
@@ -12,19 +12,19 @@ O objetivo do aplicativo Diário Oficial da União é facilitar o acesso e a con
 ## <a> Metodologia FURPS+ </a>
 FURPS+<a id="anchor_2" href="#REF2">^2^</a> é um sistema para a classificação de requisitos e a identificação dos que devem ser incluídos em um projeto em desenvolvimento. A sigla representa as seguintes cinco categorias:
 
-- **Functionality (Funcionalidade):** representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esta categoria possui diversas subcategorias que variam conforme a aplicação. Sua medição considera, principalmente, o cumprimento dos requisitos especificados.
+- **Functionality (Funcionalidade):**<a id="anchor_2" href="#REF2">^2^</a> representa todos os aspectos funcionais do software, ou seja, seus requisitos. Esta categoria possui diversas subcategorias que variam conforme a aplicação. Sua medição considera, principalmente, o cumprimento dos requisitos especificados.
 
-- **Usability (Usabilidade):** este atributo avalia a interface com o usuário e possui diversas subcategorias, incluindo prevenção de erros, estética e design, ajuda e documentação, consistência e padrões.
+- **Usability (Usabilidade):**<a id="anchor_2" href="#REF2">^2^</a> este atributo avalia a interface com o usuário e possui diversas subcategorias, incluindo prevenção de erros, estética e design, ajuda e documentação, consistência e padrões.
 
-- **Reliability (Confiabilidade):** refere-se à integridade, conformidade e interoperabilidade do software. Os requisitos a serem considerados incluem a frequência e gravidade das falhas, capacidade de recuperação, previsibilidade, exatidão e tempo médio entre falhas (MTBF).
+- **Reliability (Confiabilidade):**<a id="anchor_2" href="#REF2">^2^</a> refere-se à integridade, conformidade e interoperabilidade do software. Os requisitos a serem considerados incluem a frequência e gravidade das falhas, capacidade de recuperação, previsibilidade, exatidão e tempo médio entre falhas (MTBF).
 
-- **Performance (Desempenho):** avalia os requisitos de desempenho do software, utilizando diversas métricas, como tempo de resposta, consumo de memória, utilização da CPU, capacidade de carga e disponibilidade da aplicação.
+- **Performance (Desempenho):**<a id="anchor_2" href="#REF2">^2^</a> avalia os requisitos de desempenho do software, utilizando diversas métricas, como tempo de resposta, consumo de memória, utilização da CPU, capacidade de carga e disponibilidade da aplicação.
 
-- **Supportability (Suportabilidade):** os requisitos de suportabilidade abrangem várias características, incluindo testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade, localizabilidade, entre outros.
+- **Supportability (Suportabilidade):**<a id="anchor_2" href="#REF2">^2^</a> os requisitos de suportabilidade abrangem várias características, incluindo testabilidade, adaptabilidade, manutenibilidade, compatibilidade, configurabilidade, instalabilidade, escalabilidade, localizabilidade, entre outros.
 
-- **O simbolo "+":** inclui outros requisitos não funcionais que devem ser considerados, como requisitos de design, implementação, interface e requisitos físicos. Esses requisitos adicionais podem restringir o design, a construção e o funcionamento do sistema, incluindo limitações físicas do hardware.
+- **O simbolo "+":**<a id="anchor_2" href="#REF2">^2^</a> inclui outros requisitos não funcionais que devem ser considerados, como requisitos de design, implementação, interface e requisitos físicos. Esses requisitos adicionais podem restringir o design, a construção e o funcionamento do sistema, incluindo limitações físicas do hardware.
 
-Por fim, o modelo FURPS+ é uma abordagem abrangente para classificar e definir os requisitos de software, considerando diversas dimensões de qualidade e funcionalidade. É uma ferramenta valiosa para orientar o processo de desenvolvimento de software e garantir que todos os requisitos essenciais sejam abordados.
+Por fim, o modelo FURPS+<a id="anchor_2" href="#REF2">^2^</a> é uma abordagem abrangente para classificar e definir os requisitos de software, considerando diversas dimensões de qualidade e funcionalidade. É uma ferramenta valiosa para orientar o processo de desenvolvimento de software e garantir que todos os requisitos essenciais sejam abordados.
 
 ## <a> Metodologia FURPS+ aplicada ao Diario Oficial da União </a>
 
