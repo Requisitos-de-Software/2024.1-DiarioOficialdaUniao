@@ -219,3 +219,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.3`|10/04/2024|11/04/2024| Adicionando fontes nas tabelas | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
 |`1.4`|20/04/2024|20/04/2024| Adicionando o cronograma executado da segunda entrega | [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
 |`1.5`|14/05/2024|14/05/2024| Atualizando todo o cronograma planejado | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
+|`1.6`|20/05/2024|20/05/2024| Atualizando todo o cronograma executado da terceira entrega | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
