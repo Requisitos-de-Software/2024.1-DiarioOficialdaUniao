@@ -84,6 +84,7 @@ A Tabela 3 apresenta os requisitos essenciais de desempenho para o aplicativo Di
 | DES03 | O aplicativo deve utilizar, no máximo, 1-2% do armazenamento total do dispositivo para cache de dados essenciais..                                  |
 | DES04 | O aplicativo deve ter uma interface de design simplificado, seguindo os princípios de ergonomia no design de UI. <a id="anchor_3" href="#REF3">^3^</a> |
 | DES05 | É essencial que a aplicação mantenha um consumo de memória razoável, limitado a 50 MB, para evitar problemas em dispositivos com sistemas operacionais desatualizados.          |
+| DES06 | O sistema deve garantir um tempo de resposta não superior a 1 segundo.                                                                                   |
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
