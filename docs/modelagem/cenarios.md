@@ -107,7 +107,7 @@ A tabela 4 descreve o formato de especificação funcional do cenário que tem c
 | Denominação     | Configurar o Aplicativo |
 |-----------------|-------------------------|
 | Objetivo/meta   | Permitir que o usuário ajuste as configurações do aplicativo DOU para atender às suas necessidades específicas de acessibilidade e personalização de conteúdo. |
-| Contexto        | **Contexto:** Diana Sousa precisa ajustar o aplicativo DOU para melhorar a acessibilidade e personalizar o conteúdo. <br> **Local:** Menu de configurações do aplicativo DOU. <br> **Tempo:** A configuração pode levar de 5 a 15 minutos, dependendo da quantidade de ajustes necessários. <br> **Pré-condição:** Diana deve estar autenticada no sistema e ter acesso ao menu de configurações. |
+| Contexto        | **Contexto:** Diana Sousa precisa ajustar o aplicativo DOU para melhorar a acessibilidade e personalizar o conteúdo. <br> **Local:** Menu de configurações do aplicativo DOU. <br> **Tempo:** A configuração pode levar de 1 a 5 minutos, dependendo da quantidade de ajustes necessários. <br> **Pré-condição:** Diana deve estar autenticada no sistema e ter acesso ao menu de configurações. |
 | Atores          | Diana Sousa (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
 | Recursos        | Aplicativo do DOU; <br> Conexão à internet. |
 | Episódios       | 1. Diana faz login no aplicativo do DOU. <br> 2. Diana acessa o menu de configurações. <br> 3. Diana ajusta o contraste e ativa o suporte para talkback. <br> 4. Diana configura notificações e filtros para receber informações de órgãos específicos. <br> 5. Diana revisa todas as configurações para garantir que foram aplicadas corretamente. |
