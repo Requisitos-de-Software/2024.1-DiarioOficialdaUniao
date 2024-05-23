@@ -53,6 +53,8 @@ nav:
     - Léxicos: modelagem/lexicos.md
     - Casos de Uso: modelagem/useCase.md
     - Especificação Suplementar: modelagem/especificacao.md
+    - Modelagem Ágil: 
+      - Histórias de Usuário: modelagem/modelagemAgil/historiaUsuario.md
   - Termo de Uso: termoDeUso.md
 
 
