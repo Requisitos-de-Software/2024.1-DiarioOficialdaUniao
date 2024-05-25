@@ -55,6 +55,7 @@ nav:
     - Especificação Suplementar: modelagem/especificacao.md
     - Modelagem Ágil: 
       - Histórias de Usuário: modelagem/modelagemAgil/historiaUsuario.md
+      - Backlog: modelagem/modelagemAgil/backlog.md
   - Termo de Uso: termoDeUso.md
 
 

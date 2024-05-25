@@ -64,7 +64,7 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
   <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/ModeloTextoEstruturado.png?raw=true" alt="Modelo" />
 </p>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10<a id="anchor_3" href="#FRM3">^3^</a>.</p></font>
 
 ## <a>Cenários identificados</a>
 Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>. Os atores escolhidos para cada cenário fazem parte do artefato <a href="/2024.1-DiarioOficialdaUniao/elicitacao/personas">Personas</a>.
@@ -443,6 +443,8 @@ Rastreamento Baseado em Transformações. Rio de Janeiro - RJ, 2003.
 Universidade Católica do Rio de Janeiro. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
 
 > <a id="FRM2" href="#anchor_2">2.</a> Bergmann, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. Capítulo 3.1 Modelo de Cenário, p.47. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+
+> <a id="FRM3" href="#anchor_3">3.</a>SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.
 
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
