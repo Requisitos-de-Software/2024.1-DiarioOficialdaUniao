@@ -7,21 +7,24 @@ De acordo PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a>, uma hist�
 Em seu livro, PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a> também definem que a elaboração de uma história do usuário envolve o ato de escutar relatos do cliente que detalham as funcionalidades, características e resultados esperados do software. O cliente, por sua vez, atribui um valor de prioridade a cada história, baseando-se na importância relativa da funcionalidade para o negócio. Posteriormente, os membros da equipe avaliam cada história e determinam o custo associado, expresso em semanas de desenvolvimento, proporcionando uma base para a alocação de recursos e planejamento.
 
 ## <a> Metodologia </a>
-Template das histórias de usuário na tabela 1.
+
+A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em quatro colunas principais: ID, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
 
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Template de tabela para histórias de usuário.</p></font>
 
-| **ID**| Descrição| Critérios de Aceitação |
-| :-----| :--------|------------------------------ |
-| USXX  |_Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... |
+| **ID**| **Descrição** | **Critérios de Aceitação** | **Status da aceitação pelo PO**
+| :-----| :--------|------------------------------ | -----------|
+| USXX  |_Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 
 <font size="3">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</font>
 
 </center>
 
 ## <a> Histórias de Usuário </a>
+
+A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, focando nos elementos que foram descritos no [template da Tabela 1](#metodologia).
 
 <center>
 
