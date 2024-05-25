@@ -26,6 +26,21 @@ Template das histórias de usuário na tabela 1.
 
 ## <a> Histórias de Usuário </a>
 
+<center>
+
+<font size="3">Tabela 1:Template de tabela para histórias de usuário.</font>
+
+| **ID**  | **Descrição** | **Critérios de Aceitação** |**Valor de negócio**|**Prioridade (Three level)**|
+|---------| ------------- |----------------------------|--------------------|----------------------------|
+| US01         |Eu, como usuário,  gostaria que o sistema ajuste automaticamente a data de término para a data atual quando eu inserir apenas a data de início no filtro de pesquisas de diários, afim de que eu possa visualizar todos os documentos relevantes até a data de hoje sem precisar inserir manualmente a data de término|<a>1</a> - Caso apenas a data de início seja inserida pelo usuário, o sistema deve automaticamente ajustar a data de término para a data atual e assim, garantir que a mesma esteja sempre atualizada no dia atual.<br><a>2</a> - O sistema deve garantir que o filtro aplicado retornará corretamente os diários publicados daquele período determinado.|???????|??????|
+| US02         |Eu, como usuário,  gostaria que o sistema tivesse uma limitação de diários exibidos no resultado de pesquisa por página, afim de que eu possa navegar pelos resultados de forma mais intuitiva e organizada, evitando a sobrecarga visual causada pela atualização constante ao rolar a página.|<a>1</a> - O resultado de pesquisas deve ser separado por páginas.<br><a>2</a> - A limitação de exibição dos diários deve ser de 30 diários por página.<br><a>3</a> - O resultado de busca deve garantir que todos os diários que se enquadram na aplicação do filtro, ou sem filtros também, sejam exibidos, limitados nas páginas corretamente.|???????|??????|
+| US03         |Eu, como usuário,  gostaria que o sistema tivesse uma limitação de diários exibidos na guia **Meu Diário** por página, afim de que eu possa navegar pelos resultados de forma mais intuitiva e organizada, evitando a sobrecarga visual causada pela atualização constante ao rolar a página.|<a>1</a> - A guia **Meu Diário**  deve ser separado por páginas.<br><a>2</a> - A limitação de exibição dos diários deve ser de 30 diários por página.<br><a>3</a> - O resultado de busca deve garantir que todos os diários que se enquadram na aplicação do filtro, ou sem filtros também, sejam exibidos, limitados nas páginas corretamente.<br><a>4</a> - A guia deve mostrar a exibição dos números de diários encontrados por página, com o texto centralizado e padronizado como nas outras guias, no seguinte formato: [numero] resultados encontrados.|???????|??????|
+| US04         |Eu, como usuário,  gostaria que o sistema tivesse uma configuração por limitação de datas, na guia **Meu Diário**, afim de que eu possa filtras meus resultados nessa página por diferentes períodos.|<a>1</a> - O sistema deve garantir que só apareça como opção, datas válidas.<br><a>2</a> - O sistema deve permitir que o usuário escolha datas de início e término, mas não deve exigir que ambas sejam preenchidas obrigatoriamente.<br><a>3</a> - Caso apenas a data de início seja inserida pelo usuário, o sistema deve automaticamente ajustar a data de término para a data atual e assim, garantir que a mesma esteja sempre atualizada no dia atual.|???????|??????|
+
+<font size="3">Fonte: Autores.</font>
+
+</center>
+
 
 ## <a> Gravação da Reunião </a>
 
