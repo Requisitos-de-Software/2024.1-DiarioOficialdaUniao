@@ -9,7 +9,7 @@
 
 ## <a>Definição dos temas</a>
 
-###<a>Tema 1: Autenticação e Segurança</a>
+### <a>Tema 1: Autenticação e Segurança</a>
 | Tipo | Descrição|
 |------|----------|
 |RF01| Autenticação de usuários para acesso seguro.|
@@ -18,7 +18,7 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-###<a>Tema 2: Interface do Usuário e Acessibilidade</a>
+### <a>Tema 2: Interface do Usuário e Acessibilidade</a>
 | Tipo | Descrição|
 |------|----------|
 |RNF03| Design responsivo que se adapta a tablets e smartphones.|
@@ -30,7 +30,7 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-###<a>Tema 3: Funcionalidades de Conteúdo e Busca</a>
+### <a>Tema 3: Funcionalidades de Conteúdo e Busca</a>
 | Tipo | Descrição|
 |------|----------|
 |RF02| Visualização de edições diárias do Diário Oficial.|
@@ -46,7 +46,7 @@ RNF13| O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-###<a>Tema 4: Notificações e Interatividade</a>
+### <a>Tema 4: Notificações e Interatividade</a>
 | Tipo | Descrição|
 |------|----------|
 |RF06| Notificações push sobre novas publicações relevantes.|
@@ -56,7 +56,7 @@ RNF13| O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-###<a>Tema 5: Gestão e Manutenção do Sistema</a>
+### <a>Tema 5: Gestão e Manutenção do Sistema</a>
 | Tipo | Descrição|
 |------|----------|
 |RNF01| Alta disponibilidade do sistema, com 99,9% de uptime.|
@@ -67,7 +67,7 @@ RNF13| O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-###<a>Tema 6: Funcionalidades Adicionais e Acessórias</a>
+### <a>Tema 6: Funcionalidades Adicionais e Acessórias</a>
 | Tipo | Descrição|
 |------|----------|
 |RF05| Download de edições e documentos em formatos PDF.|
@@ -160,6 +160,15 @@ RNF13| O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) 
 |RNF06| Tempo de resposta de busca inferior a 2 segundos.|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+
+## <a>Backlog</a>
+
+| **ID**|**Tema**|**Épico**|**Prioridade (Three Level)**|
+|-------|--------|---------|----------------------------|
+|US01|*Funcionalidades de Conteúdo e Busca*|*Busca e Organização*| |
+|US02|*Interface do Usuário e Acessibilidade*|*Acessibilidade e Usabilidade*||
+|US03|*Interface do Usuário e Acessibilidade*|*Acessibilidade e Usabilidade*||
+|US04|*Funcionalidades de Conteúdo e Busca*|*Busca e Organização*||
 
 ## <a>Referência Bibliográfica</a>
 
