@@ -136,8 +136,10 @@ A seguir na tabela X, temos as
 | US16 | Gestão e Manutenção do Sistema            | Infraestrutura e Suporte               | |
 | US17 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
 | US18 | Funcionalidades Adicionais e Acessórias   | Funcionalidades Avançadas de Documentos | |
-| US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
-
+| US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade ||
+| US20 | Notificações e Interatividade | Engajamento e Comunicação ||
+| US21 | Funcionalidades Adicionais e Acessórias | AFuncionalidades Avançadas de Documentos ||
+| US22 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
 
 ## <a>Referência Bibliográfica</a>
 
