@@ -66,6 +66,33 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## Requisitos Não-Funcionais
+
+Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Não-Funcionais que não foram implementados. A Tabela X, apresentada abaixo, detalha esses requisitos.
+
+<center>
+<b>Tabela X</b> - Requisitos Não-Funcionais Não Implementados
+
+| ID | Descrição | Rastreabilidade | Implementação |
+| ----- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+|  |  |  |  |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+</center>
+
+A Tabela X abaixo lista os Requisitos Não-Funcionais elicitados pelo NFR Framework.
+
+<center>
+<b>Tabela X</b> - Requisitos Elicitados NFR
+
+|  ID  | Descrição |
+|------|---------|
+| NFR01 |  |
+
+Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+</center>
+
+
 ## <a> Referência Bibliográfica </a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
