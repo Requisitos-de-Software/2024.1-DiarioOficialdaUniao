@@ -1,4 +1,4 @@
-## <a>Introdução</a>
+## <a> Introdução </a>
 
 O **Non-Functional Requirements (NFR) Framework** é uma abordagem estruturada para tratar os requisitos não funcionais em projetos de engenharia de software. Requisitos não funcionais são aqueles que definem atributos de qualidade do sistema, como desempenho, segurança, usabilidade e confiabilidade, que são críticos para o sucesso do software, mas que não dizem respeito diretamente às funcionalidades específicas do sistema.<a id="anchor_1" href="#REF1">^1^</a>
 
@@ -43,13 +43,39 @@ A aplicação do SIG no processo de desenvolvimento de software garante que os r
 4. **Construção do Softgoal Interdependency Graph (SIG)**: Um gráfico é construído para visualizar interdependências e trade-offs.
 5. **Análise e Racionalização**: Alternativas e soluções são analisadas para suportar decisões de design.
 
-### <a> Referência Bibliográfica </a>
+## <a> Cartões de Especificação </a>
+Na tabela 1, temos o cartão de especificação do softgoal "Usabilidade".
+
+<center>
+
+**Tabela 1** - Cartão de especificação 1 - Usabilidade
+
+| Tópico | Usabilidade/Fácil Aprendizado | 
+| :------: | :------: |
+| ID |  |
+| Descrição |  |
+| Justificativa |  |
+| Origem do Requisito |  |
+| Critério de Aceitação |  |
+| Dependências |  |
+| Prioridade |  |
+| Conflito |  |
+| História |  |
+
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
+</center>
+
+## <a> Referência Bibliográfica </a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
+
+## <a> Bibliografia </a>
 
 > JANEIRO, José. GOMES, Joaquim. NFR Framework. ESTIC, Brasil, 2008. Disponível em: [http://jaejaneiro.orgfree.com/engsofnfr.pdf](http://jaejaneiro.orgfree.com/engsofnfr.pdf). Acesso em: 25/05/2024.
 
 ## <a> Histórico de versão </a>
-|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor | Revisor |
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 25/05/2024 | 25/05/2024 |Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0)| [Arthur Alves](https://github.com/Arthrok) |
+| `1.0` | 25/05/2024 | 25/05/2024 | Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0) | [Arthur Alves](https://github.com/Arthrok) |
