@@ -1,8 +1,11 @@
 ## <a>Introdução</a>
 
+O <b>*backlog do produto*</b> em um ambiente **Scrum** é essencialmente uma lista dinâmica que guia a equipe de desenvolvimento ao longo do projeto, contendo todos os itens que precisam ser desenvolvidos para enriquecer o produto. Este artefato inclui funcionalidades, funções, requisitos, aprimoramentos e correções, todos meticulosamente priorizados e estimados para garantir que agreguem valor ao cliente. Importante ressaltar que o backlog é frequentemente reorganizado para refletir as prioridades em mudança e garantir a eficácia do desenvolvimento, evitando a inclusão de tarefas menores, que não contribuem significativamente para os objetivos estratégicos do produto<a id="anchor_1" href="#FRM1">^1^</a>. Neste artefato iremos definir o backlog, tendo como base o <b>*Diário Oficial da União*</b> e suas funcionalidades, iremos definir temas, épicos e executar a validação dos mesmos.
+
 
 ## <a>Metodologia</a>
 
+A partir dos requisitos elicitados durante as [Entrevistas](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/entrevista/), procedemos à definição de temas e épicos claros, os quais servem para estruturar e simplificar a compreensão das [Histórias de Usuários](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1). Essas histórias serão prioritariamente avaliadas e refinadas em colaboração com o Product Owner (PO), considerando o mesmo com base no [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/#processo) previamente definido. Esse processo é fundamental para garantir que as funcionalidades desenvolvidas estejam alinhadas com as expectativas e requisitos dos usuários finais, facilitando assim a entrega de soluções que não apenas atendam, mas superem as necessidades identificadas. 
 
 
 ## <a>Definição dos temas</a>
@@ -143,16 +146,14 @@ A seguir na tabela X, temos as
 
 ## <a>Referência Bibliográfica</a>
 
-> <a id="FRM1" href="#anchor_1">1.</a> Teste
+> <a id="FRM1" href="#anchor_1">1.</a> O que é backlog do produto Scrum e como fazer um. Lucid Software Inc. 2024.  Disponível em: <https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto>
 
 
 ## <a>Bibliografia</a>
 
-> Requisitos de Software. Bilheteria Digital, 2023-1. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/modelagem/agil/backlog/>. Acesso em: 24 de maio de 2024 às 22:52.
+> O que é backlog do produto Scrum e como fazer um. Lucid Software Inc. 2024.  Disponível em: <https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto>
 
-> Requisitos de Software. VLC, 2023-1. Disponível em: <https://requisitos-de-software.github.io/2023.1-VLC/#/modelagem/agil/backlog>. Acesso em: 24 de maio de 2024 às 23:00.
-
-> <a id="FRM3" href="#anchor_3">3.</a>SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 15.
+> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 15.
 
 
 ## Histórico de versão
