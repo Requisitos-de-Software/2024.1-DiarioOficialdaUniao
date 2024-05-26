@@ -137,10 +137,26 @@
 
 | **ID**|**Tema**|**Épico**|**Prioridade (Three Level)**|
 |-------|--------|---------|----------------------------|
-|US01|*Funcionalidades de Conteúdo e Busca*|*Busca e Organização*| |
-|US02|*Interface do Usuário e Acessibilidade*|*Acessibilidade e Usabilidade*||
-|US03|*Interface do Usuário e Acessibilidade*|*Acessibilidade e Usabilidade*||
-|US04|*Funcionalidades de Conteúdo e Busca*|*Busca e Organização*||
+| US01 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US02 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
+| US03 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
+| US04 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US05 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US06 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
+| US07 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US08 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
+| US09 | Notificações e Interatividade             | Engajamento e Comunicação              | |
+| US10 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US11 | Notificações e Interatividade             | Engajamento e Comunicação              | |
+| US12 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US13 | Autenticação e Segurança                  | Autenticação Segura e Gestão de Usuários | |
+| US14 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
+| US15 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
+| US16 | Gestão e Manutenção do Sistema            | Infraestrutura e Suporte               | |
+| US17 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
+| US18 | Funcionalidades Adicionais e Acessórias   | Funcionalidades Avançadas de Documentos | |
+| US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
+
 
 ## <a>Referência Bibliográfica</a>
 
