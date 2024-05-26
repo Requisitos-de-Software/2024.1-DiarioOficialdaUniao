@@ -79,8 +79,8 @@ O léxico "Diário Oficial" representado na tabela 5, descreve a publicação de
 | L02 | Descrição |
 |-----|-----------|
 | Classificação | Objeto |
-| Impacto | Sua principal finalidade é informar todos os assuntos oficiais e tornar público todas as decisões tomadas, reuniões, editais, nomeações e todos os demais assuntos que possam interressar à população. |
-| Noção | É um jornal impresso e/ou online governamental municipal, federativo e/ou estadual. |
+| Impacto | Sua principal finalidade é informar todos os assuntos oficiais e tornar público todas as decisões tomadas, reuniões, editais, nomeações e todos os demais assuntos que possam interessar à população. |
+| Noção | É um jornal impresso e/ou online, de caráter governamental (municipal, federativo e/ou estadual). |
 | Sinônimos | Publicações, Jornais Oficiais |
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>

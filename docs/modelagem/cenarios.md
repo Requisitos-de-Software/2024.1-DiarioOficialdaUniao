@@ -6,7 +6,7 @@ O cenário reclaciona a interação dos usuários com o sistema, de forma detalh
 
 De acordo com o livro "Interação Humano-Computador e Experiência do usuário", a equipe de design (incluindo representantes dos usuários) tem a oportunidade de discutir e analisar como as atividades dos usuários são afetadas pela tecnologia existente e como elas poderiam ser afetadas pelo sistema sendo desenvolvido, a partir do **Design Baseado em Cenários**. Desse modo, cenários são uma ferramenta útil e barata para gerar e avaliar diversas ideias durante as atividades de design<a id="anchor_1" href="#FRM1">^1^</a>.
 
-## <a>Modelo de Cenário</a>
+## <a>Metodologia</a>
 
 De acordo com Weidenhaupt, em seu estudo sobre o uso de cenários no desenvolvimento de software, foram identificados cinco formas para a descrição de cenários, sendo elas: texto narrativo, texto estruturado, diagramas, imagens e animações ou simulações<a id="anchor_2" href="#FRM2">^2^</a>.
 Uma das formas mais utilizadas é a de **texto estruturado** e devido a essa razão, por questões de mais acessibilidade a materiais base, adotamos o mesmo modelo.
@@ -64,7 +64,7 @@ Na figura 1, temos um exemplo de utilização da notação para a descrição de
   <img src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/assets/ModeloTextoEstruturado.png?raw=true" alt="Modelo" />
 </p>
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10<a id="anchor_3" href="#FRM3">^3^</a>.</p></font>
 
 ## <a>Cenários identificados</a>
 Os cenários identificados foram construídos a partir dos requisitos elicitados e priorizados documentados na seção <a href="/2024.1-DiarioOficialdaUniao/elicitacao/priorizacao/#tabela-de-requisitos-priorizados">Priorização</a>. Os atores escolhidos para cada cenário fazem parte do artefato <a href="/2024.1-DiarioOficialdaUniao/elicitacao/personas">Personas</a>.
@@ -93,7 +93,7 @@ A tabela 3 descreve o refinamento do cenário que tem como objetivo configurar o
 | Evento       | Eventos que disparam a necessidade de alcançar o objetivo incluem mudanças nas necessidades de acessibilidade de Diana ou interesse em áreas específicas do diário oficial. A conclusão das configurações desencadeia uma experiência de usuário mais personalizada e eficiente. | Quais eventos disparam a necessidade de alcançar o objetivo? Quais eventos são disparados pela conclusão desse objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Diana pode avaliar o sucesso de suas ações verificando se as configurações aplicadas refletem suas preferências no aplicativo. O resultado bem-sucedido é um aplicativo que atende melhor às suas necessidades específicas, facilitando o acesso e a gestão da informação. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 
@@ -107,13 +107,14 @@ A tabela 4 descreve o formato de especificação funcional do cenário que tem c
 | Denominação     | Configurar o Aplicativo |
 |-----------------|-------------------------|
 | Objetivo/meta   | Permitir que o usuário ajuste as configurações do aplicativo DOU para atender às suas necessidades específicas de acessibilidade e personalização de conteúdo. |
-| Contexto        | **Contexto:** Diana Sousa precisa ajustar o aplicativo DOU para melhorar a acessibilidade e personalizar o conteúdo. <br> **Local:** Menu de configurações do aplicativo DOU. <br> **Tempo:** A configuração pode levar de 5 a 15 minutos, dependendo da quantidade de ajustes necessários. <br> **Pré-condição:** Diana deve estar autenticada no sistema e ter acesso ao menu de configurações. |
+| Contexto        | **Contexto:** Diana Sousa precisa ajustar o aplicativo DOU para melhorar a acessibilidade e personalizar o conteúdo. <br> **Local:** Menu de configurações do aplicativo DOU. <br> **Tempo:** A configuração pode levar de 1 a 5 minutos, dependendo da quantidade de ajustes necessários. <br> **Pré-condição:** Diana deve estar autenticada no sistema e ter acesso ao menu de configurações. |
 | Atores          | Diana Sousa (Usuário Primário); <br> Sistema do DOU (Usuário Secundário) |
 | Recursos        | Aplicativo do DOU; <br> Conexão à internet. |
 | Episódios       | 1. Diana faz login no aplicativo do DOU. <br> 2. Diana acessa o menu de configurações. <br> 3. Diana ajusta o contraste e ativa o suporte para talkback. <br> 4. Diana configura notificações e filtros para receber informações de órgãos específicos. <br> 5. Diana revisa todas as configurações para garantir que foram aplicadas corretamente. |
 | Exceção         | 1. Se ocorrer um erro ao salvar as configurações, uma mensagem de erro é exibida e Diana é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Diana é instruída a tentar novamente mais tarde. |
 | Restrição       | 1. As configurações devem estar de acordo com os padrões de acessibilidade. <br> 2. A conexão à internet deve estar estável durante o processo de configuração. <br> 3. O sistema deve permitir que as configurações sejam facilmente revertidas ou ajustadas novamente. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -151,8 +152,7 @@ A tabela 5 descreve o refinamento do cenário que tem como objetivo filtrar as p
 | Avaliação    | Robson saberá que atingiu seu objetivo quando conseguir usar filtros temáticos e avançados para encontrar publicações específicas no DOU de forma rápida e precisa. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 A tabela 6 descreve o formato de especificação funcional do cenário que tem como objetivo filtrar as publicações.
@@ -169,6 +169,7 @@ A tabela 6 descreve o formato de especificação funcional do cenário que tem c
 | Exceção         | 1. Se ocorrer um erro na aplicação dos filtros, uma mensagem de erro é exibida e Robson é orientado a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Robson é instruído a tentar novamente mais tarde. |
 | Restrição       | 1. O sistema deve garantir que os filtros sejam aplicados corretamente e as informações sejam precisas. <br> 2. A conexão à internet deve estar estável durante o processo de busca. <br> 3. Os filtros devem estar atualizados e cobrir uma ampla gama de temas e critérios. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -200,8 +201,7 @@ A tabela 7 descreve refinamento do cenário que tem como objetivo achar diários
 | Evento       | A necessidade de revisar menções a uma nova regulamentação publicada no DOU em diversas edições. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Camila saberá que atingiu seu objetivo quando conseguir encontrar rapidamente todas as menções às palavras-chave no DOU utilizando a ferramenta de busca. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 A tabela 8 descreve o formato de especificação funcional do cenário que tem como objetivo achar diários por palavras-chave.
@@ -218,6 +218,7 @@ A tabela 8 descreve o formato de especificação funcional do cenário que tem c
 | Exceção         | 1. Se ocorrer um erro na busca, uma mensagem de erro é exibida e Camila é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Camila é instruída a tentar novamente mais tarde. |
 | Restrição       | 1. As palavras-chave devem ser precisas para obter resultados relevantes. <br> 2. A conexão à internet deve estar estável durante o processo de busca. <br> 3. O sistema deve garantir que as publicações estejam indexadas corretamente para facilitar a busca. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -247,8 +248,7 @@ A tabela 9 descreve refinamento do cenário que tem como objetivo um design resp
 | Evento       | A necessidade de acessar uma nova regulamentação publicada no DOU enquanto está em campo. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Dona Kláudia saberá que atingiu seu objetivo quando conseguir acessar e ler facilmente as publicações do DOU em seu dispositivo móvel. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 A tabela 10 descreve o formato de especificação funcional do cenário que tem como objetivo o design responsivo para tablets e smartphones.
@@ -265,6 +265,7 @@ A tabela 10 descreve o formato de especificação funcional do cenário que tem 
 | Exceção         | 1. Se o design responsivo não funcionar corretamente, uma mensagem de erro é exibida e Dona Kláudia é orientada a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Dona Kláudia é instruída a tentar novamente mais tarde. |
 | Restrição       | 1. O design responsivo deve garantir uma boa experiência de usuário em diferentes tamanhos de tela. <br> 2. A conexão à internet deve estar estável durante o acesso às informações. <br> 3. O sistema deve permitir ajustes manuais de zoom e navegação para melhorar a usabilidade. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -295,8 +296,7 @@ A tabela 11 descreve o refinamento do cenário que tem como objetivo uma platafo
 | Evento       | A necessidade de verificar uma publicação recente sobre a destinação de verbas para um projeto de pesquisa. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Diana saberá que atingiu seu objetivo quando conseguir acessar e utilizar o aplicativo do DOU em seu smartphone atualizado sem problemas de compatibilidade. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 A tabela 12 descreve o formato de especificação funcional do cenário que tem como objetivo o design responsivo para tablets e smartphones.
@@ -313,6 +313,7 @@ A tabela 12 descreve o formato de especificação funcional do cenário que tem 
 | Exceção         | 1. Se o problema de compatibilidade não for resolvido imediatamente, Diana é notificada sobre o prazo estimado para a solução. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Diana é instruída a tentar novamente mais tarde. |
 | Restrição       | 1. O aplicativo deve ser compatível com as versões mais recentes dos sistemas operacionais móveis. <br> 2. A equipe de desenvolvimento deve estar disponível para resolver problemas de compatibilidade rapidamente. <br> 3. A conexão à internet deve estar estável durante a atualização e uso do aplicativo. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -344,7 +345,7 @@ A tabela 13 descreve refinamento do cenário que tem como objetivo suporte multi
 | Evento       | A necessidade de consultar uma legislação recente que impacta diretamente sua pesquisa acadêmica. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Thomas saberá que atingiu seu objetivo quando conseguir acessar e entender as publicações do DOU em inglês sem a necessidade de ferramentas de tradução externas. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 
@@ -362,6 +363,7 @@ A tabela 14 descreve o formato de especificação funcional do cenário que tem 
 | Exceção         | 1. Se ocorrer um erro na tradução, uma mensagem de erro é exibida e Thomas é orientado a tentar novamente. <br> 2. Se houver um problema de conexão, uma mensagem de erro é exibida e Thomas é instruído a tentar novamente mais tarde. |
 | Restrição       | 1. O sistema deve garantir que as traduções estejam atualizadas e precisas. <br> 2. As traduções devem estar de acordo com os termos jurídicos oficiais. <br> 3. A conexão à internet deve estar estável durante o processo de tradução. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -393,7 +395,7 @@ A tabela 15 descreve o refinamento do cenário que tem como objetivo suporte té
 | Evento       | A necessidade urgente de acessar um edital importante que não está carregando corretamente no aplicativo do DOU. | Quais eventos disparam a necessidade de alcançar o objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 | Avaliação    | Kauan saberá que atingiu seu objetivo quando conseguir acessar o suporte técnico e resolver problemas técnicos em até 24 horas, garantindo acesso contínuo às informações do DOU. | Como os atores conseguem saber se uma ação foi concluída e realizada com sucesso? Qual é o resultado do alcance do objetivo?<a id="anchor_3" href="#FRM3">^3^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 </center>
 
@@ -411,6 +413,7 @@ A tabela 16 descreve o formato de especificação funcional do cenário que tem 
 | Exceção         | 1. Se o suporte técnico não conseguir resolver o problema em 24 horas, Kauan é notificado sobre o atraso e recebe uma previsão de tempo para a solução. |
 | Restrição       | 1. O suporte técnico deve estar disponível 24/7. <br> 2. O sistema deve garantir que as solicitações sejam encaminhadas imediatamente após serem enviadas. <br> 3. A conexão à internet deve estar estável durante o processo de solicitação. |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Análise do Cenário</a>
 
@@ -440,6 +443,8 @@ Rastreamento Baseado em Transformações. Rio de Janeiro - RJ, 2003.
 Universidade Católica do Rio de Janeiro. Disponível em: <https://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
 
 > <a id="FRM2" href="#anchor_2">2.</a> Bergmann, Ulf. Evolução de Cenários Através de um Mecanismo de Rastreamento Baseado em Transformações. Capítulo 3.1 Modelo de Cenário, p.47. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>.
+
+> <a id="FRM3" href="#anchor_3">3.</a>SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 10.
 
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|

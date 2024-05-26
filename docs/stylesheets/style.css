@@ -34,4 +34,13 @@
     text-indent: 1em;
   }
 
+.task-red {
+    color: red;
+}
+
+.task-green {
+    color: green;
+}
+
+
 
