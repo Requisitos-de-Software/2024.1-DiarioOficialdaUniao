@@ -1,4 +1,4 @@
-## <a>Introdução</a>
+## <a id="introducao">Introdução</a>
 
 O <b>*backlog do produto*</b> em um ambiente **Scrum** é essencialmente uma lista dinâmica que guia a equipe de desenvolvimento ao longo do projeto, contendo todos os itens que precisam ser desenvolvidos para enriquecer o produto. Este artefato inclui funcionalidades, funções, requisitos, aprimoramentos e correções, todos meticulosamente priorizados e estimados para garantir que agreguem valor ao cliente. Importante ressaltar que o backlog é frequentemente reorganizado para refletir as prioridades em mudança e garantir a eficácia do desenvolvimento, evitando a inclusão de tarefas menores, que não contribuem significativamente para os objetivos estratégicos do produto<a id="anchor_1" href="#FRM1">^1^</a>. Neste artefato iremos definir o backlog, tendo como base o <b>*Diário Oficial da União*</b> e suas funcionalidades, iremos definir temas, épicos e executar a validação dos mesmos.
 
@@ -194,7 +194,7 @@ A tabela 8 apresenta os requisitos funcionais que foram identificados e categori
 
 
 ## <a>Backlog</a>
-O backlog do produto é uma lista organizada de tudo o que é necessário no projeto, incluindo todas as funcionalidades, requisitos técnicos, melhorias e correções que são prioritárias para a equipe. [referencia]
+O <b>*backlog do produto*</b>, como já citado na <a href="#introducao">Introdução</a> é uma lista organizada de tudo o que é necessário no projeto, incluindo todas as funcionalidades, requisitos técnicos, melhorias e correções que são prioritárias para a equipe<a id="anchor_1" href="#FRM1">^1^</a>.
 
 Cada item do backlog é uma história de usuário que representa uma necessidade específica dos usuários finais, agrupada sob temas relevantes e classificada em épicos para uma melhor clareza. Estas histórias estão priorizadas para garantir que o trabalho mais importante seja realizado primeiro. Confira na Tabela 9 o backlog.
 
