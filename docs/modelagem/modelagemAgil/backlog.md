@@ -7,6 +7,20 @@
 
 ## <a>Definição dos temas</a>
 
+Após a fase de elicitação dos requisitos, detalhada em nosso documento de requisitos, identificamos vários temas principais nos quais os requisitos podem ser agrupados. Abaixo, detalhamos cada um desses temas, destacando suas características e objetivos principais:
+
+- **Autenticação e Segurança:** Este tema abrange todos os aspectos necessários para garantir a segurança e a integridade do acesso ao sistema. Inclui requisitos como autenticação robusta de usuários, criptografia de dados sensíveis e mecanismos para prevenção de acessos não autorizados. Essencial para proteger informações confidenciais e garantir que apenas usuários legítimos possam acessar o sistema.
+- **Interface do Usuário e Acessibilidade:** Focamos na usabilidade e na acessibilidade da interface do usuário, garantindo que o sistema seja intuitivo e acessível para todos, incluindo pessoas com deficiências. Este tema inclui o design responsivo, suporte a tecnologias assistivas e diretrizes para garantir a conformidade com as normas de acessibilidade.
+- **Funcionalidades de Conteúdo e Busca:** Este tema trata das funcionalidades relacionadas à organização, busca e visualização de conteúdo dentro do sistema. Inclui ferramentas avançadas de busca, filtros personalizados e maneiras eficientes de navegar e recuperar os dados desejados pelos usuários.
+- **Notificações e Interatividade:** Envolvendo a comunicação proativa do sistema com o usuário, este tema aborda como os usuários recebem alertas sobre eventos relevantes ou ações necessárias. Inclui personalização de notificações e interação em tempo real para melhor engajamento do usuário.
+- **Gestão e Manutenção do Sistema:** Este tema é dedicado às operações de back-end necessárias para manter o sistema funcionando de forma eficiente e contínua. Abrange desde a manutenção regular até atualizações de sistema e suporte técnico, garantindo alta disponibilidade e desempenho confiável.
+- **Funcionalidades Adicionais e Acessórias:** Inclui funcionalidades complementares que enriquecem a experiência do usuário ou fornecem capacidades adicionais ao sistema. Inclui integrações com outros sistemas, suporte multilíngue e expansões modulares que podem ser personalizadas conforme as necessidades do negócio.
+
+## <a>Épicos</a> 
+
+A seguir, a Tabela 1 apresenta os épicos desenvolvidos a partir dos temas identificados. Esta organização facilita a compreensão de como as áreas focais foram delineadas para abordar especificamente as necessidades do sistema em diferentes aspectos.
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Relação dos temas com os épicos</p></font>
 
 <table border="1">
   <tr>
@@ -27,7 +41,7 @@
   </tr>
   <tr>
     <td rowspan="1">Tema 4: Notificações e Interatividade</td>
-    <td><a id="epico04" href="#épico-4-engajamento-e-comunicação">Épico 4: Engajamento e Comunicação</a></td>
+    <td><a id="epico04" href="#épico-4-interacao-e-notificacao">Épico 4: Interação e Notificação</a></td>
   </tr>
   <tr>
     <td rowspan="1">Tema 5: Gestão e Manutenção do Sistema</td>
@@ -45,76 +59,143 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-## <a>Épicos</a> 
-
 ### <a id="épico-1-autenticação-segura-e-gestão-de-usuárioso" href="epico01">Épico 1: Autenticação Segura e Gestão de Usuários</a>
 
-A seguir na tabela X, temos as
+Este épico foca em estabelecer um sistema de autenticação seguro e eficaz. Visa desenvolver mecanismos que verifiquem a identidade dos usuários com precisão, impedindo acessos não autorizados e protegendo informações sensíveis através de políticas robustas de segurança.
+
+A tabela 2 apresenta os requisitos funcionais e não funcionais que foram identificados e categorizados sob o épico "Autenticação Segura e Gestão de Usuários".
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Requisitos identificados para o épico: Autenticação Segura e Gestão de Usuários</p></font>
+
+<center>
 
 | Tipo | Descrição|
 |------|----------|
 |RNF01| Autenticação de usuários para acesso seguro.|
 |RF09|	Melhoria na interação entre usuários.|
 
-
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ### <a id="épico-2-acessibilidade-e-usabilidade">Épico 2: Acessibilidade e Usabilidade</a>
+Dentro deste épico, trabalhamos para garantir que o sistema seja acessível e fácil de usar para todos os usuários, independentemente de suas habilidades físicas ou tecnológicas. Isso inclui a implementação de recursos de acessibilidade como a otimização da interface do usuário para facilitar a navegação e a interação.
+
+A tabela 3 apresenta os requisitos funcionais que foram identificados e categorizados sob o épico "Acessibilidade e Usabilidade".
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Requisitos identificados para o épico: Acessibilidade e Usabilidade</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF02|Funcionalidades de acessibilidade.|
 |RF03|Ferramentas de usabilidade aprimoradas.|
 |RF07|Interface do usuário altamente intuitiva.|
 
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ### <a id="épico-3-busca-e-organização-de-conteúdo">Épico 3: Busca e Organização de Conteúdo</a>
+O foco aqui é em aprimorar as funcionalidades de busca e organização de conteúdo, permitindo aos usuários encontrar rapidamente o que precisam. Esse épico envolve o desenvolvimento de filtros avançados, capacidades de pesquisa poderosas e interfaces intuitivas para a gestão eficiente de dados e informações.
+
+A tabela 4 apresenta os requisitos funcionais que foram identificados e categorizados sob o épico "Busca e Organização de Conteúdo".
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Requisitos identificados para o épico: Busca e Organização de Conteúdo</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF01|Sistema de busca avançada.|
 |RF04|Otimização do processo de busca diária.|
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a id="épico-4-engajamento-e-comunicação">Épico 4: Engajamento e Comunicação</a>
+### <a id="épico-4-interacao-e-notificacao">Épico 4: Interação e Notificação</a>
+Este épico foca em como o sistema pode melhorar a interação e a notificação para os usuários. Inclui o desenvolvimento de sistemas de notificação personalizados e interfaces interativas que mantêm os usuários bem informados e ativamente envolvidos. Essas funcionalidades garantem que os usuários recebam atualizações relevantes.
+
+A tabela 5 apresenta os requisitos funcionais que foram identificados e categorizados sob o épico "Interação e Notificação".
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Requisitos identificados para o épico: Interação e Notificação</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF05|Suporte multilíngue no sistema.|
 |RF09|Melhoria na interação entre usuários.|
 
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ### <a id="épico-5-infraestrutura-e-suporte">Épico 5: Infraestrutura e Suporte</a>
+Foca em garantir que o sistema seja confiável e esteja sempre disponível quando necessário. Abrange a implementação de uma infraestrutura robusta que suporta operações contínuas e eficientes, bem como a disponibilização de suporte técnico para resolver quaisquer problemas que os usuários possam enfrentar.
+
+A tabela 6 apresenta os requisitos funcionais e não funcionais que foram identificados e categorizados sob o épico "Infraestrutura e Suporte".
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Requisitos identificados para o épico: Infraestrutura e Suporte</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF02|Funcionalidades de acessibilidade.|
 |RF05|Suporte multilíngue no sistema.|
 |RNF02|Requisitos para suporte e manutenção|
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ### <a id="épico-6-funcionalidades-avançadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a>
+Este épico visa expandir as capacidades do sistema em relação à gestão de documentos, incluindo funcionalidades como edição avançada, compartilhamento seguro e rastreamento de modificações em documentos importantes.
+
+A tabela 7 apresenta os requisitos funcionais que foram identificados e categorizados sob o épico "Funcionalidades Avançadas de Documentos".
+
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Requisitos identificados para o épico: Funcionalidades Avançadas de Documentos</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF01|Sistema de busca avançada.|
 |RF05|Suporte multilíngue no sistema.|
 |RF08|Funcionalidades avançadas de documentos.|
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ### <a id="épico-7-multilíngue-e-internacionalização">Épico 7: Multilíngue e Internacionalização</a>
+Aqui, o objetivo é desenvolver um sistema que suporte múltiplos idiomas e culturas, facilitando o uso por usuários globais. Isso inclui a tradução de interfaces, adaptação de conteúdos e consideração de nuances culturais que influenciam a interação do usuário com o sistema.
+
+A tabela 8 apresenta os requisitos funcionais que foram identificados e categorizados sob o épico "Multilíngue e Internacionalização".
+
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Requisitos identificados para o épico: Multilíngue e Internacionalização</p></font>
+
+<center>
+
 | Tipo | Descrição|
 |------|----------|
 |RF02|Funcionalidades de acessibilidade.|
 |RF05|Suporte multilíngue no sistema.|
 
+</center>
+
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 
 ## <a>Backlog</a>
+O backlog do produto é uma lista organizada de tudo o que é necessário no projeto, incluindo todas as funcionalidades, requisitos técnicos, melhorias e correções que são prioritárias para a equipe. [referencia]
+
+Cada item do backlog é uma história de usuário que representa uma necessidade específica dos usuários finais, agrupada sob temas relevantes e classificada em épicos para uma melhor clareza. Estas histórias estão priorizadas para garantir que o trabalho mais importante seja realizado primeiro. Confira na Tabela 9 o backlog.
+
+<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Backlog de histórias de usuário</p></font>
 
 | **ID**|**Tema**|**Épico**|**Prioridade (Three Level)**|
 |-------|--------|---------|----------------------------|
@@ -126,9 +207,9 @@ A seguir na tabela X, temos as
 | US06 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
 | US07 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
 | US08 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
-| US09 | Notificações e Interatividade             | Engajamento e Comunicação              | |
+| US09 | Notificações e Interatividade             | Interação e Notificação              | |
 | US10 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US11 | Notificações e Interatividade             | Engajamento e Comunicação              | |
+| US11 | Notificações e Interatividade             | Interação e Notificação              | |
 | US12 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
 | US13 | Autenticação e Segurança                  | Autenticação Segura e Gestão de Usuários | |
 | US14 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
@@ -137,9 +218,11 @@ A seguir na tabela X, temos as
 | US17 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
 | US18 | Funcionalidades Adicionais e Acessórias   | Funcionalidades Avançadas de Documentos | |
 | US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade ||
-| US20 | Notificações e Interatividade | Engajamento e Comunicação ||
-| US21 | Funcionalidades Adicionais e Acessórias | AFuncionalidades Avançadas de Documentos ||
+| US20 | Notificações e Interatividade | Interação e Notificação ||
+| US21 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
 | US22 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ## <a>Referência Bibliográfica</a>
 
