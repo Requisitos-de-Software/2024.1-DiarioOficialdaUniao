@@ -3,8 +3,6 @@
 
 ## <a>Metodologia</a>
 
- CITAR A TABELA DE PRIORIZAÇÃO DE REQUISITOS
-
 
 
 ## <a>Definição dos temas</a>
@@ -17,33 +15,30 @@
   </tr>
   <tr>
     <td rowspan="1">Tema 1: Autenticação e Segurança</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-1-autenticacao-segura-e-gestao-de-usuarios">Épico 1: Autenticação Segura e Gestão de Usuários</a></td>
+    <td><a id="epico01" href="#épico-1-autenticação-segura-e-gestão-de-usuárioso">Épico 1: Autenticação Segura e Gestão de Usuários</a></td>
   </tr>
   <tr>
     <td rowspan="1">Tema 2: Interface do Usuário e Acessibilidade</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-2-acessibilidade-e-usabilidade">Épico 2: Acessibilidade e Usabilidade</a></td>
+    <td><a id="epico02" href="#épico-2-acessibilidade-e-usabilidade">Épico 2: Acessibilidade e Usabilidade</a></td>
   </tr>
   <tr>
     <td rowspan="1">Tema 3: Funcionalidades de Conteúdo e Busca</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-3-busca-e-organizacao-de-conteudo">Épico 3: Busca e Organização de Conteúdo</a></td>
+    <td><a id="epico03" href="#épico-3-busca-e-organização-de-conteúdo">Épico 3: Busca e Organização de Conteúdo</a></td>
   </tr>
   <tr>
     <td rowspan="1">Tema 4: Notificações e Interatividade</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-4-engajamento-e-comunicacao">Épico 4: Engajamento e Comunicação</a></td>
+    <td><a id="epico04" href="#épico-4-engajamento-e-comunicação">Épico 4: Engajamento e Comunicação</a></td>
   </tr>
   <tr>
     <td rowspan="1">Tema 5: Gestão e Manutenção do Sistema</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-5-infraestrutura-e-suporte">Épico 5: Infraestrutura e Suporte</a></td>
+    <td><a id="epico05" href="#épico-5-infraestrutura-e-suporte">Épico 5: Infraestrutura e Suporte</a></td>
   </tr>
   <tr>
     <td rowspan="3" style="vertical-align: middle;">Tema 6: Funcionalidades Adicionais e Acessórias</td>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-6-funcionalidades-avancadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a></td>
+    <td><a id="epico06" href="#épico-6-funcionalidades-avançadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a></td>
   </tr>
   <tr>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-7-multilingue-e-internacionalizacao">Épico 7: Multilíngue e Internacionalização</a></td>
-  </tr>
-  <tr>
-    <td><a href="/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-8-desempenho-e-escalabilidade">Épico 8: Desempenho e Escalabilidade</a></td>
+    <td><a id="epico07" href="#épico-7-multilíngue-e-internacionalização">Épico 7: Multilíngue e Internacionalização</a></td>
   </tr>
 </table>
 
@@ -52,86 +47,72 @@
 
 ## <a>Épicos</a> 
 
-### <a>Épico 1: Autenticação Segura e Gestão de Usuários</a>
+### <a id="épico-1-autenticação-segura-e-gestão-de-usuárioso" href="epico01">Épico 1: Autenticação Segura e Gestão de Usuários</a>
+
+A seguir na tabela X, temos as
+
 | Tipo | Descrição|
 |------|----------|
-|RF01| Autenticação de usuários para acesso seguro.|
-|RNF11| O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.|
-|RNF04| Segurança de dados com criptografia de ponta-a-ponta.|
+|RNF01| Autenticação de usuários para acesso seguro.|
+|RF09|	Melhoria na interação entre usuários.|
+
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 2: Acessibilidade e Usabilidade</a>
+### <a id="épico-2-acessibilidade-e-usabilidade">Épico 2: Acessibilidade e Usabilidade</a>
 | Tipo | Descrição|
 |------|----------|
-|RNF03| Design responsivo que se adapta a tablets e smartphones.|
-|RNF07| Implementação de medidas de acessibilidade para usuários com deficiência.|
-|RNF10| O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.|
-|RNF14| O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.|1.|
+|RF02|Funcionalidades de acessibilidade.|
+|RF03|Ferramentas de usabilidade aprimoradas.|
+|RF07|Interface do usuário altamente intuitiva.|
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 3: Busca e Organização de Conteúdo</a>
+### <a id="épico-3-busca-e-organização-de-conteúdo">Épico 3: Busca e Organização de Conteúdo</a>
 | Tipo | Descrição|
 |------|----------|
-|RF02| Visualização de edições diárias do Diário Oficial.|
-|RF03| Busca por palavras-chave em documentos.|
-|RF04| Filtragem de conteúdo por data, categoria ou órgão emissor.|
-|RF17| O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.|
-|RF10| O aplicativo deve permitir buscas detalhadas por tópicos específicos.|
-|RNF13| O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos).|
+|RF01|Sistema de busca avançada.|
+|RF04|Otimização do processo de busca diária.|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 4: Engajamento e Comunicação</a>
+### <a id="épico-4-engajamento-e-comunicação">Épico 4: Engajamento e Comunicação</a>
 | Tipo | Descrição|
 |------|----------|
-|RF06| Notificações push sobre novas publicações relevantes.|
-|RF12| O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.|
-|RF09| Compartilhamento de documentos via redes sociais e email.|
-|RF16| O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.|
+|RF05|Suporte multilíngue no sistema.|
+|RF09|Melhoria na interação entre usuários.|
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 5: Infraestrutura e Suporte</a>
+### <a id="épico-5-infraestrutura-e-suporte">Épico 5: Infraestrutura e Suporte</a>
 | Tipo | Descrição|
 |------|----------|
-|RNF01| Alta disponibilidade do sistema, com 99,9% de uptime.|
-|RNF08| Facilidade de atualização de conteúdo pelo gestor do sistema.|
-|RNF09| Suporte técnico com tempo de resposta de 24 horas.|
-|RNF12| O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.|
-|RNF02| Compatibilidade com as versões mais recentes de sistemas operacionais móveis.|
+|RF02|Funcionalidades de acessibilidade.|
+|RF05|Suporte multilíngue no sistema.|
+|RNF02|Requisitos para suporte e manutenção|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 6: Funcionalidades Avançadas de Documentos</a>
+### <a id="épico-6-funcionalidades-avançadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a>
 | Tipo | Descrição|
 |------|----------|
-|RF05| Download de edições e documentos em formatos PDF.|
-|RF07| Acesso a edições anteriores arquivadas.|
-|RF08| Integração com sistemas de assinatura digital.|
-|RF11| O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.|
-|RF14| O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.|
-|RF15| O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.|
-|RNF15| O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.|
+|RF01|Sistema de busca avançada.|
+|RF05|Suporte multilíngue no sistema.|
+|RF08|Funcionalidades avançadas de documentos.|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 7: Multilíngue e Internacionalização</a>
+### <a id="épico-7-multilíngue-e-internacionalização">Épico 7: Multilíngue e Internacionalização</a>
 | Tipo | Descrição|
 |------|----------|
-|RNF05| Suporte multilíngue para facilitar o acesso por usuários não-nativos.|
-|RNF17| O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.|
+|RF02|Funcionalidades de acessibilidade.|
+|RF05|Suporte multilíngue no sistema.|
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### <a>Épico 8: Desempenho e Escalabilidade</a>
-| Tipo | Descrição|
-|------|----------|
-|RNF16| O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.|
-|RNF06| Tempo de resposta de busca inferior a 2 segundos.|
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ## <a>Backlog</a>
 
