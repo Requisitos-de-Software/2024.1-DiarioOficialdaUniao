@@ -55,9 +55,9 @@ Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade"
 | :------: | :------: |
 | ID | NFR01 |
 | Descrição | O requisito de "Usabilidade" refere-se à capacidade do sistema de entregar uma boa experiência interativa para os usuários do aplicativo "DOU". |
-| Justificativa | Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação ao usuários. Com uma interface intuitiva, acessível e eficiente o usuario não vai ter dificuldade em aprender a usar o aplicativo, assim, a chance de abandoná-lo é menor. |
+| Justificativa | Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação aos usuários. Com uma interface intuitiva, acessível e eficiente o usuário não vai ter dificuldade em aprender a usar o aplicativo, assim, a chance de abandoná-lo é menor. |
 | Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
-| Critério de Aceitação | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md#usabilidade">Requisitos de Usabilidade de 1 a 6</a> |
+| Critério de Aceitação | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md##usabilidade">Requisitos de Usabilidade de 1 a 6</a> |
 | Dependências | Interação do usuário com o sistema e a possibilidade de teste dos requisitos dentro do aplicativo |
 | Prioridade | Alta prioridade |
 | Conflito | Nenhum |
@@ -78,12 +78,12 @@ Na tabela 2 abaixo, temos o cartão de especificação do softgoal "Confiabilida
 | ID | NFR02 |
 | Descrição |  |
 | Justificativa |  |
-| Origem do Requisito |  |
-| Critério de Aceitação |  |
+| Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
+| Critério de Aceitação | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md##confiabilidade">Requisitos de Confiabilidade de 1 a 6</a> |
 | Dependências |  |
 | Prioridade |  |
 | Conflito |  |
-| História |  |
+| História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
@@ -105,7 +105,7 @@ Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
 | Dependências |  |
 | Prioridade |  |
 | Conflito |  |
-| História |  |
+| História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
@@ -127,7 +127,7 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 | Dependências |  |
 | Prioridade |  |
 | Conflito |  |
-| História |  |
+| História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
@@ -140,6 +140,10 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 ## <a> Bibliografia </a>
 
 > JANEIRO, José. GOMES, Joaquim. NFR Framework. ESTIC, Brasil, 2008. Disponível em: [http://jaejaneiro.orgfree.com/engsofnfr.pdf](http://jaejaneiro.orgfree.com/engsofnfr.pdf). Acesso em: 25/05/2024.
+>
+> NFR Framework. Disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/modelagem/agil/nfr-framework/>. Acesso em 26 de maio de 2024.
+>
+> NFR Framework. Disponível em: <https://requisitos-de-software.github.io/2023.1-Simplenote/modelagem/agil/nfr/>. Acesso em 26 de Maio de 2024.
 
 ## <a> Histórico de versão </a>
 
