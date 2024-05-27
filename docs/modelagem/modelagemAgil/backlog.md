@@ -8,7 +8,7 @@ O <b>*backlog do produto*</b> em um ambiente **Scrum** é essencialmente uma lis
 A partir dos requisitos elicitados durante as [Entrevistas](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/entrevista/), procedemos à definição de temas e épicos claros, os quais servem para estruturar e simplificar a compreensão das [Histórias de Usuários](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1). Essas histórias serão prioritariamente avaliadas e refinadas em colaboração com o Product Owner (PO), considerando o mesmo com base no [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/#processo) previamente definido, para serem definidas estratégicamente no nosso <b>*backlog do produto*</b>. Esse processo é fundamental para garantir que as funcionalidades desenvolvidas estejam alinhadas com as expectativas e requisitos dos usuários finais, facilitando assim a entrega de soluções que não apenas atendam, mas superem as necessidades identificadas. 
 
 
-## <a>Definição dos temas</a>
+## <a>Definição dos Temas</a>
 
 Após a fase de elicitação dos requisitos, detalhada em nosso documento de requisitos, identificamos vários temas principais nos quais os requisitos podem ser agrupados. Abaixo, detalhamos cada um desses temas, destacando suas características e objetivos principais:
 
@@ -223,13 +223,12 @@ Cada item do backlog é uma história de usuário que representa uma necessidade
 | US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade ||
 | US20 | Notificações e Interatividade | Interação e Notificação ||
 | US21 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
-| US22 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-## <a> Reunião para elicitação dos requisitos</a>
+## <a> Reunião para Elicitação dos Requisitos</a>
 
-No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA, entre três membros da equipe e o Product Owner(PO) Júlio, estudante pesquisador. Durante a reunião, eles discutiram e elecitaram os requisitos do projeto atráves da técnica de entrevista. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de elicitação está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 10 apresenta os participantes da reunião.
+No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA, entre três membros da equipe e o Product Owner(PO) Júlio, estudante pesquisador. Durante a reunião, eles discutiram e elicitaram os requisitos do projeto atráves da [técnica de entrevista](./backlog.md). Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de elicitação está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 10 apresenta os participantes da reunião.
 
 <font size="3"><p style="text-align: center">Tabela 3: Participantes.</p></font>
 

@@ -58,7 +58,7 @@ A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário des
 
 </center>
 
-## <a> Reunião para validação das Histórias de usuário </a>
+## <a> Reunião para validação das Histórias de Usuário </a>
 
 No dia 27 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA entre três membros da equipe e o Product Owner(PO) Giovanni, estudante pesquisador. Durante a reunião, eles discutiram e validaram as histórias de usuário do projeto. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de histórias de usuário está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 3 apresenta os participantes da reunião.
 
