@@ -16,7 +16,7 @@ A Tabela 1 a seguir apresenta um template para a elaboração de histórias de u
 
 | **ID**|**Título** |**Descrição** | **Critérios de Aceitação** | **Status da aceitação pelo PO**
 | :-----|-- |:--------|------------------------------ | -----------|
-| USXX  |Título da US|_Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
+| USXX  |Título da História de Usuário|Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 
 <font size="3">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</font>
 
