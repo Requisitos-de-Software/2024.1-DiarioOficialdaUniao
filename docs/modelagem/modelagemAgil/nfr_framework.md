@@ -75,7 +75,7 @@ Na tabela 2 abaixo, temos o cartão de especificação do softgoal "Confiabilida
 
 **Tabela 2** - Cartão de especificação 2 - Confiabilidade
 
-| Tópico | Usabilidade/Fácil Aprendizado | 
+| Tópico | Confiabilidade/Segurança | 
 | :------: | :------: |
 | ID | NFR02 |
 | Descrição | O requisito de "Confiabilidade" refere-se à capacidade do sistema de se manter ativo, disponível e seguro  |
@@ -99,7 +99,7 @@ Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
 
 **Tabela 3** - Cartão de especificação 3 - Desempenho
 
-| Tópico | Usabilidade/Fácil Aprendizado | 
+| Tópico | Desempenho/Eficiência | 
 | :------: | :------: |
 | ID | NFR03 |
 | Descrição | O requisito de "Desempenho" refere-se à capacidade do sistema de operar de maneira eficiente e responsiva, proporcionando tempo de resposta rápido e um uso eficiente dos recursos do sistema. |
@@ -123,7 +123,7 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 
 **Tabela 4** - Cartão de especificação 4 - Suportabilidade
 
-| Tópico | Usabilidade/Fácil Aprendizado | 
+| Tópico | Suportabilidade | 
 | :------: | :------: |
 | ID | NFR04 |
 | Descrição | O requisito de "Suportabilidade" refere-se à capacidade do sistema de ser mantido, atualizado e suportado de forma eficiente e eficaz. Isso inclui a facilidade de diagnóstico de problemas, a aplicação de correções e atualizações, e a disponibilização de suporte técnico adequado. |
