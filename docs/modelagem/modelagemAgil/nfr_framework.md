@@ -57,7 +57,7 @@ Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade"
 | Descrição | O requisito de "Usabilidade" refere-se à capacidade do sistema de entregar uma boa experiência interativa para os usuários do aplicativo "DOU". |
 | Justificativa | Uma boa Usabilidade é fundamental para garantir que os usuários possam utilizar o aplicativo com eficiência e garantir uma satisfação aos usuários. Com uma interface intuitiva, acessível e eficiente o usuário não vai ter dificuldade em aprender a usar o aplicativo, assim, a chance de abandoná-lo é menor. |
 | Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
-| Critério de Aceitação | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md##usabilidade">Requisitos de Usabilidade de 1 a 6</a> |
+| Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#usabilidade">Requisitos de Usabilidade de 1 a 6</a> |
 | Dependências | Interação do usuário com o sistema e a possibilidade de teste dos requisitos dentro do aplicativo |
 | Prioridade | Alta prioridade |
 | Conflito | Nenhum |
@@ -76,13 +76,13 @@ Na tabela 2 abaixo, temos o cartão de especificação do softgoal "Confiabilida
 | Tópico | Usabilidade/Fácil Aprendizado | 
 | :------: | :------: |
 | ID | NFR02 |
-| Descrição |  |
-| Justificativa |  |
+| Descrição | O requisito de "Confiabilidade" refere-se à capacidade do sistema de se manter ativo, disponível e seguro  |
+| Justificativa | Os critérios de Confiabilidade visam garantir a robustes, resistência a falha e a integridade das informações, aumentando a confiança e credibilidade dos usuários no aplicativo |
 | Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
-| Critério de Aceitação | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md##confiabilidade">Requisitos de Confiabilidade de 1 a 6</a> |
-| Dependências |  |
-| Prioridade |  |
-| Conflito |  |
+| Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#confiabilidade">Requisitos de Confiabilidade de 1 a 6</a> |
+| Dependências | Monitoramento do aplicativo |
+| Prioridade | Alta prioridade |
+| Conflito | Nenhum |
 | História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
@@ -98,13 +98,13 @@ Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
 | Tópico | Usabilidade/Fácil Aprendizado | 
 | :------: | :------: |
 | ID | NFR03 |
-| Descrição |  |
-| Justificativa |  |
-| Origem do Requisito |  |
-| Critério de Aceitação |  |
-| Dependências |  |
-| Prioridade |  |
-| Conflito |  |
+| Descrição | O requisito de "Desempenho" refere-se à capacidade do sistema de operar de maneira eficiente e responsiva, proporcionando tempo de resposta rápido e um uso eficiente dos recursos do sistema. |
+| Justificativa | Garantir um bom desempenho é essencial para a satisfação do usuário, pois um sistema lento ou ineficiente pode levar a uma experiência negativa e à insatisfação. Um desempenho otimizado aumenta a produtividade dos usuários e assegura que o sistema possa escalar adequadamente para atender a um grande número de acessos simultâneos, especialmente em picos de demanda. |
+| Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
+| Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#desempenho">Requisitos de Desempenho de 1 a 6</a> |
+| Dependências | Hardware do dispositivo móvel. Qualidade da conexão com a internet |
+| Prioridade | Baixa prioridade |
+| Conflito | Nenhum |
 | História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
@@ -122,43 +122,16 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 | ID | NFR04 |
 | Descrição |  |
 | Justificativa |  |
-| Origem do Requisito |  |
-| Critério de Aceitação |  |
+| Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
+| Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#suportabilidade">Requisitos de Suportabilidade de 1 a 4</a> |
 | Dependências |  |
-| Prioridade |  |
-| Conflito |  |
+| Prioridade | Média prioridade |
+| Conflito | Nenhum |
 | História | 26/05/2024 |
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
-
-## Requisitos Não-Funcionais
-
-Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Não-Funcionais que não foram implementados. A Tabela X, apresentada abaixo, detalha esses requisitos.
-
-<center>
-<b>Tabela X</b> - Requisitos Não-Funcionais Não Implementados
-
-| ID | Descrição | Rastreabilidade | Implementação |
-| ----- | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-|  |  |  |  |
-
-Fonte: [Henrique Torres](https://github.com/henriqtorresl)
-</center>
-
-A Tabela X abaixo lista os Requisitos Não-Funcionais elicitados pelo NFR Framework.
-
-<center>
-<b>Tabela X</b> - Requisitos Elicitados NFR
-
-|  ID  | Descrição |
-|------|---------|
-| NFR01 |  |
-
-Fonte: [Henrique Torres](https://github.com/henriqtorresl)
-</center>
-
 
 ## <a> Referência Bibliográfica </a>
 
