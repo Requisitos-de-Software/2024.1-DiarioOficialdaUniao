@@ -67,6 +67,8 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+</br>
+
 Na tabela 2 abaixo, temos o cartão de especificação do softgoal "Confiabilidade".
 
 <center>
@@ -88,6 +90,8 @@ Na tabela 2 abaixo, temos o cartão de especificação do softgoal "Confiabilida
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
+
+</br>
 
 Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
 
@@ -111,6 +115,8 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+</br>
+
 Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
 
 <center>
@@ -120,11 +126,11 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 | Tópico | Usabilidade/Fácil Aprendizado | 
 | :------: | :------: |
 | ID | NFR04 |
-| Descrição |  |
-| Justificativa |  |
+| Descrição | O requisito de "Suportabilidade" refere-se à capacidade do sistema de ser mantido, atualizado e suportado de forma eficiente e eficaz. Isso inclui a facilidade de diagnóstico de problemas, a aplicação de correções e atualizações, e a disponibilização de suporte técnico adequado. |
+| Justificativa | Suportabilidade é crucial para assegurar a continuidade e a evolução do sistema. Um sistema que é fácil de manter e atualizar reduz o tempo de inatividade e os custos associados à manutenção. Além disso, a capacidade de diagnosticar e corrigir problemas rapidamente garante que o sistema permaneça confiável e disponível para os usuários. Isso é especialmente importante em um ambiente de produção, onde a confiabilidade e a disponibilidade contínua são essenciais. |
 | Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
 | Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#suportabilidade">Requisitos de Suportabilidade de 1 a 4</a> |
-| Dependências |  |
+| Dependências | Nenhuma |
 | Prioridade | Média prioridade |
 | Conflito | Nenhum |
 | História | 26/05/2024 |
