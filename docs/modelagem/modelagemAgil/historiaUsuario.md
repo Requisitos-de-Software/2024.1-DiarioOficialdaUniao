@@ -104,5 +104,5 @@ link
 | `1.5` | 25/05/2024 | 25/05/2024 | Adicionando introdução das tabelas e adição das US's de 13 à 16 | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.6` | 25/05/2024 | 25/05/2024 | Adição das US's de 17 à 19 | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
 | `1.7` | 26/05/2024 | 26/05/2024 | Adição das US's de 20 e 21 | [Henrique Torres](https://github.com/henriqtorresl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
-| `1.8` | 27/05/2024 | 27/05/2024 | Adicionando gravação da reunião | [Henrique Torres](https://github.com/henriqtorresl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
+| `1.8` | 27/05/2024 | 27/05/2024 | Adicionando gravação da reunião e títulos das histórias de usuário | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite)|
 
