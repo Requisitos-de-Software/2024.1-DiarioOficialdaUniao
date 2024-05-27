@@ -53,13 +53,33 @@ A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário des
 | US19 | Eu, como um usuário que acessa o DOU por dispositivos móveis, gostaria que o sistema tivesse um design responsivo, a fim de que eu possa navegar e ler documentos facilmente em qualquer dispositivo e independente da disposição da tela. | <a>1</a> - O sistema deve ajustar automaticamente o layout para diferentes tamanhos e orientações de tela. <br><a>2</a> - A navegação e leitura devem ser fluidas. <br><a>3</a> - Textos e botões devem ser redimensionados automaticamente para garantir legibilidade e clicabilidade em diferentes telas. | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 | US20 | Eu, como usuário, gostaria que o sistema permitisse a criação de alertas personalizados para mudanças em legislações específicas, para que eu possa ser informado imediatamente quando houver alterações relevantes. | <a>1</a> - O sistema deve permitir a configuração de alertas baseados em palavras-chave ou identificadores específicos de legislações.<br><a>2</a> - Os alertas devem ser enviados por push notification e e-mail.<br><a>3</a> - O sistema deve garantir que os alertas sejam enviados de maneira oportuna, dentro de 24 horas após a publicação da alteração. | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 | US21 | Eu, como usuário, gostaria que o sistema tivesse uma funcionalidade de anotações colaborativas, para que eu possa trabalhar em conjunto com minha equipe ao revisar documentos do Diário Oficial da União. | <a>1</a> - O sistema deve permitir que múltiplos usuários adicionem e visualizem anotações em um mesmo documento.<br><a>2</a> - As anotações devem ter opções de visibilidade, podendo ser públicas para a equipe ou privadas.<br><a>3</a> - O sistema deve notificar os usuários sobre novas anotações ou atualizações em anotações existentes. | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
-| US22 | Eu, como usuário, gostaria que o sistema tivesse uma funcionalidade de relatórios personalizados, para que eu possa gerar e exportar relatórios sobre as publicações do Diário Oficial da União com base em critérios específicos. | <a>1</a> - O sistema deve permitir a seleção de critérios específicos para gerar relatórios, como datas, palavras-chave, e filtros temáticos.<br><a>2</a> - Os relatórios devem ser exportáveis em formatos comuns como PDF e Excel.<br><a>3</a> - O sistema deve garantir que os relatórios incluam todas as informações relevantes, mantendo a formatação original e metadados importantes. | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 
 <font size="3">Fonte: Autores.</font>
 
 </center>
 
+## <a> Reunião para validação das Histórias de usuário </a>
+
+No dia 27 de maio de 2024, às 16h30, foi realizada uma reunião presencial entre três membros da equipe e o Product Owner(PO) Giovanni, estudante pesquisador. Durante a reunião, eles discutiram e validaram as histórias de usuário do projeto. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de priorização está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUnia, colaborando ativamente para identificar e classificar as necessidades essenciais.o/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 3 apresenta os participantes da reunião.
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes.</p></font>
+
+<center>
+
+| Nome                                             | Função                   |
+| ------------------------------------------------ | ------------------------ |
+|[Arthur Alves](https://github.com/arthrok)| Entrevistador              |
+|[Eric Silveira](https://github.com/ericbky)| Entrevistador              |
+|[João Artur](https://github.com/joao-artl) | Entrevistador              |
+| Giovanni | Product Owner |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
 ## <a> Gravação da validação das Histórias de Usuários</a>
+
+link
 
 ## <a>Referência Bibliográfica</a>
 > <a id="REF1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016.
@@ -83,4 +103,6 @@ A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário des
 | `1.4` | 25/05/2024 | 25/05/2024 | Adição das US's de 09 à 12 | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.5` | 25/05/2024 | 25/05/2024 | Adicionando introdução das tabelas e adição das US's de 13 à 16 | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.6` | 25/05/2024 | 25/05/2024 | Adição das US's de 17 à 19 | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
-| `1.7` | 26/05/2024 | 26/05/2024 | Adição das US's de 20 à 22 | [Henrique Torres](https://github.com/henriqtorresl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
+| `1.7` | 26/05/2024 | 26/05/2024 | Adição das US's de 20 e 21 | [Henrique Torres](https://github.com/henriqtorresl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
+| `1.8` | 27/05/2024 | 27/05/2024 | Adicionando gravação da reunião | [Henrique Torres](https://github.com/henriqtorresl) | [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) |
+
