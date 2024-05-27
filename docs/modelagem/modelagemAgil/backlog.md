@@ -228,7 +228,7 @@ Cada item do backlog é uma história de usuário que representa uma necessidade
 
 ## <a> Reunião para Elicitação dos Requisitos</a>
 
-No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA, entre três membros da equipe e o Product Owner(PO) Júlio, estudante pesquisador. Durante a reunião, eles discutiram e elicitaram os requisitos do projeto atráves da [técnica de entrevista](./backlog.md). Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de elicitação está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 10 apresenta os participantes da reunião.
+No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA, entre três membros da equipe e o Product Owner(PO) Júlio, estudante pesquisador. Durante a reunião, eles discutiram e elicitaram os requisitos do projeto atráves da [técnica de entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/entrevista/). Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de elicitação está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/). A tabela 10 apresenta os participantes da reunião.
 
 <font size="3"><p style="text-align: center">Tabela 3: Participantes.</p></font>
 
