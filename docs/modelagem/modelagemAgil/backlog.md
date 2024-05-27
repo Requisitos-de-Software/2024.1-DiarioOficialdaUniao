@@ -245,7 +245,7 @@ No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na 
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-## <a> Gravação da validação das Histórias de Usuários</a>
+## <a> Gravação da Elicitação dos Requisitos</a>
 
 link
 
