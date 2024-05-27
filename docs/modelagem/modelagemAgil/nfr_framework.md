@@ -139,6 +139,43 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## <a> Requisitos Não-Funcionais </a>
+
+Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Não-Funcionais que não foram implementados. A Tabela 5, apresentada abaixo, detalha esses requisitos.
+
+<center>
+
+**Tabela 5** - Requisitos Não-Funcionais Não Implementados
+
+| ID    | Descrição                                                                                   | Rastreabilidade                                                                                                                                                                     | Implementação |
+| ----- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| RNF01 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.                | [AI07](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais), [IS09](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                               | Não           |
+| RNF04 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.                | [AI10](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais),  [IS14](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                    | Não           |
+| RNF05 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.                        |[IS13](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                                                 | Não           |
+| RNF08 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | [IS16](../../elicitacao/tecnicas/introspeccao.md#não-funcionais),  [OBS14](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                             | Não           |
+| RNF04 | Segurança de dados com criptografia de ponta-a-ponta.                                       | [OBS13](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
+| RNF02 | Compatibilidade com as versões mais recentes de sistemas operacionais móveis.               | [OBS11](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
+
+_Fonte: [Henrique Torres](https://github.com/henriqtorresl)_
+</center>
+
+A Tabela 6 abaixo lista os Requisitos Não-Funcionais elicitados pelo NFR Framework.
+
+<center>
+<b>Tabela 6</b> - Requisitos Elicitados NFR
+
+|  ID   | Descrição                                                                                                                                                                                                                                                                                                                                         |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| NFR01 | Usabilidade: O aplicativo deve ser intuitivo e fácil de usar, proporcionando uma experiência de usuário agradável e eficiente.                                                                                                                                                                                                                      |
+| NFR02 | Confiabilidade: O sistema deve ser robusto, resistente a falhas e garantir a integridade das informações, aumentando a confiança e credibilidade dos usuários.                                                                                                                                                                                      |
+| NFR03 | Desempenho: O aplicativo deve ter um tempo de resposta rápido (< 2 segundos) e utilizar os recursos do sistema de maneira eficiente, mesmo sob alta demanda.                                                                                                                                                                                        |
+| NFR04 | Suportabilidade: O sistema deve ser fácil de manter, atualizar e diagnosticar problemas, garantindo continuidade e evolução sem grandes dificuldades.                                                                                                                                                                                               |
+
+_Fonte: [Henrique Torres](https://github.com/henriqtorresl)_
+</center>
+
+Essas tabelas organizam os requisitos não-funcionais identificados e rastreados a partir das técnicas de elicitação utilizadas, facilitando o acompanhamento e a implementação desses requisitos no desenvolvimento do sistema.
+
 ## <a> Referência Bibliográfica </a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
@@ -157,3 +194,4 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 25/05/2024 | 25/05/2024 | Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0) | [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 26/05/2024 | 27/05/2024 | Criação dos cartões de especificação | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
