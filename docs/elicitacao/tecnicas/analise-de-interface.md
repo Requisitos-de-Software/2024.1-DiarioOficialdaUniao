@@ -19,14 +19,14 @@ Legenda das Tabelas 1 e 2:
 
 <font size="3"><p style="text-align: center">Tabela 1: Requisitos Funcionais.</p></font>
 
-| Tipo | Descrição                                                   | Implementado |
-| ---- | ----------------------------------------------------------- | ------------ |
-| RF01 | O aplicativo deve permitir buscas detalhadas por tópicos específicos.  | Não          |
-| RF02 | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.      | Sim          |
-| RF03 | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.      | Não          |
-| RF04 | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | Não          |
-| RF05 | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.           | Sim          |
-| RF06 | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.        | Sim          |
+| Tipo | Descrição                                                   | ID   | Implementado |
+| ---- | ----------------------------------------------------------- | ---- | ------------ |
+| RF01 | O aplicativo deve permitir buscas detalhadas por tópicos específicos.  | AI01 | Não          |
+| RF02 | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.      | AI02 | Sim          |
+| RF03 | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.      | AI03 | Não          |
+| RF04 | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | AI04 | Não          |
+| RF05 | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.           | AI05 | Sim          |
+| RF06 | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.        | AI06 | Sim          |
 
 <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
@@ -35,13 +35,13 @@ Legenda das Tabelas 1 e 2:
 
 <font size="3"><p style="text-align: center">Tabela 2: Requisitos Não-Funcionais.</p></font>
 
-| Tipo  | Descrição                                     | Implementado |
-| ----- | --------------------------------------------- | ------------ |
-| RNF01 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.     | Não         |
-| RNF02 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.         | Sim         |
-| RNF03 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas.    | Sim         |
-| RNF04 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.      | Não         |
-| RNF05 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.      | Sim         |
+| Tipo  | Descrição                                     | ID   | Implementado |
+| ----- | --------------------------------------------- | ---- | ------------ |
+| RNF01 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.     | AI07 | Não         |
+| RNF02 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.         | AI08 | Sim         |
+| RNF03 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas.    | AI09 | Sim         |
+| RNF04 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.      | AI10 | Não         |
+| RNF05 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.      | AI11 | Sim         |
 
 <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
