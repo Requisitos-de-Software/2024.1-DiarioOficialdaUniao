@@ -130,7 +130,7 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 | Justificativa | Suportabilidade é crucial para assegurar a continuidade e a evolução do sistema. Um sistema que é fácil de manter e atualizar reduz o tempo de inatividade e os custos associados à manutenção. Além disso, a capacidade de diagnosticar e corrigir problemas rapidamente garante que o sistema permaneça confiável e disponível para os usuários. Isso é especialmente importante em um ambiente de produção, onde a confiabilidade e a disponibilidade contínua são essenciais. |
 | Origem do Requisito | <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/modelagem/especificacao.md">Especificação suplementar</a> e <a href="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/elicitacao/priorizacao.md">Priorização de Requisitos</a> |
 | Critério de Aceitação | <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/especificacao/#suportabilidade">Requisitos de Suportabilidade de 1 a 4</a> |
-| Dependências | Nenhuma |
+| Dependências | Equipe técnica de desenvolvimento |
 | Prioridade | Média prioridade |
 | Conflito | Nenhum |
 | História | 26/05/2024 |
