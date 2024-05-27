@@ -227,10 +227,32 @@ Cada item do backlog é uma história de usuário que representa uma necessidade
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
+## <a> Reunião para elicitação dos requisitos</a>
+
+No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na FGA, entre três membros da equipe e o Product Owner(PO) Júlio, estudante pesquisador. Durante a reunião, eles discutiram e elecitaram os requisitos do projeto atráves da técnica de entrevista. Isso garantiu um alinhamento estratégico e eficiente para as próximas etapas do projeto. A ata da reunião de elicitação está disponível em [Link da ata](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoPriorizacao/#5-encaminhamentos). A tabela 10 apresenta os participantes da reunião.
+
+<font size="3"><p style="text-align: center">Tabela 3: Participantes.</p></font>
+
+<center>
+
+| Nome                                             | Função                   |
+| ------------------------------------------------ | ------------------------ |
+|[Arthur Alves](https://github.com/arthrok)| Entrevistador              |
+|[Eric Silveira](https://github.com/ericbky)| Entrevistador              |
+|[João Artur](https://github.com/joao-artl) | Entrevistador              |
+| Júlio | Product Owner |
+
+</center>
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
+## <a> Gravação da validação das Histórias de Usuários</a>
+
+link
+
 ## <a>Referência Bibliográfica</a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> O que é backlog do produto Scrum e como fazer um. Lucid Software Inc. 2024.  Disponível em: <https://www.lucidchart.com/blog/pt/como-fazer-um-backlog-do-produto>
-
 
 ## <a>Bibliografia</a>
 
@@ -238,8 +260,8 @@ Cada item do backlog é uma história de usuário que representa uma necessidade
 
 > SERRANO, Milene. SERRANO, Mauricio. Requisitos – Aula 15.
 
-
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 24/05/2024 | 25/05/2024 |Criação da Documentação do Backlog | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Diego Sousa, Douglas Marinho, Henrique Torres, João Artur e Luiz Gustavo |
+| `1.1` | 27/05/2024 | 27/05/2024 | Adicionando gravação da reunião| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite)|
