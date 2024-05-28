@@ -247,7 +247,7 @@ No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na 
 
 ## <a> Gravação da Elicitação dos Requisitos</a>
 
-link
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/LDTr5YB50zU" title="Elicitação de Requisitos com PO - Grupo 01 (Diário Oficial da União)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliográfica</a>
 
