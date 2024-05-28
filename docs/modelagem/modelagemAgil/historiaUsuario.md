@@ -8,7 +8,7 @@ Em seu livro, PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a> també
 
 ## <a> Metodologia </a>
 
-A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em quatro colunas principais: ID, Título, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
+A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em cinco colunas principais: ID, Título, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
 
 <center>
 
@@ -18,7 +18,7 @@ A Tabela 1 a seguir apresenta um template para a elaboração de histórias de u
 | :-----|-- |:--------|------------------------------ | -----------|
 | USXX  |Título da História de Usuário|Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
 
-<font size="3">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</font>
+<font size="3">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl).</font>
 
 </center>
 
