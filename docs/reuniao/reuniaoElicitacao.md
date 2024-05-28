@@ -50,7 +50,7 @@ A tabela 1 mostra as perguntas realizadas durante a entrevista, assim como os re
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl), [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 
 A tabela 2 mostra os requisitos classficados como Requisitos Funcionais:
@@ -73,7 +73,7 @@ A tabela 2 mostra os requisitos classficados como Requisitos Funcionais:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl), [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 
 A tabela 3 mostra os requisitos classficados como Requisitos Não-Funcionais:
@@ -89,7 +89,7 @@ A tabela 3 mostra os requisitos classficados como Requisitos Não-Funcionais:
 
 </center>
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl), [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ## 5. Encaminhamentos
 - **Documentação dos Requisitos:** [Backlog](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/) criado com base nos requisitos elicitados pelo PO.
