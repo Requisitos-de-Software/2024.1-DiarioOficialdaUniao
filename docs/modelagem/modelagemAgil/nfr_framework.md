@@ -237,5 +237,6 @@ Essas tabelas organizam os requisitos não-funcionais identificados e rastreados
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 25/05/2024 | 25/05/2024 | Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0) | [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 26/05/2024 | 27/05/2024 | Criação dos cartões de especificação | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-| `1.2` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
-| `1.3` | 27/05/2024 | 27/05/2024 | Adição do NFR 00 E NFR 01 | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 27/05/2024 | 27/05/2024 | Adição do NFR 00 E NFR 01 | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.3` | 27/05/2024 | 27/05/2024 | Adição do NFR 02 E NFR 03 | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.4` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
