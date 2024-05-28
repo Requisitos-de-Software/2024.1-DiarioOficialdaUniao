@@ -31,7 +31,9 @@ nav:
       - Reunião 2: reuniao/reuniao02.md
       - Reunião 3: reuniao/reuniao03.md
       - Reunião 4: reuniao/reuniao04.md
-      - Reunião de Priorização: reuniao/reuniaoPriorizacao.md
+      - Reunião de Priorização de Requisitos: reuniao/reuniaoPriorizacao.md
+      - Reunião de Elicitação de Requisitos: reuniao/reuniaoElicitacao.md
+      - Reunião de Validação de Histórias de Usuário: reuniao/reuniaoValidacaoUS.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
@@ -56,7 +58,6 @@ nav:
     - Especificação Suplementar: modelagem/especificacao.md
     - Modelagem Ágil: 
       - NFR Framework: modelagem/modelagemAgil/nfr_framework.md
-      - Entrevista: modelagem/modelagemAgil/entrevista.md
       - Histórias de Usuário: modelagem/modelagemAgil/historiaUsuario.md
       - Backlog: modelagem/modelagemAgil/backlog.md
   - Termo de Uso: termoDeUso.md
