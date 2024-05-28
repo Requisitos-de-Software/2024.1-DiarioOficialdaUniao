@@ -58,7 +58,6 @@ nav:
     - Especificação Suplementar: modelagem/especificacao.md
     - Modelagem Ágil: 
       - NFR Framework: modelagem/modelagemAgil/nfr_framework.md
-      - Entrevista: modelagem/modelagemAgil/entrevista.md
       - Histórias de Usuário: modelagem/modelagemAgil/historiaUsuario.md
       - Backlog: modelagem/modelagemAgil/backlog.md
   - Termo de Uso: termoDeUso.md

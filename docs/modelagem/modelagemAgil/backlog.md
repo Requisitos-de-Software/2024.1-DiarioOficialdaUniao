@@ -5,7 +5,7 @@ O <b>*backlog do produto*</b> em um ambiente **Scrum** é essencialmente uma lis
 
 ## <a>Metodologia</a>
 
-A partir dos requisitos elicitados durante as [Entrevistas](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/entrevista/), procedemos à definição de temas e épicos claros, os quais servem para estruturar e simplificar a compreensão das [Histórias de Usuários](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1). Essas histórias serão prioritariamente avaliadas e refinadas em colaboração com o Product Owner (PO), considerando o mesmo com base no [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/#processo) previamente definido, para serem definidas estratégicamente no nosso <b>*backlog do produto*</b>. Esse processo é fundamental para garantir que as funcionalidades desenvolvidas estejam alinhadas com as expectativas e requisitos dos usuários finais, facilitando assim a entrega de soluções que não apenas atendam, mas superem as necessidades identificadas. 
+A partir dos requisitos elicitados durante as [Entrevistas](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/), procedemos à definição de temas e épicos claros, os quais servem para estruturar e simplificar a compreensão das [Histórias de Usuários](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1). Essas histórias serão prioritariamente avaliadas e refinadas em colaboração com o Product Owner (PO), considerando o mesmo com base no [Perfil do Usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/perfilUsuario/#processo) previamente definido, para serem definidas estratégicamente no nosso <b>*backlog do produto*</b>. Esse processo é fundamental para garantir que as funcionalidades desenvolvidas estejam alinhadas com as expectativas e requisitos dos usuários finais, facilitando assim a entrega de soluções que não apenas atendam, mas superem as necessidades identificadas. 
 
 
 ## <a>Definição dos Temas</a>
@@ -194,35 +194,35 @@ A tabela 8 apresenta os requisitos funcionais que foram identificados e categori
 
 
 ## <a>Backlog</a>
-O <b>*backlog do produto*</b>, como já citado na <a href="#introducao">Introdução</a> é uma lista organizada de tudo o que é necessário no projeto, incluindo todas as funcionalidades, requisitos técnicos, melhorias e correções que são prioritárias para a equipe<a id="anchor_1" href="#FRM1">^1^</a>.
+O <b>*backlog do produto*</b>, como já citado na <a href="#introducao">Introdução</a>, é uma lista organizada de tudo o que é necessário no projeto, incluindo todas as funcionalidades, requisitos técnicos, melhorias e correções que são prioritárias para a equipe<a id="anchor_1" href="#FRM1">^1^</a>.
 
 Cada item do backlog é uma história de usuário que representa uma necessidade específica dos usuários finais, agrupada sob temas relevantes e classificada em épicos para uma melhor clareza. Estas histórias estão priorizadas para garantir que o trabalho mais importante seja realizado primeiro. Confira na Tabela 9 o backlog.
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Backlog de histórias de usuário</p></font>
 
-| **ID**|**Tema**|**Épico**|**Prioridade (Three Level)**|
-|-------|--------|---------|----------------------------|
-| US01 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US02 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
-| US03 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
-| US04 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US05 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US06 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
-| US07 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US08 | Funcionalidades Adicionais e Acessórias   | Multilíngue e Internacionalização      | |
-| US09 | Notificações e Interatividade             | Interação e Notificação              | |
-| US10 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US11 | Notificações e Interatividade             | Interação e Notificação              | |
-| US12 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US13 | Autenticação e Segurança                  | Autenticação Segura e Gestão de Usuários | |
-| US14 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
-| US15 | Funcionalidades de Conteúdo e Busca       | Busca e Organização de Conteúdo        | |
-| US16 | Gestão e Manutenção do Sistema            | Infraestrutura e Suporte               | |
-| US17 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade           | |
-| US18 | Funcionalidades Adicionais e Acessórias   | Funcionalidades Avançadas de Documentos | |
-| US19 | Interface do Usuário e Acessibilidade     | Acessibilidade e Usabilidade ||
-| US20 | Notificações e Interatividade | Interação e Notificação ||
-| US21 | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos ||
+| **ID** | **Título** | **Tema** | **Épico** | **Prioridade (Three Level)** |
+|--------|------------|----------|-----------|------------------------------|
+| US01 | Ajuste Automático da Data de Término | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US05 | Busca por Palavras-chave | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US07 | Filtros Temáticos e Geográficos | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US10 | Funcionalidade de Histórico de Pesquisa | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US12 | Comentários e Anotações em Publicações | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US15 | Sistema de Marcadores para Documentos | Funcionalidades de Conteúdo e Busca | Busca e Organização de Conteúdo | Alto |
+| US13 | Autenticação Multifatorial | Autenticação e Segurança | Autenticação Segura e Gestão de Usuários | Alto |
+| US02 | Limitação de Diários por Página | Interface do Usuário e Acessibilidade | Acessibilidade e Usabilidade | Médio |
+| US03 | Paginação na Guia Meu Diário | Interface do Usuário e Acessibilidade | Acessibilidade e Usabilidade | Médio |
+| US14 | Acessibilidade para Usuários com Deficiência Visual | Interface do Usuário e Acessibilidade | Acessibilidade e Usabilidade | Médio |
+| US17 | Navegação Intuitiva | Interface do Usuário e Acessibilidade | Acessibilidade e Usabilidade | Médio |
+| US19 | Design Responsivo para Dispositivos Móveis | Interface do Usuário e Acessibilidade | Acessibilidade e Usabilidade | Médio |
+| US06 | Suporte Multilíngue | Funcionalidades Adicionais e Acessórias | Multilíngue e Internacionalização | Médio |
+| US08 | Onboarding Personalizado | Funcionalidades Adicionais e Acessórias | Multilíngue e Internacionalização | Médio |
+| US18 | Download de Documentos para Acesso Offline | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos | Médio |
+| US21 | Anotações Colaborativas | Funcionalidades Adicionais e Acessórias | Funcionalidades Avançadas de Documentos | Médio |
+| US09 | Notificações Personalizadas | Notificações e Interatividade | Interação e Notificação | Médio |
+| US11 | Funcionalidade de Compartilhamento Aprimorada | Notificações e Interatividade | Interação e Notificação | Médio |
+| US20 | Alertas Personalizados para Mudanças em Legislações | Notificações e Interatividade | Interação e Notificação | Médio |
+| US16 | Compatibilidade com Sistemas Operacionais Móveis | Gestão e Manutenção do Sistema | Infraestrutura e Suporte | Baixo |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
@@ -247,7 +247,7 @@ No dia 24 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na 
 
 ## <a> Gravação da Elicitação dos Requisitos</a>
 
-link
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/LDTr5YB50zU" title="Elicitação de Requisitos com PO - Grupo 01 (Diário Oficial da União)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliográfica</a>
 

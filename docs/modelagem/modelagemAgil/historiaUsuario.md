@@ -79,7 +79,7 @@ No dia 27 de maio de 2024, às 16h30, foi realizada uma reunião presencial, na 
 
 ## <a> Gravação da validação das Histórias de Usuários</a>
 
-link
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/RvdhYoa6mzs" title="Validação de US - Grupo 01 (Diário Oficial da União)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliográfica</a>
 > <a id="REF1" href="#anchor_1">1.</a> PRESSMAN, Roger S.; MAXIM, Bruce R.. Engenharia de software: uma abordagem profissional. 8 Porto Alegre: AMGH, 2016.
