@@ -8,7 +8,7 @@ Em seu livro, PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a> també
 
 ## <a> Metodologia </a>
 
-A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em quatro colunas principais: ID, Título, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
+A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em cinco colunas principais: ID, Título, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
 
 <center>
 
