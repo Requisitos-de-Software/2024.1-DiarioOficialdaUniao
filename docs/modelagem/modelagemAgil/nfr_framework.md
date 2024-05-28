@@ -117,7 +117,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </br>
 
-Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
+<!-- Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
 
 <center>
 
@@ -137,7 +137,7 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
-</center>
+</center> -->
 
 ## NFR 00 - Geral
 
@@ -179,36 +179,36 @@ Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabe
 
 <font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
-## NFR 02 - Disponibilidade
+## NFR 02 - Confiabilidade
 
 Os Requisitos utilizados para a confecção da Figura 5 estão presentes na Tabela 5:
 
-- <a href="#RNF01">RNF01</a>: O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
-- <a href="#RNF03">RNF03</a>: O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
-- <a href="#RNF04">RNF04</a>: Compatibilidade com as versões mais recentes de sistemas operacionais móveis.
+- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF05">RNF05</a>: O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.
 
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Eficiência</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
 
 <figure markdown markdown class="usecaseElement">
 
-<!-- ![SIG Eficiencia](../assets/eficiencia.png){width: 300} -->
+![SIG Confiabilidade](../assets/confiabilidade.png){width: 300}
 
 </figure>
 
 <font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
 
-## NFR 03 - Performance
+## NFR 03 - Desempenho
 
 Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 5:
 
 - <a href="#RNF01">RNF01</a>: O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
 - <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF03">RNF04</a>: Compatibilidade com as versões mais recentes de sistemas operacionais móveis.
 
 <font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Desempenho</p></font>
 
 <figure markdown markdown class="usecaseElement">
 
-<!-- ![SIG Desempenho](../assets/desempenho.png){width: 300} -->
+![SIG Desempenho](../assets/desempenho.png){width: 300}
 
 </figure>
 
@@ -228,6 +228,7 @@ Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Nã
 | <a id="RNF02">RNF02</a> | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.                | [AI10](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais),  [IS14](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                    | Não           |
 | <a id="RNF03">RNF03</a> | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | [IS16](../../elicitacao/tecnicas/introspeccao.md#não-funcionais),  [OBS14](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                             | Não           |
 | <a id="RNF04">RNF04</a> | Compatibilidade com as versões mais recentes de sistemas operacionais móveis.               | [OBS11](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
+| <a id="RNF05">RNF05</a> | O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.               | [CON06](../especificacao.md#confiabilidade)                                                                                                                                                  | Não           |
 
 _Fonte: [Henrique Torres](https://github.com/henriqtorresl)_
 </center>
