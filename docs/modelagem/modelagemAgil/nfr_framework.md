@@ -139,6 +139,47 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## NFR 00 - Geral
+
+A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr.png)
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
+No entanto, dada a limitação do grupo de trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, presentes na Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr2.png){width: 300}
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
+## NFR 01 - Usabilidade
+
+Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 5:
+
+- <a id="anchor_NF01" href="#NF01">RNF01</a>: indica que o aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
+- <a id="anchor_NF02" href="#NF02">RNF08</a>: infere que o aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
+
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Usabilidade](../assets/usabilidade.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
+
+
 ## <a> Requisitos Não-Funcionais </a>
 
 Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Não-Funcionais que não foram implementados. A Tabela 5, apresentada abaixo, detalha esses requisitos.
@@ -180,6 +221,8 @@ Essas tabelas organizam os requisitos não-funcionais identificados e rastreados
 
 > <a id="REF1" href="#anchor_1">1.</a> Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5.
 
+> <a id="REF2" href="#anchor_1">2.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: https://repositorio.ufpe.br/handle/123456789/34150. Acesso em: 26/05/2024.
+
 ## <a> Bibliografia </a>
 
 > JANEIRO, José. GOMES, Joaquim. NFR Framework. ESTIC, Brasil, 2008. Disponível em: [http://jaejaneiro.orgfree.com/engsofnfr.pdf](http://jaejaneiro.orgfree.com/engsofnfr.pdf). Acesso em: 25/05/2024.
@@ -195,3 +238,4 @@ Essas tabelas organizam os requisitos não-funcionais identificados e rastreados
 | `1.0` | 25/05/2024 | 25/05/2024 | Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0) | [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 26/05/2024 | 27/05/2024 | Criação dos cartões de especificação | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 | `1.2` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.3` | 27/05/2024 | 27/05/2024 | Adição do NFR 00 E NFR 01 | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
