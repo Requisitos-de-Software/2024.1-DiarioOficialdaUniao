@@ -24,9 +24,9 @@ A Tabela 1 a seguir apresenta um template para a elaboração de histórias de u
 
 ## <a> Histórias de Usuário </a>
 
-A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, focando nos elementos que foram descritos no [template da Tabela 1](#metodologia). As histórias de usuário foram criadas com base nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/) pelo Product Owner (PO).
+A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, focando nos elementos que foram descritos no [template da Tabela 1](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#metodologia). As histórias de usuário foram criadas com base nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/) pelo Product Owner (PO).
 
-**Todas as histórias foram aceitas pelo PO durante a [reunião de validação das histórias de usuário](#reunião-para-validação-das-histórias-de-usuário).**
+**Todas as histórias foram aceitas pelo PO durante a [reunião de validação das histórias de usuário](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#reuniao-para-validacao-das-historias-de-usuario).**
 
 <center>
 
