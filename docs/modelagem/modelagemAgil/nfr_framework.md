@@ -43,6 +43,29 @@ A aplicação do SIG no processo de desenvolvimento de software garante que os r
 4. **Construção do Softgoal Interdependency Graph (SIG)**: Um gráfico é construído para visualizar interdependências e trade-offs.
 5. **Análise e Racionalização**: Alternativas e soluções são analisadas para suportar decisões de design.
 
+## <a> NFR 00 - Geral </a>
+
+A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr.png)
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
+No entanto, dada a limitação do grupo de trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, presentes na Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr2.png){width: 300}
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
 ## <a> Cartões de Especificação </a>
 
 Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade".
@@ -66,6 +89,23 @@ Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade"
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
+
+## NFR 01 - Usabilidade
+
+Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 5:
+
+- <a href="#RNF01">RNF01</a>: indica que o aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
+- <a href="#RNF03">RNF03</a>: infere que o aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
+
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Usabilidade](../assets/usabilidade.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
 </br>
 
@@ -91,6 +131,23 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## NFR 02 - Confiabilidade
+
+Os Requisitos utilizados para a confecção da Figura 5 estão presentes na Tabela 5:
+
+- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF05">RNF05</a>: O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Confiabilidade](../assets/confiabilidade.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
+
 </br>
 
 Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
@@ -115,6 +172,24 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## NFR 03 - Desempenho
+
+Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 5:
+
+- <a href="#RNF01">RNF01</a>: O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
+- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF03">RNF04</a>: Compatibilidade com as versões mais recentes de sistemas operacionais móveis.
+
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Desempenho</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Desempenho](../assets/desempenho.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
+
 </br>
 
 <!-- Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
@@ -138,81 +213,6 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center> -->
-
-## NFR 00 - Geral
-
-A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
-
-
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
-<figure markdown class="usecaseElement">
-
-![SIG GERAL](../assets/geralnfr.png)
-
-</figure>
-<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
-
-No entanto, dada a limitação do grupo de trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, presentes na Figura 3.
-
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
-<figure markdown class="usecaseElement">
-
-![SIG GERAL](../assets/geralnfr2.png){width: 300}
-
-</figure>
-<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
-
-## NFR 01 - Usabilidade
-
-Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 5:
-
-- <a href="#RNF01">RNF01</a>: indica que o aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
-- <a href="#RNF03">RNF03</a>: infere que o aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
-
-<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
-
-<figure markdown markdown class="usecaseElement">
-
-![SIG Usabilidade](../assets/usabilidade.png){width: 300}
-
-</figure>
-
-<font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
-
-## NFR 02 - Confiabilidade
-
-Os Requisitos utilizados para a confecção da Figura 5 estão presentes na Tabela 5:
-
-- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
-- <a href="#RNF05">RNF05</a>: O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.
-
-<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
-
-<figure markdown markdown class="usecaseElement">
-
-![SIG Confiabilidade](../assets/confiabilidade.png){width: 300}
-
-</figure>
-
-<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
-
-## NFR 03 - Desempenho
-
-Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 5:
-
-- <a href="#RNF01">RNF01</a>: O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
-- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
-- <a href="#RNF03">RNF04</a>: Compatibilidade com as versões mais recentes de sistemas operacionais móveis.
-
-<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Desempenho</p></font>
-
-<figure markdown markdown class="usecaseElement">
-
-![SIG Desempenho](../assets/desempenho.png){width: 300}
-
-</figure>
-
-<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
 
 ## <a> Requisitos Não-Funcionais </a>
 
