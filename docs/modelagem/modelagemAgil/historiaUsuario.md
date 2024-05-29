@@ -8,15 +8,15 @@ Em seu livro, PRESSMAN e MAXIM(2016)<a id="anchor_1" href="#REF1">^1^</a> també
 
 ## <a> Metodologia </a>
 
-A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em cinco colunas principais: ID, Título, Descrição, Critérios de Aceitação e Status da aceitação pelo Product Owner(PO). Facilitando a organização e a referência cruzada das informações.
+A Tabela 1 a seguir apresenta um template para a elaboração de histórias de usuário dentro do projeto. A tabela é dividida em quatro colunas principais: ID, Título, Descrição e Critérios de Aceitação. Facilitando a organização e a referência cruzada das informações.
 
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Template de tabela para histórias de usuário.</p></font>
 
-| **ID**|**Título** |**Descrição** | **Critérios de Aceitação** | **Status da aceitação pelo PO**
-| :-----|-- |:--------|------------------------------ | -----------|
-| USXX  |Título da História de Usuário|Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... | <center><input type="checkbox" disabled> História Aceita<br><input type="checkbox" disabled> História Recusada</center> |
+| **ID**|**Título** |**Descrição** | **Critérios de Aceitação** | 
+| :-----|-- |:--------|------------------------------ | 
+| USXX  |Título da História de Usuário|Eu, como um_ [tipo usuário],<br> _gostaria que_ [compromisso com as tarefas], <br> _afim de que_ [objetivo a ser alcançado].|<a>1</a> - "*Critério nº1*" <br> <a>2</a> - "*Critério nº2*" <br>... |
 
 <font size="3">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl).</font>
 
@@ -24,7 +24,9 @@ A Tabela 1 a seguir apresenta um template para a elaboração de histórias de u
 
 ## <a> Histórias de Usuário </a>
 
-A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, focando nos elementos que foram descritos no [template da Tabela 1](#metodologia).
+A Tabela 2 a seguir apresenta um resumo detalhado das histórias de usuário desenvolvidas para o projeto, focando nos elementos que foram descritos no [template da Tabela 1](#metodologia). As histórias de usuário foram criadas com base nos [requisitos elicitados](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/) pelo Product Owner (PO).
+
+**Todas as histórias foram aceitas pelo PO durante a [reunião de validação das histórias de usuário](#reunião-para-validação-das-histórias-de-usuário)**
 
 <center>
 
