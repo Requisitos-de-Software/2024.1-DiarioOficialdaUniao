@@ -62,7 +62,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 </center>
 
 ## 5. Gravação da Reunião
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/kcFM4ifVa04" title="4ª Reunão - Grupo 01 (Diário Oficial da União) - Requisitos de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/kcFM4ifVa04" title="4ª Reunião - Grupo 01 (Diário Oficial da União) - Requisitos de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a> Histórico de Versão </a>
 
