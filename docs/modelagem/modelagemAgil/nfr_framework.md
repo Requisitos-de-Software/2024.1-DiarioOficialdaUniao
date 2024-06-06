@@ -43,6 +43,29 @@ A aplicação do SIG no processo de desenvolvimento de software garante que os r
 4. **Construção do Softgoal Interdependency Graph (SIG)**: Um gráfico é construído para visualizar interdependências e trade-offs.
 5. **Análise e Racionalização**: Alternativas e soluções são analisadas para suportar decisões de design.
 
+## <a> NFR 00 - Geral </a>
+
+A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
+
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr.png)
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
+No entanto, dada a limitação do grupo de trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, presentes na Figura 3.
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
+<figure markdown class="usecaseElement">
+
+![SIG GERAL](../assets/geralnfr2.png){width: 300}
+
+</figure>
+<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
+
 ## <a> Cartões de Especificação </a>
 
 Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade".
@@ -66,6 +89,23 @@ Na tabela 1 abaixo, temos o cartão de especificação do softgoal "Usabilidade"
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
+
+## NFR 01 - Usabilidade
+
+Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 5:
+
+- <a href="#RNF01">RNF01</a>: indica que o aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
+- <a href="#RNF03">RNF03</a>: infere que o aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
+
+<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Usabilidade](../assets/usabilidade.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
 </br>
 
@@ -91,6 +131,23 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## NFR 02 - Confiabilidade
+
+Os Requisitos utilizados para a confecção da Figura 5 estão presentes na Tabela 5:
+
+- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF05">RNF05</a>: O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.
+
+<font size="3"><p style="text-align: center"><b>Figura 5</b> - SIG Confiabilidade</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Confiabilidade](../assets/confiabilidade.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
+
 </br>
 
 Na tabela 3 abaixo, temos o cartão de especificação do softgoal "Desempenho".
@@ -115,9 +172,27 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
+## NFR 03 - Desempenho
+
+Os Requisitos utilizados para a confecção da Figura 6 estão presentes na Tabela 5:
+
+- <a href="#RNF01">RNF01</a>: O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
+- <a href="#RNF02">RNF02</a>: O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.
+- <a href="#RNF03">RNF04</a>: Compatibilidade com as versões mais recentes de sistemas operacionais móveis.
+
+<font size="3"><p style="text-align: center"><b>Figura 6</b> - SIG Desempenho</p></font>
+
+<figure markdown markdown class="usecaseElement">
+
+![SIG Desempenho](../assets/desempenho.png){width: 300}
+
+</figure>
+
+<font size="3"><p style="text-align: center"> Fonte: [Henrique Torres](https://github.com/henriqtorresl)</p></font>
+
 </br>
 
-Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
+<!-- Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilidade".
 
 <center>
 
@@ -137,48 +212,7 @@ Na tabela 4 abaixo, temos o cartão de especificação do softgoal "Suportabilid
 
 _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
-</center>
-
-## NFR 00 - Geral
-
-A Figura 2 a seguir demonstra o Softgoal Interdependency Graph para se ter uma visão geral.
-
-
-<font size="3"><p style="text-align: center"><b>Figura 2</b> - SIG Geral</p></font>
-<figure markdown class="usecaseElement">
-
-![SIG GERAL](../assets/geralnfr.png)
-
-</figure>
-<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
-
-No entanto, dada a limitação do grupo de trabalhar apenas com Requisitos Não-Funcionais ainda não implementados pelo aplicativo, adaptou-se o SIG acima para a utilização dos tópicos necessários, presentes na Figura 3.
-
-<font size="3"><p style="text-align: center"><b>Figura 3</b> - SIG Geral Adaptado</p></font>
-<figure markdown class="usecaseElement">
-
-![SIG GERAL](../assets/geralnfr2.png){width: 300}
-
-</figure>
-<font size="3"><p style="text-align: center"> Fonte: SILVA, 2019</p></font>
-
-## NFR 01 - Usabilidade
-
-Os Requisitos utilizados para a confecção da Figura 4 estão presentes na Tabela 5:
-
-- <a id="anchor_NF01" href="#NF01">RNF01</a>: indica que o aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.
-- <a id="anchor_NF02" href="#NF02">RNF08</a>: infere que o aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.
-
-<font size="3"><p style="text-align: center"><b>Figura 4</b> - SIG Usabilidade</p></font>
-
-<figure markdown markdown class="usecaseElement">
-
-![SIG Usabilidade](../assets/usabilidade.png){width: 300}
-
-</figure>
-
-<font size="3"><p style="text-align: center"> Fonte: [Douglas Marinho](https://github.com/M4RINH0)</p></font>
-
+</center> -->
 
 ## <a> Requisitos Não-Funcionais </a>
 
@@ -190,32 +224,14 @@ Para aplicarmos a técnica do NFR Framework, identificamos alguns Requisitos Nã
 
 | ID    | Descrição                                                                                   | Rastreabilidade                                                                                                                                                                     | Implementação |
 | ----- | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| RNF01 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.                | [AI07](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais), [IS09](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                               | Não           |
-| RNF04 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.                | [AI10](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais),  [IS14](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                    | Não           |
-| RNF05 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.                        |[IS13](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                                                 | Não           |
-| RNF08 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | [IS16](../../elicitacao/tecnicas/introspeccao.md#não-funcionais),  [OBS14](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                             | Não           |
-| RNF04 | Segurança de dados com criptografia de ponta-a-ponta.                                       | [OBS13](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
-| RNF02 | Compatibilidade com as versões mais recentes de sistemas operacionais móveis.               | [OBS11](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
+| <a id="RNF01">RNF01</a> | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.                | [AI07](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais), [IS09](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                               | Não           |
+| <a id="RNF02">RNF02</a> | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.                | [AI10](../../elicitacao/tecnicas/analise-de-interface.md#requisitos-não-funcionais),  [IS14](../../elicitacao/tecnicas/introspeccao.md#não-funcionais)                                                                                                                    | Não           |
+| <a id="RNF03">RNF03</a> | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | [IS16](../../elicitacao/tecnicas/introspeccao.md#não-funcionais),  [OBS14](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                             | Não           |
+| <a id="RNF04">RNF04</a> | Compatibilidade com as versões mais recentes de sistemas operacionais móveis.               | [OBS11](../../elicitacao/tecnicas/observacao.md#não-funcioanais)                                                                                                                                                  | Não           |
+| <a id="RNF05">RNF05</a> | O sistema deve implementar medidas para prevenir que o usuário realize ações que possam comprometer a integridade do sistema.               | [CON06](../especificacao.md#confiabilidade)                                                                                                                                                  | Não           |
 
 _Fonte: [Henrique Torres](https://github.com/henriqtorresl)_
 </center>
-
-A Tabela 6 abaixo lista os Requisitos Não-Funcionais elicitados pelo NFR Framework.
-
-<center>
-<b>Tabela 6</b> - Requisitos Elicitados NFR
-
-|  ID   | Descrição                                                                                                                                                                                                                                                                                                                                         |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NFR01 | Usabilidade: O aplicativo deve ser intuitivo e fácil de usar, proporcionando uma experiência de usuário agradável e eficiente.                                                                                                                                                                                                                      |
-| NFR02 | Confiabilidade: O sistema deve ser robusto, resistente a falhas e garantir a integridade das informações, aumentando a confiança e credibilidade dos usuários.                                                                                                                                                                                      |
-| NFR03 | Desempenho: O aplicativo deve ter um tempo de resposta rápido (< 2 segundos) e utilizar os recursos do sistema de maneira eficiente, mesmo sob alta demanda.                                                                                                                                                                                        |
-| NFR04 | Suportabilidade: O sistema deve ser fácil de manter, atualizar e diagnosticar problemas, garantindo continuidade e evolução sem grandes dificuldades.                                                                                                                                                                                               |
-
-_Fonte: [Henrique Torres](https://github.com/henriqtorresl)_
-</center>
-
-Essas tabelas organizam os requisitos não-funcionais identificados e rastreados a partir das técnicas de elicitação utilizadas, facilitando o acompanhamento e a implementação desses requisitos no desenvolvimento do sistema.
 
 ## <a> Referência Bibliográfica </a>
 
@@ -237,5 +253,7 @@ Essas tabelas organizam os requisitos não-funcionais identificados e rastreados
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 25/05/2024 | 25/05/2024 | Criação da Documentação e conceitos sobre o NFR | [Douglas Marinho](https://github.com/M4RINH0) | [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 26/05/2024 | 27/05/2024 | Criação dos cartões de especificação | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-| `1.2` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
-| `1.3` | 27/05/2024 | 27/05/2024 | Adição do NFR 00 E NFR 01 | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 27/05/2024 | 27/05/2024 | Adição do NFR 00 E NFR 01 | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.3` | 27/05/2024 | 27/05/2024 | Adição do NFR 02 E NFR 03 | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.4` | 27/05/2024 | 27/05/2024 | Criação da parte relacionada aos requisitos não-funcionais | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.5` | 29/05/2024 | 29/05/2024 | Corrigindo a disposição dos itens do artefato | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |

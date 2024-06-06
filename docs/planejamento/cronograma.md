@@ -101,7 +101,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 === "Cronograma Executado"
-    Na Tabela 6, está explicitado o cronograma executado das atividades da segunda entrega.
+    Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
     <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Execução modelagem de Requisitos</p></font>
 
@@ -134,6 +134,22 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Iteração do Git Pages  | Início dia 22/05 Fim dia 26/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 27/05 Fim dia 28/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 27/05   |
     | Período de gravação da apresentação    | Início dia 24/05 Fim dia 26/05 | Douglas Marinho  | Início dia 29/05 Fim dia 31/05 | Eric Silveira | 27/05   |
     | Correção pós apresentação| Início dia 21/05 Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
+
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+=== "Cronograma Executado"
+    Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Execução da Modelagem de Requisitos - Ágil</p></font>
+
+    | Atividade | Período de Desenvolvimento | Responsável | Revisão | Revisores | Data de Entrega |
+    |-----------|----------------------------|-------------|---------|-----------|-----------------|
+    | Modelagem de Requisitos - Ágil: Backlogs | Início dia 21/05, Fim dia 25/05 | Arthur Alves e Eric Silveira | Início dia 26/05, Fim dia 27/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 27/05 |
+    | Modelagem de Requisitos - Ágil: Histórias de Usuário | Início dia 21/05, Fim dia 25/05 | João Artur e Diego Sousa | Início dia 26/05, Fim dia 27/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 27/05 |
+    | Modelagem de Requisitos - Ágil: NFR Framework | Início dia 21/05, Fim dia 25/05 | Douglas Marinho, Henrique Torres e Luiz Gustavo | Início dia 26/05, Fim dia 27/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 27/05 |
+    | Iteração do Git Pages | Início dia 22/05, Fim dia 26/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 27/05, Fim dia 28/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 27/05 |
+    | Período de gravação da apresentação | Início dia 24/05, Fim dia 27/05 | Douglas Marinho | Início dia 28/05, Fim dia 28/05 | Eric Silveira | 27/05 |
+    | Correção pós apresentação | Início dia 29/05, Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05, Fim dia 31/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega |
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -220,3 +236,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.4`|20/04/2024|20/04/2024| Adicionando o cronograma executado da segunda entrega | [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
 |`1.5`|14/05/2024|14/05/2024| Atualizando todo o cronograma planejado | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.6`|20/05/2024|20/05/2024| Atualizando todo o cronograma executado da terceira entrega | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
+|`1.7`|27/05/2024|27/05/2024| Atualizando todo o cronograma executado da quarta entrega | [Diego Sousa](https://github.com/DiegoSousaLeite) |[Eric Silveira](https://github.com/ericbky) |

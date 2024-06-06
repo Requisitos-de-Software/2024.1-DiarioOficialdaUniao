@@ -13,7 +13,6 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
 
@@ -26,6 +25,7 @@ nav:
       - Apresentação 1: apresentacao/apresentacao1.md
       - Apresentação 2: apresentacao/apresentacao2.md
       - Apresentação 3: apresentacao/apresentacao3.md
+      - Apresentação 4: apresentacao/apresentacao4.md
   - Reuniões:
       - Reunião 1: reuniao/reuniao01.md
       - Reunião 2: reuniao/reuniao02.md
@@ -61,7 +61,26 @@ nav:
       - Histórias de Usuário: modelagem/modelagemAgil/historiaUsuario.md
       - Backlog: modelagem/modelagemAgil/backlog.md
   - Termo de Uso: termoDeUso.md
-
+  - Validação: 
+      - Prototipação: validacao/prototipacao.md
+      - Comprovação Informal: validacao/comprovacao-informal.md
+  - Verificação:
+      #- Etapa 1:
+      - Etapa 2:
+        - Planejamento da Verificação da Etapa 2: verificacao/grupo2/etapa2/planejamento-verificacao-grupo2.md
+        - Perfil de Usuários: verificacao/grupo2/etapa2/perfil-grupo2.md
+        - Personas: verificacao/grupo2/etapa2/personas-grupo2.md
+        - Elicitação:
+          - Análise de Documentos: verificacao/grupo2/etapa2/elicitacao/analise-documentos-grupo2.md
+          - Encenação Adaptada: verificacao/grupo2/etapa2/elicitacao/encenacao-grupo2.md
+          - Questionário: verificacao/grupo2/etapa2/elicitacao/questionario-grupo2.md
+          - Storytelling: verificacao/grupo2/etapa2/elicitacao/storytelling-grupo2.md
+        - Priorização:
+          - Quadrante de Três Níveis: verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2.md
+          - In or Out: verificacao/grupo2/etapa2/priorizacao/in-out-grupo2.md
+          - MoSCoW: verificacao/grupo2/etapa2/priorizacao/moscow-grupo2.md
+      #- Etapa 3:
+      #- Etapa 4:
 
 theme:
   name: material
