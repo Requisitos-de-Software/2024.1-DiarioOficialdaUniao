@@ -34,15 +34,15 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/">Verificação do artefato Perfil de Usuário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/">Verificação do artefato Personas</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Análise de Documentos</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Encenação Adaptada</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Questionário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Storytelling</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato Quadrante de Três Níveis</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato In or Out</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato MoSCoW</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/perfil-grupo2/">Verificação do artefato Perfil de Usuário</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/personas-grupo2/">Verificação do artefato Personas</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/analise-documentos-grupo2/">Verificação do artefato Análise de Documentos</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/encenacao-grupo2/">Verificação do artefato Encenação Adaptada</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/questionario-grupo2/">Verificação do artefato Questionário</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/storytelling-grupo2/">Verificação do artefato Storytelling</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2/">Verificação do artefato Quadrante de Três Níveis</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/in-out-grupo2/">Verificação do artefato In or Out</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/moscow-grupo2/">Verificação do artefato MoSCoW</a>
 
 ## <a>Checklists</a>
 
