@@ -1,6 +1,6 @@
 # Ata da reunião de Requisitos de Software do dia 05/06
 
-## 1. <a> Data, Horário, Duração e Local </a>
+## <a> 1. Data, Horário, Duração e Local </a>
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
 - Data: 05/06/2024
@@ -17,7 +17,7 @@ Na reunião, participaram os seguintes membros:
 - João Artur
 - Luiz Gustavo
 
-## 3. <a> Pontos de Discussão Importantes e Decisões </a>
+## <a> 3. Pontos de Discussão Importantes e Decisões </a>
 Na quarta-feira fizemos uma reunião de alinhamento para a Entrega 5.1 - Análise de Requisitos: Verificação e Validação. 
 
 Primeiramente, discutimos sobre a validação e como iremos proceder com as metodologias (prototipação e validação informal). Depois, discutimos sobre a verificação, com base no artefato de [Planejamento da Verificação da Etapa 1](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa1/planejamento/). Também foi discutido quais artefatos devemos revisar e corrigir, se necessário, para que as entregas passadas se alinhem com a entrega atual e com as entregas futuras. Por fim, realizamos a divisão das tarefas.
@@ -42,7 +42,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo) e [Eric Silveira](https:/
 
 </center>
 
-## 4. <a> Divisão das atividades e Decisões </a>
+## <a> 4. Divisão das atividades e Decisões </a>
 Segue na tabela 2 abaixo, a divisão das atividades entre os integrantes do grupo, feita para a entrega 5.1, com base na disponibilidade e no cronograma da disciplina.
 
 <center>
