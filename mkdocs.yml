@@ -66,7 +66,9 @@ nav:
       - Prototipação: validacao/prototipacao.md
       - Comprovação Informal: validacao/comprovacao-informal.md
   - Verificação:
-      #- Etapa 1:
+      - Etapa 1:
+         - Planejamento da Verificação da Etapa 1: verificacao/grupo2/etapa1/planejamentoVerificacaoE1.md
+         - Rich Picture: verificacao/grupo2/etapa1/richpicture.md
       - Etapa 2:
         - Planejamento da Verificação da Etapa 2: verificacao/grupo2/etapa2/planejamento-verificacao-grupo2.md
         - Perfil de Usuários: verificacao/grupo2/etapa2/perfil-grupo2.md
