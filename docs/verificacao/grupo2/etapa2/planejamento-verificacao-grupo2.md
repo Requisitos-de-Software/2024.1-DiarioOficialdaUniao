@@ -1,4 +1,5 @@
 ## <a>Introdução</a>
+
 A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.    Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/">*Grupo 02*</a>.
 
 O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 2 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
@@ -231,4 +232,4 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 ## <a>Histórico de Versão</a>
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. |[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos |[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|

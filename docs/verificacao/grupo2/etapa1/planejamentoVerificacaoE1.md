@@ -99,4 +99,4 @@ O rich picture é um artefato essencial para a compreensão e representação vi
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 07/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Diego Sousa](https://github.com/DiegoSousaLeite)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.0` | 07/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [Diego Sousa](https://github.com/DiegoSousaLeite)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|

@@ -82,7 +82,12 @@ nav:
           - Quadrante de Três Níveis: verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2.md
           - In or Out: verificacao/grupo2/etapa2/priorizacao/in-out-grupo2.md
           - MoSCoW: verificacao/grupo2/etapa2/priorizacao/moscow-grupo2.md
-      #- Etapa 3:
+      - Etapa 3:
+        - Planejamento da Verificação da Etapa 3: verificacao/grupo2/etapa3/planejamentoVerificacaoE3.md
+        - Cenários: verificacao/grupo2/etapa3/cenarios.md
+        - Léxicos: verificacao/grupo2/etapa3/lexicos.md
+        - Caso de Uso: verificacao/grupo2/etapa3/caso_uso.md
+        - Especificação Suplementar: verificacao/grupo2/etapa3/especificacao_suplementar.md
       #- Etapa 4:
 
 theme:
