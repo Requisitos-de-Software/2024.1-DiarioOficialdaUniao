@@ -23,7 +23,7 @@ O e-mail, assim como a mensagem no Instagram foram enviados ao cliente no dia 08
 
 Imagem 1 - Mensagem por e-mail.
 
-<font><figure markdown>![Mensagem por e-mail.](./assets/comprovacaoInformalEmail.png){: style="height:250px;width:600px"}
+<font><figure markdown>![Mensagem por e-mail.](./assets/comprovacaoInformalEmail.png){: style="width:450px"}
 
 Fonte: [João Artur](https://github.com/joao-artl)
 
@@ -35,7 +35,7 @@ Fonte: [João Artur](https://github.com/joao-artl)
 
 Imagem 2 - Mensagem pelo Instagram 1.
 
-<font><figure markdown>![Mensagem pelo Instagram 1.](./assets/confirmacaoInformalInstagram1.jpeg){: style="width:250px"}
+<font><figure markdown>![Mensagem pelo Instagram 1.](./assets/confirmacaoInformalInstagram1.jpeg){: style="width:300px"}
 
 Fonte: [João Artur](https://github.com/joao-artl)
 
@@ -45,7 +45,7 @@ Fonte: [João Artur](https://github.com/joao-artl)
 
 Imagem 3 - Mensagem pelo Instagram 2.
 
-<font><figure markdown>![Mensagem pelo Instagram 2.](./assets/confirmacaoInformalInstagram2.jpeg){: style="width:250px"}
+<font><figure markdown>![Mensagem pelo Instagram 2.](./assets/confirmacaoInformalInstagram2.jpeg){: style="width:300px"}
 
 Fonte: [João Artur](https://github.com/joao-artl)
 
