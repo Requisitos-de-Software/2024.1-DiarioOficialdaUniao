@@ -23,7 +23,7 @@ O e-mail, assim como a mensagem no Instagram foram enviados ao cliente no dia 08
 
 Imagem 1 - Mensagem por e-mail.
 
-<font><figure markdown>![Mensagem por e-mail.](./assets/comprovacaoInformalEmail.png){: style="width:450px"}
+<font><figure markdown>![Mensagem por e-mail.](./assets/comprovacaoInformalEmail.png){: style="width:650px"}
 
 Fonte: [João Artur](https://github.com/joao-artl)
 
