@@ -67,4 +67,4 @@ Até o momento da confecção do artefato (08/06/2024), não foram obtidas respo
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 04/06/2024 | 06/06/2024 | Introdução, metodologias e tabelas. | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
-| `1.1` | 08/06/2024 | 10/06/2024 | Adicionando comprovação por email e Instagram | [João Artur](https://github.com/joao-artl) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|
+| `1.1` | 08/06/2024 | 10/06/2024 | Adicionando comprovação informal por email e Instagram | [João Artur](https://github.com/joao-artl) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|
