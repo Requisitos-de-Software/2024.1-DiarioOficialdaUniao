@@ -1,11 +1,11 @@
-## Introdução
+## <a>Introdução</a>
 
 O propósito desta página é hospedar o vídeo da apresentação da Quarta Entrega e a demonstrar a tabela de critérios solicitados para a entrega 4. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
-## Vídeo de Apresentação
+## <a>Vídeo de Apresentação</a>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/a67302Gfr9o" title="Apresentação 4ª Entrega - Grupo 01 (Diário Oficial da União) - Requisitos de Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Tale de Critérios para a entrega 4
+## <a>Tale de Critérios para a entrega 4</a>
 
 A apresentação objetiva mostrar o que foi feito para a entrega 4, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
@@ -43,4 +43,4 @@ A git page possui?  | Sim/Não/Incompleto
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|14/05/2024|15/05/2024| Descrição da Apresentação referente a entrega 3 | [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
+|`1.0`|14/05/2024|15/05/2024| Descrição da Apresentação referente a entrega 4 | [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
