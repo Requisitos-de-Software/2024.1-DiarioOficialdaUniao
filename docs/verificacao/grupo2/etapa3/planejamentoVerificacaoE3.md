@@ -67,9 +67,16 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Cenários.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| **ID** | **Descrição** | **Avaliação** | **Explicação e Referêcia** |
 | ---- | ----------- | ----------- | ------------- |
-|  |  |  |  |
+| 9 | Os cenários possuem os elementos básicos de um cenário (Título, Metas, Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? |  | A verificação de que os cenários possuem os elementos básicos é fundamental para a clareza dos requisitos de software. Cada elemento desempenha um papel específico e indispensável na definição e compreensão dos cenários. <a id="REF3" href="#anchor_3">3.</a> |
+| 10 | O título é claro, descritivo e reflete o objetivo principal do cenário? |  | Um título claro e descritivo ajuda a identificar rapidamente o cenário, facilitando a comunicação entre os membros da equipe e a referência em documentos futuros. <a id="REF3" href="#anchor_3">3.</a> |
+| 11 | A meta/objetivo do cenário está claramente definida? |  | Definir claramente as metas/objetivos assegura que todos os envolvidos compreendam o propósito do cenário e possam avaliar se os requisitos atendem às necessidades. <a id="REF3" href="#anchor_3">3.</a> |
+| 12 | O contexto inicial do cenário está claramente descrito? |  | Descrever o contexto inicial garante que todas as condições pré-existentes e suposições sejam compreendidas, proporcionando uma base sólida para a interpretação correta do cenário. <a id="REF3" href="#anchor_3">3.</a> |
+| 13 | Todos os atores envolvidos e suas respectivas responsabilidades no cenário estão identificadas? |  | Identificar todos os atores e suas responsabilidades assegura que todas as interações necessárias sejam consideradas, evitando lacunas na definição dos requisitos.. <a id="REF3" href="#anchor_3">3.</a> |
+| 14 | Os recursos necessários para a execução do cenário estão listados? |  | Listar os recursos necessários previne a falta de elementos críticos durante a execução do cenário, garantindo que todos os pré-requisitos técnicos e materiais estejam disponíveis. <a id="REF3" href="#anchor_3">3.</a> |
+| 15 | Todas as possíveis exceções e situações anômalas estão identificadas? |  | Identificar possíveis exceções e anomalias permite planejar respostas adequadas, aumentando a robustez do sistema e a capacidade de lidar com imprevistos. <a id="REF3" href="#anchor_3">3.</a> |
+| 16 | Os episódios (etapas) do cenário estão descritos em uma sequência lógica? |  | Descrever os episódios em sequência lógica facilita a implementação e validação do cenário, garantindo que todos os passos necessários para alcançar o objetivo sejam seguidos corretamente. <a id="REF3" href="#anchor_3">3.</a> |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -82,7 +89,7 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 | ---- | ----------- | ----------- | ------------- |
 |  |  |  |  |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
 ### <a> Caso de Uso </a>
@@ -93,14 +100,14 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 | ---- | ----------- | ----------- | ------------- |
 |  |  |  |  |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
 ### <a> Especificação Suplementar </a>
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Especificação Suplementar.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| **ID** | **Descrição** | **Avaliação** | **Explicação e Referêcia** |
 | ---- | ----------- | ----------- | ------------- |
 |  |  |  |  |
 
@@ -109,20 +116,22 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 ## <a> Bibliografia </a>
 
-> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 20:00.
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
 
 ## <a> Referência Bibliografica </a>
 
-> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 21:00.
+> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
 
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
 
+> <a id="REF3" href="#anchor_3">3.</a>Cenários. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acessado em: 09 de junho de 2024
 
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 07/06/2024 | 08/06/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos artefatos e Checklists | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os cenários | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
