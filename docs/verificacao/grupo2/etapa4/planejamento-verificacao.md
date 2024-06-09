@@ -59,19 +59,38 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
-| 10 | As histórias de usuário estão escritas do ponto de vista do usuário final? | | | Uma história de usuário é uma explicação geral e informal de um recurso de software escrita do ponto de vista do usuário final<a id="anchor_6" href="#REF6">^6^</a>. |
-| 11 | As histórias de usuário articulam como uma funcionalidade de software fornecerá valor ao cliente? | | | O objetivo de uma história de usuário é articular como uma peça de trabalho fornecerá um valor particular ao cliente<a id="anchor_6" href="#REF6">^6^</a>. |
-| 12 | As histórias de usuário estão descritas em linguagem simples e sem detalhes técnicos? | | | As histórias de usuário são algumas frases em linguagem simples que descrevem o resultado desejado<a id="anchor_6" href="#REF6">^6^</a>. |
-| 13 | As histórias de usuário são usadas para facilitar a colaboração e a criatividade da equipe? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral<a id="anchor_6" href="#REF6">^6^</a>. |
-| 14 | As histórias de usuário são acompanhadas por critérios de aceitação claros? | | | As histórias de usuário devem ter critérios de aceitação claramente definidos<a id="anchor_6" href="#REF6">^6^</a>. |
-| 12 | O “quem”, “o que” e o “por que” estão definidos na história de usuário? | | | Cada história de usuário inclui uma persona (quem), o que ela quer e por quê<a id="anchor_6" href="#REF6">^6^</a>. |
-| 13 | A participação do cliente e/ou persona na validação das histórias de usuário? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral. Geralmente, uma história é escrita pelo proprietário do produto, gerente de produto ou gerente de programa e enviada para revisão<a id="anchor_6" href="#REF6">^6^</a>. |
-| 13 | As histórias de usuário seguem algum modelo ou padrão? | | | N/A (Apenas para controle de organização) |
-| 13 | Todos os membros do grupo contribuiram com o artefato? | | | N/A (Apenas para controle de organização) |
-| 15 | As histórias de usuário são testáveis? | | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
+| 11 | As histórias de usuário estão escritas do ponto de vista do usuário final? | | | Uma história de usuário é uma explicação geral e informal de um recurso de software escrita do ponto de vista do usuário final<a id="anchor_6" href="#REF6">^6^</a>. |
+| 12 | As histórias de usuário articulam como uma funcionalidade de software fornecerá valor ao cliente? | | | O objetivo de uma história de usuário é articular como uma peça de trabalho fornecerá um valor particular ao cliente<a id="anchor_6" href="#REF6">^6^</a>. |
+| 13 | As histórias de usuário estão descritas em linguagem simples e sem detalhes técnicos? | | | As histórias de usuário são algumas frases em linguagem simples que descrevem o resultado desejado<a id="anchor_6" href="#REF6">^6^</a>. |
+| 14 | As histórias de usuário são usadas para facilitar a colaboração e a criatividade da equipe? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral<a id="anchor_6" href="#REF6">^6^</a>. |
+| 15 | As histórias de usuário são acompanhadas por critérios de aceitação claros? | | | As histórias de usuário devem ter critérios de aceitação claramente definidos<a id="anchor_6" href="#REF6">^6^</a>. |
+| 16 | O “quem”, “o que” e o “por que” estão definidos na história de usuário? | | | Cada história de usuário inclui uma persona (quem), o que ela quer e por quê<a id="anchor_6" href="#REF6">^6^</a>. |
+| 17 | A participação do cliente e/ou persona na validação das histórias de usuário? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral. Geralmente, uma história é escrita pelo proprietário do produto, gerente de produto ou gerente de programa e enviada para revisão<a id="anchor_6" href="#REF6">^6^</a>. |
+| 18 | As histórias de usuário seguem algum modelo ou padrão? | | | N/A (Apenas para controle de organização) |
+| 19 | Todos os membros do grupo contribuiram com o artefato? | | | N/A (Apenas para controle de organização) |
+| 20 | As histórias de usuário são testáveis? | | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
+
+### <a> Checklist para Verificação do NFR Framework </a>
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para NFR Framework.</p></font>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 21 | Os requisitos não-funcionais (NFRs) estão claramente definidos e documentados? | | | É crucial ter NFRs bem definidos para garantir que o sistema atenda às expectativas de qualidade e desempenho<a id="anchor_8" href="#REF8">^8^</a>. |
+| 22 | Os NFRs foram elicitados com a participação de todas as partes interessadas relevantes? | | | Envolver todas as partes interessadas ajuda a capturar uma visão completa dos requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
+| 23 | Os NFRs são mensuráveis e verificáveis? | | | Para garantir que os NFRs sejam cumpridos, eles devem ser mensuráveis, com critérios claros de aceitação<a id="anchor_8" href="#REF8">^8^</a>. |
+| 24 | Os NFRs foram categorizados adequadamente (e.g., usabilidade, desempenho, segurança)? | | | Categorizar NFRs ajuda a estruturar e priorizar os requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
+| 25 | Existem conflitos entre NFRs diferentes? Se sim, foram documentados e gerenciados? | | | Identificar e gerenciar conflitos entre NFRs é essencial para evitar problemas de implementação futuros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 26 | Os softgoals foram utilizados para representar NFRs de forma que capturem suas qualidades sutis? | | | Softgoals são usados para capturar a natureza qualitativa dos NFRs e são refinados em metas mais específicas<a id="anchor_8" href="#REF8">^8^</a>. |
+| 27 | Existe um gráfico de interdependência de softgoals (SIG) para visualizar as relações entre NFRs? | | | Um gráfico de interdependência ajuda a visualizar como os diferentes NFRs se relacionam e afetam uns aos outros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 28 | As relações de contribuição (positiva ou negativa) entre softgoals foram identificadas? | | | Entender as contribuições ajuda a balancear trade-offs entre NFRs conflitantes<a id="anchor_8" href="#REF8">^8^</a>. |
+| 29 | As decisões de design foram documentadas em relação aos NFRs? | | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
+| 30 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? | | | Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 ## <a> Referência Bibliografica </a>
 
@@ -89,6 +108,8 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 
 > <a id="REF7" href="#anchor_7">7. </a>COHN, Mike. User Stories Applied: For Agile Software Development. Boston: Addison-Wesley, 2004. Capítulo 2: Testable, p. 27. Disponível em: https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf. Acesso em: 9 jun. 2024.
 
+> <a id="REF8" href="#anchor_8">8. </a>Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5. Acesso em: 9 jun. 2024.
+
 ## <a> Bibliografia </a>
 
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 20:00.
@@ -101,3 +122,4 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 09/06/2024 | 10/06/2024 | Criação do documento | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
+| `1.1` | 09/06/2024 | 10/06/2024 | Adicionando o checklist de verificação do NFR | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
