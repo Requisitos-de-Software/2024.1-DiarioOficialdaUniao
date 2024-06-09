@@ -89,7 +89,9 @@ nav:
         - Léxicos: verificacao/grupo2/etapa3/lexicos.md
         - Caso de Uso: verificacao/grupo2/etapa3/caso_uso.md
         - Especificação Suplementar: verificacao/grupo2/etapa3/especificacao_suplementar.md
-      #- Etapa 4:
+      - Etapa 4:
+        - Planejamento da Verificação da Etapa 4: verificacao/grupo2/etapa4/planejamento-verificacao.md
+
 
 theme:
   name: material
