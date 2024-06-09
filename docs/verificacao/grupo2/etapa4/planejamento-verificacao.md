@@ -68,6 +68,7 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 | 13 | A participação do cliente e/ou persona na validação das histórias de usuário? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral. Geralmente, uma história é escrita pelo proprietário do produto, gerente de produto ou gerente de programa e enviada para revisão<a id="anchor_6" href="#REF6">^6^</a>. |
 | 13 | As histórias de usuário seguem algum modelo ou padrão? | | | N/A (Apenas para controle de organização) |
 | 13 | Todos os membros do grupo contribuiram com o artefato? | | | N/A (Apenas para controle de organização) |
+| 15 | As histórias de usuário são testáveis? | | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
@@ -84,8 +85,9 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 
 > <a id="REF5" href="#anchor_5">5. </a>REHKOPF, Max. Epics. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics. Acesso em: 9 jun. 2024.
 
-> <a id="REF6" href="#anchor_6">6s. </a>REHKOPF, Max. User Stories. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/user-stories. Acesso em: 9 jun. 2024. 
+> <a id="REF6" href="#anchor_6">6. </a>REHKOPF, Max. User Stories. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/user-stories. Acesso em: 9 jun. 2024. 
 
+> <a id="REF7" href="#anchor_7">7. </a>COHN, Mike. User Stories Applied: For Agile Software Development. Boston: Addison-Wesley, 2004. Capítulo 2: Testable, p. 27. Disponível em: https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf. Acesso em: 9 jun. 2024.
 
 ## <a> Bibliografia </a>
 
