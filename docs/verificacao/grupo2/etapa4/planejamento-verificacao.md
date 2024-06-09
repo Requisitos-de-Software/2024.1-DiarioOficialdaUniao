@@ -7,33 +7,72 @@ Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> 
 
 ## <a>Metodologia</a>
 
-A metodologia que utilizaremos será a de inspeção, que é aplicada para a verificação de documentos, pois seu objetivo principal é a descoberta de "defeitos" nos mesmo<a id="anchor_2" href="#REF2">^2^</a>. Será utilizado uma espécie de checklist, parte da análise estática, onde não há execução do produto<a id="anchor_1" href="#REF1">^1^</a>. Avaliaremos cada entrega com base nos artefatos desenvolvidos, utilizando checklists detalhados para garantir que todos os aspectos do projeto estejam cobertos. Isso nos permitirá verificar se todos os itens estão definidos e completos, e se não há ausência de dados ou especificações importantes. 
+A metodologia que utilizaremos será a de inspeção, que é aplicada para a verificação de documentos, pois seu objetivo principal é a descoberta de "defeitos" nos mesmo<a id="anchor_2" href="#REF2">^2^</a>. Será utilizado uma espécie de checklist, parte da análise estática, onde não há execução do produto<a id="anchor_1" href="#REF1">^1^</a>. Avaliaremos cada entrega com base nos artefatos desenvolvidos, utilizando checklists detalhados para garantir que todos os aspectos do projeto estejam cobertos. Isso nos permitirá verificar se todos os itens estão definidos e completos, e se não há ausência de dados ou especificações importantes.
 
-Utilizaremos de referência as listas de verificação da disciplina que foram especificadas pelos monitores e o feedback dos outros grupos, fornecidos durante as apresentações.
+Para estruturar a verificação, será utilizada uma checklist. Inicialmente, serão criadas tabelas contendo o ID e a respectiva pergunta a ser feita para verificar se cada item está implementado no artefato. Além disso, cada pergunta tem uma fonte (quando possível) que indica as referências bibliográficas que fundamentaram sua formulação, proporcionando uma base sólida para que o Grupo 02, no caso de haver correções a serem feitas, possam consultar as fontes.
 
 Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistências nos artefatos, assegurando que todos os requisitos sejam atendidos de maneira completa e precisa. O uso de checklists proporciona uma maneira estruturada e repetível de conduzir a verificação, facilitando a detecção de problemas e garantindo que as entregas estejam alinhadas com as expectativas e padrões de qualidade definidos. Ao final de cada avaliação, compilaremos os resultados e destacaremos as correções necessárias para manter a integridade e a qualidade do projeto.
 
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação da entrega 03 será o integrante do <b>*Grupo 01*</b> - [Arthur Alves](https://github.com/Arthrok). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
+A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os responsáveis pelo desenvolvimento. Esses itens serão avaliados pelo encarregado da verificação. O responsável pela execução da verificação da entrega 04 será o integrante do <b>*Grupo 01*</b> - [Arthur Alves](https://github.com/Arthrok).
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos da Entrega 04.</p></font>
 <center>
 
-| **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** |
-| --------- | --------- | --------- | ----------- | ------------------ |
-| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | [Arthur Alves](https://github.com/Arthrok) |
-| Entrega 03 | Léxicos | `1.7` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) |
-| Entrega 03 | Caso de Uso | `2.8` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) |
-| Entrega 03 | Especificação Suplementar | `1.9` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) |
+| **Nome do Artefato** | **Versão Pré-Verificação** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** | **Resultado da Verificação** |
+| --------- | --------- | ----------- | ------------------ | ---------------------- |
+| [Backlog](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog){:target="_blank"} | `1.2` | Bruno, Caio e Larissa  | [Arthur Alves](https://github.com/Arthrok) | Verificação do Backlog |
+| [História de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario){:target="_blank"} | `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) | Verificação da História de Usuário |
+| [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR){:target="_blank"} | `1.8` | Breno, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) | Verificação do NFR Framework |
+
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
-Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa3/cenarios/">Verificação do artefato Cenários </a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa3/lexicos/">Verificação do artefato Léxicos </a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa3/caso_uso/">Verificação dos artefatos de Caso de Uso </a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa3/especificacao_suplementar/">Verificação do artefato Especificação Suplementar </a>
+### <a> Backlog </a>
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Backlog.</p></font>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Texto de Citação** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 1 | O backlog está devidamente priorizado, com os itens mais importantes no topo? | | | Os itens mais importantes estão no topo para guiar o foco da equipe<a id="anchor_3" href="#REF3">^3^</a>. |
+| 2 | O backlog está acessível e visível para todas as partes interessadas? | | | Manter o backlog em documentos isolados impede atualizações e visibilidade<a id="anchor_3" href="#REF3">^3^</a>. |
+| 3 | Há justificativas claras para a priorização dos itens do backlog? | | | Priorização: os itens são ordenados por importância, com base na prioridade do cliente, urgência do feedback e dificuldade de implementação<a id="anchor_3" href="#REF3">^3^</a>. |
+| 4 | As histórias de usuário estão inclusas no backlog? | | | Incluir todos os tipos de itens de trabalho (por exemplo, histórias de usuário, bugs, dívida técnica) para garantir um planejamento abrangente<a id="anchor_3" href="#REF3">^3^</a>. |
+| 5 | O backlog foi priorizado com o cliente, PO ou persona? | | | A gestão eficaz do backlog envolve uma revisão regular e priorização com base no feedback de stakeholders, clientes e membros da equipe<a id="anchor_3" href="#REF3">^3^</a>. |
+| 6 | Os temas e os épicos foram descritos? | | | N/A |
+| 7 | Os temas estão em um grau de hierarquia maior e mais amplo que os épicos? | | | Da mesma forma que as epopéias são feitas de histórias, os temas são feitos de épicos. Os temas oferecem outro nível de organização acima dos épicos. Em muitos casos, um tema compila épicos de diversas equipes para atingir um objetivo muito mais amplo e maior do que qualquer um dos próprios épicos<a id="anchor_4" href="#REF4">^4^</a>. |
+| 8 | Os temas e épicos estão alinhados com os objetivos estratégicos do projeto? | | | Eles representam objetivos de alto nível que a organização espera alcançar<a id="anchor_4" href="#REF4">^4^</a>. |
+| 9 | Os épicos estão em um grau de hierarquia maior que as histórias de usuário? (Os épicos não devem ter uma narrativa simples) | | | Uma história é uma narrativa simples; uma série de histórias relacionadas e interdependentes constitui um épico. O mesmo se aplica à gestão do seu trabalho, onde a conclusão de histórias relacionadas leva à conclusão de um épico<a id="anchor_4" href="#REF4">^4^</a>. |
+
+
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+
+
+## <a> Referência Bibliografica </a>
+
+> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 21:00.
+
+> <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
+
+> <a id="REF3" href="#anchor_3">3. </a>RADIGAN, Dan. Product Backlog Explained [+ Examples]. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/scrum/backlogs. Acesso em: 9 jun. 2024.
+
+> <a id="REF4" href="#anchor_4">4. </a>REHKOPF, Max. Epics, Stories, Themes. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics-stories-themes. Acesso em: 9 jun. 2024.
+
+
+## <a> Bibliografia </a>
+
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 20:00.
+
+> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
+
+## <a>Histórico de Versão</a>
+
+| Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------ | ------- | -------- | -------- |
+| `1.0` | 09/06/2024 | 10/06/2024 | Criação do documento | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
