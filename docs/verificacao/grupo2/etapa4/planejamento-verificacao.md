@@ -36,7 +36,7 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Backlog.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** | **Texto de Citação** |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
 | 1 | O backlog está devidamente priorizado, com os itens mais importantes no topo? | | | Os itens mais importantes estão no topo para guiar o foco da equipe<a id="anchor_3" href="#REF3">^3^</a>. |
 | 2 | O backlog está acessível e visível para todas as partes interessadas? | | | Manter o backlog em documentos isolados impede atualizações e visibilidade<a id="anchor_3" href="#REF3">^3^</a>. |
@@ -47,8 +47,27 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 | 7 | Os temas estão em um grau de hierarquia maior e mais amplo que os épicos? | | | Da mesma forma que as epopéias são feitas de histórias, os temas são feitos de épicos. Os temas oferecem outro nível de organização acima dos épicos. Em muitos casos, um tema compila épicos de diversas equipes para atingir um objetivo muito mais amplo e maior do que qualquer um dos próprios épicos<a id="anchor_4" href="#REF4">^4^</a>. |
 | 8 | Os temas e épicos estão alinhados com os objetivos estratégicos do projeto? | | | Eles representam objetivos de alto nível que a organização espera alcançar<a id="anchor_4" href="#REF4">^4^</a>. |
 | 9 | Os épicos estão em um grau de hierarquia maior que as histórias de usuário? (Os épicos não devem ter uma narrativa simples) | | | Uma história é uma narrativa simples; uma série de histórias relacionadas e interdependentes constitui um épico. O mesmo se aplica à gestão do seu trabalho, onde a conclusão de histórias relacionadas leva à conclusão de um épico<a id="anchor_4" href="#REF4">^4^</a>. |
+| 10 | Os épicos foram divididos em histórias menores para facilitar o gerenciamento e a execução? | | | Dividir um épico em histórias mais práticas ajuda a entender um projeto e a manter o impulso<a id="anchor_5" href="#REF5">^5^</a>. |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
 
+### <a> História de Usuário </a>
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para História de Usuário.</p></font>
+
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 10 | As histórias de usuário estão escritas do ponto de vista do usuário final? | | | Uma história de usuário é uma explicação geral e informal de um recurso de software escrita do ponto de vista do usuário final<a id="anchor_6" href="#REF6">^6^</a>. |
+| 11 | As histórias de usuário articulam como uma funcionalidade de software fornecerá valor ao cliente? | | | O objetivo de uma história de usuário é articular como uma peça de trabalho fornecerá um valor particular ao cliente<a id="anchor_6" href="#REF6">^6^</a>. |
+| 12 | As histórias de usuário estão descritas em linguagem simples e sem detalhes técnicos? | | | As histórias de usuário são algumas frases em linguagem simples que descrevem o resultado desejado<a id="anchor_6" href="#REF6">^6^</a>. |
+| 13 | As histórias de usuário são usadas para facilitar a colaboração e a criatividade da equipe? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral<a id="anchor_6" href="#REF6">^6^</a>. |
+| 14 | As histórias de usuário são acompanhadas por critérios de aceitação claros? | | | As histórias de usuário devem ter critérios de aceitação claramente definidos<a id="anchor_6" href="#REF6">^6^</a>. |
+| 12 | O “quem”, “o que” e o “por que” estão definidos na história de usuário? | | | Cada história de usuário inclui uma persona (quem), o que ela quer e por quê<a id="anchor_6" href="#REF6">^6^</a>. |
+| 13 | A participação do cliente e/ou persona na validação das histórias de usuário? | | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral. Geralmente, uma história é escrita pelo proprietário do produto, gerente de produto ou gerente de programa e enviada para revisão<a id="anchor_6" href="#REF6">^6^</a>. |
+| 13 | As histórias de usuário seguem algum modelo ou padrão? | | | N/A (Apenas para controle de organização) |
+| 13 | Todos os membros do grupo contribuiram com o artefato? | | | N/A (Apenas para controle de organização) |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
@@ -62,6 +81,10 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 > <a id="REF3" href="#anchor_3">3. </a>RADIGAN, Dan. Product Backlog Explained [+ Examples]. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/scrum/backlogs. Acesso em: 9 jun. 2024.
 
 > <a id="REF4" href="#anchor_4">4. </a>REHKOPF, Max. Epics, Stories, Themes. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics-stories-themes. Acesso em: 9 jun. 2024.
+
+> <a id="REF5" href="#anchor_5">5. </a>REHKOPF, Max. Epics. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics. Acesso em: 9 jun. 2024.
+
+> <a id="REF6" href="#anchor_6">6s. </a>REHKOPF, Max. User Stories. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/user-stories. Acesso em: 9 jun. 2024. 
 
 
 ## <a> Bibliografia </a>
