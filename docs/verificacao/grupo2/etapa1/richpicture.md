@@ -12,7 +12,7 @@ A Tabela 1 a seguir detalha as características da verificação do artefato des
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 01|Rich Picture|`1.1`|Breno Alexandre|[Diego Sousa](https://github.com/DiegoSousaLeite)|07/06/2024|
+|Entrega 01|Rich Picture|`1.1`|Breno Alexandre|[Henrique Torres](https://github.com/henriqtorresl)|10/06/2024|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>
