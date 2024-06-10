@@ -27,25 +27,25 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação do Caso de Uso.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 1 | O artefato possui uma introdução descrevendo-o? |  |  |
-| 2 | O artefato possui padronização nos títulos? |  |  |
-| 3 | O artefato, caso contenha tabelas, as referencia no texto? |  |  |
-| 4 | O artefato, caso tenha figuras, as referencia no texto? |  |  |		
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |  |  |		
-| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  |
-| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |  |  |
-| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |  |  |
-| 9| As elipses representam as ações caso de uso? | | Na UML, um caso de uso é representado como uma figura oval<a id="anchor_1" href="#REF1">^1^</a>|
-|10| O caso de uso representa o usuário e suas interações com o sistema?| | Casos de Uso modelam um diálogo entre um ator e o sistema. Eles representam a funcionalidade fornecida pelo sistema <a id="anchor_1" href="#REF1">^1^</a>|
-|11| O usuário reside fora das fronteiras da aplicação?| |Atores não são parte do sistema - eles representam algo ou alguém que deve interagir com o sistema <a id="anchor_4" href="#REF4">^4^</a>|
-|12| O caso de uso produzido é uma funcionalidade completa que entrega algum valor?|| Um caso de uso tipicamente representa uma peça maior de funcionalidade que está completa do início ao fim. Um caso de uso deve fornecer algo de valor para um ator<a id="anchor_1" href="#REF1">^1^</a>|
-|13| Existem fluxos como: principal, alternativo e de exceção?| | O fluxo de eventos para um caso de uso é uma descrição dos eventos necessários para atingir o comportamento esperado do caso de uso. O fluxo de eventos é escrito em termos do que o sistema deveria fazer, não como o sistema o faz<a id="anchor_3" href="#REF3">^3^</a>|
-|14| Os fluxos principais representam como usuário usaria a funcionalidade de forma primária?||  Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_2" href="#REF2">^2^</a>|
-| 15| A fronteira do sistema é apresentada?| |  Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_2" href="#REF2">^2^</a>|
-| 16 | Os relacionamentos "include" são representados nos casos de uso? | | Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de "include" são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade<a id="anchor_5" href="#REF5">^5^</a>|
-| 17|Os relacionamentos "extend" são representados nos casos de uso?||Um relacionamento de "extend" é usado para mostrar: comportamento opcional,comportamento que somente é executado sobre determinadas condições, como o disparo de um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ato<a id="anchor_5" href="#REF5">^5^</a>|
+|**ID**|**Descrição**|**Avaliação**| **Observações dos avaliadores**|**Referência**|
+|----|-----------|--------|------|-------|
+| 1 | O artefato possui uma introdução descrevendo-o? |  |  ||
+| 2 | O artefato possui padronização nos títulos? |  |  || 
+| 3 | O artefato, caso contenha tabelas, as referencia no texto? |  |  ||
+| 4 | O artefato, caso tenha figuras, as referencia no texto? |  |  |		|
+| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |  |  |		 |
+| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  | |
+| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |  |  | |
+| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |  |  | |
+| 9| As elipses representam as ações caso de uso? | | |Na UML, um caso de uso é representado como uma figura oval<a id="anchor_9" href="#REF9">^9^</a>|
+|10| O caso de uso representa o usuário e suas interações com o sistema?| | |Casos de Uso modelam um diálogo entre um ator e o sistema. Eles representam a funcionalidade fornecida pelo sistema <a id="anchor_9" href="#REF9">^9^</a>|
+|11| O usuário reside fora das fronteiras da aplicação?| ||Atores não são parte do sistema - eles representam algo ou alguém que deve interagir com o sistema <a id="anchor_12" href="#REF12">^12^</a>|
+|12| O caso de uso produzido é uma funcionalidade completa que entrega algum valor?|| |Um caso de uso tipicamente representa uma peça maior de funcionalidade que está completa do início ao fim. Um caso de uso deve fornecer algo de valor para um ator<a id="anchor_9" href="#REF9">^9^</a>|
+|13| Existem fluxos como: principal, alternativo e de exceção?| | |O fluxo de eventos para um caso de uso é uma descrição dos eventos necessários para atingir o comportamento esperado do caso de uso. O fluxo de eventos é escrito em termos do que o sistema deveria fazer, não como o sistema o faz<a id="anchor_11" href="#REF11">^11^</a>|
+|14| Os fluxos principais representam como usuário usaria a funcionalidade de forma primária?|| | Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
+| 15| A fronteira do sistema é apresentada?| | | Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
+| 16 | Os relacionamentos "include" são representados nos casos de uso? | | |Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de "include" são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade<a id="anchor_13" href="#REF13">^13^</a>|
+| 17|Os relacionamentos "extend" são representados nos casos de uso?|||Um relacionamento de "extend" é usado para mostrar: comportamento opcional,comportamento que somente é executado sobre determinadas condições, como o disparo de um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ato<a id="anchor_13" href="#REF13">^13^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
