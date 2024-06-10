@@ -27,8 +27,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação dos Léxicos.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**| **Observações dos avaliadores**|**Referência**|
-|----|-----------|--------|------|-------|
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referêcia** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
 | 1 | O artefato possui uma introdução descrevendo-o? | Sim | | |
 | 2 | O artefato possui padronização nos títulos? |Sim  |  |
 | 3 | O artefato, caso contenha tabelas, as referencia no texto? | Incompleto | A tabela 2, 3 e 4 não possuem uma referencia no texto| |
