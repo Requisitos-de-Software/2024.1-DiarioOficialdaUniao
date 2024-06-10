@@ -54,13 +54,23 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 ### <a> Vídeo 1 </a>
 Vídeo de Verificação dos léxicos 1 ao 8 executado pelo membro [João Artur](https://github.com/joao-artl)
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IkQ4M-uAXPI?si=xqr-K6faMhgMM5ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ### <a> Vídeo 2 </a>
 Vídeo de verificação dos léxicos 21 ao 28 executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e  [Luiz Gustavo](https://github.com/LuizGust4vo)
 
+<center>
 <iframe width="640" height="480" src="https://www.youtube.com/embed/dpNy_ZVlsyo" title="Verificação - Léxicos 21 ao 28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
+### <a> Vídeo 3 </a>
+Vídeo de verificação dos léxicos 17 ao 20 executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5z4IgdIBF0?si=rEgt_Rs3o3TQ88eu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## <a>Referência Bibliografica</a>
 
@@ -87,3 +97,4 @@ Vídeo de verificação dos léxicos 21 ao 28 executado pelos membros [Diego Sou
 | `1.0` | 09/06/2024 | 10/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 21 ao 28 | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.2` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 1 ao 8 | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.3` | 10/06/2024 | 10/06/2024 | Adicionando o vídeo de verificação dos léxicos 17 ao 20 | [Henrique Torres](https://github.com/henriqtorresl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
