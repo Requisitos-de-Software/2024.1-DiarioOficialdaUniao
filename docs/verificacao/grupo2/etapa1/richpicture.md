@@ -50,6 +50,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>
 
+## <a> Vídeo de verificação </a>
+
+Vídeo de Verificação do Rich Picture executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54_s7LDyn6I?si=skojQ_1brP9XxsUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## <a>Referência Bibliografica</a>
 > <a id="REF4" href="#anchor_3">1.</a>Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
 
@@ -66,3 +74,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 07/06/2024 | 07/06/2024 | Criação do documento e decrição dos resultados. | [Diego Sousa](https://github.com/DiegoSousaLeite)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 10/06/2024 | 10/06/2024 | Preenchendo o checklist e adicionando o vídeo da verificação. | [Henrique Torres](https://github.com/henriqtorresl)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
