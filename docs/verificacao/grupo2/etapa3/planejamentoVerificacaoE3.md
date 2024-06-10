@@ -16,17 +16,17 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação da entrega 03 será o integrante do <b>*Grupo 01*</b> - [Luiz Gustavo](https://github.com/LuizGust4vo). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
+Os responsáveis pela criação do planejamento da verificação da entrega 03 seram os integrantes do <b>*Grupo 01*</b> - [Luiz Gustavo](https://github.com/LuizGust4vo) e [João Artur](https://github.com/joao-artl). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
 
 | **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** |
 | --------- | --------- | --------- | ----------- | ------------------ |
-| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| Entrega 03 | Léxicos | `1.7` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| Entrega 03 | Caso de Uso | `2.8` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| Entrega 03 | Especificação Suplementar | `1.9` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | A definir |
+| Entrega 03 | Léxicos | `1.7` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
+| Entrega 03 | Caso de Uso | `2.8` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
+| Entrega 03 | Especificação Suplementar | `1.9` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
@@ -83,22 +83,41 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 ### <a> Léxicos </a>
 
+De acordo com Sayão e Carvalho (2006)<a id="anchor_4" href="#REF4">^4^</a>, Léxicos são ferramentas que auxiliam no entendimento entre clientes, usuários e profissionais de software ao registrar termos e símbolos do domínio da aplicação. Os léxicos, garantem uma compreensão comum dos termos técnicos e específicos, minimizando interpretações diversas. Construir um léxico envolve a identificação de atores, recursos, verbos e estados relevantes, facilitando a comunicação e consulta durante o desenvolvimento de software.
+
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Léxicos.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|  |  |  |  |
+| 9| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?| | O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_5" href="#REF5">^5^</a>|
+| 10  | Os símbolos possuem noção e impacto? |  | Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_6" href="#REF6">^6^</a>|
+| 11 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?| | Estado: o que indica e ações que levaram a esse estado<a id="anchor_6" href="#REF6">^6^</a>|
+| 12|Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?| | Verbos registram ações ou funcionalidades a serem desempenhadas pelos sujeitos ou pelo sistema em desenvolvimento, com algum impacto ou reflexo no ambiente operacional.<a id="anchor_6" href="#REF6">^6^</a>|
+| 13 | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito?| | Objetos são entidades passivas utilizadas ou necessárias a uma ação ou conjunto de ações, e estados são caracterizados por atributos significativos que registram valores em diferentes momentos da execução do sistema<a id="anchor_6" href="#REF6">^6^</a>|
+| 14 | O artefato possui um léxico relacionado aos usuários?| | Sujeitos correspondem a entidades ativas, atores com papel relevante para a aplicação; um sujeito pode ser um ator, um componente ou um outro sistema com o qual deverá ocorrer interação<a id="anchor_6" href="#REF6">^6^</a>|
+|15 | A descrição dos léxicos é coerente?| | O léxico não é apenas uma exigência de processos de qualidade, mas se constitui também em fonte de consulta para os participantes do processo de requisitos<a id="anchor_7" href="#REF7">^7^</a>|
+|16| O vocabulário foi apropriadamente adotado nas descrições?|| Os termos a serem inseridos num glossário são aqueles utilizados pelos participantes do processo para fazer referências às características da aplicação, visando facilitar o entendimento entre eles<a id="anchor_6" href="#REF6">^6^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
 ### <a> Caso de Uso </a>
 
+Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" href="#REF8">^8^</a>, o diagrama de casos de uso é uma representação visual que descreve as interações entre um sistema e seus usuários externos, destacando as principais funcionalidades do sistema e como os usuários as utilizam.
+
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Caso de Uso.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|  |  |  |  |
+| 9| As elipses representam as ações caso de uso? | | Na UML, um caso de uso é representado como uma figura oval<a id="anchor_9" href="#REF9">^9^</a>|
+|10| O caso de uso representa o usuário e suas interações com o sistema?| | Casos de Uso modelam um diálogo entre um ator e o sistema. Eles representam a funcionalidade fornecida pelo sistema <a id="anchor_9" href="#REF9">^9^</a>|
+|11| O usuário reside fora das fronteiras da aplicação?| |Atores não são parte do sistema - eles representam algo ou alguém que deve interagir com o sistema <a id="anchor_12" href="#REF12">^12^</a>|
+|12| O caso de uso produzido é uma funcionalidade completa que entrega algum valor?|| Um caso de uso tipicamente representa uma peça maior de funcionalidade que está completa do início ao fim. Um caso de uso deve fornecer algo de valor para um ator<a id="anchor_9" href="#REF9">^9^</a>|
+|13| Existem fluxos como: principal, alternativo e de exceção?| | O fluxo de eventos para um caso de uso é uma descrição dos eventos necessários para atingir o comportamento esperado do caso de uso. O fluxo de eventos é escrito em termos do que o sistema deveria fazer, não como o sistema o faz<a id="anchor_11" href="#REF11">^11^</a>|
+|14| Os fluxos principais representam como usuário usaria a funcionalidade de forma primária?||  Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
+| 15| A fronteira do sistema é apresentada?| |  Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
+| 16 | Os relacionamentos "include" são representados nos casos de uso? | | Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de "include" são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade<a id="anchor_13" href="#REF13">^13^</a>|
+| 17|Os relacionamentos "extend" são representados nos casos de uso?||Um relacionamento de "extend" é usado para mostrar: comportamento opcional,comportamento que somente é executado sobre determinadas condições, como o disparo de um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ato<a id="anchor_13" href="#REF13">^13^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -114,13 +133,6 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
 
-## <a> Bibliografia </a>
-
-> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
-
-> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
-
-
 ## <a> Referência Bibliografica </a>
 
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
@@ -129,9 +141,38 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 > <a id="REF3" href="#anchor_3">3. </a>Cenários. Disponível em: <http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf>. Acessado em: 09 de junho de 2024.
 
+> <a id="REF4" href="#anchor_4">4. </a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
+
+> <a id="REF5" href="#anchor_5">5. </a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações, Tópico 2.1 LAL - Léxico Ampliado da Linguagem. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
+
+> <a id="REF6" href="#anchor_6">6. </a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações, Tópico 2. O processo de requisitos e léxicos. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
+
+> <a id="REF7" href="#anchor_7">7. </a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações, Tópico 1. Introdução. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
+
+> <a id="REF8" href="#anchor_8">8. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF9" href="#anchor_9">9. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico 3.4. CASOS DE USO. Paraná, 2007.
+
+> <a id="REF10" href="#anchor_10">10. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico 3.5. DIAGRAMAS DE CASO DE USO. Paraná, 2007.
+
+> <a id="REF11" href="#anchor_11">11. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico 4.2 A ESPECIFICAÇÃO DE UM CASO DE USO. Paraná, 2007.
+
+> <a id="REF12" href="#anchor_12">12. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico 3.3. ATORES. Paraná, 2007.
+
+> <a id="REF13" href="#anchor_13">13. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico Aula 5 RELACIONAMENTOS ENTRE CASOS DE USO . Paraná, 2007.
+
+
+## <a> Bibliografia </a>
+
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
+
+> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
+
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 07/06/2024 | 08/06/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos artefatos e Checklists | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
 | `1.1` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os cenários | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
+| `1.2` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os Léxicos e o Caso de Uso |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
