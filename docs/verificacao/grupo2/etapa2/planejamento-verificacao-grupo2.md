@@ -20,12 +20,12 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Personas|`1.0`|Pedro Augusto|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Personas|`1.0`|Pedro Augusto|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
 |Entrega 02|Priorização Quadrante de Três Níveis|`1.2`|Larissa Stéfane e Breno Alexandre|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização In or Out|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização MoSCoW|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
@@ -64,7 +64,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 |7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
 |8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 ### <a>Perfil de Usuário</a>
@@ -73,12 +73,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O perfil de usuário descreve detalhadamente as características demográficas? | | |
-|10| Inclui informações sobre os interesses e hobbies do usuário? | | |
-|11| Descreve as necessidades e objetivos do usuário? | | |
-|12| Fornece informações sobre o comportamento digital do usuário? | | |
-|13| Inclui exemplos ou citações de entrevistas com o usuário? | | |
-|14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? | | |
+|9| O perfil de usuário descreve detalhadamente as características demográficas? <a id="REF4" href="#anchor_3">3.</a>| | |
+|10| Inclui informações sobre os interesses e hobbies do usuário? <a id="REF4" href="#anchor_3">3.</a>| | |
+|11| Descreve as necessidades e objetivos do usuário? <a id="REF4" href="#anchor_3">3.</a>| | |
+|12| Fornece informações sobre o comportamento digital do usuário? <a id="REF4" href="#anchor_3">3.</a>| | |
+|13| Inclui exemplos ou citações de entrevistas com o usuário? <a id="REF4" href="#anchor_3">3.</a>| | |
+|14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? <a id="REF4" href="#anchor_3">3.</a>| | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -89,12 +89,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A persona possui nome e foto fictícios? | | |
-|10| Inclui uma biografia resumida? | | |
+|9| A persona possui nome e foto fictícios?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Inclui uma biografia resumida?<a id="REF4" href="#anchor_3">3.</a> | | |
 |11| Descreve os objetivos e motivações da persona? | | |
-|12| Fornece informações sobre os desafios e frustrações da persona? | | |
-|13| Inclui dados demográficos como idade, profissão e localização? | | |
-|14| Detalha o comportamento da persona em relação ao produto/serviço? | | |
+|12| Fornece informações sobre os desafios e frustrações da persona?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| Inclui dados demográficos como idade, profissão e localização?<a id="REF4" href="#anchor_3">3.</a> | | |
+|14| Detalha o comportamento da persona em relação ao produto/serviço?<a id="REF4" href="#anchor_3">3.</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -105,12 +105,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A análise identifica os documentos revisados? | | |
-|10| Descreve o método utilizado para a análise dos documentos? | | |
-|11| Resumo dos principais achados da análise? | | |
-|12| Fornece exemplos de dados extraídos dos documentos? | | |
-|13| Inclui uma seção de interpretação dos dados? | | |
-|14| Apresenta recomendações baseadas na análise? | | |
+|9| A análise identifica os documentos revisados?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Descreve o método utilizado para a análise dos documentos?<a id="REF4" href="#anchor_3">3.</a> | | |
+|11| Resumo dos principais achados da análise?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| Fornece exemplos de dados extraídos dos documentos?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| Inclui uma seção de interpretação dos dados?<a id="REF4" href="#anchor_3">3.</a> | | |
+|14| Apresenta recomendações baseadas na análise?<a id="REF4" href="#anchor_3">3.</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -121,12 +121,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A encenação adaptada possui um roteiro claro? | | |
-|10| Inclui descrição dos personagens e suas características? | | |
-|11| Descreve o cenário e os props utilizados na encenação? | | |
-|12| Detalha as interações entre os personagens? | | |
-|13| Fornece objetivos claros para a encenação? | | |
-|14| Inclui feedback ou avaliação pós-encenação? | | |
+|9| A encenação adaptada possui um roteiro claro?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Inclui descrição dos personagens e suas características?<a id="REF4" href="#anchor_3">3.</a> | | |
+|11| Descreve o cenário e os props utilizados na encenação?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| Detalha as interações entre os personagens?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| Fornece objetivos claros para a encenação?<a id="REF4" href="#anchor_3">3.</a> | | |
+|14| Inclui feedback ou avaliação pós-encenação?<a id="REF4" href="#anchor_3">3.</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -137,12 +137,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O questionário possui uma introdução clara sobre seu propósito? | | |
-|10| As perguntas estão bem formuladas e são objetivas? | | |
-|11| Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? | | |
-|12| As perguntas estão ordenadas de forma lógica? | | |
-|13| Inclui instruções claras para os respondentes? | | |
-|14| Possui uma seção para comentários adicionais? | | |
+|9| O questionário possui uma introdução clara sobre seu propósito?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| As perguntas estão bem formuladas e são objetivas?<a id="REF4" href="#anchor_3">3.</a> | | |
+|11| Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| As perguntas estão ordenadas de forma lógica?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| Inclui instruções claras para os respondentes?<a id="REF4" href="#anchor_3">3.</a> | | |
+|14| Possui uma seção para comentários adicionais?<a id="REF4" href="#anchor_3">3.</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -153,14 +153,14 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O storytelling possui uma introdução descrevendo a narrativa? | | |
-|10| Os títulos dentro do storytelling estão padronizados? | | |
-|11| Se houver tabelas no storytelling, elas são chamadas no texto? | | |
-|12| Se houver figuras no storytelling, elas são chamadas no texto? | | |
-|13| As fontes das figuras e tabelas estão devidamente citadas? | | |
-|14| O storytelling possui uma seção de referências bibliográficas? | | |
-|15| As referências bibliográficas são chamadas corretamente no texto? | | |
-|16| Há um histórico de versão padronizado para o storytelling? | | |
+|9| O storytelling possui uma introdução descrevendo a narrativa?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Os títulos dentro do storytelling estão padronizados?<a id="REF4" href="#anchor_3">3.</a> | | |
+|11| Se houver tabelas no storytelling, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| Se houver figuras no storytelling, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| As fontes das figuras e tabelas estão devidamente citadas?<a id="REF4" href="#anchor_3">3.</a> | | |
+|14| O storytelling possui uma seção de referências bibliográficas?<a id="REF4" href="#anchor_3">3.</a> | | |
+|15| As referências bibliográficas são chamadas corretamente no texto?<a id="REF1" href="#anchor_1">1. </a> | | |
+|16| Há um histórico de versão padronizado para o storytelling?<a id="REF1" href="#anchor_1">1. </a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -171,14 +171,14 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O quadrante de três níveis possui uma introdução descrevendo sua estrutura? | | |
-|10| Os títulos dentro do quadrante de três níveis estão padronizados? | | |
-|11| Se houver tabelas no quadrante de três níveis, elas são chamadas no texto? | | |
-|12| Se houver figuras no quadrante de três níveis, elas são chamadas no texto? | | |
-|13| As fontes das figuras e tabelas estão devidamente citadas? | | |
-|14| O quadrante de três níveis possui uma seção de referências bibliográficas? | | |
-|15| As referências bibliográficas são chamadas corretamente no texto? | | |
-|16| Há um histórico de versão padronizado para o quadrante de três níveis? | | |
+|9| O quadrante de três níveis possui uma introdução descrevendo sua estrutura?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Os títulos dentro do quadrante de três níveis estão padronizados?<a id="REF4" href="#anchor_3">3.</a> | | |
+|11| Se houver tabelas no quadrante de três níveis, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| Se houver figuras no quadrante de três níveis, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
+|13| As fontes das figuras e tabelas estão devidamente citadas?<a id="REF4" href="#anchor_3">3.</a>| | |
+|14| O quadrante de três níveis possui uma seção de referências bibliográficas?<a id="REF1" href="#anchor_1">1. </a> | | |
+|15| As referências bibliográficas são chamadas corretamente no texto?<a id="REF1" href="#anchor_1">1. </a> | | |
+|16| Há um histórico de versão padronizado para o quadrante de três níveis?<a id="REF1" href="#anchor_1">1. </a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -189,12 +189,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O artefato claramente define os critérios de inclusão? | | |
-|10| Define claramente os critérios de exclusão? | | |
-|11| Inclui exemplos ou casos de inclusão? | | |
-|12| Inclui exemplos ou casos de exclusão? | | |
-|13| Os critérios são justificados e explicados? | | |
-|14| Inclui um processo para revisão e ajuste dos critérios? | | |
+|9| O artefato claramente define os critérios de inclusão?<a id="REF4" href="#anchor_3">3.</a> | | |
+|10| Define claramente os critérios de exclusão? <a id="REF4" href="#anchor_3">3.</a>| | |
+|11| Inclui exemplos ou casos de inclusão?<a id="REF4" href="#anchor_3">3.</a> | | |
+|12| Inclui exemplos ou casos de exclusão? <a id="REF4" href="#anchor_3">3.</a>| | |
+|13| Os critérios são justificados e explicados? <a id="REF4" href="#anchor_3">3.</a>| | |
+|14| Inclui um processo para revisão e ajuste dos critérios? <a id="REF4" href="#anchor_3">3.</a>| | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -205,12 +205,12 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-| 1 | O artefato descreve claramente os requisitos "Must have"? | | |
-| 2 | Descreve claramente os requisitos "Should have"? | | |
-| 3 | Descreve claramente os requisitos "Could have"? | | |
-| 4 | Descreve claramente os requisitos "Won't have"? | | |
-| 5 | Inclui uma justificativa para cada categoria de requisitos? | | |
-| 6 | Fornece exemplos ou casos para cada tipo de requisito? | | |
+| 1 | O artefato descreve claramente os requisitos "Must have"?<a id="REF4" href="#anchor_3">3.</a> | | |
+| 2 | Descreve claramente os requisitos "Should have"?<a id="REF4" href="#anchor_3">3.</a> | | |
+| 3 | Descreve claramente os requisitos "Could have"?<a id="REF4" href="#anchor_3">3.</a> | | |
+| 4 | Descreve claramente os requisitos "Won't have"?<a id="REF4" href="#anchor_3">3.</a> | | |
+| 5 | Inclui uma justificativa para cada categoria de requisitos?<a id="REF4" href="#anchor_3">3.</a> | | |
+| 6 | Fornece exemplos ou casos para cada tipo de requisito?<a id="REF4" href="#anchor_3">3.</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
