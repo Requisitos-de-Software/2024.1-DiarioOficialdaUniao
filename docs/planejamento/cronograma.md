@@ -189,7 +189,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
-    
+
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
 
 === "Cronograma Planejado"
@@ -257,4 +257,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.5`|14/05/2024|14/05/2024| Atualizando todo o cronograma planejado | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.6`|20/05/2024|20/05/2024| Atualizando todo o cronograma executado da terceira entrega | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.7`|27/05/2024|27/05/2024| Atualizando todo o cronograma executado da quarta entrega | [Diego Sousa](https://github.com/DiegoSousaLeite) |[Eric Silveira](https://github.com/ericbky) |
-|`1.1`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`1.8`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
