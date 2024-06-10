@@ -172,9 +172,9 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 === "Cronograma Executado"
-    Na Tabela 10, está explicitado o cronograma executado das atividades da primeira metade da quinta entrega.
+    Na Tabela 10, está explicitado o cronograma executado das atividades da entrega 5.1.
 
- <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos: Verificação e Validação</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos: Verificação e Validação</p></font>
 
     | Atividade| Período de desenvolvimento | Responsável| Revisão| Revisores| Data da Entrega |
     |------------------|-----------------|--------------------|-----------|------------|-----------------|
