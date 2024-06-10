@@ -148,16 +148,13 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist para Storytelling.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| **ID** | **Pergunta para Verificação do Documento** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O storytelling possui uma introdução descrevendo a narrativa?<a id="REF4" href="#anchor_3">3.</a> | | |
-|10| Os títulos dentro do storytelling estão padronizados?<a id="REF4" href="#anchor_3">3.</a> | | |
-|11| Se houver tabelas no storytelling, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
-|12| Se houver figuras no storytelling, elas são chamadas no texto?<a id="REF4" href="#anchor_3">3.</a> | | |
-|13| As fontes das figuras e tabelas estão devidamente citadas?<a id="REF4" href="#anchor_3">3.</a> | | |
-|14| O storytelling possui uma seção de referências bibliográficas?<a id="REF4" href="#anchor_3">3.</a> | | |
-|15| As referências bibliográficas são chamadas corretamente no texto?<a id="REF1" href="#anchor_1">1. </a> | | |
-|16| Há um histórico de versão padronizado para o storytelling?<a id="REF1" href="#anchor_1">1. </a> | | |
+| 1 | O documento introduziu claramente o conceito e a aplicação do storytelling como técnica de elicitação de requisitos? [3.](#anchor_3) | | Verificar se a introdução explana de maneira adequada sobre o uso do storytelling para entender as necessidades dos usuários. |
+| 2 | Como o texto descreve a metodologia utilizada para aplicar o storytelling na elicitação de requisitos? [3.](#anchor_3) | | Avaliar se o método de entrevistas baseadas em storytelling foi descrito de forma clara e compreensível. |
+| 3 | Quais são os principais insights obtidos através das entrevistas com os usuários mencionados no texto? [3.](#anchor_3) | | Identificar os padrões e tendências comuns extraídos das histórias compartilhadas pelos usuários. |
+| 4 | Os requisitos elicitados estão claramente listados e alinhados com as histórias compartilhadas pelos usuários? [3.](#anchor_3) | | Verificar se os requisitos mencionados no documento são diretamente derivados das histórias de uso dos usuários. |
+| 5 | Como o documento conclui a eficácia da metodologia de storytelling na elicitação de requisitos para o aplicativo Carteira de Trabalho Digital? [3.](#anchor_3) | | Avaliar se a conclusão enfatiza de forma adequada os benefícios obtidos com o uso do storytelling. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -168,14 +165,13 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-| 9 | O storytelling possui uma introdução descrevendo a narrativa? [3.](#anchor_3) | | Uma introdução clara ajuda a contextualizar a narrativa e engajar o leitor desde o início. |
-| 10 | Os títulos dentro do storytelling estão padronizados? [3.](#anchor_3) | | Títulos padronizados garantem consistência e facilitam a navegação e a compreensão do conteúdo. |
-| 11 | Se houver tabelas no storytelling, elas são chamadas no texto? [3.](#anchor_3) | | Chamar as tabelas no texto assegura que os leitores entendam sua relevância e como interpretá-las no contexto da narrativa. |
-| 12 | Se houver figuras no storytelling, elas são chamadas no texto? [3.](#anchor_3) | | Chamar as figuras no texto ajuda a integrar visualmente as informações e a destacar pontos importantes. |
-| 13 | As fontes das figuras e tabelas estão devidamente citadas? [3.](#anchor_3) | | Citar corretamente as fontes garante a credibilidade e o respeito aos direitos autorais. |
-| 14 | O storytelling possui uma seção de referências bibliográficas? [3.](#anchor_3) | | Uma seção de referências bibliográficas é essencial para fornecer suporte e validação às informações apresentadas. |
-| 15 | As referências bibliográficas são chamadas corretamente no texto? [1.](#anchor_1) | | Referências corretamente chamadas no texto reforçam a validade das fontes e facilitam a consulta dos leitores. |
-| 16 | Há um histórico de versão padronizado para o storytelling? [1.](#anchor_1) | | Um histórico de versão padronizado permite rastrear mudanças e evoluções no documento, garantindo transparência no desenvolvimento da narrativa. |
+| 9 | Os critérios para categorizar os itens nos três níveis (baixo, médio, alto) estão claramente definidos e justificados? [3.](#anchor_3) | | Definir criteriosamente os níveis de prioridade ajuda a orientar decisões de desenvolvimento e alocação de recursos. |
+| 10 | Existe uma metodologia específica para determinar em qual nível cada item deve ser classificado? [3.](#anchor_3) | | Seguir uma metodologia rigorosa assegura consistência na categorização dos itens nos três níveis. |
+| 11 | O método considera impacto e urgência na atribuição dos níveis de prioridade? [3.](#anchor_3) | | Considerar impacto e urgência ajuda a priorizar adequadamente os requisitos ou itens em cada nível. |
+| 12 | Há uma análise detalhada dos trade-offs entre os itens classificados em diferentes níveis? [3.](#anchor_3) | | Analisar trade-offs permite tomar decisões informadas sobre quais requisitos priorizar ou adiar. |
+| 13 | O método inclui critérios para revisão periódica e ajuste dos itens nos níveis de prioridade? [3.](#anchor_3) | | Estabelecer critérios de revisão e ajuste mantém a relevância e atualidade dos itens classificados nos três níveis ao longo do projeto. |
+| 14 | Como o método de Quadrante de Três Níveis facilita a comunicação e o alinhamento entre as partes interessadas? [3.](#anchor_3) | | Avaliar como o método promove a comunicação e o entendimento comum das prioridades definidas nos três níveis. |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
