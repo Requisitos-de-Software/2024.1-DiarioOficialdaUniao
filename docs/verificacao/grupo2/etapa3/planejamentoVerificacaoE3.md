@@ -128,7 +128,13 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 
 | **ID** | **Descrição** | **Avaliação** | **Explicação e Referêcia** |
 | ---- | ----------- | ----------- | ------------- |
-|  |  |  |  |
+| 9 | Os requisitos não funcionais, como desempenho, confiabilidade e usabilidade, estão bem especificados? |  | Garante que o sistema atenda a padrões de qualidade e desempenho esperados, além de requisitos legais e de segurança<a id="anchor_14" href="#REF14">^14^</a>. |
+| 10 | As restrições de design, incluindo limitações técnicas e de conformidade, estão claramente descritas? |  | Ajuda a orientar as decisões de design e implementação, assegurando a conformidade com padrões e regulamentos<a id="anchor_14" href="#REF14">^14^</a>. |
+| 11 | O artefato segue o modelo FURPS+? |  | O modelo FURPS+ (Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suporte + requisitos adicionais) é uma estrutura amplamente reconhecida para a especificação de requisitos de software. Seguir este modelo assegura uma cobertura abrangente dos diferentes aspectos de qualidade do software, permitindo uma análise detalhada e organizada dos requisitos<a id="anchor_14" href="#REF14">^14^</a>. |
+| 12 | O documento especifica o tempo de resposta, no Desempenho? |  | Especificar o tempo de resposta é crucial para definir expectativas claras sobre o desempenho do sistema. O tempo de resposta afeta diretamente a experiência do usuário e a eficiência operacional do sistema<a id="anchor_14" href="#REF14">^14^</a>. |
+| 13 | O documento especifica qual plataforma o aplicativo pode ser executado? |  | Especificar a plataforma de execução é fundamental para garantir a compatibilidade, otimização, planejamento eficaz, testes adequados e conformidade regulatória, todos essenciais para o sucesso do desenvolvimento e implantação do aplicativo<a id="anchor_14"href="#REF14">^14^</a>. |
+| 14 | O documento aborda sobre a manutenção do sistema? |  | Facilita futuras atualizações e correções, garantindo que o sistema possa ser mantido e melhorado com eficiência<a id="anchor_14" href="#REF14">^14^</a>. |
+| 15 | Os requisitos físicos estão bem especificados? |  | Os requisitos físicos garantem que o software não apenas funcione conforme o esperado, mas também que a implementação e operação sejam viáveis e eficientes<a id="anchor_14" href="#REF14">^14^</a>. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -161,12 +167,16 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 
 > <a id="REF13" href="#anchor_13">13. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico Aula 5 RELACIONAMENTOS ENTRE CASOS DE USO . Paraná, 2007.
 
+> <a id="REF14" href="#anchor_14"> 14. </a> Exemplo: Especificação Suplementar do MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845018/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acesso em: 10 de junho de 2024.
+
 
 ## <a> Bibliografia </a>
 
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
+> <a>3. </a>GOIS, Samily. SOBRINHO, Francisco. Projeto de Software Floricultura Beija-Flor - Especificação Suplementar, 2012. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845019/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf>. Acesso em: 10 de junho de 2024.
 
 
 ## <a>Histórico de Versão</a>
@@ -176,3 +186,5 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 | `1.0` | 07/06/2024 | 08/06/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos artefatos e Checklists | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
 | `1.1` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os cenários | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.2` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os Léxicos e o Caso de Uso |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.3` | 10/06/2024 | 10/06/2024 | Adição da tabela de checklist para especificação suplementar | [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
+
