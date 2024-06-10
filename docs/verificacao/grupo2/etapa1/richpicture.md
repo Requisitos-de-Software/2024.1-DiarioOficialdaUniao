@@ -50,6 +50,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>
 
+## <a>Referência Bibliografica</a>
+> <a id="REF4" href="#anchor_3">1.</a>Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
 
 ## <a>Bibliografia</a>
 > <a>1. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/>. Acesso em 05 de junho de 2024.
@@ -58,8 +60,6 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 
 > <a>3. </a> Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>. Acesso em 05 de junho de 2024.
 
-## <a>Referência Bibliografica</a>
-> <a id="REF4" href="#anchor_3">1.</a>Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
 
 ## <a>Histórico de Versão</a>
 
