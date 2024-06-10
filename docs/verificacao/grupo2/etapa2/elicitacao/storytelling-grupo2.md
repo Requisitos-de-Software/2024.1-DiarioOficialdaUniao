@@ -29,14 +29,20 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|--------|-------------|
-|1| O storytelling possui uma introdução descrevendo a narrativa? | Sim| |
-|2| Os títulos dentro do storytelling estão padronizados? | Sim| |
-|3| Se houver tabelas no storytelling, elas são chamadas no texto? |Sim | |
-|4| Se houver figuras no storytelling, elas são chamadas no texto? |Sim | |
-|5| As fontes das figuras e tabelas estão devidamente citadas? |Sim | |
-|6| O storytelling possui uma seção de referências bibliográficas? |Sim | |
-|7| As referências bibliográficas são chamadas corretamente no texto? |Sim | |
-|8| Há um histórico de versão padronizado para o storytelling? |Sim | |
+| 1 | O artefato possui uma introdução descrevendo-o? | Sim | | |
+| 2 | O artefato possui padronização nos títulos? |Sim  |  |
+| 3 | O artefato, caso contenha tabelas, as referencia no texto? | Sim | |
+| 4 | O artefato, caso tenha figuras, as referencia no texto? | Sim |  |		
+| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |Sim  |  |		
+| 6 | O artefato possui bibliografia e/ou referência bibliográfica? | Sim |  |
+| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? | Sim| |
+| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? | Sim |  
+| 9 | O documento introduziu claramente o conceito e a aplicação do storytelling como técnica de elicitação de requisitos? [3.](#anchor_3) | SIm | Verificar se a introdução explana de maneira adequada sobre o uso do storytelling para entender as necessidades dos usuários. |
+| 10 | Como o texto descreve a metodologia utilizada para aplicar o storytelling na elicitação de requisitos? [3.](#anchor_3) | Sim| Avaliar se o método de entrevistas baseadas em storytelling foi descrito de forma clara e compreensível. |
+| 11 | Quais são os principais insights obtidos através das entrevistas com os usuários mencionados no texto? [3.](#anchor_3) | Sim | Identificar os padrões e tendências comuns extraídos das histórias compartilhadas pelos usuários. |
+| 12 | Os requisitos elicitados estão claramente listados e alinhados com as histórias compartilhadas pelos usuários? [3.](#anchor_3) | Sim| Verificar se os requisitos mencionados no documento são diretamente derivados das histórias de uso dos usuários. |
+| 12 | Como o documento conclui a eficácia da metodologia de storytelling na elicitação de requisitos para o aplicativo Carteira de Trabalho Digital? [3.](#anchor_3) |Sim | Avaliar se a conclusão enfatiza de forma adequada os benefícios obtidos com o uso do storytelling. |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
