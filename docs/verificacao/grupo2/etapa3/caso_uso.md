@@ -15,6 +15,20 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
 |Entrega 03|Caso de Uso|`2.8`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|----|
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+</center>
+
+## <a>Checklist</a>
+
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso">Caso de uso</a> do <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação do Caso de Uso.</p></font>
+
+|**ID**|**Descrição**|**Avaliação**|**Observações**|
+|----|-----------|--------|-------------|
 | 1 | O artefato possui uma introdução descrevendo-o? |  |  |
 | 2 | O artefato possui padronização nos títulos? |  |  |
 | 3 | O artefato, caso contenha tabelas, as referencia no texto? |  |  |
@@ -32,20 +46,6 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 | 15| A fronteira do sistema é apresentada?| |  Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_2" href="#REF2">^2^</a>|
 | 16 | Os relacionamentos "include" são representados nos casos de uso? | | Muitos casos de uso podem compartilhar pedaços de pequenas funcionalidades. Esta funcionalidade é colocada em separado em outro caso de uso ao invés de ser documentada em cada caso de uso que precisa dela. Relacionamentos de "include" são criados entre um novo caso de uso e qualquer outro caso de uso que utilize esta funcionalidade<a id="anchor_5" href="#REF5">^5^</a>|
 | 17|Os relacionamentos "extend" são representados nos casos de uso?||Um relacionamento de "extend" é usado para mostrar: comportamento opcional,comportamento que somente é executado sobre determinadas condições, como o disparo de um alarme, muitos diferentes caminhos que podem ser executados de acordo com uma seleção feita por um ato<a id="anchor_5" href="#REF5">^5^</a>|
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
-</center>
-
-## <a>Checklist</a>
-
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagem/casoDeUso">Caso de uso</a> do <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação do Caso de Uso.</p></font>
-
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
