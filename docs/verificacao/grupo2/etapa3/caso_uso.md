@@ -50,12 +50,19 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
-## <a> Vídeo de verificação </a>
+
+## <a> Vídeos de Verificação </a>
 
 ### <a> Vídeo 1 </a>
 Vídeo de Verificação dos Casos de Uso 1 e 2 executado pelo membro [João Artur](https://github.com/joao-artl)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-uGxxcYnwAg?si=PXspdF8Csn7YJ0ZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/-uGxxcYnwAg?si=PXspdF8Csn7YJ0ZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### <a> Vídeo 2 </a>
+Vídeo de Verificação dos Casos de Uso 6, 7 e versão final, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/21MsUCiieog?si=1dIqeQLEk3ajJrFd" title="Verificação - Casos de Uso 6, 7 e versão final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## <a>Referência Bibliografica</a>
 
@@ -77,11 +84,12 @@ Vídeo de Verificação dos Casos de Uso 1 e 2 executado pelo membro [João Artu
 
 > <a>3. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
 
-> <a>4. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
+> <a>4. </a>Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
 
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 09/06/2024 | 10/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo da verificação do diagrama de caso de uso 1 e 2| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.0` | 09/06/2024 | 10/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicionando vídeo da verificação dos diagramas de caso de uso 1 e 2 | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.2` | 10/06/2024 | 10/06/2024 | Adicionando vídeo da verificação dos diagramas de caso de uso 6, 7 e versão final | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
