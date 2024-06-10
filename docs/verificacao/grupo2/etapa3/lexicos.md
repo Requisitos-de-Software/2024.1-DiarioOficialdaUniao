@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 03|Léxicos|`1.7`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|----|
+|Entrega 03|Léxicos|`1.7`|Breno, Pedro, Larissa, Iago, Luana e Bruno|Diego, João e Luiz|10/06|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -29,14 +29,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|--------|-------------|
-| 1 | O artefato possui uma introdução descrevendo-o? |  |  |
-| 2 | O artefato possui padronização nos títulos? |  |  |
-| 3 | O artefato, caso contenha tabelas, as referencia no texto? |  |  |
-| 4 | O artefato, caso tenha figuras, as referencia no texto? |  |  |		
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |  |  |		
-| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  |
-| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |  |  |
-| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |  |  |
+| 1 | O artefato possui uma introdução descrevendo-o? | Sim |  |
+| 2 | O artefato possui padronização nos títulos? |Sim  |  |
+| 3 | O artefato, caso contenha tabelas, as referencia no texto? | Incompleto | A tabela 2, 3 e 4 não possuem uma referencia no texto |
+| 4 | O artefato, caso tenha figuras, as referencia no texto? | Não se aplica |  |		
+| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |Sim  |  |		
+| 6 | O artefato possui bibliografia e/ou referência bibliográfica? | Sim |  |
+| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? | Não | O texto do artefato não referencia as bibliografias |
+| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? | Sim |  |
 | 9| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?|Sim | O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_1" href="#REF1">^1^</a>|
 | 10  | Os símbolos possuem noção e impacto? |Sim  | Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_2" href="#REF2">^2^</a>|
 | 11 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?|Sim | Estado: o que indica e ações que levaram a esse estado<a id="anchor_2" href="#REF2">^2^</a>|
@@ -51,7 +51,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 ## <a> Vídeo de verificação </a>
 
-Vídeo de verificação dos léxicos 21 ao 28
+### <a> Vídeo 1 </a>
+Vídeo de Verificação dos léxicos 1 ao 8 executado pelo membro [João Artur](https://github.com/joao-artl)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IkQ4M-uAXPI?si=xqr-K6faMhgMM5ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### <a> Vídeo 2 </a>
+Vídeo de verificação dos léxicos 21 ao 28 executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e  [Luiz Gustavo](https://github.com/LuizGust4vo)
+
 <iframe width="640" height="480" src="https://www.youtube.com/embed/dpNy_ZVlsyo" title="Verificação - Léxicos 21 ao 28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
@@ -79,3 +86,4 @@ Vídeo de verificação dos léxicos 21 ao 28
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 09/06/2024 | 10/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 21 ao 28 | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.2` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 1 ao 8 | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
