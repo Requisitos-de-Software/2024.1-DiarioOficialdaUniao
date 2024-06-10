@@ -87,16 +87,16 @@ De acordo com Sayão e Carvalho (2006)<a id="anchor_4" href="#REF4">^4^</a>, Lé
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Léxicos.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?| | O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_5" href="#REF5">^5^</a>|
-| 10  | Os símbolos possuem noção e impacto? |  | Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_6" href="#REF6">^6^</a>|
-| 11 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?| | Estado: o que indica e ações que levaram a esse estado<a id="anchor_6" href="#REF6">^6^</a>|
-| 12|Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?| | Verbos registram ações ou funcionalidades a serem desempenhadas pelos sujeitos ou pelo sistema em desenvolvimento, com algum impacto ou reflexo no ambiente operacional.<a id="anchor_6" href="#REF6">^6^</a>|
-| 13 | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito?| | Objetos são entidades passivas utilizadas ou necessárias a uma ação ou conjunto de ações, e estados são caracterizados por atributos significativos que registram valores em diferentes momentos da execução do sistema<a id="anchor_6" href="#REF6">^6^</a>|
-| 14 | O artefato possui um léxico relacionado aos usuários?| | Sujeitos correspondem a entidades ativas, atores com papel relevante para a aplicação; um sujeito pode ser um ator, um componente ou um outro sistema com o qual deverá ocorrer interação<a id="anchor_6" href="#REF6">^6^</a>|
-|15 | A descrição dos léxicos é coerente?| | O léxico não é apenas uma exigência de processos de qualidade, mas se constitui também em fonte de consulta para os participantes do processo de requisitos<a id="anchor_7" href="#REF7">^7^</a>|
-|16| O vocabulário foi apropriadamente adotado nas descrições?|| Os termos a serem inseridos num glossário são aqueles utilizados pelos participantes do processo para fazer referências às características da aplicação, visando facilitar o entendimento entre eles<a id="anchor_6" href="#REF6">^6^</a>|
+|**ID**|**Descrição**|**Avaliação**| **Observações dos avaliadores**|**Referência**|
+|----|-----------|--------|------|-------|
+| 9| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?| | | O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_5" href="#REF5">^5^</a>|
+| 10  | Os símbolos possuem noção e impacto? |  | |Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_6" href="#REF6">^6^</a>|
+| 11 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?| | |Estado: o que indica e ações que levaram a esse estado<a id="anchor_6" href="#REF6">^6^</a>|
+| 12|Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?| | |Verbos registram ações ou funcionalidades a serem desempenhadas pelos sujeitos ou pelo sistema em desenvolvimento, com algum impacto ou reflexo no ambiente operacional.<a id="anchor_6" href="#REF6">^6^</a>|
+| 13 | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito?| | |Objetos são entidades passivas utilizadas ou necessárias a uma ação ou conjunto de ações, e estados são caracterizados por atributos significativos que registram valores em diferentes momentos da execução do sistema<a id="anchor_6" href="#REF6">^6^</a>|
+| 14 | O artefato possui um léxico relacionado aos usuários?| | |Sujeitos correspondem a entidades ativas, atores com papel relevante para a aplicação; um sujeito pode ser um ator, um componente ou um outro sistema com o qual deverá ocorrer interação<a id="anchor_6" href="#REF6">^6^</a>|
+|15 | A descrição dos léxicos é coerente?| | |O léxico não é apenas uma exigência de processos de qualidade, mas se constitui também em fonte de consulta para os participantes do processo de requisitos<a id="anchor_7" href="#REF7">^7^</a>|
+|16| O vocabulário foi apropriadamente adotado nas descrições?|| |Os termos a serem inseridos num glossário são aqueles utilizados pelos participantes do processo para fazer referências às características da aplicação, visando facilitar o entendimento entre eles<a id="anchor_6" href="#REF6">^6^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -128,7 +128,13 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 
 | **ID** | **Descrição** | **Avaliação** | **Explicação e Referêcia** |
 | ---- | ----------- | ----------- | ------------- |
-|  |  |  |  |
+| 9 | Os requisitos não funcionais, como desempenho, confiabilidade e usabilidade, estão bem especificados? |  | Garante que o sistema atenda a padrões de qualidade e desempenho esperados, além de requisitos legais e de segurança<a id="anchor_14" href="#REF14">^14^</a>. |
+| 10 | As restrições de design, incluindo limitações técnicas e de conformidade, estão claramente descritas? |  | Ajuda a orientar as decisões de design e implementação, assegurando a conformidade com padrões e regulamentos<a id="anchor_14" href="#REF14">^14^</a>. |
+| 11 | O artefato segue o modelo FURPS+? |  | O modelo FURPS+ (Funcionalidade, Usabilidade, Confiabilidade, Desempenho, Suporte + requisitos adicionais) é uma estrutura amplamente reconhecida para a especificação de requisitos de software. Seguir este modelo assegura uma cobertura abrangente dos diferentes aspectos de qualidade do software, permitindo uma análise detalhada e organizada dos requisitos<a id="anchor_14" href="#REF14">^14^</a>. |
+| 12 | O documento especifica o tempo de resposta, no Desempenho? |  | Especificar o tempo de resposta é crucial para definir expectativas claras sobre o desempenho do sistema. O tempo de resposta afeta diretamente a experiência do usuário e a eficiência operacional do sistema<a id="anchor_14" href="#REF14">^14^</a>. |
+| 13 | O documento especifica qual plataforma o aplicativo pode ser executado? |  | Especificar a plataforma de execução é fundamental para garantir a compatibilidade, otimização, planejamento eficaz, testes adequados e conformidade regulatória, todos essenciais para o sucesso do desenvolvimento e implantação do aplicativo<a id="anchor_14"href="#REF14">^14^</a>. |
+| 14 | O documento aborda sobre a manutenção do sistema? |  | Facilita futuras atualizações e correções, garantindo que o sistema possa ser mantido e melhorado com eficiência<a id="anchor_14" href="#REF14">^14^</a>. |
+| 15 | Os requisitos físicos estão bem especificados? |  | Os requisitos físicos garantem que o software não apenas funcione conforme o esperado, mas também que a implementação e operação sejam viáveis e eficientes<a id="anchor_14" href="#REF14">^14^</a>. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -161,12 +167,16 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 
 > <a id="REF13" href="#anchor_13">13. </a> PIMENTEL, Andrey R. Projeto de Software Usando a UML, Tópico Aula 5 RELACIONAMENTOS ENTRE CASOS DE USO . Paraná, 2007.
 
+> <a id="REF14" href="#anchor_14"> 14. </a> Exemplo: Especificação Suplementar do MINISTÉRIO DA CIÊNCIA, TECNOLOGIA, INOVAÇÕES E COMUNICAÇÕES. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845018/mod_resource/content/2/SiglaProjeto_EspecificacaoSuplementar.pdf>. Acesso em: 10 de junho de 2024.
+
 
 ## <a> Bibliografia </a>
 
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024.
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
+> <a>3. </a>GOIS, Samily. SOBRINHO, Francisco. Projeto de Software Floricultura Beija-Flor - Especificação Suplementar, 2012. Disponível em: <https://aprender3.unb.br/pluginfile.php/2845019/mod_resource/content/1/Especificacao_Suplementar_Exemplo.pdf>. Acesso em: 10 de junho de 2024.
 
 
 ## <a>Histórico de Versão</a>
@@ -176,3 +186,5 @@ Segundo Barbosa e Silva no livro Interação Humano-Computador<a id="anchor_8" h
 | `1.0` | 07/06/2024 | 08/06/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos artefatos e Checklists | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
 | `1.1` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os cenários | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.2` | 09/06/2024 | 09/06/2024 | Adição da tabela de checklist para os Léxicos e o Caso de Uso |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.3` | 10/06/2024 | 10/06/2024 | Adição da tabela de checklist para especificação suplementar | [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
+

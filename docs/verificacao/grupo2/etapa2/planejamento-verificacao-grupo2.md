@@ -20,12 +20,12 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Personas|`1.0`|Pedro Augusto|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
-|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
-|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
-|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
-|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
+|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita| [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
+|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
 |Entrega 02|Priorização Quadrante de Três Níveis|`1.2`|Larissa Stéfane e Breno Alexandre|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização In or Out|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização MoSCoW|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|

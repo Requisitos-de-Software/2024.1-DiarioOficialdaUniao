@@ -121,15 +121,15 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
 
-> <a id="REF3" href="#anchor_3">3. </a>RADIGAN, Dan. Product Backlog Explained [+ Examples]. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/scrum/backlogs. Acesso em: 9 jun. 2024.
+> <a id="REF3" href="#anchor_3">3. </a>RADIGAN, Dan. Product Backlog Explained [+ Examples]. Atlassian, 2023. Disponível em: <https://www.atlassian.com/agile/scrum/backlogs>. Acesso em: 9 jun. 2024.
 
-> <a id="REF4" href="#anchor_4">4. </a>REHKOPF, Max. Epics, Stories, Themes. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics-stories-themes. Acesso em: 9 jun. 2024.
+> <a id="REF4" href="#anchor_4">4. </a>REHKOPF, Max. Epics, Stories, Themes. Atlassian, 2023. Disponível em: <https://www.atlassian.com/agile/project-management/epics-stories-themes>. Acesso em: 9 jun. 2024.
 
-> <a id="REF5" href="#anchor_5">5. </a>REHKOPF, Max. Epics. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/epics. Acesso em: 9 jun. 2024.
+> <a id="REF5" href="#anchor_5">5. </a>REHKOPF, Max. Epics. Atlassian, 2023. Disponível em: <https://www.atlassian.com/agile/project-management/epics>. Acesso em: 9 jun. 2024.
 
-> <a id="REF6" href="#anchor_6">6. </a>REHKOPF, Max. User Stories. Atlassian, 2023. Disponível em: https://www.atlassian.com/agile/project-management/user-stories. Acesso em: 9 jun. 2024. 
+> <a id="REF6" href="#anchor_6">6. </a>REHKOPF, Max. User Stories. Atlassian, 2023. Disponível em: <https://www.atlassian.com/agile/project-management/user-stories>. Acesso em: 9 jun. 2024. 
 
-> <a id="REF7" href="#anchor_7">7. </a>COHN, Mike. User Stories Applied: For Agile Software Development. Boston: Addison-Wesley, 2004. Capítulo 2: Testable, p. 27. Disponível em: https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf. Acesso em: 9 jun. 2024.
+> <a id="REF7" href="#anchor_7">7. </a>COHN, Mike. User Stories Applied: For Agile Software Development. Boston: Addison-Wesley, 2004. Capítulo 2: Testable, p. 27. Disponível em: <https://github.com/free-educa/books/blob/main/books/User-Stories-Applied-Mike-Cohn.pdf>. Acesso em: 9 jun. 2024.
 
 > <a id="REF8" href="#anchor_8">8. </a>Chung, L., Nixon, B. A., Yu, E., Mylopoulos, J. Non-functional requirements in software engineering. Springer Science & Business Media: [S.l.], 2000. v. 5. Acesso em: 9 jun. 2024.
 

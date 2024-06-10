@@ -29,14 +29,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|--------|-------------|
-|1| O storytelling possui uma introdução descrevendo a narrativa? | | |
-|2| Os títulos dentro do storytelling estão padronizados? | | |
-|3| Se houver tabelas no storytelling, elas são chamadas no texto? | | |
-|4| Se houver figuras no storytelling, elas são chamadas no texto? | | |
-|5| As fontes das figuras e tabelas estão devidamente citadas? | | |
-|6| O storytelling possui uma seção de referências bibliográficas? | | |
-|7| As referências bibliográficas são chamadas corretamente no texto? | | |
-|8| Há um histórico de versão padronizado para o storytelling? | | |
+|1| O storytelling possui uma introdução descrevendo a narrativa? | Sim| |
+|2| Os títulos dentro do storytelling estão padronizados? | Sim| |
+|3| Se houver tabelas no storytelling, elas são chamadas no texto? |Sim | |
+|4| Se houver figuras no storytelling, elas são chamadas no texto? |Sim | |
+|5| As fontes das figuras e tabelas estão devidamente citadas? |Sim | |
+|6| O storytelling possui uma seção de referências bibliográficas? |Sim | |
+|7| As referências bibliográficas são chamadas corretamente no texto? |Sim | |
+|8| Há um histórico de versão padronizado para o storytelling? |Sim | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -45,7 +45,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 A verificação foi realizada pelo membro do grupo 1 [João Artur](https://github.com/joao-artl), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
-link
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ0JUcV8U7Q?si=CXBIXROdUCm5IyA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
