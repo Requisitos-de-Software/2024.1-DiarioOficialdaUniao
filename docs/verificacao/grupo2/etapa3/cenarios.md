@@ -6,7 +6,7 @@ Neste artefato, nosso objetivo é relatar de forma detalhada a verificação dos
 
 ## <a>Características da Verificação dos Cenários</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Características da execução da verificação.</p></font>
