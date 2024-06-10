@@ -29,20 +29,20 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|--------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|||
-|2|O artefato possui padronização nos títulos?|||
-|3|O artefato caso contenha tabelas, as chama no texto?|||
-|4|O artefato caso tenha figuras as chamam no texto?|||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
-|9| O questionário possui uma introdução clara sobre seu propósito? | | |
+|1|O artefato possui uma introdução descrevendo-o?|Sim||
+|2|O artefato possui padronização nos títulos?|Sim||
+|3|O artefato caso contenha tabelas, as chama no texto?|Sim||
+|4|O artefato caso tenha figuras as chamam no texto?|Sim||		
+|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		
+|6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Sim||
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim||
+|9| O questionário possui uma introdução clara sobre seu propósito? |Sim | |
 |10| As perguntas estão bem formuladas e são objetivas? | | |
-|11| Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? | | |
-|12| As perguntas estão ordenadas de forma lógica? | | |
-|13| Inclui instruções claras para os respondentes? | | |
-|14| Possui uma seção para comentários adicionais? | | |
+|11| Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? |Sim | |
+|12| As perguntas estão ordenadas de forma lógica? | Sim| |
+|13| Inclui instruções claras para os respondentes? |Sim | |
+|14| Possui uma seção para comentários adicionais? |Sim| |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -51,7 +51,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 A verificação foi realizada pelo membro do grupo 1 [João Artur](https://github.com/joao-artl), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
-link
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ0JUcV8U7Q?si=CXBIXROdUCm5IyA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
