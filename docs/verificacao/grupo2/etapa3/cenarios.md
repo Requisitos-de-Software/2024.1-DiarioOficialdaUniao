@@ -47,7 +47,23 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 </center>
 
 
+<center>
 
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist de verificação dos cenários de 4 a 6.</p></font>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 9 | Os cenários possuem os elementos básicos de um cenário (Título, Metas, Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? | SIM | | A verificação de que os cenários possuem os elementos básicos é fundamental para a clareza dos requisitos de software. Cada elemento desempenha um papel específico e indispensável na definição e compreensão dos cenários<a id="anchor_1" href="#REF1">^1^</a>. |
+| 10 | O título é claro, descritivo e reflete o objetivo principal do cenário? | SIM | No cenário 6 não ficou muito específico o título, mas no título do documento está claro. | Um título claro e descritivo ajuda a identificar rapidamente o cenário, facilitando a comunicação entre os membros da equipe e a referência em documentos futuros<a id="anchor_1" href="#REF1">^1^</a>. |
+| 11 | A meta/objetivo do cenário está claramente definida? | SIM | | Definir claramente as metas/objetivos assegura que todos os envolvidos compreendam o propósito do cenário e possam avaliar se os requisitos atendem às necessidades<a id="anchor_1" href="#REF1">^1^</a>. |
+| 12 | O contexto inicial do cenário está claramente descrito? | SIM | | Descrever o contexto inicial garante que todas as condições pré-existentes e suposições sejam compreendidas, proporcionando uma base sólida para a interpretação correta do cenário<a id="anchor_1" href="#REF1">^1^</a>. |
+| 13 | Todos os atores envolvidos e suas respectivas responsabilidades no cenário estão identificadas? | INCOMPLETO | Os atores não estão muito bem descritos. | Identificar todos os atores e suas responsabilidades assegura que todas as interações necessárias sejam consideradas, evitando lacunas na definição dos requisitos<a id="anchor_1" href="#REF1">^1^</a>. |
+| 14 | Os recursos necessários para a execução do cenário estão listados? | SIM | | Listar os recursos necessários previne a falta de elementos críticos durante a execução do cenário, garantindo que todos os pré-requisitos técnicos e materiais estejam disponíveis<a id="anchor_1" href="#REF1">^1^</a>. |
+| 15 | Todas as possíveis exceções e situações anômalas estão identificadas? | SIM | | Identificar possíveis exceções e anomalias permite planejar respostas adequadas, aumentando a robustez do sistema e a capacidade de lidar com imprevistos<a id="anchor_1" href="#REF1">^1^</a>. |
+| 16 | Os episódios (etapas) do cenário estão descritos em uma sequência lógica? | SIM | | Descrever os episódios em sequência lógica facilita a implementação e validação do cenário, garantindo que todos os passos necessários para alcançar o objetivo sejam seguidos corretamente<a id="anchor_1" href="#REF1">^1^</a>. |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+</center>
 
 ## <a>Vídeo de Verificação</a>
 
