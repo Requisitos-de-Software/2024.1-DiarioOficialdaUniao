@@ -15,7 +15,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 03|Caso de Uso|`2.8`|Breno, Pedro, Larissa, Iago, Luana e Bruno|João Artur|10/06|
+|Entrega 03|Caso de Uso|`2.8`|Breno, Pedro, Larissa, Iago, Luana e Bruno|Diego, Henrique João Artur e Luiz|10/06|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -35,14 +35,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 | 2 | O artefato possui padronização nos títulos? |Sim  |  || 
 | 3 | O artefato, caso contenha tabelas, as referencia no texto? |Sim  |  ||
 | 4 | O artefato, caso tenha figuras, as referencia no texto? | Sim |  |		|
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |  |  |		 |
+| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? | Sim |  |		 |
 | 6 | O artefato possui bibliografia e/ou referência bibliográfica? | Sim |  | |
 | 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? | Sim |  | |
 | 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? | Sim |  | |
 | 9 | As elipses representam as ações caso de uso? |Sim | |Na UML, um caso de uso é representado como uma figura oval<a id="anchor_9" href="#REF9">^9^</a>|
 | 10 | O caso de uso representa o usuário e suas interações com o sistema?|Sim | |Casos de Uso modelam um diálogo entre um ator e o sistema. Eles representam a funcionalidade fornecida pelo sistema <a id="anchor_9" href="#REF9">^9^</a>|
 | 11 | O usuário reside fora das fronteiras da aplicação?|Sim ||Atores não são parte do sistema - eles representam algo ou alguém que deve interagir com o sistema <a id="anchor_12" href="#REF12">^12^</a>|
-| 12 | O caso de uso produzido é uma funcionalidade completa que entrega algum valor?|| |Um caso de uso tipicamente representa uma peça maior de funcionalidade que está completa do início ao fim. Um caso de uso deve fornecer algo de valor para um ator<a id="anchor_9" href="#REF9">^9^</a>|
+| 12 | O caso de uso produzido é uma funcionalidade completa que entrega algum valor?|Sim| |Um caso de uso tipicamente representa uma peça maior de funcionalidade que está completa do início ao fim. Um caso de uso deve fornecer algo de valor para um ator<a id="anchor_9" href="#REF9">^9^</a>|
 | 13 | Existem fluxos como: principal, alternativo e de exceção?| Incompleto|Os fluxos existem nos diagramas porém não são evidenciados |O fluxo de eventos para um caso de uso é uma descrição dos eventos necessários para atingir o comportamento esperado do caso de uso. O fluxo de eventos é escrito em termos do que o sistema deveria fazer, não como o sistema o faz<a id="anchor_11" href="#REF11">^11^</a>|
 | 14 | Os fluxos principais representam como usuário usaria a funcionalidade de forma primária?|Sim| | Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
 | 15 | A fronteira do sistema é apresentada?|Sim | | Cada sistema normalmente tem um Diagrama de Caso de Uso principal, o qual é uma representação da fronteira do sistema (atores) e a maior funcionalidade fornecida pelo sistema (casos de uso)<a id="anchor_10" href="#REF10">^10^</a>|
@@ -58,17 +58,23 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 ### <a> Vídeo 1 </a>
 Vídeo de Verificação dos Casos de Uso 1 e 2 executado pelo membro [João Artur](https://github.com/joao-artl).
 
+<center>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/-uGxxcYnwAg?si=PXspdF8Csn7YJ0ZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ### <a> Vídeo 2 </a>
 Vídeo de Verificação dos Casos de Uso 6, 7 e versão final, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
 
+<center>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/21MsUCiieog?si=1dIqeQLEk3ajJrFd" title="Verificação - Casos de Uso 6, 7 e versão final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ### <a> Vídeo 3 </a>
 Vídeo de Verificação dos Casos de Uso 5, executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
 
+<center>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/haf_6PwpUhI?si=yn99Ho2IBZr5T2pe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## <a>Referência Bibliografica</a>
 
