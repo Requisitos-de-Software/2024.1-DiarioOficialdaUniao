@@ -21,7 +21,7 @@ O responsável pela execução da verificação da entrega 1 será o integrante 
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 01|Rich Picture|`1.1`|Breno Alexandre|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+|Entrega 01|Rich Picture|`1.1`|Breno Alexandre|[Henrique Torres](https://github.com/henriqtorresl)|
 
 </center>
 
