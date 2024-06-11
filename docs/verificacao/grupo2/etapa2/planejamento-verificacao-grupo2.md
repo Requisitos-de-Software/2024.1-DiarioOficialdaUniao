@@ -20,7 +20,7 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0)|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 |Entrega 02|Personas|`1.0`|Pedro Augusto|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
 |Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
 |Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita| [João Artur](https://github.com/joao-artl)|
@@ -73,15 +73,12 @@ Veja na tabela 3 a tabela de verificação que será usada para Perfil de Usuár
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Perfil de Usuário.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9| O perfil de usuário descreve detalhadamente as características demográficas? [3.](#anchor_3) | | Características demográficas incluem idade, gênero, localização geográfica, ocupação e nível educacional, entre outros fatores. |
-| 10| Inclui informações sobre os interesses e hobbies do usuário? [3.](#anchor_3) | | Informações sobre hobbies e interesses ajudam a entender melhor as motivações e preferências dos usuários, o que pode influenciar no design e nas funcionalidades do produto. |
-| 11| Descreve as necessidades e objetivos do usuário? [3.](#anchor_3) | | Identificar necessidades e objetivos é crucial para alinhar o desenvolvimento do produto com as expectativas dos usuários e garantir que suas demandas sejam atendidas. |
-| 12| Fornece informações sobre o comportamento digital do usuário? [3.](#anchor_3) | | O comportamento digital pode incluir padrões de uso de dispositivos, plataformas preferidas, hábitos de navegação e interações online, ajudando a criar uma experiência de usuário mais personalizada e eficiente. |
-| 13| Inclui exemplos ou citações de entrevistas com o usuário? [3.](#anchor_3) | | Exemplos e citações de entrevistas fornecem insights diretos dos usuários, permitindo uma compreensão mais profunda de suas percepções e experiências. |
-| 14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? [3.](#anchor_3) | | Compreender as limitações e desafios enfrentados pelos usuários é essencial para desenvolver soluções que sejam acessíveis e utilizáveis para todos os perfis de usuários. |
-
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referêcia** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 9| O Perfil de Usuário identifica características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, principais tarefas realizadas, entre outras?| Sim | |Como visto na Seção 7.2, devemos identificar as características de interesse (e.g., cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.)[4.](#anchor_4)
+| 10 | O Perfil de Usuário foi feito através de algum estudo, como entrevistas ou questionários?|Sim | | e conduzir um estudo (e.g., através de entrevistas e questionários) para coletar os dados dos usuários. A partir dos dados coletados, podemos agregar os valores em grupos e faixas na qual os usuários[4.](#anchor_4)
+| 11 | As características do usuário foram priorizadas? | Não| Não é possível localizar no documento| As características de um Perfil de Usuário podem ser priorizadas conforme o produto e projeto em questão. [4.](#anchor_4)
+| 12 | As porcentagens de usuários em cada faixa de características foram determinadas|Sim | | Uma vez que a faixa de respostas para cada uma das características e a porcentagem de usuários nessa faixa tiverem sido determinadas, podemos categorizar seus usuários em grupos, com base em suas semelhanças[4.](#anchor_4)
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -241,6 +238,8 @@ Veja na tabela 11 de verificação que será usada para MoSCoW.
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
 
 > <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 6.3, página 112. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="FRM4" href="#anchor_4">4.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, Tópico 8.1 Perfil de Usuário página 166. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Bibliografia</a>

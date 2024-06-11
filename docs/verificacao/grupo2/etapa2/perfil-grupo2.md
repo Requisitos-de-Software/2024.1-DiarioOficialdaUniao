@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno e Iago|[Douglas Marinho](https://github.com/M4RINH0)|10/06|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno e Iago|[Diego Sousa](https://github.com/DiegoSousaLeite)|10/06|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b>[João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -27,16 +27,20 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação do Perfil de Usuário.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9| O perfil de usuário descreve detalhadamente as características demográficas? [3.](#anchor_3) | Sim | Características demográficas incluem idade, gênero, localização geográfica, ocupação e nível educacional, entre outros fatores. |
-| 10| Inclui informações sobre os interesses e hobbies do usuário? [3.](#anchor_3) | Não | Informações sobre hobbies e interesses ajudam a entender melhor as motivações e preferências dos usuários, o que pode influenciar no design e nas funcionalidades do produto. |
-| 11| Descreve as necessidades e objetivos do usuário? [3.](#anchor_3) | Sim | Identificar necessidades e objetivos é crucial para alinhar o desenvolvimento do produto com as expectativas dos usuários e garantir que suas demandas sejam atendidas. |
-| 12| Fornece informações sobre o comportamento digital do usuário? [3.](#anchor_3) | Sim | O comportamento digital pode incluir padrões de uso de dispositivos, plataformas preferidas, hábitos de navegação e interações online, ajudando a criar uma experiência de usuário mais personalizada e eficiente. |
-| 13| Inclui exemplos ou citações de entrevistas com o usuário? [3.](#anchor_3) | Sim | Exemplos e citações de entrevistas fornecem insights diretos dos usuários, permitindo uma compreensão mais profunda de suas percepções e experiências. |
-| 14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? [3.](#anchor_3) | Não | Compreender as limitações e desafios enfrentados pelos usuários é essencial para desenvolver soluções que sejam acessíveis e utilizáveis para todos os perfis de usuários. |
-
-
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referêcia** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+|1|O artefato possui uma introdução descrevendo-o?|Sim|||
+|2|O artefato possui padronização nos títulos?|Sim|||
+|3|O artefato caso contenha tabelas, as chama no texto?|Sim|| |
+|4|O artefato caso tenha figuras as chamam no texto?|Sim||	|	
+|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		|
+|6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim|||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Sim|||
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim|||
+| 9| O Perfil de Usuário identifica características de interesse como cargo, função, experiência, nível de instrução, atividades principais, faixa etária, principais tarefas realizadas, entre outras?| Sim | |Como visto na Seção 7.2, devemos identificar as características de interesse (e.g., cargo, função, experiência, nível de instrução, atividades principais, faixa etária etc.)[4.](#anchor_4)
+| 10 | O Perfil de Usuário foi feito através de algum estudo, como entrevistas ou questionários?|Sim | | e conduzir um estudo (e.g., através de entrevistas e questionários) para coletar os dados dos usuários. A partir dos dados coletados, podemos agregar os valores em grupos e faixas na qual os usuários[4.](#anchor_4)
+| 11 | As características do usuário foram priorizadas? | Não| Não é possível localizar no documento| As características de um Perfil de Usuário podem ser priorizadas conforme o produto e projeto em questão. [4.](#anchor_4)
+| 12 | As porcentagens de usuários em cada faixa de características foram determinadas|Sim | | Uma vez que a faixa de respostas para cada uma das características e a porcentagem de usuários nessa faixa tiverem sido determinadas, podemos categorizar seus usuários em grupos, com base em suas semelhanças[4.](#anchor_4)
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -49,6 +53,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 > <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 6.3, página 112. Autopublicação. ISBN: 978-65-00-19677-1.
 
+> <a id="FRM4" href="#anchor_4">4.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, Tópico 8.1 Perfil de Usuário página 166. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
@@ -62,3 +67,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/06/2024 | 10/06/2024 | Criando documento, introdução e estrutura | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.0` | 10/06/2024 | 10/06/2024 | Preenchendo checklist | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
