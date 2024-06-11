@@ -1,6 +1,31 @@
-Aqui está a tabela preenchida com os dados fornecidos:
+## <a>Introdução</a>
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para História de Usuário.</p></font>
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario">História de Usuário</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
+
+
+## <a>Características da Verificação do História do Usuário</a>
+
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Características da execução da verificação.</p></font>
+
+|**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
+|---------|---------|---------|-----------|------------------|------|
+|Entrega 04|História de Usuário| `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+
+</center>
+
+
+## <a>Verificação das Histórias de Usuário</a>
+
+A tabela 2 representada a seguir, descreve a verificação para as histórias de usuário de 8 a 17.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist de verificação das Histórias de Usuário de 8 a 17.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
@@ -16,6 +41,9 @@ Aqui está a tabela preenchida com os dados fornecidos:
 | 28 | As histórias de usuário são testáveis? | SIM | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+</center>
+
+## <a>Gravação da verificação</a>
 
 ## <a>Histórico de Versão</a>
 

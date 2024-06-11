@@ -1,7 +1,30 @@
+## <a>Introdução</a>
+
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog">Backlog do Produto</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
+
+
+## <a>Características da Verificação do Backlog do Produto</a>
+
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Características da execução da verificação.</p></font>
+
+|**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
+|---------|---------|---------|-----------|------------------|------|
+|Entrega 04|Backlog do Produto| `1.2` | Bruno, Caio e Larissa  | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+</center>
+
+## <a>Verificação do Backlog do Produto</a>
+
+A Tabela 2 a seguir, apresenta um checklist abrangente para a verificação geral dos artefatos, incluindo aspectos como padronização, histórico de versão, referências bibliográficas e outros critérios essenciais para assegurar a qualidade e consistência dos documentos. Este checklist serve como uma ferramenta fundamental para garantir que os artefatos sejam desenvolvidos e mantidos de acordo com os padrões estabelecidos, promovendo a clareza e a integridade da documentação.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral da verificação do backlog.</p></font>
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
@@ -16,9 +39,10 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
-### <a> Backlog </a>
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Backlog.</p></font>
+A Tabela 3 apresenta um checklist detalhado para a verificação específica do backlog, abordando aspectos críticos como a priorização dos itens, a inclusão das histórias de usuário (US), a acessibilidade do backlog para as partes interessadas, e a clareza das justificativas para a priorização. Este checklist é fundamental para assegurar que o backlog esteja bem organizado, priorizado e alinhado com os objetivos estratégicos do projeto, facilitando a gestão eficiente e eficaz das tarefas.
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist especifico para o Backlog.</p></font>
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
@@ -34,6 +58,8 @@
 |18|Os épicos foram divididos em histórias menores para facilitar o gerenciamento e a execução?|SIM||
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+
+## <a>Gravação da verificação</a>
 
 
 
