@@ -1,4 +1,4 @@
-# Encenação Adaptada
+# MoSCoW
 
 ## <a>Introdução</a>
 
