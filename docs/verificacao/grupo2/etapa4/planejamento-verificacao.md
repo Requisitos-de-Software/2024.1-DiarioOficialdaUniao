@@ -23,13 +23,13 @@ A Tabela 1 apresenta os artefatos da etapa 04, suas respectivas versões e os re
 
 | **Nome do Artefato** | **Versão Pré-Verificação** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** | **Resultado da Verificação** |
 | --------- | --------- | ----------- | ------------------ | ---------------------- |
-| [Backlog](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog){:target="_blank"} | `1.2` | Bruno, Caio e Larissa  | [Arthur Alves](https://github.com/Arthrok) | Verificação do Backlog |
-| [História de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario){:target="_blank"} | `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) | Verificação da História de Usuário |
-| [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR){:target="_blank"} | `1.8` | Breno, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) | Verificação do NFR Framework |
+| [Backlog](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/backlog){:target="_blank"} | `1.2` | Bruno, Caio e Larissa  | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Verificação do Backlog |
+| [História de Usuário](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/historiaUsuario){:target="_blank"} | `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Verificação da História de Usuário |
+| [NFR Framework](https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR){:target="_blank"} | `1.8` | Breno, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Verificação do NFR Framework |
 
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 ## <a>Checklists</a>
 
@@ -72,7 +72,7 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 | 17 | Os épicos estão em um grau de hierarquia maior que as histórias de usuário? (Os épicos não devem ter uma narrativa simples) | | | Uma história é uma narrativa simples; uma série de histórias relacionadas e interdependentes constitui um épico. O mesmo se aplica à gestão do seu trabalho, onde a conclusão de histórias relacionadas leva à conclusão de um épico<a id="anchor_4" href="#REF4">^4^</a>. |
 | 18 | Os épicos foram divididos em histórias menores para facilitar o gerenciamento e a execução? | | | Dividir um épico em histórias mais práticas ajuda a entender um projeto e a manter o impulso<a id="anchor_5" href="#REF5">^5^</a>. |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 
 ### <a> História de Usuário </a>
@@ -93,7 +93,7 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 | 27 | Todos os membros do grupo contribuiram com o artefato? | | | N/A (Apenas para controle de organização) |
 | 28 | As histórias de usuário são testáveis? | | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 
 ### <a> Checklist para Verificação do NFR Framework </a>
@@ -113,7 +113,7 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 | 37 | As decisões de design foram documentadas em relação aos NFRs? | | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
 | 38 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? | | | Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 ## <a> Referência Bibliografica </a>
 
