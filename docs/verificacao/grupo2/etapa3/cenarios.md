@@ -24,7 +24,7 @@ A Tabela 2 apresenta um checklist abrangente e detalhado para a verificação de
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral e específico dos Cenários.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | 
 | ---- | ----------- | ----------- | ------------- | ------------- |
