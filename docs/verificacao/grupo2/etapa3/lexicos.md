@@ -91,6 +91,13 @@ Vídeo de verificação dos léxicos 17 ao 20 executado pelo membro [Henrique To
 <iframe width="853" height="480" src="https://www.youtube.com/embed/F5z4IgdIBF0?si=rEgt_Rs3o3TQ88eu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
+### <a> Vídeo 4 </a>
+Vídeo de verificação dos léxicos 9 ao 17 executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
+
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_qf6Uh2cfVA" title="Verificação Léxicos 9 a 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## <a>Referência Bibliografica</a>
 
 > <a id="REF1" href="#anchor_1">1. </a> SAYÃO, Miriam, CARVALHO, Gustavo. Construção do léxico de aplicações, Tópico 2.1 LAL - Léxico Ampliado da Linguagem. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. 
