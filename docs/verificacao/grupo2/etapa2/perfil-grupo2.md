@@ -67,4 +67,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/06/2024 | 10/06/2024 | Criando documento, introdução e estrutura | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.0` | 10/06/2024 | 10/06/2024 | Preenchendo checklist | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.1` | 10/06/2024 | 10/06/2024 | Preenchendo checklist | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
