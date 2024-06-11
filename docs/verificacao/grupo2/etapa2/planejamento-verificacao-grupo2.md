@@ -69,6 +69,8 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 ### <a>Perfil de Usuário</a>
 
+Veja na tabela 3 a tabela de verificação que será usada para Perfil de Usuário.
+
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Perfil de Usuário.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
@@ -86,6 +88,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 ### <a>Personas</a>
 
+Veja na tabela 4 a tabela de verificação que será usada para Personas.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Personas.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
@@ -102,6 +107,11 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 ### <a>Análise de Documentos</a>
 
+Veja na tabela 5 a tabela de verificação que será usada para Análise de Documentos.
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Análise de Documentos.</p></font>
+
+
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
 | 9 | A análise identifica os documentos revisados? [3.](#anchor_3) | | Identificar os documentos revisados garante a rastreabilidade e a transparência do processo de análise. |
@@ -113,6 +123,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 
 ### <a>Encenação Adaptada</a>
+
+Veja na tabela 6 a tabela de verificação que será usada para Encenação Adaptada.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Encenação Adaptada.</p></font>
 
@@ -130,6 +143,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 ### <a>Questionário</a>
 
+Veja na tabela 7 a tabela de verificação que será usada para Questionário.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist para Questionário.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
@@ -145,6 +161,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 </center>
 
 ### <a>Storytelling</a>
+Veja na tabela 8 a tabela de verificação que será usada para Storytelling.
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist para Storytelling.</p></font>
 
@@ -160,6 +177,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 </center>
 
 ### <a>Quadrante de Três Níveis</a>
+
+Veja na tabela 9 de verificação que será usada para Quadrante de Três Níveis.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist para Quadrante de Três Níveis.</p></font>
 
@@ -178,6 +198,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 ### <a>In or Out</a>
 
+Veja na tabela 10 de verificação que será usada para In or Out.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist para In or Out.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
@@ -193,6 +216,9 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 </center>
 
 ### <a>MoSCoW</a>
+
+Veja na tabela 11 de verificação que será usada para MoSCoW.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Checklist para MoSCoW.</p></font>
 

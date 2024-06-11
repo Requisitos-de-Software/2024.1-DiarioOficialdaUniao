@@ -1,4 +1,28 @@
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Backlog.</p></font>
+## <a>Introdução</a>
+
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR">NFR Framework</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
+
+
+## <a>Características da Verificação do NFR Framework</a>
+
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Características da execução da verificação.</p></font>
+
+|**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
+|---------|---------|---------|-----------|------------------|------|
+|Entrega 04|NFR Framework| `1.8` | Breno, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+</center>
+
+## <a>Verificação do NFR Framework</a>
+
+A Tabela 2 apresenta um checklist abrangente para a verificação geral dos artefatos, incluindo aspectos essenciais como a padronização dos títulos, a inclusão de introduções descritivas, a referência adequada de tabelas e figuras no texto, e a citação correta das fontes. Este checklist é uma ferramenta fundamental para assegurar que os artefatos estejam desenvolvidos de acordo com os padrões estabelecidos, promovendo a clareza, a consistência e a integridade da documentação. A presença de um histórico de versão padronizado, com detalhes sobre as revisões, responsáveis e datas, é crucial para manter um registro claro e organizado das alterações realizadas nos artefatos. A correta utilização de bibliografias e referências bibliográficas, com citações precisas e navegação facilitada, garante a credibilidade das informações apresentadas e a possibilidade de consulta adicional.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral para o artefato NFR Framework.</p></font>
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
@@ -13,9 +37,9 @@
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
+A Tabela 3 apresenta um checklist detalhado e específico para o NFR (Non-Functional Requirements) Framework, abordando aspectos críticos como a definição clara dos requisitos não-funcionais, a participação das partes interessadas na elicitação desses requisitos, e a categorização adequada dos NFRs. Este checklist é fundamental para assegurar que os requisitos não-funcionais estejam bem definidos, documentados e alinhados com os objetivos estratégicos do projeto. A clareza na definição de NFRs é crucial para garantir que o sistema atenda às expectativas de qualidade, desempenho e segurança. A participação das partes interessadas, como o Product Owner (PO), cliente e personas, na elicitação e validação dos NFRs, assegura que todos os requisitos de qualidade sejam capturados e priorizados adequadamente.
 
-
-Aqui está a tabela preenchida com os dados fornecidos:
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para a verificação do NFR Framework.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |

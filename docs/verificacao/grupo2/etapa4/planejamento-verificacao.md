@@ -57,6 +57,9 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 ### <a> Backlog </a>
 
+Veja na tabela 3 de verificação que será usada para Backlog.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Backlog.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
@@ -76,6 +79,9 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 
 ### <a> História de Usuário </a>
+
+Veja na tabela 4 de verificação que será usada para História de Usuário.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para História de Usuário.</p></font>
 
@@ -97,6 +103,9 @@ Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o
 
 
 ### <a> Checklist para Verificação do NFR Framework </a>
+
+Veja na tabela 5 de verificação que será usada para NFR Framework.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para NFR Framework.</p></font>
 
