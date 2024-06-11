@@ -17,6 +17,16 @@ Aqui está a tabela preenchida com os dados fornecidos:
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
+
+## <a>Vídeo de Verificação</a>
+
+Vídeo de Verificação das US 8 até 17, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
+
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/28u5Zg2lHf4" title="Verificação das US 8 a 17" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
