@@ -23,10 +23,10 @@ Os responsáveis pela criação do planejamento da verificação da entrega 03 s
 
 | **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** |
 | --------- | --------- | --------- | ----------- | ------------------ |
-| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | A definir |
-| Entrega 03 | Léxicos | `1.7` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
-| Entrega 03 | Caso de Uso | `2.8` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
-| Entrega 03 | Especificação Suplementar | `1.9` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | A definir |
+| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Henrique Torres](https://github.com/henriqtorresl), [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| Entrega 03 | Léxicos | `1.7` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [João Artur](https://github.com/joao-artl), [Diego Sousa](https://github.com/DiegoSousaLeite) e  [Luiz Gustavo](https://github.com/LuizGust4vo), [Henrique Torres](https://github.com/henriqtorresl) |
+| Entrega 03 | Caso de Uso | `2.8` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [João Artur](https://github.com/joao-artl), [Diego Sousa](https://github.com/DiegoSousaLeite) e  [Luiz Gustavo](https://github.com/LuizGust4vo), [Henrique Torres](https://github.com/henriqtorresl)  |
+| Entrega 03 | Especificação Suplementar | `1.9` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro | [Henrique Torres](https://github.com/henriqtorresl) |
 
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
