@@ -117,3 +117,4 @@ Vídeo de verificação dos léxicos 17 ao 20 executado pelo membro [Henrique To
 | `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 21 ao 28 | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.2` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do léxicos 1 ao 8 | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.3` | 10/06/2024 | 10/06/2024 | Adicionando o vídeo de verificação dos léxicos 17 ao 20 | [Henrique Torres](https://github.com/henriqtorresl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.4` | 10/06/2024 | 10/06/2024 | Adicionando a tabela de verificação dos léxicos de 9 a 16 | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

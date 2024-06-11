@@ -1,10 +1,7 @@
-Aqui está a tabela preenchida com os dados fornecidos:
 
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-Claro, aqui está a tabela com as observações ajustadas conforme sua solicitação:
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
@@ -68,5 +65,4 @@ Claro, aqui está a tabela com as observações ajustadas conforme sua solicita�
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 09/06/2024 | 10/06/2024 | Criação do documento | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
-| `1.1` | 09/06/2024 | 10/06/2024 | Adicionando o checklist de verificação do NFR | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl)|
+| `1.0` | 10/06/2024 | 10/06/2024 | Criação do documento e inserção da tabela de verificação do artefato | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |

@@ -104,3 +104,4 @@ Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego So
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/06/2024 | 10/06/2024 | Criando o documento | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 10/06/2024 | 10/06/2024 | Adicionando o video da verificação do cenário 07 | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
+| `1.2` | 10/06/2024 | 10/06/2024 | Adicionando a tabela de verificação dos dos cenário de 4 a 6.| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
