@@ -2,6 +2,7 @@
 
 O principal objetivo desse cronograma é definir prazos, distribuir atividades entre os membros da equipe e aprimorar a nossa organização, visando o cumprimento das atividades e entregas da disciplina de Requisitos de Software.
 
+
 ## Entrega 1 - Planejamento do Projeto
 
 === "Cronograma Planejado"
@@ -170,6 +171,25 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
+=== "Cronograma Executado"
+    Na Tabela 10, está explicitado o cronograma executado das atividades da entrega 5.1.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos: Verificação e Validação</p></font>
+
+    | Atividade| Período de desenvolvimento | Responsável| Revisão| Revisores| Data da Entrega |
+    |------------------|-----------------|--------------------|-----------|------------|-----------------|
+    | Planejamento das verificações| Início dia 28/05 Fim dia 09/06| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 10/06| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 10/06 |
+    | Verificação por inspeção de todos os artefatos da entrega 1 (Rich Picture) | Início dia 09/06 Fim dia 10/06 | Henrique Torres |10/06| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
+    | Verificação por inspeção de todos os artefatos da entrega 2 (Técnicas de Priorização, Elicitação, Perfil do Usuário e Personas) | Início dia 28/05 Fim dia 08/06 | Diego Sousa, João Artur e Luiz Gustavo| 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
+    | Verificação por inspeção de todos os artefatos da entrega 3 (Cenários, Léxicos, Caso de Uso e Especificação suplementar) | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
+    | Verificação por inspeção de todos os artefatos da entrega 4 (Backlog e histórias de usuário e NFR Framework) | Início dia 28/05 Fim dia 08/06 | Arthur Alves e Eric Silveira | 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
+    | Validação: Prototipação e Comprovação Informal | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Eric Silveira e João Artur| 10/06 | Arthur Alves, Eric Silveira e João Artur| 10/06|
+    | Iteração do Git Pages| Início dia 28/05 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | Início dia 06/06 Fim dia 08/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 10/06|
+    | Período de gravação da apresentação| Início dia 08/06 Fim dia 10/06 | Douglas Marinho | Início dia 08/06 Fim dia 10/06 | Eric Silveira | 10/06|
+    | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
+
+    <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
 ## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
 
 === "Cronograma Planejado"
@@ -237,3 +257,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.5`|14/05/2024|14/05/2024| Atualizando todo o cronograma planejado | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.6`|20/05/2024|20/05/2024| Atualizando todo o cronograma executado da terceira entrega | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.7`|27/05/2024|27/05/2024| Atualizando todo o cronograma executado da quarta entrega | [Diego Sousa](https://github.com/DiegoSousaLeite) |[Eric Silveira](https://github.com/ericbky) |
+|`1.8`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |

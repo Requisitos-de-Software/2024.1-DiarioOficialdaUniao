@@ -1,12 +1,12 @@
-## Introdução
+## <a>Introdução</a>
 
 O propósito desta página é hospedar o vídeo da apresentação da Primeira Entrega e a demonstrar a tabela de critérios solicitados para a entrega 1. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
-## Vídeo de Apresentação
+## <a>Vídeo de Apresentação</a>
 
 <iframe width="640" height="480" src="https://www.youtube.com/embed/Pc3TQlD6xAM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-## Tale de Critérios para a entrega 1
+## <a>Tale de Critérios para a entrega 1</a>
 
 A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 

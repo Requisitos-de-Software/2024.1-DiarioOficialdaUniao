@@ -1,4 +1,5 @@
 ## <a>Introdução</a>
+
 A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.    Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/">*Grupo 02*</a>.
 
 O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 2 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
@@ -20,11 +21,11 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
 |Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Personas|`1.0`|Pedro Augusto|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
-|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0)|
+|Entrega 02|Personas|`1.0`|Pedro Augusto|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
+|Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita| [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
+|Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
 |Entrega 02|Priorização Quadrante de Três Níveis|`1.2`|Larissa Stéfane e Breno Alexandre|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização In or Out|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 02|Priorização MoSCoW|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
@@ -34,15 +35,15 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/">Verificação do artefato Perfil de Usuário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/">Verificação do artefato Personas</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Análise de Documentos</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Encenação Adaptada</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Questionário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/elicitacao/">Verificação do artefato Storytelling</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato Quadrante de Três Níveis</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato In or Out</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/etapa2/priorizacao/">Verificação do artefato MoSCoW</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/perfil-grupo2/">Verificação do artefato Perfil de Usuário</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/personas-grupo2/">Verificação do artefato Personas</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/analise-documentos-grupo2/">Verificação do artefato Análise de Documentos</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/encenacao-grupo2/">Verificação do artefato Encenação Adaptada</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/questionario-grupo2/">Verificação do artefato Questionário</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/storytelling-grupo2/">Verificação do artefato Storytelling</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2/">Verificação do artefato Quadrante de Três Níveis</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/in-out-grupo2/">Verificação do artefato In or Out</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/moscow-grupo2/">Verificação do artefato MoSCoW</a>
 
 ## <a>Checklists</a>
 
@@ -63,163 +64,176 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 |7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
 |8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 ### <a>Perfil de Usuário</a>
+
+Veja na tabela 3 a tabela de verificação que será usada para Perfil de Usuário.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Perfil de Usuário.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O perfil de usuário descreve detalhadamente as características demográficas? | | |
-|10| Inclui informações sobre os interesses e hobbies do usuário? | | |
-|11| Descreve as necessidades e objetivos do usuário? | | |
-|12| Fornece informações sobre o comportamento digital do usuário? | | |
-|13| Inclui exemplos ou citações de entrevistas com o usuário? | | |
-|14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? | | |
+| 9| O perfil de usuário descreve detalhadamente as características demográficas? [3.](#anchor_3) | | Características demográficas incluem idade, gênero, localização geográfica, ocupação e nível educacional, entre outros fatores. |
+| 10| Inclui informações sobre os interesses e hobbies do usuário? [3.](#anchor_3) | | Informações sobre hobbies e interesses ajudam a entender melhor as motivações e preferências dos usuários, o que pode influenciar no design e nas funcionalidades do produto. |
+| 11| Descreve as necessidades e objetivos do usuário? [3.](#anchor_3) | | Identificar necessidades e objetivos é crucial para alinhar o desenvolvimento do produto com as expectativas dos usuários e garantir que suas demandas sejam atendidas. |
+| 12| Fornece informações sobre o comportamento digital do usuário? [3.](#anchor_3) | | O comportamento digital pode incluir padrões de uso de dispositivos, plataformas preferidas, hábitos de navegação e interações online, ajudando a criar uma experiência de usuário mais personalizada e eficiente. |
+| 13| Inclui exemplos ou citações de entrevistas com o usuário? [3.](#anchor_3) | | Exemplos e citações de entrevistas fornecem insights diretos dos usuários, permitindo uma compreensão mais profunda de suas percepções e experiências. |
+| 14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? [3.](#anchor_3) | | Compreender as limitações e desafios enfrentados pelos usuários é essencial para desenvolver soluções que sejam acessíveis e utilizáveis para todos os perfis de usuários. |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>Personas</a>
 
+Veja na tabela 4 a tabela de verificação que será usada para Personas.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Personas.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A persona possui nome e foto fictícios? | | |
-|10| Inclui uma biografia resumida? | | |
-|11| Descreve os objetivos e motivações da persona? | | |
-|12| Fornece informações sobre os desafios e frustrações da persona? | | |
-|13| Inclui dados demográficos como idade, profissão e localização? | | |
-|14| Detalha o comportamento da persona em relação ao produto/serviço? | | |
+| 9 | A persona possui nome e foto fictícios? [3.](#anchor_3) | | Nominar e incluir uma foto fictícia ajuda a humanizar a persona e facilita a identificação por parte dos membros da equipe. |
+| 10 | Inclui uma biografia resumida? [3.](#anchor_3) | | Uma biografia resumida proporciona contexto e ajuda a entender melhor o background da persona. |
+| 11 | Descreve os objetivos e motivações da persona? | | Conhecer os objetivos e motivações é essencial para alinhar o desenvolvimento do produto às expectativas e necessidades da persona. |
+| 12 | Fornece informações sobre os desafios e frustrações da persona? [3.](#anchor_3) | | Identificar desafios e frustrações permite criar soluções que realmente resolvam os problemas da persona. |
+| 13 | Inclui dados demográficos como idade, profissão e localização? [3.](#anchor_3) | | Dados demográficos fornecem uma visão clara do público-alvo, ajudando a segmentar e personalizar melhor o produto. |
+| 14 | Detalha o comportamento da persona em relação ao produto/serviço? [3.](#anchor_3) | | Compreender o comportamento da persona em relação ao produto/serviço é crucial para melhorar a experiência do usuário e a usabilidade do produto. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>Análise de Documentos</a>
 
+Veja na tabela 5 a tabela de verificação que será usada para Análise de Documentos.
+
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Análise de Documentos.</p></font>
+
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A análise identifica os documentos revisados? | | |
-|10| Descreve o método utilizado para a análise dos documentos? | | |
-|11| Resumo dos principais achados da análise? | | |
-|12| Fornece exemplos de dados extraídos dos documentos? | | |
-|13| Inclui uma seção de interpretação dos dados? | | |
-|14| Apresenta recomendações baseadas na análise? | | |
+| 9 | A análise identifica os documentos revisados? [3.](#anchor_3) | | Identificar os documentos revisados garante a rastreabilidade e a transparência do processo de análise. |
+| 10 | Descreve o método utilizado para a análise dos documentos? [3.](#anchor_3) | | Descrever o método utilizado proporciona clareza sobre o processo de análise e facilita a replicação do estudo. |
+| 11 | Resumo dos principais achados da análise? [3.](#anchor_3) | | Um resumo dos principais achados destaca as informações mais relevantes obtidas durante a análise. |
+| 12 | Fornece exemplos de dados extraídos dos documentos? [3.](#anchor_3) | | Exemplos de dados extraídos ajudam a ilustrar e apoiar os resultados apresentados na análise. |
+| 13 | Inclui uma seção de interpretação dos dados? [3.](#anchor_3) | | A interpretação dos dados é fundamental para entender o significado e as implicações dos achados da análise. |
+| 14 | Apresenta recomendações baseadas na análise? [3.](#anchor_3) | | Recomendações baseadas na análise fornecem direções práticas e acionáveis para melhorias futuras. |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
-</center>
 
 ### <a>Encenação Adaptada</a>
+
+Veja na tabela 6 a tabela de verificação que será usada para Encenação Adaptada.
+
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Encenação Adaptada.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| A encenação adaptada possui um roteiro claro? | | |
-|10| Inclui descrição dos personagens e suas características? | | |
-|11| Descreve o cenário e os props utilizados na encenação? | | |
-|12| Detalha as interações entre os personagens? | | |
-|13| Fornece objetivos claros para a encenação? | | |
-|14| Inclui feedback ou avaliação pós-encenação? | | |
+| 9 | A encenação adaptada possui um roteiro claro? [3.](#anchor_3) | | Um roteiro claro é essencial para garantir que todos os participantes compreendam a sequência dos eventos e suas responsabilidades durante a encenação. |
+| 10 | Inclui descrição dos personagens e suas características? [3.](#anchor_3) | | Descrições detalhadas dos personagens ajudam a definir melhor suas personalidades e papéis na encenação. |
+| 11 | Descreve o cenário e os props utilizados na encenação? [3.](#anchor_3) | | Detalhar o cenário e os props proporciona um ambiente mais realista e ajuda na imersão dos participantes. |
+| 12 | Detalha as interações entre os personagens? [3.](#anchor_3) | | As interações bem definidas entre os personagens garantem uma encenação coesa e fluida. |
+| 13 | Fornece objetivos claros para a encenação? [3.](#anchor_3) | | Objetivos claros permitem que todos os participantes entendam o propósito da encenação e o que se espera alcançar com ela. |
+| 14 | Inclui feedback ou avaliação pós-encenação? [3.](#anchor_3) | | Feedback pós-encenação é crucial para identificar pontos fortes e áreas de melhoria, contribuindo para o aperfeiçoamento das próximas encenações. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>Questionário</a>
 
+Veja na tabela 7 a tabela de verificação que será usada para Questionário.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist para Questionário.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O questionário possui uma introdução clara sobre seu propósito? | | |
-|10| As perguntas estão bem formuladas e são objetivas? | | |
-|11| Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? | | |
-|12| As perguntas estão ordenadas de forma lógica? | | |
-|13| Inclui instruções claras para os respondentes? | | |
-|14| Possui uma seção para comentários adicionais? | | |
+| 9 | O questionário possui uma introdução clara sobre seu propósito? [3.](#anchor_3) | | Uma introdução clara ajuda os respondentes a entenderem o objetivo do questionário e sua importância. |
+| 10 | As perguntas estão bem formuladas e são objetivas? [3.](#anchor_3) | | Perguntas bem formuladas e objetivas garantem respostas mais precisas e relevantes. |
+| 11 | Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? [3.](#anchor_3) | | Utilizar diferentes tipos de perguntas pode enriquecer os dados coletados e fornecer uma visão mais completa. |
+| 12 | As perguntas estão ordenadas de forma lógica? [3.](#anchor_3) | | Uma ordem lógica nas perguntas facilita o fluxo do questionário e melhora a experiência do respondente. |
+| 13 | Inclui instruções claras para os respondentes? [3.](#anchor_3) | | Instruções claras são essenciais para garantir que os respondentes compreendam como responder corretamente às perguntas. |
+| 14 | Possui uma seção para comentários adicionais? [3.](#anchor_3) | | Uma seção para comentários adicionais permite que os respondentes ofereçam insights extras que não foram cobertos nas perguntas. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>Storytelling</a>
+Veja na tabela 8 a tabela de verificação que será usada para Storytelling.
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist para Storytelling.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| **ID** | **Pergunta para Verificação do Documento** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O storytelling possui uma introdução descrevendo a narrativa? | | |
-|10| Os títulos dentro do storytelling estão padronizados? | | |
-|11| Se houver tabelas no storytelling, elas são chamadas no texto? | | |
-|12| Se houver figuras no storytelling, elas são chamadas no texto? | | |
-|13| As fontes das figuras e tabelas estão devidamente citadas? | | |
-|14| O storytelling possui uma seção de referências bibliográficas? | | |
-|15| As referências bibliográficas são chamadas corretamente no texto? | | |
-|16| Há um histórico de versão padronizado para o storytelling? | | |
+| 1 | O documento introduziu claramente o conceito e a aplicação do storytelling como técnica de elicitação de requisitos? [3.](#anchor_3) | | Verificar se a introdução explana de maneira adequada sobre o uso do storytelling para entender as necessidades dos usuários. |
+| 2 | Como o texto descreve a metodologia utilizada para aplicar o storytelling na elicitação de requisitos? [3.](#anchor_3) | | Avaliar se o método de entrevistas baseadas em storytelling foi descrito de forma clara e compreensível. |
+| 3 | Quais são os principais insights obtidos através das entrevistas com os usuários mencionados no texto? [3.](#anchor_3) | | Identificar os padrões e tendências comuns extraídos das histórias compartilhadas pelos usuários. |
+| 4 | Os requisitos elicitados estão claramente listados e alinhados com as histórias compartilhadas pelos usuários? [3.](#anchor_3) | | Verificar se os requisitos mencionados no documento são diretamente derivados das histórias de uso dos usuários. |
+| 5 | Como o documento conclui a eficácia da metodologia de storytelling na elicitação de requisitos para o aplicativo Carteira de Trabalho Digital? [3.](#anchor_3) | | Avaliar se a conclusão enfatiza de forma adequada os benefícios obtidos com o uso do storytelling. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>Quadrante de Três Níveis</a>
 
+Veja na tabela 9 de verificação que será usada para Quadrante de Três Níveis.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Checklist para Quadrante de Três Níveis.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O quadrante de três níveis possui uma introdução descrevendo sua estrutura? | | |
-|10| Os títulos dentro do quadrante de três níveis estão padronizados? | | |
-|11| Se houver tabelas no quadrante de três níveis, elas são chamadas no texto? | | |
-|12| Se houver figuras no quadrante de três níveis, elas são chamadas no texto? | | |
-|13| As fontes das figuras e tabelas estão devidamente citadas? | | |
-|14| O quadrante de três níveis possui uma seção de referências bibliográficas? | | |
-|15| As referências bibliográficas são chamadas corretamente no texto? | | |
-|16| Há um histórico de versão padronizado para o quadrante de três níveis? | | |
+| 9 | Os critérios para categorizar os itens nos três níveis (baixo, médio, alto) estão claramente definidos e justificados? [3.](#anchor_3) | | Definir criteriosamente os níveis de prioridade ajuda a orientar decisões de desenvolvimento e alocação de recursos. |
+| 10 | Existe uma metodologia específica para determinar em qual nível cada item deve ser classificado? [3.](#anchor_3) | | Seguir uma metodologia rigorosa assegura consistência na categorização dos itens nos três níveis. |
+| 11 | O método considera impacto e urgência na atribuição dos níveis de prioridade? [3.](#anchor_3) | | Considerar impacto e urgência ajuda a priorizar adequadamente os requisitos ou itens em cada nível. |
+| 12 | Há uma análise detalhada dos trade-offs entre os itens classificados em diferentes níveis? [3.](#anchor_3) | | Analisar trade-offs permite tomar decisões informadas sobre quais requisitos priorizar ou adiar. |
+| 13 | O método inclui critérios para revisão periódica e ajuste dos itens nos níveis de prioridade? [3.](#anchor_3) | | Estabelecer critérios de revisão e ajuste mantém a relevância e atualidade dos itens classificados nos três níveis ao longo do projeto. |
+| 14 | Como o método de Quadrante de Três Níveis facilita a comunicação e o alinhamento entre as partes interessadas? [3.](#anchor_3) | | Avaliar como o método promove a comunicação e o entendimento comum das prioridades definidas nos três níveis. |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>In or Out</a>
 
+Veja na tabela 10 de verificação que será usada para In or Out.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Checklist para In or Out.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-|9| O artefato claramente define os critérios de inclusão? | | |
-|10| Define claramente os critérios de exclusão? | | |
-|11| Inclui exemplos ou casos de inclusão? | | |
-|12| Inclui exemplos ou casos de exclusão? | | |
-|13| Os critérios são justificados e explicados? | | |
-|14| Inclui um processo para revisão e ajuste dos critérios? | | |
+| 9 | O artefato claramente define os critérios de inclusão? | | Definir claramente os critérios de inclusão ajuda a garantir que todos os elementos necessários sejam considerados no escopo do projeto. [3.](#anchor_3) |
+| 10 | Define claramente os critérios de exclusão? | | Critérios de exclusão bem definidos evitam ambiguidades e garantem que itens irrelevantes ou fora do escopo sejam descartados corretamente.[3.](#anchor_3) |
+| 11 | Inclui exemplos ou casos de inclusão? | | Exemplos de inclusão ilustram como aplicar os critérios de forma prática, facilitando o entendimento. [3.](#anchor_3) |
+| 12 | Inclui exemplos ou casos de exclusão? | | Exemplos de exclusão ajudam a esclarecer o que deve ser deixado de fora, tornando os critérios mais compreensíveis.[3.](#anchor_3) |
+| 13 | Os critérios são justificados e explicados? | | Justificar e explicar os critérios assegura que todos os envolvidos compreendam a razão por trás das decisões tomadas.[3.](#anchor_3) |
+| 14 | Inclui um processo para revisão e ajuste dos critérios? | | Um processo de revisão e ajuste garante que os critérios permaneçam relevantes e atualizados ao longo do projeto.[3.](#anchor_3) |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ### <a>MoSCoW</a>
 
+Veja na tabela 11 de verificação que será usada para MoSCoW.
+
+
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Checklist para MoSCoW.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-| 1 | O artefato descreve claramente os requisitos "Must have"? | | |
-| 2 | Descreve claramente os requisitos "Should have"? | | |
-| 3 | Descreve claramente os requisitos "Could have"? | | |
-| 4 | Descreve claramente os requisitos "Won't have"? | | |
-| 5 | Inclui uma justificativa para cada categoria de requisitos? | | |
-| 6 | Fornece exemplos ou casos para cada tipo de requisito? | | |
+| 9 | O artefato descreve claramente os requisitos "Must have"? | | Descrever claramente os requisitos "Must have" é crucial, pois são os requisitos essenciais para o sucesso do projeto.[3.](#anchor_3) |
+| 10 | Descreve claramente os requisitos "Should have"? | | Clareza na descrição dos requisitos "Should have" ajuda a priorizar funcionalidades importantes, mas não essenciais.[3.](#anchor_3) |
+| 11 | Descreve claramente os requisitos "Could have"? | | Detalhar os requisitos "Could have" permite considerar funcionalidades adicionais que podem ser implementadas se houver tempo e recursos.[3.](#anchor_3) |
+| 12 | Descreve claramente os requisitos "Won't have"?| | Definir com clareza os requisitos "Won't have" ajuda a evitar expectativas não atendidas e foca nos elementos excluídos deliberadamente.[3.](#anchor_3)  |
+| 13 | Inclui uma justificativa para cada categoria de requisitos? | | Justificar cada categoria de requisitos ajuda a alinhar expectativas e facilita a tomada de decisão durante o desenvolvimento do projeto.[3.](#anchor_3)  |
+| 14 | Fornece exemplos ou casos para cada tipo de requisito? | | Exemplos ou casos práticos para cada tipo de requisito ajudam a contextualizar e esclarecer como cada um se aplica ao projeto.[3.](#anchor_3) |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
-
-## <a>Bibliografia</a>
-> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
-
-> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
-
-> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
@@ -228,7 +242,17 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 > <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 6.3, página 112. Autopublicação. ISBN: 978-65-00-19677-1.
 
+
+## <a>Bibliografia</a>
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
+
+> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
+> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+
+
 ## <a>Histórico de Versão</a>
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. |[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos |[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 10/06/2024 | 10/06/2024 | Adição das referências as questões de checklist |[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
