@@ -55,7 +55,11 @@ Vídeo de Verificação dos cenários 04, 05 e 06, executado pelos membros [Arth
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/IQzO99ez9Go" title="Verificação Cenários 4 a 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
+Vídeo de Verificação do cenário 07, executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
 
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/A2YYN_D-WeM?si=FPPMZwmdIZARo8cu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
 
@@ -81,3 +85,4 @@ Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego So
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/06/2024 | 10/06/2024 | Criando o documento | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
+| `1.1` | 10/06/2024 | 10/06/2024 | Adicionando o video da verificação do cenário 07 | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
