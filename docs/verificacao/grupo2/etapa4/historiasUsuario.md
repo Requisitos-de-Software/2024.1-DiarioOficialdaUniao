@@ -13,7 +13,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 04|História de Usuário| `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+|Entrega 04|História de Usuário| `1.8` | Breno, Bruno, Caio, Larissa e Luana | [João Artur](https://github.com/joao-artl), [Diego Sousa](https://github.com/DiegoSousaLeite), [Luiz Gustavo](https://github.com/LuizGust4vo) [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
@@ -53,7 +53,7 @@ A tabela 2 representada a seguir, descreve a verificação para as histórias de
 Vídeo de Verificação das US 1 ao 7 executado pelo membro [João Artur](https://github.com/joao-artl)
 
 </center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bPgdZ87P33M?si=v7cHZEYSebDWPzfi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPgdZ87P33M?si=fCPrewfspIzvLO0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 2 </a>
