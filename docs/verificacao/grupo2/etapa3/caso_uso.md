@@ -65,6 +65,10 @@ Vídeo de Verificação dos Casos de Uso 6, 7 e versão final, executado pelos m
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/21MsUCiieog?si=1dIqeQLEk3ajJrFd" title="Verificação - Casos de Uso 6, 7 e versão final" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### <a> Vídeo 3 </a>
+Vídeo de Verificação dos Casos de Uso 5, executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/haf_6PwpUhI?si=yn99Ho2IBZr5T2pe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 
@@ -97,3 +101,4 @@ Vídeo de Verificação dos Casos de Uso 6, 7 e versão final, executado pelos m
 | `1.0` | 09/06/2024 | 10/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 | `1.1` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicionando vídeo da verificação dos diagramas de caso de uso 1 e 2 | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 | `1.2` | 10/06/2024 | 10/06/2024 | Adicionando vídeo da verificação dos diagramas de caso de uso 6, 7 e versão final | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
+| `1.3` | 10/06/2024 | 10/06/2024 | Adicionando vídeo da verificação do diagramas de caso de uso 5 | [Henrique Torres](https://github.com/henriqtorresl) | [João Artur](https://github.com/joao-artl) |
