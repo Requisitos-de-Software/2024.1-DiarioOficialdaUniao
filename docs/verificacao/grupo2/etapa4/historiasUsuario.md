@@ -26,9 +26,13 @@ Vídeo de Verificação das US 8 até 17, executado pelos membros [Arthur Alves]
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/28u5Zg2lHf4" title="Verificação das US 8 a 17" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
+Vídeo de Verificação das US 22 até 25, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/RSytilp7aB0" title="Verificação - USs 22 até 25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/06/2024 | 10/06/2024 | Criação do documento e inserção da tabela de verificação do artefato | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |
+| `1.1` | 10/06/2024 | 10/06/2024 | Adição do video das USs 22 ate 25 | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |
