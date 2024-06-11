@@ -53,7 +53,7 @@ A tabela 2 representada a seguir, descreve a verificação para as histórias de
 Vídeo de Verificação das US 1 ao 7 executado pelo membro [João Artur](https://github.com/joao-artl)
 
 </center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bPgdZ87P33M?si=v7cHZEYSebDWPzfi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bPgdZ87P33M?si=fCPrewfspIzvLO0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 2 </a>
