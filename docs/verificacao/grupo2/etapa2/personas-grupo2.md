@@ -44,7 +44,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 ## <a>Vídeo da verificação</a>
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/k8h_Z-SIWCs" title="Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/k8h_Z-SIWCs" title="Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Bibliografia</a>
