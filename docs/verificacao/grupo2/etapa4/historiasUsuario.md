@@ -43,8 +43,6 @@ A tabela 2 representada a seguir, descreve a verificação para as histórias de
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
-## <a>Gravação da verificação</a>
-
 
 ## <a>Vídeo de Verificação</a>
 

@@ -59,8 +59,6 @@ A Tabela 3 apresenta um checklist detalhado para a verificação específica do 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-## <a>Gravação da verificação</a>
-
 ## <a>Vídeo de Verificação</a>
 
 Vídeo de Verificação do backlog, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
