@@ -51,7 +51,7 @@ A tabela 2 representada a seguir, descreve a verificação para as histórias de
 Vídeo de Verificação das US 1 ao 7 executado pelo membro [João Artur](https://github.com/joao-artl)
 
 </center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bPgdZ87P33M?si=fCPrewfspIzvLO0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/bPgdZ87P33M?si=fCPrewfspIzvLO0Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 2 </a>
@@ -59,15 +59,23 @@ Vídeo de Verificação das US 1 ao 7 executado pelo membro [João Artur](https:
 Vídeo de Verificação das US 8 até 17, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
 
 <center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/28u5Zg2lHf4" title="Verificação das US 8 a 17" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/28u5Zg2lHf4" title="Verificação das US 8 a 17" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 3 </a>
 
+Vídeo de Verificação das US 18 até 21, executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
+
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/gB6FDPSqBnY?si=SmovEh9nv5omojEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+### <a> Vídeo 4 </a>
+
 Vídeo de Verificação das US 22 até 25, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
 
 <center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RSytilp7aB0" title="Verificação - USs 22 até 25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/RSytilp7aB0" title="Verificação - USs 22 até 25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## <a>Histórico de Versão</a>
@@ -77,3 +85,4 @@ Vídeo de Verificação das US 22 até 25, executado pelos membros [Diego Sousa]
 | `1.0` | 10/06/2024 | 10/06/2024 | Criação do documento e inserção da tabela de verificação do artefato | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |
 | `1.1` | 10/06/2024 | 10/06/2024 | Adição do video das USs 22 ate 25 | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |
 | `1.2` | 10/06/2024 | 10/06/2024 | Adição do video das USs 1 ate 7 | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.3` | 10/06/2024 | 10/06/2024 | Adição do video das USs 18 ate 21 |[Henrique Torres](https://github.com/henriqtorresl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
