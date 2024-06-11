@@ -13,7 +13,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 04|História de Usuário| `1.8` | Breno, Bruno, Caio, Larissa e Luana | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+|Entrega 04|História de Usuário| `1.8` | Breno, Bruno, Caio, Larissa e Luana | [João Artur](https://github.com/joao-artl), [Diego Sousa](https://github.com/DiegoSousaLeite), [Luiz Gustavo](https://github.com/LuizGust4vo) [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
