@@ -61,7 +61,13 @@ A Tabela 3 apresenta um checklist detalhado para a verificação específica do 
 
 ## <a>Gravação da verificação</a>
 
+## <a>Vídeo de Verificação</a>
 
+Vídeo de Verificação do backlog, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
+
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/PzlnRPqTsnQ" title="Verificação Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## <a> Referência Bibliografica </a>
 

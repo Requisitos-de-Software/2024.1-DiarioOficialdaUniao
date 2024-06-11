@@ -13,7 +13,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 | **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** | **Data da Verificação** |
 | --------- | --------- | --------- | ----------- | ------------------ | ------ |
-| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | 10/06/2024 |
+| Entrega 03 | Cenários | `2.5` | Breno, Bruno, Caio, Iago, Larissa, Luana e Pedro  |Arthur, Diego, Eric, Henrique Sousa, João Artur e Luiz Gustavo | 10/06/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -67,17 +67,31 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Vídeo de Verificação</a>
 
+### <a> Vídeo 1 </a>
+
+Vídeo de Verificação dos cenários 01, 02, 03 executado pelos membros [João Artur](https://github.com/joao-artl).
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c88GiL5M8sQ?si=fcPVFSsEsPyEzGKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+### <a> Vídeo 2 </a>
+
 Vídeo de Verificação dos cenários 04, 05 e 06, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
 
 <center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/IQzO99ez9Go" title="Verificação Cenários 4 a 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480"  src="https://www.youtube.com/embed/IQzO99ez9Go" title="Verificação Cenários 4 a 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+### <a> Vídeo 3 </a>
 
 Vídeo de Verificação do cenário 07, executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
 
 <center>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/A2YYN_D-WeM?si=FPPMZwmdIZARo8cu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+### <a> Vídeo 4 </a>
 
 Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
 
@@ -105,3 +119,4 @@ Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego So
 | `1.0` | 10/06/2024 | 10/06/2024 | Criando o documento | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.1` | 10/06/2024 | 10/06/2024 | Adicionando o video da verificação do cenário 07 | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok) |
 | `1.2` | 10/06/2024 | 10/06/2024 | Adicionando a tabela de verificação dos dos cenário de 4 a 6.| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+| `1.3` | 10/06/2024 | 10/06/2024 | Completando checklist de artefatos e adicinando vídeo do cenario 1, 2 e 3 | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

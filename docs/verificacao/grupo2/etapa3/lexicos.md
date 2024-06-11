@@ -74,21 +74,28 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 Vídeo de Verificação dos léxicos 1 ao 8 executado pelo membro [João Artur](https://github.com/joao-artl)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IkQ4M-uAXPI?si=xqr-K6faMhgMM5ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/IkQ4M-uAXPI?si=xqr-K6faMhgMM5ds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 2 </a>
 Vídeo de verificação dos léxicos 21 ao 28 executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e  [Luiz Gustavo](https://github.com/LuizGust4vo)
 
 <center>
-<iframe width="640" height="480" src="https://www.youtube.com/embed/dpNy_ZVlsyo" title="Verificação - Léxicos 21 ao 28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/dpNy_ZVlsyo" title="Verificação - Léxicos 21 ao 28" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ### <a> Vídeo 3 </a>
 Vídeo de verificação dos léxicos 17 ao 20 executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F5z4IgdIBF0?si=rEgt_Rs3o3TQ88eu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/F5z4IgdIBF0?si=rEgt_Rs3o3TQ88eu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+### <a> Vídeo 4 </a>
+Vídeo de verificação dos léxicos 9 ao 17 executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
+
+<center>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_qf6Uh2cfVA" title="Verificação Léxicos 9 a 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## <a>Referência Bibliografica</a>
