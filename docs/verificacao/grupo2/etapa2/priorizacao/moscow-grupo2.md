@@ -35,14 +35,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 |4|O artefato caso tenha figuras as chamam no texto?|Sim||		
 |5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		
 |6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim||
-| 9 | O artefato descreve claramente os requisitos "Must have"? | ||
-| 10 | Descreve claramente os requisitos "Should have"? | |  |
-| 11 | Descreve claramente os requisitos "Could have"? | ||
-| 12 | Descreve claramente os requisitos "Won't have"?| | |
-| 13 | Inclui uma justificativa para cada categoria de requisitos? | | |
-| 14 | Fornece exemplos ou casos para cada tipo de requisito? | ||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não|Falta a indexização das referências em texto|
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Incompleto|Falta as datas de revisão|
+| 9 | O artefato descreve claramente os requisitos "Must have"? |Sim||
+| 10 | Descreve claramente os requisitos "Should have"? |Sim|  |
+| 11 | Descreve claramente os requisitos "Could have"? |Sim||
+| 12 | Descreve claramente os requisitos "Won't have"?|Sim| |
+| 13 | Inclui uma justificativa para cada categoria de requisitos? |Não|Não é mostrado o motivo da classificação dos requisitos|
+| 14 | Fornece exemplos ou casos para cada tipo de requisito? |Não||
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -51,6 +51,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 A verificação foi realizada pelo membro do grupo 1 [Douglas Marinho](https://github.com/M4RINH0), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ffw7oHrY_uw?si=d4TQIHFin7CGCqva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.

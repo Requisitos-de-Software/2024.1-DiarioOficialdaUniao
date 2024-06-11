@@ -35,14 +35,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 |4|O artefato caso tenha figuras as chamam no texto?|Sim||		
 |5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		
 |6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim||
-| 9 | Os critérios para categorizar os itens nos três níveis (baixo, médio, alto) estão claramente definidos e justificados?| ||
-| 10 | Existe uma metodologia específica para determinar em qual nível cada item deve ser classificado?| ||
-| 11 | O método considera impacto e urgência na atribuição dos níveis de prioridade?  | ||
-| 12 | Há uma análise detalhada dos trade-offs entre os itens classificados em diferentes níveis?| |  |
-| 13 | O método inclui critérios para revisão periódica e ajuste dos itens nos níveis de prioridade?| | |
-| 14 | Como o método de Quadrante de Três Níveis facilita a comunicação e o alinhamento entre as partes interessadas? | | |
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não|Falta a indexização das referências em texto|
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Incompleto|Falta as datas de revisão|
+| 9 | Os critérios para categorizar os itens nos três níveis (baixo, médio, alto) estão claramente definidos e justificados?|Sim||
+| 10 | Existe uma metodologia específica para determinar em qual nível cada item deve ser classificado?|Sim||
+| 11 | O método considera impacto e urgência na atribuição dos níveis de prioridade?  |Sim||
+| 12 | Há uma análise detalhada dos trade-offs entre os itens classificados em diferentes níveis?|Não|Uma adição de tal análise poderia auxiliar muito|
+| 13 | O método inclui critérios para revisão periódica e ajuste dos itens nos níveis de prioridade?|Não|Falta uma revisão acerca de alguns requisitos elicitados|
+| 14 | O método de Quadrante de Três Níveis facilita a comunicação e o alinhamento entre as partes interessadas? |Sim| |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -51,7 +51,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 A verificação foi realizada pelo membro do grupo 1 [Douglas Marinho](https://github.com/M4RINH0), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cVYUBeKRU5M?si=D3ESdBV7Whflmy3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wCeisMGqrFE?si=BdFXDvxZiQgzHNGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.

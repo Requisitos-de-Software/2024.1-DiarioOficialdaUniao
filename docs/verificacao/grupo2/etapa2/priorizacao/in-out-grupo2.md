@@ -35,8 +35,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 |4|O artefato caso tenha figuras as chamam no texto?|Sim||		
 |5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		
 |6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não|Falta a indexização das referências em texto|
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?Incompleto|Falta as datas de revisão|
 | 9 | O artefato claramente define os critérios de inclusão? |Sim||
 | 10 | Define claramente os critérios de exclusão? |Sim| |
 | 11 | Inclui exemplos ou casos de inclusão? |Sim||
