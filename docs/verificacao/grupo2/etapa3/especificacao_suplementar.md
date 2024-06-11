@@ -52,7 +52,7 @@ A Tabela 2 a seguir apresenta a verificação da [Especificação Suplementar](h
 Vídeo de Verificação da Especificação Suplementar executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
 
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sugn0BLeRSE?si=9h1JfEf7xR_mtZ0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/sugn0BLeRSE?si=9h1JfEf7xR_mtZ0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## <a>Referência Bibliografica</a>

@@ -51,7 +51,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 A verificação foi realizada pelo membro do grupo 1 [João Artur](https://github.com/joao-artl), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lQ0JUcV8U7Q?si=CXBIXROdUCm5IyA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/lQ0JUcV8U7Q?si=CXBIXROdUCm5IyA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
