@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno e Iago|alguem|10/06|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno e Iago|[Douglas Marinho](https://github.com/M4RINH0)|10/06|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b>[João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -38,7 +38,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 
