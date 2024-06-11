@@ -27,8 +27,15 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação do Perfil de Usuário.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referêcia** |
-| ---- | ----------- | ----------- | ------------- | ------------- |
+| **ID** | **Descrição** | **Avaliação** | **Observações** |
+| ---- | ----------- | ----------- | ------------- |
+| 9| O perfil de usuário descreve detalhadamente as características demográficas? [3.](#anchor_3) | Sim | Características demográficas incluem idade, gênero, localização geográfica, ocupação e nível educacional, entre outros fatores. |
+| 10| Inclui informações sobre os interesses e hobbies do usuário? [3.](#anchor_3) | Não | Informações sobre hobbies e interesses ajudam a entender melhor as motivações e preferências dos usuários, o que pode influenciar no design e nas funcionalidades do produto. |
+| 11| Descreve as necessidades e objetivos do usuário? [3.](#anchor_3) | Sim | Identificar necessidades e objetivos é crucial para alinhar o desenvolvimento do produto com as expectativas dos usuários e garantir que suas demandas sejam atendidas. |
+| 12| Fornece informações sobre o comportamento digital do usuário? [3.](#anchor_3) | Sim | O comportamento digital pode incluir padrões de uso de dispositivos, plataformas preferidas, hábitos de navegação e interações online, ajudando a criar uma experiência de usuário mais personalizada e eficiente. |
+| 13| Inclui exemplos ou citações de entrevistas com o usuário? [3.](#anchor_3) | Sim | Exemplos e citações de entrevistas fornecem insights diretos dos usuários, permitindo uma compreensão mais profunda de suas percepções e experiências. |
+| 14| Possui uma descrição das limitações e desafios enfrentados pelo usuário? [3.](#anchor_3) | Não | Compreender as limitações e desafios enfrentados pelos usuários é essencial para desenvolver soluções que sejam acessíveis e utilizáveis para todos os perfis de usuários. |
+
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl).</p></font>
