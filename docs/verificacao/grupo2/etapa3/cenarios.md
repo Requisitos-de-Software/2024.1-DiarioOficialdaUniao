@@ -47,6 +47,8 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 </center>
 
 
+
+
 ## <a>Vídeo de Verificação</a>
 
 Vídeo de Verificação dos cenários 04, 05 e 06, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
