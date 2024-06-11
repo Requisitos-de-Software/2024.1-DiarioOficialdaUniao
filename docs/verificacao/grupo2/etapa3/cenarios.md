@@ -20,40 +20,22 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
+A Tabela 2 apresenta um checklist abrangente e detalhado para a verificação de cenários, abordando tanto aspectos gerais quanto específicos. Este checklist é uma ferramenta essencial para assegurar que os cenários sejam desenvolvidos de forma completa, clara e consistente, facilitando a compreensão e o alinhamento entre todos os membros da equipe e partes interessadas.
+
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | 
 | ---- | ----------- | ----------- | ------------- | ------------- |
-| 1 | O artefato possui uma introdução descrevendo-o? |  |  |  |
-| 2 | O artefato possui padronização nos títulos? |  |  |  |
-| 3 | O artefato, caso contenha tabelas, as referencia no texto? |  |  |  |
-| 4 | O artefato, caso tenha figuras, as referencia no texto? |  |  |  |	
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |  |  |  |		
-| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |  |  |  |
-| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |  |  |  |
-| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |  |  |  |
-| 9 | Os cenários possuem os elementos básicos de um cenário (Título, Metas, Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? |  |  | A verificação de que os cenários possuem os elementos básicos é fundamental para a clareza dos requisitos de software. Cada elemento desempenha um papel específico e indispensável na definição e compreensão dos cenários<a id="anchor_1" href="#REF1">^1^</a>. |
-| 10 | O título é claro, descritivo e reflete o objetivo principal do cenário? |  |  | Um título claro e descritivo ajuda a identificar rapidamente o cenário, facilitando a comunicação entre os membros da equipe e a referência em documentos futuros<a id="anchor_1" href="#REF1">^1^</a>. |
-| 11 | A meta/objetivo do cenário está claramente definida? |  |  | Definir claramente as metas/objetivos assegura que todos os envolvidos compreendam o propósito do cenário e possam avaliar se os requisitos atendem às necessidades<a id="anchor_1" href="#REF1">^1^</a>. |
-| 12 | O contexto inicial do cenário está claramente descrito? |  |  | Descrever o contexto inicial garante que todas as condições pré-existentes e suposições sejam compreendidas, proporcionando uma base sólida para a interpretação correta do cenário<a id="anchor_1" href="#REF1">^1^</a>. |
-| 13 | Todos os atores envolvidos e suas respectivas responsabilidades no cenário estão identificadas? |  |  | Identificar todos os atores e suas responsabilidades assegura que todas as interações necessárias sejam consideradas, evitando lacunas na definição dos requisitos<a id="anchor_1" href="#REF1">^1^</a>. |
-| 14 | Os recursos necessários para a execução do cenário estão listados? |  |  | Listar os recursos necessários previne a falta de elementos críticos durante a execução do cenário, garantindo que todos os pré-requisitos técnicos e materiais estejam disponíveis<a id="anchor_1" href="#REF1">^1^</a>. |
-| 15 | Todas as possíveis exceções e situações anômalas estão identificadas? |  |  | Identificar possíveis exceções e anomalias permite planejar respostas adequadas, aumentando a robustez do sistema e a capacidade de lidar com imprevistos<a id="anchor_1" href="#REF1">^1^</a>. |
-| 16 | Os episódios (etapas) do cenário estão descritos em uma sequência lógica? |  |  | Descrever os episódios em sequência lógica facilita a implementação e validação do cenário, garantindo que todos os passos necessários para alcançar o objetivo sejam seguidos corretamente<a id="anchor_1" href="#REF1">^1^</a>. |
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
-</center>
-
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist de verificação dos cenários de 4 a 6.</p></font>
-
-| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
-| ---- | ----------- | ----------- | ------------- | ------------- |
-| 9 | Os cenários possuem os elementos básicos de um cenário (Título, Metas, Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? | SIM | | A verificação de que os cenários possuem os elementos básicos é fundamental para a clareza dos requisitos de software. Cada elemento desempenha um papel específico e indispensável na definição e compreensão dos cenários<a id="anchor_1" href="#REF1">^1^</a>. |
+| 1 | O artefato possui uma introdução descrevendo-o? | Sim | |  |
+| 2 | O artefato possui padronização nos títulos? | Incompleto | O de introdução apresenta um marcador.<br>O primeiro cenário está com o título despadronizado também. |  |
+| 3 | O artefato, caso contenha tabelas, as referencia no texto? |  Incompleto | A tabela de 1 a 3 não são chamadas no texto. | |
+| 4 | O artefato, caso tenha figuras, as referencia no texto? | Sim |  |  |	
+| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |Sim|  |  |		
+| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |Sim|  |  |
+| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |Não|  |  |
+| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |Incompleto|Está padronizado com os outros artefatos, porém falta a data de revisão.|  | 9 | Os cenários possuem os elementos básicos de um cenário (Título, Metas, Objetivo, Contexto, Atores, Recursos, Exceção e Episódios)? | SIM | | A verificação de que os cenários possuem os elementos básicos é fundamental para a clareza dos requisitos de software. Cada elemento desempenha um papel específico e indispensável na definição e compreensão dos cenários<a id="anchor_1" href="#REF1">^1^</a>. |
 | 10 | O título é claro, descritivo e reflete o objetivo principal do cenário? | SIM | No cenário 6 não ficou muito específico o título, mas no título do documento está claro. | Um título claro e descritivo ajuda a identificar rapidamente o cenário, facilitando a comunicação entre os membros da equipe e a referência em documentos futuros<a id="anchor_1" href="#REF1">^1^</a>. |
 | 11 | A meta/objetivo do cenário está claramente definida? | SIM | | Definir claramente as metas/objetivos assegura que todos os envolvidos compreendam o propósito do cenário e possam avaliar se os requisitos atendem às necessidades<a id="anchor_1" href="#REF1">^1^</a>. |
 | 12 | O contexto inicial do cenário está claramente descrito? | SIM | | Descrever o contexto inicial garante que todas as condições pré-existentes e suposições sejam compreendidas, proporcionando uma base sólida para a interpretação correta do cenário<a id="anchor_1" href="#REF1">^1^</a>. |
