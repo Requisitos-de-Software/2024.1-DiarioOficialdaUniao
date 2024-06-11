@@ -49,7 +49,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Vídeo de Verificação</a>
 
-Vídeo de Verificação dos cenários 04, 05 e 06, executado pelos membros [Arthur Alves](https://github.com/DiegoSousaLeite) e [Eric Silveira](https://github.com/LuizGust4vo).
+Vídeo de Verificação dos cenários 04, 05 e 06, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
 
 <center>
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/IQzO99ez9Go" title="Verificação Cenários 4 a 6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
