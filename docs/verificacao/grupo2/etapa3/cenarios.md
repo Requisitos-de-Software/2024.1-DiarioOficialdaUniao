@@ -91,7 +91,7 @@ Vídeo de Verificação dos cenários 08 e 09, executado pelos membros [Diego So
 
 > <a>1. </a>BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a>1. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/>. Acesso em 10 de junho de 2024.
+> <a>2. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/>. Acesso em 10 de junho de 2024.
 
 
 ## <a>Histórico de Versão</a>
