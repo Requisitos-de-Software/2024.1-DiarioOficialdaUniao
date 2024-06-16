@@ -94,6 +94,10 @@ nav:
         - Backlog: verificacao/grupo2/etapa4/backlog.md
         - NFR Framework: verificacao/grupo2/etapa4/nfrframework.md
         - Histórias de Usuário: verificacao/grupo2/etapa4/historiasUsuario.md
+  - Pós-Rastreabilidade:
+        - Matriz de Rastreabilidade: pos-rastreabilidade/matrizRastreabilidade.md
+        - Backward From: pos-rastreabilidade/backward-from.md
+        - Foward From: pos-rastreabilidade/foward-from.md
 
 
 theme:
