@@ -6,40 +6,51 @@ Este modelo de rastreabilidade permite identificar rapidamente as partes do sist
 
 ## <a>Metodologia</a>
 
-Para o modelo de rastreabilidade, utilizaremos o meta-modelo proposto por Ramesh & Jarke<a id="anchor_2" href="#REF2">^2^</a>, que possibilita a captura de informações relacionadas a agentes, fontes e objetos – as três dimensões dos modelos de rastreabilidade.
+Para a execução dessa rastreabilidade, primeiro classificaremos as informações, pois segundo o meta-modelo de Toranzo que teremos por base, existem quatro níveis de classificação, sendo eles: ambiental, organizacional, gerencial e desenvolvimento<a id="anchor_5" href="#REF5">^5^</a>. A figura 01 ilustra esses modelos a seguir:
 
-#### Dimensões Consideradas
+<center>
+Figura 01: Classificação da informação do rastreamento.
 
-As três dimensões consideradas correspondem a:
+![Figura de Classificação](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/pos-rastreabilidade/assets/figuraClassificacao.png?raw=True)
 
-1. **Fontes (Source):**
-   - Documentos que remetem à origem dos requisitos, como normas, padrões, legislação pertinente, atas de reuniões, entre outros<a id="anchor_2" href="#REF2">^2^</a>.
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática<a id="anchor_5" href="#REF5">^5^</a>.</p></font>
+</center>
 
-2. **Interessados (Stakeholders):**
-   - Pessoas envolvidas no processo de requisitos e que possuem algum grau de interesse na rastreabilidade<a id="anchor_2" href="#REF2">^2^</a>.
+ - O **nível ambiental** congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido<a id="anchor_3" href="#REF3">^3^</a>;
+ - O **nível organizacional** reúne informações relacionadas à organização (missão, objetivos, metas e padrões) e que podem impactar os requisitos do sistema<a id="anchor_3" href="#REF3">^3^</a>;
+ - O **nível gerencial** agrega informações que permitem associar tarefas a requisitos, e que podem auxiliar a gerência do projeto<a id="anchor_3" href="#REF3">^3^</a>;
+ - O **nível desenvolvimento** abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...)<a id="anchor_3" href="#REF3">^3^</a>.
 
-3. **Objetos (Objects):**
-   - Objetos ou artefatos correspondem a objetos conceituais relacionados ao produto ou a artefatos gerados no processo de desenvolvimento<a id="anchor_2" href="#REF2">^2^</a>.
+Após essa classificação, iremos utilizar o *Modelo Intermediário para o Rastreamento de Requisitos*, cujo tem por objetivo fornecer resultado de uma combinação de fatores, como: boas práticas, estudos de casos, abstração, entre outros<a id="anchor_4" href="#REF4">^4^</a>. A literatura apresenta diversos trabalhos enfocando os tipos de relacionamentos associados à rastreabilidade, são eles os elos de rastreabilidade<a id="anchor_3" href="#REF3">^3^</a>, os principais são:
 
-#### Categorias de Elos de Rastreabilidade
+- **Satisfação:** classe origem tem dependência de satisfação com a classe destino.
+- **Recurso:** classe origem tem dependência de recurso com a classe
+destino.
+- **Responsabilidade:** registra a participação, responsabilidade e ação de pessoas sobre artefatos.
+- **Representação:** captura a representação ou modelagem dos requisitos
+em outras linguagens.
+- **Alocado:** classe origem está relacionada à classe destino, que
+representa um subsistema.
+- **Agregação:** indica “composição” de elementos.
 
-Ramesh & Jarke categorizam os elos de rastreabilidade em duas categorias básicas:
+No modelo, existem algumas notações para identificar os diferentes tipos de relacionamentos: Satisfação *<sat\>*, Recurso *<rec\>*, Responsabilidade *<resp\>*, Representação *<rep\>* e Alocado *<alo\>*<a id="anchor_4" href="#REF4">^4^</a>.
 
-1. **Relacionados ao Produto:**
-   - Elos que descrevem propriedades e relacionamentos dos objetos, subdivididos em elos de satisfação e elos de dependência<a id="anchor_2" href="#REF2">^2^</a>.
+### 
 
-2. **Relacionados ao Processo:**
-   - Elos relacionados ao histórico de ações executadas no próprio processo, subdivididos em elos de evolução e elos de rationale<a id="anchor_2" href="#REF2">^2^</a>.
 
 
 ## <a>Referência bibliográfica</a>
 
 > <a id="REF1" href="#anchor_1">1. </a> Página 4, 2.1 Rastreabilidade. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
 
-> <a id="REF2" href="#anchor_2">2. </a> Página 7 e 8, 2.3.1 Meta-modelo proposto por Ramesh. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
+> <a id="REF3" href="#anchor_3">3. </a>Página 09 e 10, 2.3.2 Meta-modelo proposto por Toranzo. TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002.
+
+> <a id="REF4" href="#anchor_4">4. </a>Página 199, 5 Modelo Intermediário para o Rastreamento de Requisitos. TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002.
+
+> <a id="REF5" href="#anchor_5">5. </a>Página 196, 3 Classificação das Informações a serem Rastreadas. TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002.
 
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 > <a">1. </a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 15 de jun de 2024.
 
