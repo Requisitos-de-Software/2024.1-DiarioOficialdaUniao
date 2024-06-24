@@ -84,7 +84,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    Tabela 03: Elos do Requisito
+    <font size="3"> Tabela 03: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
