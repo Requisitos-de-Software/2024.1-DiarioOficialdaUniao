@@ -96,10 +96,9 @@ nav:
         - NFR Framework: verificacao/grupo2/etapa4/nfrframework.md
         - Histórias de Usuário: verificacao/grupo2/etapa4/historiasUsuario.md
   - Pós-Rastreabilidade:
-        - Matriz de Rastreabilidade: pos-rastreabilidade/matrizRastreabilidade.md
         - Backward From: pos-rastreabilidade/backward-from.md
         - Forward From: pos-rastreabilidade/foward-from.md
-
+        - Matriz de Rastreabilidade: pos-rastreabilidade/matrizRastreabilidade.md
 
 theme:
   name: material
