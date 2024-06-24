@@ -480,7 +480,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 </details>
 
 <details>
-    <summary>RF10 O aplicativo deve permitir buscas detalhadas por tópicos específicos.</summary>
+    <summary>RF10 - Douglas Marinho</summary>
     <center>
     <font size="3"> Tabela 19: Estrutura de Desenvolvimento do Requisito </font>
     <table>
@@ -493,12 +493,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Análise de impacto na evolução</th>
         </tr>
         <tr>
-            <td>1.0</td>
-            <td>Buscas detalhadas por tópicos específicos</td>
-            <td>Resolvido</td>
-            <td>Teste de Busca Detalhada</td>
-            <td>Sim</td>
-            <td>Baixo</td>
+            <td>1.2</td>
+            <td>O aplicativo deve permitir buscas detalhadas por tópicos específicos. </td>
+            <td>Este requisito não conflita com outros requisitos porém seria integrado a busca comum.</td>
+            <td>Verificar por meio de teste utilizando dados específicos para uma certa busca</td>
+            <td>Através de relatórios de bug e feedbacks de usuários.</td>
+            <td>Médio impacto: Afeta principalmente a usuários que buscam algo com maior precisão</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -516,12 +516,32 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Backlog</th>
         </tr>
         <tr>
-            <td>Busca detalhada</td>
-            <td>Termos de Busca Detalhada</td>
+            <td>C03 - Busca por Palavras-chave</td>
+            <td>L01: Filtrar Publicações</td>
             <td>UC10 - Busca Detalhada</td>
-            <td>Detalhes de Busca Detalhada</td>
-            <td>Como usuário, quero fazer buscas detalhadas por tópicos específicos</td>
-            <td>Sim</td>
+            <td>DES01 - O sistema deve, mostrar como padrão no máximo 15 diários por página</td>
+            <td>CUS03 - Paginação na Guia Meu Diário , US05- Busca por Palavras-chave, US07 - Filtros Temáticos e Geográficos</td>
+            <td>Épico 3 - Busca e Organização de Conteúdo</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+    </center>
+    <center>
+    Tabela 21: Elos do Requisito
+    <table>
+        <tr>
+            <th>Tipo de Elo</th>
+            <th>Categoria</th>
+            <th>Elementos Rastreáveis</th>
+            <th>Descrição do ELO</th>
+            <th>Requisitos Relacionados</th>
+        </tr>
+        <tr>
+            <td>Dependência</td>
+            <td>Desenvolvimento</td>
+            <td>Busca e seus respectivos filtros</td>
+            <td>Elo que permite buscas avançadas, atendendo às necessidades dos usuários de encontrar informações específicas de maneira eficiente.</td>
+            <td>RNF06, RNF13, RN03</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
