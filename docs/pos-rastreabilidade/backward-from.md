@@ -602,9 +602,7 @@ A seguir, serão apresentadas as tabelas que contêm os requisitos não funciona
     |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
     | Nome do Requisito      | Implementação de medidas de acessibilidade para usuários com deficiência.                                                                                                                |
     | ID do Requisito        | [OBS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                       |
-    | Origem
-
-                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                 |
+    | Origem| [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                 |
     | Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito garante que o sistema seja acessível a todos os usuários, incluindo aqueles com deficiência, seguindo as melhores práticas de acessibilidade.                                                                  |
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
