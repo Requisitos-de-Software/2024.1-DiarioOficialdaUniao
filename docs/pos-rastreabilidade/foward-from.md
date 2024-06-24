@@ -1910,41 +1910,48 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
-
 </details>
 
 <details>
     <summary>RNF02 Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</summary>
         OBS11
 </details>
+
 <details>
     <summary>RNF03 Design responsivo que se adapta a tablets e smartphones.</summary>
         OBS12
 </details>
+
 <details>
     <summary>RNF04 Segurança de dados com criptografia de ponta-a-ponta.</summary>
         OBS13
 </details>
+
 <details>
     <summary>RNF05 Suporte multilíngue para facilitar o acesso por usuários não-nativos.</summary>
         OBS14
 </details>
+
 <details>
     <summary>RNF06 Tempo de resposta de busca inferior a 2 segundos.</summary>
         OBS15
 </details>
+
 <details>
     <summary>RNF07 Implementação de medidas de acessibilidade para usuários com deficiência.</summary>
         OBS16
 </details>
+
 <details>
     <summary>RNF08 Facilidade de atualização de conteúdo pelo gestor do sistema.</summary>
         OBS17
 </details>
+
 <details>
     <summary>RNF09 Suporte técnico com tempo de resposta de 24 horas.</summary>
         OBS18
 </details>
+
 <details>
     <summary>RNF10 O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.</summary>
         IS09
@@ -1967,10 +1974,10 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
+            <td> Verificação por meio de testes automatizados que avaliam a encriptação de dados e políticas de privacidade implementadas. </td>
+            <td> Até o momento, não foram identificados defeitos diretamente relacionados a este requisito. </td>
+            <td> A implementação deste requisito pode impactar positivamente na evolução do sistema, uma vez que a segurança e privacidade são críticas para a aceitação do usuário e requisitos regulatórios. Mudanças futuras devem considerar o fortalecimento dessas características. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -1988,12 +1995,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> Detalhes de Confiabilidade. </td>
+            <td> US12 - Comentários e Anotações em Publicações, US13 - Autenticação Multifatorial, US21 - Anotações Colaborativas </td>
+            <td> Épico 1 - Autenticação Segura e Gestão de Usuários </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2010,11 +2017,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Generalização/Especialização </td>
+            <td> Desenvolvimento </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2038,10 +2045,10 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Potenciais conflitos com outros requisitos que exigem tempo de inatividade do sistema, podem ser resolvidos através de agendamento estratégico de manutenção </td>
+            <td> Verificação através de monitoramento contínuo do tempo de atividade do aplicativo, exceto durante a manutenção programada. </td>
+            <td> Caso sejam identificados períodos de inatividade inesperados, serão conduzidas análises para identificar a causa raiz e aplicar correções. </td>
+            <td> A garantia de alta disponibilidade influencia positivamente a experiência do usuário e a confiabilidade percebida. Alterações futuras devem manter ou melhorar os níveis de disponibilidade, considerando novas tecnologias. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2059,12 +2066,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2081,11 +2088,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Inclusão </td>
+            <td> Gerencial </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2109,10 +2116,10 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Este requisito não conflita diretamente com outros requisitos, desde que a infraestrutura suporte as demandas de carga. </td>
+            <td> Verificação através de testes de performance, incluindo testes de carga para simular diferentes volumes de tráfego e garantir que o tempo de resposta permaneça abaixo de 2 segundos. </td>
+            <td> Correções podem ser necessárias caso os testes indiquem que o tempo de resposta excede 2 segundos. Isso pode envolver otimização de código, ajustes na infraestrutura ou revisão das consultas de busca. </td>
+            <td> O requisito de tempo de resposta rápida é essencial para a usabilidade e satisfação do usuário. Evoluções futuras do sistema devem considerar o impacto de novas funcionalidades no desempenho das buscas, garantindo a manutenção ou melhoria dos tempos de resposta. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2130,12 +2137,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2152,11 +2159,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Extensão </td>
+            <td> Desenvolvimento </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2180,7 +2187,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
@@ -2223,11 +2230,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> Ambiental </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2251,7 +2258,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
@@ -2272,12 +2279,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2294,11 +2301,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> Organizacional </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2322,7 +2329,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
@@ -2343,12 +2350,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2365,11 +2372,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> Desenvolvimento </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2393,7 +2400,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
@@ -2414,12 +2421,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2436,11 +2443,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> Ambiental </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2464,7 +2471,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td> 1.2 </td>
             <td> Medidas de segurança robustas. </td>
-            <td>  </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
@@ -2485,12 +2492,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2507,11 +2514,82 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
+            <td> - </td>
+            <td> Organizacional </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+    </center>
+</details>
+
+<details>
+    <summary> RNF19 - Luiz Gustavo </summary>
+
+    <center>
+    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+    <table>
+        <tr>
+            <th> Versão </th>
+            <th> Nome do Requisito </th>
+            <th> Resolução de Requisitos em Conflito </th>
+            <th> Verificação </th>
+            <th> Correção de Defeitos </th>
+            <th> Análise de Impacto na Evolução </th>
+        </tr>
+        <tr>
+            <td> 1.0 </td>
+            <td> Requisitos para suporte e manutenção. </td>
+            <td> Este requisito não conflita com outros requisitos. </td>
             <td>  </td>
             <td>  </td>
             <td>  </td>
-            <td>  </td>
-            <td>  </td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+    </center>
+
+    <center>
+    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+    <table>
+        <tr>
+            <th> Cenário </th>
+            <th> Léxico </th>
+            <th> Casos de Uso </th>
+            <th> Especificação Suplementar </th>
+            <th> História de Usuário </th>
+            <th> Backlog </th>
+        </tr>
+        <tr>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+    </center>
+
+    <center>
+    Tabela XX: Elos do Requisito
+    <table>
+        <tr>
+            <th> Tipo de Elo </th>
+            <th> Categoria </th>
+            <th> Elementos Rastreáveis </th>
+            <th> Descrição do ELO </th>
+            <th> Requisitos Relacionados </th>
+        </tr>
+        <tr>
+            <td> - </td>
+            <td> Gerencial </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
