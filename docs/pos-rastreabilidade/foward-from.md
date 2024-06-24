@@ -909,15 +909,14 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <tr>
             <td>1.2</td>
             <td>O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.</td>
-            <td>Resolvido</td>
-            <td>Teste de Estatísticas</td>
-            <td>Sim</td>
-            <td>Médio</td>
+            <td>Este requisito não conflita com nenhum outro</td>
+            <td>Verificação por meio de testes durante uso para compartilhamento de diários</td>
+            <td>Através de reportes feitos por usuários</td>
+            <td>Baixo impacto: um requisito que auxilia o compartilhamento de acesso a um diário porém sem grandes prioridades</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
-
     <center>
     <font size="3">Tabela 32: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
@@ -930,12 +929,32 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Backlog</th>
         </tr>
         <tr>
-            <td>Visualização de estatísticas</td>
-            <td>Termos de Estatísticas</td>
-            <td>UC16 - Estatísticas</td>
-            <td>Detalhes de Estatísticas</td>
-            <td>Como usuário, quero visualizar estatísticas sobre as publicações mais acessadas e comentadas</td>
-            <td>Sim</td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td>US11 - Funcionalidade de Compartilhamento Aprimorada</td>
+            <td>Épico 6 - Funcionalidades Avançadas de Documentos</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+    </center>
+    <center>
+    Tabela 33: Elos do Requisito
+    <table>
+        <tr>
+            <th>Tipo de Elo</th>
+            <th>Categoria</th>
+            <th>Elementos Rastreáveis</th>
+            <th>Descrição do ELO</th>
+            <th>Requisitos Relacionados</th>
+        </tr>
+        <tr>
+            <td>Associação</td>
+            <td>Desenvolvimento</td>
+            <td>A função de compartilhar direto no aplicativo</td>
+            <td>Um elo que auxilia o usuario a enviar diários a pessoas que podem ter o mesmo interesse</td>
+            <td>RF09</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -943,7 +962,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 </details>
 
 <details>
-    <summary>RF17 O aplicativo deve permitir a configuração de alertas personalizados com base em critérios específicos.</summary>
+    <summary>RF17 - Douglas Marinho</summary>
     <center>
     <font size="3">Tabela 33: Estrutura de Desenvolvimento do Requisito</font>
     <table>
@@ -956,12 +975,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Análise de impacto na evolução</th>
         </tr>
         <tr>
-            <td>1.0</td>
-            <td>Configuração de alertas personalizados</td>
-            <td>Resolvido</td>
-            <td>Teste de Alertas</td>
-            <td>Sim</td>
-            <td>Baixo</td>
+            <td>1.2</td>
+            <td>O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.</td>
+            <td>Esse requisito é um complemento do RF18 de busca avançada porém focado em indices dentro dos diários</td>
+            <td>Verificação por caso de teste em alterações de indices e pesquisas em documentos</td>
+            <td>Por meio de feedbacks e reportes feitos por usuários</td>
+            <td>Baixo impacto: Requisito de auxilio ao usuário a encontrar algum tema especifico</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -979,12 +998,32 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Backlog</th>
         </tr>
         <tr>
-            <td>Configuração de alertas</td>
-            <td>Termos de Alertas</td>
-            <td>UC17 - Alertas</td>
-            <td>Detalhes de Alertas</td>
-            <td>Como usuário, quero configurar alertas personalizados com base em critérios específicos</td>
-            <td>Sim</td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+    </center>
+    <center>
+    Tabela 35: Elos do Requisito
+    <table>
+        <tr>
+            <th>Tipo de Elo</th>
+            <th>Categoria</th>
+            <th>Elementos Rastreáveis</th>
+            <th>Descrição do ELO</th>
+            <th>Requisitos Relacionados</th>
+        </tr>
+        <tr>
+            <td>Associação</td>
+            <td>Organizacional</td>
+            <td>A função permite a busca em indice</td>
+            <td>Um elo que auxilia o usuario a encontrar temas ou assuntos por meio de busca em documento</td>
+            <td>RF18</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -992,7 +1031,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 </details>
 
 <details>
-    <summary>RF18 O aplicativo deve permitir a exportação de documentos em formatos diferentes (PDF, DOCX, etc.).</summary>
+    <summary>RF18 - Douglas Marinho</summary>
     <center>
     <font size="3">Tabela 35: Estrutura de Desenvolvimento do Requisito</font>
     <table>
@@ -1006,11 +1045,11 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         </tr>
         <tr>
             <td>1.0</td>
-            <td>Exportação de documentos</td>
-            <td>Resolvido</td>
-            <td>Teste de Exportação</td>
-            <td>Sim</td>
-            <td>Médio</td>
+            <td>Sistema de busca avançada</td>
+            <td>Este requisito não conflita com outros requisitos, porém integra como base para alguns como o RF17</td>
+            <td>Por meio de teste em filtros e resultados</td>
+            <td>Através de testes e reportes por usuários</td>
+            <td>Médio impacto: Auxiliando na busca acelera o uso do aplicativo facilitando o acesso ao usuário</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -1028,12 +1067,32 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th>Backlog</th>
         </tr>
         <tr>
-            <td>Exportação de documentos</td>
-            <td>Termos de Exportação</td>
-            <td>UC18 - Exportação</td>
-            <td>Detalhes de Exportação</td>
-            <td>Como usuário, quero exportar documentos em formatos diferentes (PDF, DOCX, etc.)</td>
-            <td>Sim</td>
+            <td>C03 - Busca por Palavras-chave</td>
+            <td>L01 - Filtrar Publicações</td>
+            <td>UC01 - Consultar Documentos Legislativos</td>
+            <td>DES01 - O sistema deve, mostrar como padrão no máximo 15 diários por página</td>
+            <td>US05 - Busca por Palavras-chave, US07 - Filtros Temáticos e Geográficos</td>
+            <td>Épico 3 - Busca e Organização de Conteúdo</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+    </center>
+    <center>
+    Tabela 37: Elos do Requisito
+    <table>
+        <tr>
+            <th>Tipo de Elo</th>
+            <th>Categoria</th>
+            <th>Elementos Rastreáveis</th>
+            <th>Descrição do ELO</th>
+            <th>Requisitos Relacionados</th>
+        </tr>
+        <tr>
+            <td>Dependência</td>
+            <td>Desenvolvimento</td>
+            <td>A função permite a busca utilizando filtros avançados</td>
+            <td>Um elo que auxilia o usuario a encontrar documentos especificos com maior facilidade</td>
+            <td>RF17, RF21, RNF06, RNF13, RF03, RF10</td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
