@@ -1674,50 +1674,793 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
     <summary>RNF01 Alta disponibilidade do sistema, com 99,9% de uptime.</summary>
         OBS10
 </details>
+
 <details>
     <summary>RNF02 Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</summary>
-        OBS11
+    <center>
+    <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Compatibilidade</td>
+            <td>Atualizações e correções baseadas em relatórios de compatibilidade</td>
+            <td>Médio: Pode exigir ajustes contínuos conforme novas versões de SOs são lançadas</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>C05 - Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>US16 - Compatibilidade com Sistemas Operacionais Móveis</td>
+        <td>Épico 5 - Infraestrutura e Suporte</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Compatibilidade</td>
+        <td>Desenvolvimento</td>
+        <td>Sistemas Operacionais Móveis</td>
+        <td>Elo que garante que o aplicativo seja compatível com as versões mais recentes de sistemas operacionais móveis, garantindo seu funcionamento adequado.</td>
+        <td> --- </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF03 Design responsivo que se adapta a tablets e smartphones.</summary>
-        OBS12
+        
+<center>
+<font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+<table>
+    <tr>
+        <th>Versão</th>
+        <th>Nome do Requisito</th>
+        <th>Resolução de requisitos em conflito</th>
+        <th>Verificação</th>
+        <th>Correção de Defeitos</th>
+        <th>Análise de impacto na evolução</th>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Design responsivo que se adapta a tablets e smartphones.</td>
+        <td>Este requisito não possui conflitos com outros requisitos</td>
+        <td>Testes de Responsividade em dispositivos variados</td>
+        <td>Correções baseadas em feedbacks de usuários e testes de usabilidade</td>
+        <td>Médio: Pode exigir atualizações regulares conforme novos dispositivos são lançados</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>C04 - Design responsivo que se adapta a tablets e smartphones</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>US19 - Design Responsivo para Dispositivos Móveis</td>
+        <td>Épico 2 - Acessibilidade e Usabilidade</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Compatibilidade</td>
+        <td>Design</td>
+        <td>Dispositivos móveis (tablets e smartphones)</td>
+        <td>Elo que garante que o design do aplicativo seja responsivo e se adapte adequadamente a diferentes tamanhos de tela, incluindo tablets e smartphones.</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF04 Segurança de dados com criptografia de ponta-a-ponta.</summary>
-        OBS13
+        <center>
+    <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+    <tr>
+        <th>Versão</th>
+        <th>Nome do Requisito</th>
+        <th>Resolução de requisitos em conflito</th>
+        <th>Verificação</th>
+        <th>Correção de Defeitos</th>
+        <th>Análise de impacto na evolução</th>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Segurança de dados com criptografia de ponta-a-ponta.</td>
+        <td>Este requisito não possui conflitos com outros requisitos</td>
+        <td>Testes de Segurança e Auditorias</td>
+        <td>Correções baseadas em testes de penetração e relatórios de vulnerabilidade</td>
+        <td>Alto: Necessita atualizações contínuas conforme novas vulnerabilidades são descobertas</td>
+    </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>CON06 - O sistema deve evitar que o usuário execute atividades que possam comprometer a integridade do sistema.</td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+<tr>
+    <th>Tipo de Elo</th>
+    <th>Categoria</th>
+    <th>Elementos Rastreáveis</th>
+    <th>Descrição do ELO</th>
+    <th>Requisitos Relacionados</th>
+</tr>
+<tr>
+    <td>Segurança</td>
+    <td>Desenvolvimento</td>
+    <td>Algoritmos de Criptografia, Protocolos de Segurança</td>
+    <td>Elo que garante a segurança dos dados transmitidos e armazenados através de criptografia de ponta-a-ponta, protegendo contra acesso não autorizado.</td>
+    <td>---</td>
+</tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF05 Suporte multilíngue para facilitar o acesso por usuários não-nativos.</summary>
-        OBS14
+    <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+    <tr>
+        <th>Versão</th>
+        <th>Nome do Requisito</th>
+        <th>Resolução de requisitos em conflito</th>
+        <th>Verificação</th>
+        <th>Correção de Defeitos</th>
+        <th>Análise de impacto na evolução</th>
+    </tr>
+    <tr>
+        <td>1.1</td>
+        <td>Suporte multilíngue para facilitar o acesso por usuários não-nativos.</td>
+        <td>Este requisito não possui conflitos com outros requisitos</td>
+        <td>Testes de Internacionalização e Localização</td>
+        <td>Correções baseadas em feedbacks de usuários e testes de localização</td>
+        <td>Médio: Pode exigir a adição de novos idiomas conforme a base de usuários cresce</td>
+    </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>C06 - Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>US06 - Suporte Multilíngue</td>
+        <td>Épico 7 - Multilíngue e Internacionalização</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Internacionalização</td>
+        <td>Desenvolvimento</td>
+        <td>Idiomas Suportados</td>
+        <td>Elo que garante que o aplicativo ofereça suporte a múltiplos idiomas, facilitando o acesso e a usabilidade para usuários não-nativos.</td>
+        <td>RF22</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF06 Tempo de resposta de busca inferior a 2 segundos.</summary>
-        OBS15
+    <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Tempo de resposta de busca inferior a 2 segundos.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Desempenho e Benchmarking</td>
+            <td>Correções baseadas em monitoramento de desempenho e análise de logs</td>
+            <td>Médio: Pode exigir otimizações contínuas conforme o volume de dados aumenta</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>C03 - Busca por Palavras-chave</td>
+        <td>---</td>
+        <td>---</td>
+        <td>DES06 - O sistema deve garantir um tempo de resposta não superior a 1 segundo.</td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Desempenho</td>
+        <td>Desenvolvimento</td>
+        <td>Tempo de Resposta, Velocidade de Busca</td>
+        <td>Elo que garante que as buscas no sistema retornem resultados em menos de 2 segundos, proporcionando uma experiência rápida e eficiente para o usuário.</td>
+        <td>---</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF07 Implementação de medidas de acessibilidade para usuários com deficiência.</summary>
-        OBS16
+        <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Implementação de medidas de acessibilidade para usuários com deficiência.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Acessibilidade e Auditorias</td>
+            <td>Correções baseadas em feedbacks de usuários e testes de acessibilidade</td>
+            <td>Alto: Necessita atualizações contínuas conforme novas tecnologias e diretrizes de acessibilidade são desenvolvidas</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>US14 - Acessibilidade para Usuários com Deficiência Visual</td>
+        <td>Épico 2 - Acessibilidade e Usabilidade</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Acessibilidade</td>
+        <td>Desenvolvimento</td>
+        <td>Ferramentas de Acessibilidade, Diretrizes de Acessibilidade</td>
+        <td>Elo que garante a implementação de medidas de acessibilidade no aplicativo, facilitando o uso por pessoas com deficiência.</td>
+        <td>RF19</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF08 Facilidade de atualização de conteúdo pelo gestor do sistema.</summary>
-        OBS17
+    <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Facilidade de atualização de conteúdo pelo gestor do sistema.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Usabilidade e Revisões pelo Gestor</td>
+            <td>Correções baseadas em feedback do gestor e testes de atualização</td>
+            <td>Baixo: Requer apenas ajustes menores com base em feedbacks periódicos</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Usabilidade</td>
+        <td>Gestão de Conteúdo</td>
+        <td>Ferramentas de Atualização de Conteúdo</td>
+        <td>Elo que garante que o gestor do sistema possa atualizar o conteúdo com facilidade, mantendo a informação atualizada e relevante.</td>
+        <td>---</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF09 Suporte técnico com tempo de resposta de 24 horas.</summary>
-        OBS18
+        <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Suporte técnico com tempo de resposta de 24 horas.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Monitoramento de Tempo de Resposta e Relatórios de Atendimento</td>
+            <td>Correções baseadas em feedbacks de usuários e revisão dos processos de atendimento</td>
+            <td>Médio: Pode exigir ajustes no processo de atendimento conforme o volume de solicitações aumenta</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>C07 - Suporte Técnico com Tempo de Resposta de 24 Horas</td>
+        <td>---</td>
+        <td>---</td>
+        <td>
+        CON05	O aplicativo deve possuir um sistema de suporte ao usuário,
+        SUP03 - O sistema deve oferecer suporte ao usuário através de canais apropriados e uma equipe disponível.
+        </td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Suporte</td>
+        <td>Atendimento ao Cliente</td>
+        <td>Tempo de Resposta, Qualidade do Atendimento</td>
+        <td>Elo que garante que o suporte técnico responda às solicitações dos usuários dentro de 24 horas, assegurando um atendimento eficiente e rápido.</td>
+        <td>---</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF10 O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.</summary>
-        IS09
+            <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Usabilidade e Feedbacks de Usuários</td>
+            <td>Correções baseadas em testes de usabilidade e análise de feedbacks</td>
+            <td>Baixo: Ajustes de interface conforme novos recursos são adicionados</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>
+            USA04 - O aplicativo deve oferecer uma interface padronizada que garanta conforto visual ao usuário, seguindo os princípios de ergonomia no design de UI 3,
+            DES02 - O sistema deve oferecer uma navegação fluida e sem interrupções, com caminhos organizados de forma lógica,
+            DES04 - O aplicativo deve ter uma interface de design simplificado, seguindo os princípios de ergonomia no design de UI.
+        </td>
+        <td>US17 - Navegação Intuitiva</td>
+        <td>Épico 2 - Acessibilidade e Usabilidade</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Usabilidade</td>
+        <td>Interface do Usuário</td>
+        <td>Layout, Navegação</td>
+        <td>Elo que garante que a interface do usuário do aplicativo seja intuitiva e fácil de navegar, proporcionando uma experiência positiva ao usuário.</td>
+        <td>RF24</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF11 O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.</summary>
-        IS10
+                <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Testes de Segurança e Auditorias</td>
+            <td>Correções baseadas em testes de penetração e relatórios de segurança</td>
+            <td>Alto: Necessita atualizações regulares para manter a proteção contra novas ameaças e vulnerabilidades</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>US13 - Autenticação Multifatorial</td>
+        <td>Épico 1 - Autenticação Segura e Gestão de Usuários</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Segurança</td>
+        <td>Proteção de Dados</td>
+        <td>Políticas de Privacidade, Criptografia, Controles de Acesso</td>
+        <td>Elo que garante que os dados dos usuários sejam protegidos contra acesso não autorizado, utilizando práticas de segurança como criptografia e controle de acesso.</td>
+        <td>RF01</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF12 O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.</summary>
-        IS11
+                <center>
+            <font size="3">Tabela x: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Monitoramento de Disponibilidade e Relatórios de Manutenção</td>
+            <td>Correções baseadas em análises de incidentes e melhorias na infraestrutura</td>
+            <td>Médio: Pode exigir ajustes contínuos para garantir alta disponibilidade e mínima interrupção de serviço</td>
+        </tr>
+</table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela x: Artefatos Gerados Pelos Requisitos Não Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>CON01 - O sistema deve ser acessível 24 horas por dia, 7 dias por semana, ou seja, de maneira ininterrupta.</td>
+        <td>---</td>
+        <td>---</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
+
+<center>
+<font size="3">Tabela x: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Disponibilidade</td>
+        <td>Infraestrutura</td>
+        <td>Monitoramento de Servidores, Planos de Contingência</td>
+        <td>Elo que garante que o aplicativo esteja disponível 24/7, exceto durante manutenções programadas, assegurando uma experiência contínua para os usuários.</td>
+        <td>---</td>
+    </tr>
+</table>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
+</center>
 </details>
+
 <details>
     <summary>RNF13 O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas.</summary>
         IS12
