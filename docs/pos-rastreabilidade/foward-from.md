@@ -1671,9 +1671,76 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 ## <a>Rastreabilidade dos Requisitos Não Funcionais</a>
 
 <details>
-    <summary>RNF01 Alta disponibilidade do sistema, com 99,9% de uptime.</summary>
-        OBS10
+    <summary>RNF01 - Alta disponibilidade do sistema, com 99,9% de uptime.</summary>
+    <center>
+    <font size="3">Tabela 37: Estrutura de Desenvolvimento do Requisito</font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>1.1</td>
+            <td>Alta disponibilidade do sistema, com 99,9% de uptime.</td>
+            <td>Este requisito não possui conflitos com outros requisitos</td>
+            <td>Teste com usuário</td>
+            <td>Através de relatórios de bug e feedbacks de usuários</td>
+            <td>Alta: O aplicativo deve funcionar durante qualquer período do dia</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    </center>
+
+<center>
+<font size="3">Tabela 38: Artefatos Gerados Pelos Requisitos Não-Funcionais</font>
+<table>
+    <tr>
+        <th>Cenário</th>
+        <th>Léxico</th>
+        <th>Casos de Uso</th>
+        <th>Especificação Suplementar</th>
+        <th>História de Usuário</th>
+        <th>Backlog</th>
+    </tr>
+    <tr>
+        <td> --- </td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>---</td>
+        <td>Épico 5: Infraestrutura e Suporte</td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+</center>
+
+<center>
+<font size="3">Tabela 21: Elos do Requisito</font>
+<table>
+    <tr>
+        <th>Tipo de Elo</th>
+        <th>Categoria</th>
+        <th>Elementos Rastreáveis</th>
+        <th>Descrição do ELO</th>
+        <th>Requisitos Relacionados</th>
+    </tr>
+    <tr>
+        <td>Especialização:</td>
+        <td>Ambiental</td>
+        <td>Aplicativo operacional durante 99,9% do dia</td>
+        <td>Elo que garante a disponibilidade do aplicativo</td>
+        <td> --- </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+</center>
+
 </details>
+
 <details>
     <summary>RNF02 Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</summary>
         OBS11
