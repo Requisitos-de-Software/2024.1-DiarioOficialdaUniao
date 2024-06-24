@@ -328,6 +328,180 @@ Figura 01: Classificação da informação do rastreamento.
 | Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11)                 |
 | Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito aborda a melhoria na interação entre usuários dentro do aplicativo, promovendo uma comunicação mais eficaz e colaborativa entre os membros da comunidade.                                                                  |
 
+
+#### Requisito RNF01
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Alta disponibilidade do sistema, com 99,9% de uptime.                                                                                              |
+| ID do Requisito        | [OBS10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS10)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS10)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Este requisito garante que o sistema esteja disponível e operacional a maior parte do tempo, minimizando interrupções no serviço oferecido aos usuários.                                                                 |
+
+#### Requisito RNF02
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Compatibilidade com as versões mais recentes de sistemas operacionais móveis.                                                                                                                |
+| ID do Requisito        | [OBS11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS11)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS11)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito assegura que o aplicativo funcionará corretamente nas versões mais recentes dos sistemas operacionais móveis, proporcionando uma melhor experiência para os usuários.                                                                  |
+
+#### Requisito RNF03
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Design responsivo que se adapta a tablets e smartphones.                                                                                                    |
+| ID do Requisito        | [OBS12](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS12)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS12)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito envolve a criação de um design que se adapte automaticamente a diferentes tamanhos de tela, garantindo uma experiência de usuário consistente e agradável em tablets e smartphones.                                                                 |
+
+#### Requisito RNF04
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Segurança de dados com criptografia de ponta-a-ponta.                                                                                                               |
+| ID do Requisito        | [OBS13](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS13)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS13)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito assegura a proteção das informações dos usuários através de criptografia de ponta-a-ponta, garantindo que os dados estejam seguros durante a transmissão e o armazenamento.                                                                 |
+
+#### Requisito RNF05
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Suporte multilíngue para facilitar o acesso por usuários não-nativos.                                                                                                          |
+| ID do Requisito        | [OBS14](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS14)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS14)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito garante que o sistema suporte múltiplas línguas, permitindo que usuários de diferentes nacionalidades possam utilizar o aplicativo em seu idioma nativo.                                                                 |
+
+#### Requisito RNF06
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Tempo de resposta de busca inferior a 2 segundos.                                                                                              |
+| ID do Requisito        | [OBS15](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS15)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS15)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito visa garantir que as consultas ao sistema sejam rápidas e eficientes, melhorando a experiência do usuário e a usabilidade do aplicativo.                                                                 |
+
+#### Requisito RNF07
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Implementação de medidas de acessibilidade para usuários com deficiência.                                                                                                                |
+| ID do Requisito        | [OBS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito garante que o sistema seja acessível a todos os usuários, incluindo aqueles com deficiência, seguindo as melhores práticas de acessibilidade.                                                                  |
+
+#### Requisito RNF08
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Facilidade de atualização de conteúdo pelo gestor do sistema.                                                                                                    |
+| ID do Requisito        | [OBS17](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS17)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS17)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito assegura que o gestor do sistema possa atualizar o conteúdo de forma eficiente e sem complicações, garantindo a atualização contínua das informações disponíveis.                                                                 |
+
+#### Requisito RNF09
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Suporte técnico com tempo de resposta de 24 horas.                                                                                                               |
+| ID do Requisito        | [OBS18](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS18)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS18)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito assegura que o suporte técnico esteja disponível para resolver problemas de usuários em um tempo máximo de 24 horas, melhorando a confiabilidade e a satisfação do usuário.                                                                 |
+
+#### Requisito RNF10
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.                                                                                                          |
+| ID do Requisito        | [IS09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS09)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS09)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito visa garantir que o aplicativo seja fácil de usar e que os usuários possam navegar pela interface de forma intuitiva, melhorando a usabilidade geral.                                                                 |
+
+
+#### Requisito RNF11
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.                                                            |
+| ID do Requisito        | [IS10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS10)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS10)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Garantir que os dados dos usuários sejam protegidos contra acessos não autorizados e violações de privacidade.                             |
+
+#### Requisito RNF12
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.                                                 |
+| ID do Requisito        | [IS11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS11)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS11)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Assegurar que o sistema esteja sempre disponível para os usuários, exceto durante a manutenção programada.                                             |
+
+#### Requisito RNF13
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas.                                                       |
+| ID do Requisito        | [IS12](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS12)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS12)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Garantir que o sistema responda rapidamente às consultas dos usuários.                                                             |
+
+#### Requisito RNF14
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.                                                                     |
+| ID do Requisito        | [IS13](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS13)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS13)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Assegurar que o sistema esteja em conformidade com os padrões de acessibilidade web estabelecidos.                                                |
+
+#### Requisito RNF15
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.                                                              |
+| ID do Requisito        | [IS14](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS14)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS14)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Garantir que os dados possam ser recuperados de forma segura e eficiente em caso de falhas ou desastres.
+
+
+#### Requisito RNF16
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.                                                |
+| ID do Requisito        | [IS15](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS15)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS15)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Garantir que o sistema possa crescer e se adaptar a um aumento na carga de trabalho sem comprometer o desempenho.                       |
+
+#### Requisito RNF17
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.                                          |
+| ID do Requisito        | [IS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS16)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS16)               |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Assegurar que o sistema possa ser utilizado por usuários que falam diferentes idiomas, facilitando a inclusão.                                                 |
+
+#### Requisito RNF18
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Medidas de segurança robustas                                                                                                             |
+| ID do Requisito        | [ENT07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT07)                            |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT07)                       |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Implementar medidas rigorosas para proteger o sistema contra ameaças de segurança, garantindo a integridade e confidencialidade dos dados.               |
+
+#### Requisito RNF19
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Requisitos para suporte e manutenção                                                                                                      |
+| ID do Requisito        | [ENT09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09)                            |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09)                       |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Definir requisitos claros para o suporte e a manutenção do sistema, assegurando que ele permaneça operacional e atualizado ao longo do tempo.                     |
+
 ## <a>Referência bibliográfica</a>
 
 > <a id="REF1" href="#anchor_1">1. </a> Página 4, 2.1 Rastreabilidade. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.
