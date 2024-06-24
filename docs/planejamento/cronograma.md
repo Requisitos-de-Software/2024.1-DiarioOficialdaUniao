@@ -216,13 +216,29 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     | Atividade  | Período de desenvolvimento | Responsável  | Revisão  | Revisores | Data da Entrega |
     |------------------------------------------------|-----------------------------|--------------------------------------------------|--------------------------------------|---------------------------------------------------------------|-----------------|
-    | Pós-rastreabilidade: Backward-form  | Início dia 11/06 Fim dia 15/06 | Arthur Alves, Eric Silveira e Douglas Marinho| Início dia 16/06 Fim dia 17/06   | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 17/06   |
-    | Pós-rastreabilidade: Forward-form   | Início dia 11/06 Fim dia 15/06 | Diego Sousa, Henrique Torres, João Artur e Luiz Gustavo | Início dia 16/06 Fim dia 17/06 | Arthur Alves, Eric Silveira e Douglas Marinho | 17/06   |
-    | Iteração do Git Pages  | Início dia 11/06 Fim dia 16/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 17/06 Fim dia 18/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 17/06   |
-    | Período de gravação da apresentação| Início dia 14/06 Fim dia 15/06 | Douglas Marinho  | Início dia 19/06 Fim dia 20/06   | Eric Silveira | 17/06   |
+    | Pós-rastreabilidade: Backward-form  | Início dia 11/06 Fim dia 15/06 | Arthur Alves, Eric Silveira e Douglas Marinho| Início dia 16/06 Fim dia 17/06   | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 24/06   |
+    | Pós-rastreabilidade: Forward-form   | Início dia 11/06 Fim dia 15/06 | Diego Sousa, Henrique Torres, João Artur e Luiz Gustavo | Início dia 16/06 Fim dia 17/06 | Arthur Alves, Eric Silveira e Douglas Marinho | 24/06   |
+    | Iteração do Git Pages  | Início dia 11/06 Fim dia 16/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 17/06 Fim dia 18/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 24/06   |
+    | Período de gravação da apresentação| Início dia 14/06 Fim dia 15/06 | Douglas Marinho  | Início dia 19/06 Fim dia 20/06   | Eric Silveira | 24/06   |
     | Correção pós apresentação  | Início dia 19/06 Fim dia 20/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 21/06 Fim dia 22/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+=== "Cronograma Executado"
+    Na Tabela 14, tem-se o cronograma executado para todas as atividades da sexta entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Pós-Rastreabilidade</p></font>
+
+    | Atividade  | Período de desenvolvimento | Responsável  | Revisão  | Revisores | Data da Entrega |
+    |------------------------------------------------|-----------------------------|--------------------------------------------------|--------------------------------------|---------------------------------------------------------------|-----------------|
+    | Pós-rastreabilidade: Backward-form  | Início dia 15/06 Fim dia 24/06 | Arthur Alves e Eric Silveira | 24/06   | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 24/06   |
+    | Pós-rastreabilidade: Forward-form   | Início dia 15/06 Fim dia 24/06 | Diego Sousa, Douglas Marinho, Henrique Torres, João Artur e Luiz Gustavo |  24/06    | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 24/06   |
+    | Pós-rastreabilidade: Matriz de Rastreabilidade  | Início dia 15/06 Fim dia 24/06 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 15/06 Fim dia 24/06    | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 24/06   |
+    | Iteração do Git Pages  | Início dia 11/06 Fim dia 16/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 17/06 Fim dia 18/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | 24/06   |
+    | Período de gravação da apresentação| Início dia 14/06 Fim dia 15/06 | Douglas Marinho  | Início dia 19/06 Fim dia 20/06   | Eric Silveira | 24/06   |
+    | Correção pós apresentação  | Início dia 19/06 Fim dia 20/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 21/06 Fim dia 22/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
+
+    <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
 ## Entrega Final
 
@@ -258,3 +274,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.6`|20/05/2024|20/05/2024| Atualizando todo o cronograma executado da terceira entrega | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok) |
 |`1.7`|27/05/2024|27/05/2024| Atualizando todo o cronograma executado da quarta entrega | [Diego Sousa](https://github.com/DiegoSousaLeite) |[Eric Silveira](https://github.com/ericbky) |
 |`1.8`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`1.9`|24/06/2024 | 24/06/2024 | Adicionando Cronograma Executado da entrega 6| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |

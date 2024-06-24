@@ -98,7 +98,7 @@ nav:
   - Pós-Rastreabilidade:
         - Matriz de Rastreabilidade: pos-rastreabilidade/matrizRastreabilidade.md
         - Backward From: pos-rastreabilidade/backward-from.md
-        - Foward From: pos-rastreabilidade/foward-from.md
+        - Forward From: pos-rastreabilidade/foward-from.md
 
 
 theme:
