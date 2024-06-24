@@ -91,16 +91,9 @@ A seguir, a Tabela 01 representa a estrutura utilizada para documentar as origen
 
 
 
+## <a>Tabela de Níveis dos Requisitos Funcionais</a>
 
-## AQUI
-
-
-
-
-### Tabela de Níveis dos Requisitos
-
-
-### Tabela de Níveis dos Requisitos
+A seguir, serão apresentadas as tabelas contendo os requisitos funcionais do projeto. Estas tabelas documentam informações essenciais sobre cada requisito, que proporcionam um rastreamento eficaz e uma compreensão clara dos requisitos no contexto do projeto.
 
 ??? "RF01 - Autenticação de usuários para acesso seguro."
 
@@ -547,7 +540,9 @@ A seguir, a Tabela 01 representa a estrutura utilizada para documentar as origen
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### Tabela de Níveis dos Requisitos Não Funcionais
+## <a>Tabela de Níveis dos Requisitos Não Funcionais</a>
+
+A seguir, serão apresentadas as tabelas que contêm os requisitos não funcionais do projeto. Essas tabelas detalham informações cruciais sobre cada requisito, permitindo um rastreamento eficaz e uma compreensão clara no contexto do projeto.
 
 ??? "RNF01 - Alta disponibilidade do sistema, com 99,9% de uptime."
 
@@ -896,3 +891,4 @@ A seguir, a Tabela 01 representa a estrutura utilizada para documentar as origen
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|15/06/2024|16/06/2024|Criação do Documento, inserção da introdução e da metodologia. | [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|
+|`1.1`|23/06/2024|16/06/2024|Inserção das tabelas e dos requisitos. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0), [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
