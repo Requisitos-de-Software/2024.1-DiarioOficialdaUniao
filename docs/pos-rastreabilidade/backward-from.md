@@ -9,7 +9,7 @@ Este modelo de rastreabilidade permite identificar rapidamente as partes do sist
 Para a execução dessa rastreabilidade, primeiro classificaremos as informações, pois segundo o meta-modelo de Toranzo que teremos por base, existem quatro níveis de classificação, sendo eles: ambiental, organizacional, gerencial e desenvolvimento<a id="anchor_5" href="#REF5">^5^</a>. A figura 01 ilustra esses modelos a seguir:
 
 <center>
-Figura 01: Classificação da informação do rastreamento.
+**Figura 01:** Classificação da informação do rastreamento.
 
 ![Figura de Classificação](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/pos-rastreabilidade/assets/figuraClassificacao.png?raw=True)
 
@@ -22,7 +22,18 @@ Figura 01: Classificação da informação do rastreamento.
  - O **nível desenvolvimento** abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...)<a id="anchor_3" href="#REF3">^3^</a>.
 
 
+A seguir, a Tabela 01 representa a estrutura utilizada para documentar as origens dos requisitos no artefato. Ela detalha informações essenciais como o nome, identificador único, origem e nível do requisito, permitindo um rastreamento eficaz e compreensão clara de cada requisito no contexto do projeto.
 
+<p style="text-align: center"><b>Tabela 01:</b> Estrutura das tabelas dos requisitos do backward from.</p>
+
+| Informações | Detalhes|
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito| Indica o que o requisito está pedindo ou descrevendo.|
+| ID do Requisito  | Fornece um identificador único que pode ser usado para referenciar este requisito específico de maneira consistente em toda a documentação e durante o desenvolvimento. |
+| Origem| Especifica como ou de onde o requisito foi obtido.|
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | Classifica o requisito em um nível específico para ajudar a entender seu impacto e onde ele se aplica, já explicado anteriormente. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 
 | Tipo | Descrição | ID |
@@ -99,7 +110,7 @@ Figura 01: Classificação da informação do rastreamento.
 
     <p style="text-align: center"><b>Tabela 02:</b> Autenticação de usuários para acesso seguro.</p>
 
-    | Informações            | Detalhes                                                                                                                                  |
+    | Informações | Detalhes                                                                                                              |
     |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
     | Nome do Requisito      | Autenticação de usuários para acesso seguro.                                                                                              |
     | ID do Requisito        | [OBS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01)                       |
@@ -846,7 +857,7 @@ Figura 01: Classificação da informação do rastreamento.
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font >
 
-?? - RNF19 "Requisitos para suporte e manutenção."
+??? - RNF19 "Requisitos para suporte e manutenção."
 
     #### Requisito RNF19
 
