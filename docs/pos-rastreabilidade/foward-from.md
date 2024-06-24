@@ -1158,7 +1158,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         </tr>
         <tr>
             <td>Generalização</td>
-            <td>Ambiental</td>
+            <td>Gerencial</td>
             <td> --- </td>
             <td>Elo que permite uma melhor acessibilidade, atendendo às necessidades dos usuários de encontrar informações específicas de maneira eficiente.</td>
             <td> RF20 </td>
@@ -1228,7 +1228,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
     </tr>
     <tr>
         <td>Generalização</td>
-        <td>Ambiental</td>
+        <td>Desenvolvimento</td>
         <td> --- </td>
         <td>Elo que permite uma melhor usabilidade do sistema, atendendo às necessidades dos usuários, de um software mais intuitivo.</td>
         <td> RF19 </td>
@@ -1657,7 +1657,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
     </tr>
     <tr>
         <td>Extensão</td>
-        <td>Desenvolvimento</td>
+        <td>Organizacional</td>
         <td>Ferramentas de Comunicação</td>
         <td>Elo que permite a melhoria na interação entre usuários, facilitando a comunicação e colaboração.</td>
         <td> --- </td>
