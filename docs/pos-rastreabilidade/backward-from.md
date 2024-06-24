@@ -21,21 +21,8 @@ Figura 01: Classificação da informação do rastreamento.
  - O **nível gerencial** agrega informações que permitem associar tarefas a requisitos, e que podem auxiliar a gerência do projeto<a id="anchor_3" href="#REF3">^3^</a>;
  - O **nível desenvolvimento** abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...)<a id="anchor_3" href="#REF3">^3^</a>.
 
-Após essa classificação, iremos utilizar o *Modelo Intermediário para o Rastreamento de Requisitos*, cujo tem por objetivo fornecer resultado de uma combinação de fatores, como: boas práticas, estudos de casos, abstração, entre outros<a id="anchor_4" href="#REF4">^4^</a>. A literatura apresenta diversos trabalhos enfocando os tipos de relacionamentos associados à rastreabilidade, são eles os elos de rastreabilidade<a id="anchor_3" href="#REF3">^3^</a>, os principais são:
 
-- **Satisfação:** classe origem tem dependência de satisfação com a classe destino.
-- **Recurso:** classe origem tem dependência de recurso com a classe
-destino.
-- **Responsabilidade:** registra a participação, responsabilidade e ação de pessoas sobre artefatos.
-- **Representação:** captura a representação ou modelagem dos requisitos
-em outras linguagens.
-- **Alocado:** classe origem está relacionada à classe destino, que
-representa um subsistema.
-- **Agregação:** indica “composição” de elementos.
 
-No modelo, existem algumas notações para identificar os diferentes tipos de relacionamentos: Satisfação *<sat\>*, Recurso *<rec\>*, Responsabilidade *<resp\>*, Representação *<rep\>* e Alocado *<alo\>*<a id="anchor_4" href="#REF4">^4^</a>.
-
-### 
 
 
 | Tipo | Descrição | ID |
@@ -92,6 +79,254 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
 | RNF19 | Requisitos para suporte e manutenção | [ENT09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09) |
 
 
+
+
+## AQUI
+
+
+
+
+
+### Tabela de Níveis dos Requisitos
+
+#### Requisito RF01
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Autenticação de usuários para acesso seguro.                                                                                              |
+| ID do Requisito        | [OBS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à implementação de mecanismos de autenticação, garantindo que somente usuários autorizados possam acessar o sistema, o que é essencial para a segurança do aplicativo.                                                                                  |
+
+#### Requisito RF02
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Visualização de edições diárias do Diário Oficial.                                                                                         |
+| ID do Requisito        | [OBS02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS02)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS02)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Este requisito está relacionado à necessidade dos usuários de acessar as edições diárias do Diário Oficial, influenciando a frequência e a forma como os dados são disponibilizados e atualizados no sistema.                                                                                  |
+
+#### Requisito RF03
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Busca por palavras-chave em documentos.                                                                                                   |
+| ID do Requisito        | [OBS03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS03)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS03)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito está focado na implementação de funcionalidades que permitem aos usuários realizar buscas por palavras-chave, facilitando o acesso rápido e eficiente às informações desejadas.                                                                  |
+
+#### Requisito RF04
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Filtragem de conteúdo por data, categoria ou órgão emissor.                                                                               |
+| ID do Requisito        | [OBS04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS04)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS04)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à criação de funcionalidades de filtragem que permitem aos usuários refinar suas buscas, melhorando a experiência de uso e a eficiência na localização de documentos específicos.                                                                  |
+
+#### Requisito RF05
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Download de edições e documentos em formatos PDF.                                                                                         |
+| ID do Requisito        | [OBS05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS05)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS05)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito envolve a necessidade de permitir que os usuários baixem edições e documentos, garantindo que tenham acesso offline aos materiais necessários, o que é crucial para a continuidade do trabalho em ambientes sem conexão.                                                                      |
+
+
+
+#### Requisito RF06
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Notificações push sobre novas publicações relevantes.                                                                                     |
+| ID do Requisito        | [OBS06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS06)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS06)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à implementação de funcionalidades específicas no aplicativo, como a configuração e envio de notificações push, além de assegurar a entrega dessas notificações aos usuários.                                                                                  |
+
+#### Requisito RF07
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Acesso a edições anteriores arquivadas.                                                                                                   |
+| ID do Requisito        | [OBS07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS07)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS07)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Este requisito está relacionado ao contexto em que os usuários precisam acessar documentos arquivados para referências e consultas, impactando diretamente a disponibilidade e organização dos dados.                                                                                  |
+
+#### Requisito RF08
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Integração com sistemas de assinatura digital.                                                                                            |
+| ID do Requisito        | [OBS08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS08)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS08)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito se refere à necessidade de integração com outros sistemas e processos internos da organização, garantindo a conformidade e segurança na assinatura de documentos digitais.                                                                  |
+
+#### Requisito RF09
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Compartilhamento de documentos via redes sociais e email.                                                                                 |
+| ID do Requisito        | [OBS09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS09)                       |
+| Origem                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS09)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito facilita a disseminação de informações, permitindo que os usuários compartilhem documentos relevantes com outras partes interessadas, melhorando a comunicação e colaboração.                                                                          |
+
+#### Requisito RF10
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve permitir buscas detalhadas por tópicos específicos.                                                                    |
+| ID do Requisito        | [IS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS01)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS01)              |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito foca na implementação de funcionalidades que permitem buscas avançadas, atendendo às necessidades dos usuários de encontrar informações específicas de maneira eficiente.                                                               |
+
+
+#### Requisito RF11
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.                                                                                              |
+| ID do Requisito        | [IS02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS02)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS02)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à implementação de uma funcionalidade que permita aos usuários salvar documentos para consulta offline, garantindo acesso às informações mesmo sem conexão com a internet.                                                                                  |
+
+#### Requisito RF12
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.                                                                                         |
+| ID do Requisito        | [IS03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS03)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS03)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Ambiental** - Este requisito está relacionado à necessidade de manter os usuários informados sobre novas publicações relevantes, garantindo que eles recebam atualizações personalizadas conforme suas preferências e interesses.                                                                                  |
+
+#### Requisito RF13
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve oferecer acesso ao histórico de publicações legislativas.                                                                                                   |
+| ID do Requisito        | [IS04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS04)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS04)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito se refere à necessidade de disponibilizar um histórico completo das publicações legislativas, permitindo que os usuários acessem informações passadas de forma organizada e eficiente.                                                                  |
+
+#### Requisito RF14
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.                                                                               |
+| ID do Requisito        | [IS05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS05)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS05)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito envolve a necessidade de implementar um sistema de marcadores que permita aos usuários rastrear alterações em documentos específicos, facilitando o monitoramento de mudanças importantes.                                                                  |
+
+#### Requisito RF15
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.                                                                                         |
+| ID do Requisito        | [IS06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS06)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS06)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito está focado na criação de uma interface de usuário que facilite a leitura de textos legislativos, garantindo que a apresentação das informações seja clara e acessível para todos os usuários.                                                                      |
+
+
+#### Requisito RF16
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.                                                                                             |
+| ID do Requisito        | [IS07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS07)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS07)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à implementação de uma funcionalidade que permita aos usuários compartilhar documentos diretamente a partir do aplicativo, facilitando a disseminação de informações importantes.                                                               |
+
+#### Requisito RF17
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.                                                                                    |
+| ID do Requisito        | [IS08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS08)                       |
+| Origem                 | [Introspecção](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS08)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito está relacionado à necessidade de manter um índice atualizado e pesquisável de todos os documentos publicados, garantindo que os usuários possam encontrar rapidamente as informações de que precisam.                                                                |
+
+#### Requisito RF18
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Sistema de busca avançada                                                                                                                  |
+| ID do Requisito        | [ENT01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT01)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT01)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito envolve a criação de um sistema de busca avançada que permita aos usuários realizar consultas detalhadas e refinadas dentro do aplicativo, melhorando a eficiência na recuperação de informações.                                                                    |
+
+#### Requisito RF19
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Funcionalidades de acessibilidade                                                                                                         |
+| ID do Requisito        | [ENT02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT02)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT02)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito está relacionado à implementação de funcionalidades que garantam a acessibilidade do aplicativo para todos os usuários, incluindo aqueles com deficiência, em conformidade com os padrões de acessibilidade.                                                                      |
+
+#### Requisito RF20
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Ferramentas de usabilidade aprimoradas                                                                                                     |
+| ID do Requisito        | [ENT03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT03)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT03)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito envolve a implementação de ferramentas que melhorem a usabilidade do aplicativo, garantindo que os usuários possam navegar e utilizar todas as funcionalidades de maneira intuitiva e eficiente.                                                                  |
+
+
+#### Requisito RF21
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Otimização do processo de busca diária                                                                                                                  |
+| ID do Requisito        | [ENT04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT04)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT04)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito visa a implementação de melhorias no processo de busca diária dentro do aplicativo, tornando-o mais eficiente e rápido para os usuários.                                                                  |
+
+#### Requisito RF22
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Suporte multilíngue no sistema                                                                                                                |
+| ID do Requisito        | [ENT05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT05)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT05)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito aborda a necessidade de suporte multilíngue no sistema, permitindo que usuários de diferentes línguas possam acessar e utilizar o aplicativo com facilidade.                                                                     |
+
+#### Requisito RF23
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Sistema de notificações personalizadas                                                                                                    |
+| ID do Requisito        | [ENT06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT06)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT06)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito refere-se à implementação de um sistema de notificações personalizadas, permitindo que os usuários recebam alertas relevantes de acordo com suas preferências e interesses.                                                                 |
+
+#### Requisito RF24
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Interface do usuário altamente intuitiva                                                                                                               |
+| ID do Requisito        | [ENT08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT08)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT08)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito envolve a criação de uma interface de usuário que seja altamente intuitiva, facilitando a navegação e a utilização do aplicativo por todos os usuários, independentemente de seu nível de experiência.                                                                 |
+
+#### Requisito RF25
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Funcionalidades avançadas de documentos                                                                                                          |
+| ID do Requisito        | [ENT10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT10)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT10)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Desenvolvimento** - Este requisito se refere à implementação de funcionalidades avançadas de manipulação e gerenciamento de documentos, oferecendo maior flexibilidade e eficiência no uso do aplicativo.                                                                 |
+
+#### Requisito RF26
+
+| Informações            | Detalhes                                                                                                                                  |
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito      | Melhoria na interação entre usuários                                                                                                       |
+| ID do Requisito        | [ENT11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11)                       |
+| Origem                 | [Entrevista](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11)                 |
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Organizacional** - Este requisito aborda a melhoria na interação entre usuários dentro do aplicativo, promovendo uma comunicação mais eficaz e colaborativa entre os membros da comunidade.                                                                  |
 
 ## <a>Referência bibliográfica</a>
 
