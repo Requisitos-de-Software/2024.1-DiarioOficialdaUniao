@@ -9,7 +9,7 @@ Este modelo de rastreabilidade permite identificar rapidamente as partes do sist
 Para a execução dessa rastreabilidade, primeiro classificaremos as informações, pois segundo o meta-modelo de Toranzo que teremos por base, existem quatro níveis de classificação, sendo eles: ambiental, organizacional, gerencial e desenvolvimento<a id="anchor_5" href="#REF5">^5^</a>. A figura 01 ilustra esses modelos a seguir:
 
 <center>
-Figura 01: Classificação da informação do rastreamento.
+**Figura 01:** Classificação da informação do rastreamento.
 
 ![Figura de Classificação](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/pos-rastreabilidade/assets/figuraClassificacao.png?raw=True)
 
@@ -22,74 +22,22 @@ Figura 01: Classificação da informação do rastreamento.
  - O **nível desenvolvimento** abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...)<a id="anchor_3" href="#REF3">^3^</a>.
 
 
+A seguir, a Tabela 01 representa a estrutura utilizada para documentar as origens dos requisitos no artefato. Ela detalha informações essenciais como o nome, identificador único, origem e nível do requisito, permitindo um rastreamento eficaz e compreensão clara de cada requisito no contexto do projeto.
 
+<p style="text-align: center"><b>Tabela 01:</b> Estrutura das tabelas dos requisitos do backward from.</p>
 
+| Informações | Detalhes|
+|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Nome do Requisito| Indica o que o requisito está pedindo ou descrevendo.|
+| ID do Requisito  | Fornece um identificador único que pode ser usado para referenciar este requisito específico de maneira consistente em toda a documentação e durante o desenvolvimento. |
+| Origem| Especifica como ou de onde o requisito foi obtido.|
+| Nível (ambiental, organizacional, gerencial ou desenvolvimento) | Classifica o requisito em um nível específico para ajudar a entender seu impacto e onde ele se aplica, já explicado anteriormente. |
 
-| Tipo | Descrição | ID |
-| ---- | --------- | --- |
-| RF01 | Autenticação de usuários para acesso seguro. | [OBS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01) |
-| RF02 | Visualização de edições diárias do Diário Oficial. | [OBS02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS02) |
-| RF03 | Busca por palavras-chave em documentos. | [OBS03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS03) |
-| RF04 | Filtragem de conteúdo por data, categoria ou órgão emissor. | [OBS04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS04) |
-| RF05 | Download de edições e documentos em formatos PDF. | [OBS05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS05) |
-| RF06 | Notificações push sobre novas publicações relevantes. | [OBS06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS06) |
-| RF07 | Acesso a edições anteriores arquivadas. | [OBS07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS07) |
-| RF08 | Integração com sistemas de assinatura digital. | [OBS08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS08) |
-| RF09 | Compartilhamento de documentos via redes sociais e email. | [OBS09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS09) |
-| RF10 | O aplicativo deve permitir buscas detalhadas por tópicos específicos. | [IS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS01) |
-| RF11 | O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline. | [IS02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS02) |
-| RF12 | O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes. | [IS03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS03) |
-| RF13 | O aplicativo deve oferecer acesso ao histórico de publicações legislativas. | [IS04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS04) |
-| RF14 | O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos. | [IS05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS05) |
-| RF15 | O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos. | [IS06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS06) |
-| RF16 | O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos. | [IS07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS07) |
-| RF17 | O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados. | [IS08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS08) |
-| RF18 | Sistema de busca avançada | [ENT01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT01) |
-| RF19 | Funcionalidades de acessibilidade | [ENT02](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT02) |
-| RF20 | Ferramentas de usabilidade aprimoradas | [ENT03](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT03) |
-| RF21 | Otimização do processo de busca diária | [ENT04](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT04) |
-| RF22 | Suporte multilíngue no sistema | [ENT05](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT05) |
-| RF23 | Sistema de notificações personalizadas | [ENT06](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT06) |
-| RF24 | Interface do usuário altamente intuitiva | [ENT08](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT08) |
-| RF25 | Funcionalidades avançadas de documentos | [ENT10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT10) |
-| RF26 | Melhoria na interação entre usuários | [ENT11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11) |
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
+## <a>Tabela de Níveis dos Requisitos Funcionais</a>
 
-
-| Tipo  | Descrição | ID    |
-|-------|-------------------------------------|-------|
-| RNF01 | Alta disponibilidade do sistema, com 99,9% de uptime. | [OBS10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS10) |
-| RNF02 | Compatibilidade com as versões mais recentes de sistemas operacionais móveis. | [OBS11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS11) |
-| RNF03 | Design responsivo que se adapta a tablets e smartphones. | [OBS12](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS12) |
-| RNF04 | Segurança de dados com criptografia de ponta-a-ponta. | [OBS13](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS13) |
-| RNF05 | Suporte multilíngue para facilitar o acesso por usuários não-nativos. | [OBS14](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS14) |
-| RNF06 | Tempo de resposta de busca inferior a 2 segundos. | [OBS15](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS15) |
-| RNF07 | Implementação de medidas de acessibilidade para usuários com deficiência. | [OBS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16) |
-| RNF08 | Facilidade de atualização de conteúdo pelo gestor do sistema. | [OBS17](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS17) |
-| RNF09 | Suporte técnico com tempo de resposta de 24 horas. | [OBS18](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS18) |
-| RNF10 | O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar. | [IS09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS09) |
-| RNF11 | O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários. | [IS10](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS10) |
-| RNF12 | O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada. | [IS11](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS11) |
-| RNF13 | O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. | [IS12](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS12) |
-| RNF14 | O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. | [IS13](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS13) |
-| RNF15 | O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. | [IS14](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS14) |
-| RNF16 | O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. | [IS15](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS15) |
-| RNF17 | O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. | [IS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS16) |
-| RNF18 | Medidas de segurança robustas | [ENT07](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT07) |
-| RNF19 | Requisitos para suporte e manutenção | [ENT09](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09) |
-
-
-
-
-## AQUI
-
-
-
-
-### Tabela de Níveis dos Requisitos
-
-
-### Tabela de Níveis dos Requisitos
+A seguir, serão apresentadas as tabelas contendo os requisitos funcionais do projeto. Estas tabelas documentam informações essenciais sobre cada requisito, que proporcionam um rastreamento eficaz e uma compreensão clara dos requisitos no contexto do projeto.
 
 ??? "RF01 - Autenticação de usuários para acesso seguro."
 
@@ -99,7 +47,7 @@ Figura 01: Classificação da informação do rastreamento.
 
     <p style="text-align: center"><b>Tabela 02:</b> Autenticação de usuários para acesso seguro.</p>
 
-    | Informações            | Detalhes                                                                                                                                  |
+    | Informações | Detalhes                                                                                                              |
     |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
     | Nome do Requisito      | Autenticação de usuários para acesso seguro.                                                                                              |
     | ID do Requisito        | [OBS01](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01)                       |
@@ -536,7 +484,9 @@ Figura 01: Classificação da informação do rastreamento.
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
-### Tabela de Níveis dos Requisitos Não Funcionais
+## <a>Tabela de Níveis dos Requisitos Não Funcionais</a>
+
+A seguir, serão apresentadas as tabelas que contêm os requisitos não funcionais do projeto. Essas tabelas detalham informações cruciais sobre cada requisito, permitindo um rastreamento eficaz e uma compreensão clara no contexto do projeto.
 
 ??? "RNF01 - Alta disponibilidade do sistema, com 99,9% de uptime."
 
@@ -652,9 +602,7 @@ Figura 01: Classificação da informação do rastreamento.
     |------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
     | Nome do Requisito      | Implementação de medidas de acessibilidade para usuários com deficiência.                                                                                                                |
     | ID do Requisito        | [OBS16](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                       |
-    | Origem
-
-                 | [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                 |
+    | Origem| [Observação](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16)                 |
     | Nível (ambiental, organizacional, gerencial ou desenvolvimento) | **Gerencial** - Este requisito garante que o sistema seja acessível a todos os usuários, incluindo aqueles com deficiência, seguindo as melhores práticas de acessibilidade.                                                                  |
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
@@ -846,7 +794,7 @@ Figura 01: Classificação da informação do rastreamento.
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font >
 
-?? - RNF19 "Requisitos para suporte e manutenção."
+??? - RNF19 "Requisitos para suporte e manutenção."
 
     #### Requisito RNF19
 
@@ -884,4 +832,5 @@ Figura 01: Classificação da informação do rastreamento.
 # <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
-|`1.0`|15/06/2024|16/06/2024|Criação do Documento, inserção da introdução e da metodologia. | [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|
+|`1.0`|15/06/2024|16/06/2024|Criação do Documento, inserção da introdução e da metodologia. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0)|
+|`1.1`|23/06/2024|124/06/2024|Inserção das tabelas e dos requisitos. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0), [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
