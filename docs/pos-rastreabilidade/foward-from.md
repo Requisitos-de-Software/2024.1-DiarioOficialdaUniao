@@ -1351,7 +1351,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Alto: Afeta todos os usuários do software</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1374,7 +1374,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
     <center>
     <font size="3">Tabela 21: Elos do Requisito</font>
@@ -1394,7 +1394,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td> RF20 </td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 </details>
 
@@ -1420,7 +1420,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Alto: Afeta todos os usuários do software</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1443,7 +1443,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1464,7 +1464,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> RF19 </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 </details>
 
@@ -1490,7 +1490,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Alto: A busca é uma das principais funcionalidades do sistema</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1513,7 +1513,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Épico 3: Busca e Organização de Conteúdo</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1534,7 +1534,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> ---- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1561,7 +1561,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Médio: Afeta apenas uma parcela dos usuários</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1584,7 +1584,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Épico 7: Multilíngue e Internacionalização</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1605,7 +1605,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1632,7 +1632,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Alto: O requisito visa uma melhor interação dos usuários com a plataforma</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
  
@@ -1657,7 +1657,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Sim</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1678,7 +1678,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>---</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1705,7 +1705,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Médio: Facilita a realização das tarefas</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1728,7 +1728,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1749,7 +1749,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>---</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1776,7 +1776,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Médio: Funcionalidades adiconais para os documentos</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
  
@@ -1801,7 +1801,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Épico 6: Funcionalidades Avançadas de Documentos</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1822,7 +1822,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1849,7 +1849,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Baixo: Não é uma das funcionalidades principais do aplicativo</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1872,7 +1872,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Épico 4: Interação e Notificação</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1893,7 +1893,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1922,7 +1922,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td>Alta: O aplicativo deve funcionar durante qualquer período do dia</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1945,7 +1945,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td>Épico 5: Infraestrutura e Suporte</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1966,7 +1966,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 </details>
 
@@ -2916,10 +2916,10 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
+            <td> Garantido que durante o backup, o desempenho do sistema não seja afetado. </td>
+            <td> Testes regulares de recuperação para verificar a integridade e eficácia do backup. </td>
+            <td> Correções aplicadas conforme necessário com base nos resultados dos testes de recuperação. </td>
+            <td> Análise para garantir que o sistema de backup seja capaz de lidar com o crescimento esperado dos dados. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2987,10 +2987,10 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
         <tr>
             <td> 1.2 </td>
             <td> O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Este requisito não conflita diretamente com outros requisitos, porém, é importante estar atento aos requisitos de desempenho para assegurar que a escalabilidade não comprometa a velocidade de resposta. </td>
+            <td> Testes de carga e stress para simular aumento de uso. </td>
+            <td> Ajustes na infraestrutura ou otimização de código conforme necessário. </td>
+            <td> Planejamento contínuo para expandir recursos de acordo com o aumento de demanda. 
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -3059,9 +3059,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td> 1.2 </td>
             <td> O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. </td>
             <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Revisões linguísticas e testes com usuários em diferentes idiomas. </td>
+            <td> Correções de localização e ajustes na UI para acomodar diferentes idiomas. </td>
+            <td> Avaliação do impacto da adição de novos idiomas na manutenção e no desenvolvimento futuro. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -3130,9 +3130,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
             <td> 1.0 </td>
             <td> Medidas de segurança robustas. </td>
             <td> Este requisito não conflita com outros requisitos. </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
+            <td> Testes de penetração e auditorias de segurança regularmente. </td>
+            <td> Implementação de correções e atualizações de segurança conforme identificado nos testes. </td>
+            <td> Avaliação constante do impacto das medidas de segurança no desempenho e na usabilidade do aplicativo. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
