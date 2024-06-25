@@ -705,9 +705,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF10 - Douglas Marinho</summary>
+    <summary>RF10 - O aplicativo deve permitir buscas detalhadas por tópicos específicos.</summary>
     <center>
-    <font size="3"> Tabela 19: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 28: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -730,7 +730,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 20: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 29: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -752,7 +752,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 21: Elos do Requisito
+    Tabela 30: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -774,9 +774,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF11 - Douglas Marinho</summary>
+    <summary>RF11 - O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.</summary>
     <center>
-    <font size="3"> Tabela 21: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3"> Tabela 31: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -799,7 +799,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 22: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3"> Tabela 32: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -821,7 +821,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 23: Elos do Requisito
+    Tabela 33: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -843,9 +843,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF12 - Douglas Marinho</summary>
+    <summary>RF12 - O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.</summary>
     <center>
-    <font size="3"> Tabela 24: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 34: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -868,7 +868,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 25: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3"> Tabela 35: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -890,7 +890,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
         <center>
-    Tabela 26: Elos do Requisito
+    Tabela 36: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -912,9 +912,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF13 - Douglas Marinho</summary>
+    <summary>RF13 - O aplicativo deve oferecer acesso ao histórico de publicações legislativas.</summary>
     <center>
-    <font size="3"> Tabela 25: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 37: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -937,7 +937,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 26: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 38: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -959,7 +959,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 27: Elos do Requisito
+    Tabela 39: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -981,9 +981,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF14 - Douglas Marinho</summary>
+    <summary>RF14 - O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.</summary>
     <center>
-    <font size="3">Tabela 27: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 40: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1006,7 +1006,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 28: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 41: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1028,7 +1028,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 27: Elos do Requisito
+    Tabela 42: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1050,9 +1050,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF15 - Douglas Marinho</summary>
+    <summary>RF15 - O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.</summary>
     <center>
-    <font size="3">Tabela 29: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 43: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1075,7 +1075,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 30: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 44: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1097,7 +1097,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 27: Elos do Requisito
+    Tabela 45: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1119,9 +1119,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF16 - Douglas Marinho</summary>
+    <summary>RF16 - O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.</summary>
     <center>
-    <font size="3">Tabela 31: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 46: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1143,7 +1143,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    <font size="3">Tabela 32: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 47: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1165,7 +1165,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 33: Elos do Requisito
+    Tabela 48: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1187,9 +1187,9 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF17 - Douglas Marinho</summary>
+    <summary>RF17 - O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.</summary>
     <center>
-    <font size="3">Tabela 33: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 49: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1212,7 +1212,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 34: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 50: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1256,7 +1256,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 </details>
 
 <details>
-    <summary>RF18 - Douglas Marinho</summary>
+    <summary>RF18 - Sistema de busca avançada</summary>
     <center>
     <font size="3">Tabela 35: Estrutura de Desenvolvimento do Requisito</font>
     <table>
@@ -2749,504 +2749,503 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/henriqtorresl" target="_blank">Henrique Torres</a>.</p></font>
 </center>
-
 </details>
 
 <details>
-    <summary> RNF13 - Luiz Gustavo </summary>
+    <summary> RNF13 - O aplicativo deve apresentar um tempo de resposta rápido nas buscas. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.2 </td>
-            <td> O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. </td>
-            <td> Este requisito não conflita diretamente com outros requisitos, desde que a infraestrutura suporte as demandas de carga. </td>
-            <td> Verificação através de testes de performance, incluindo testes de carga para simular diferentes volumes de tráfego e garantir que o tempo de resposta permaneça abaixo de 2 segundos. </td>
-            <td> Correções podem ser necessárias caso os testes indiquem que o tempo de resposta excede 2 segundos. Isso pode envolver otimização de código, ajustes na infraestrutura ou revisão das consultas de busca. </td>
-            <td> O requisito de tempo de resposta rápida é essencial para a usabilidade e satisfação do usuário. Evoluções futuras do sistema devem considerar o impacto de novas funcionalidades no desempenho das buscas, garantindo a manutenção ou melhoria dos tempos de resposta. </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.2 </td>
+        <td> O aplicativo deve apresentar um tempo de resposta rápido (< 2 segundos) nas buscas. </td>
+        <td> Este requisito não conflita diretamente com outros requisitos, desde que a infraestrutura suporte as demandas de carga. </td>
+        <td> Verificação através de testes de performance, incluindo testes de carga para simular diferentes volumes de tráfego e garantir que o tempo de resposta permaneça abaixo de 2 segundos. </td>
+        <td> Correções podem ser necessárias caso os testes indiquem que o tempo de resposta excede 2 segundos. Isso pode envolver otimização de código, ajustes na infraestrutura ou revisão das consultas de busca. </td>
+        <td> Esse requisito é essencial para a usabilidade e satisfação do usuário. Evoluções futuras do sistema devem considerar o impacto de novas funcionalidades no desempenho das buscas, garantindo a manutenção ou melhoria dos tempos de resposta. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> Detalhes de Desempenho. DES06 - O sistema deve garantir um tempo de resposta não superior a 1 segundo. </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> Detalhes de Desempenho. DES06 - O sistema deve garantir um tempo de resposta não superior a 1 segundo. </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Extensão </td>
-            <td> Desenvolvimento </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Extensão </td>
+        <td> Desenvolvimento </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF14 - Luiz Gustavo </summary>
+    <summary> RNF14 - O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.2 </td>
-            <td> O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td> Testes de acessibilidade usando ferramentas e diretrizes padrão (WCAG). </td>
-            <td> Ajustes com base no feedback de usuários e resultados de testes. </td>
-            <td> Atualizações contínuas para manter conformidade com normas de acessibilidade. </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.2 </td>
+        <td> O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. </td>
+        <td> Este requisito não conflita com outros requisitos. </td>
+        <td> Testes de acessibilidade usando ferramentas e diretrizes padrão (WCAG). </td>
+        <td> Ajustes com base no feedback de usuários e resultados de testes. </td>
+        <td> Atualizações contínuas para manter conformidade com normas de acessibilidade. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Generalização/Especialização </td>
-            <td> Ambiental </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Generalização/Especialização </td>
+        <td> Ambiental </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF15 - Luiz Gustavo </summary>
+    <summary> RNF15 - O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.2 </td>
-            <td> O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </td>
-            <td> Garantido que durante o backup, o desempenho do sistema não seja afetado. </td>
-            <td> Testes regulares de recuperação para verificar a integridade e eficácia do backup. </td>
-            <td> Correções aplicadas conforme necessário com base nos resultados dos testes de recuperação. </td>
-            <td> Análise para garantir que o sistema de backup seja capaz de lidar com o crescimento esperado dos dados. </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.2 </td>
+        <td> O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </td>
+        <td> Garantido que durante o backup, o desempenho do sistema não seja afetado. </td>
+        <td> Testes regulares de recuperação para verificar a integridade e eficácia do backup. </td>
+        <td> Correções aplicadas conforme necessário com base nos resultados dos testes de recuperação. </td>
+        <td> Análise para garantir que o sistema de backup seja capaz de lidar com o crescimento esperado dos dados. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Inclusão </td>
-            <td> Organizacional </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Inclusão </td>
+        <td> Organizacional </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF16 - Luiz Gustavo </summary>
+    <summary> RNF16 - O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.2 </td>
-            <td> O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. </td>
-            <td> Este requisito não conflita diretamente com outros requisitos, porém, é importante estar atento aos requisitos de desempenho para assegurar que a escalabilidade não comprometa a velocidade de resposta. </td>
-            <td> Testes de carga e stress para simular aumento de uso. </td>
-            <td> Ajustes na infraestrutura ou otimização de código conforme necessário. </td>
-            <td> Planejamento contínuo para expandir recursos de acordo com o aumento de demanda. 
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.2 </td>
+        <td> O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos. </td>
+        <td> Este requisito não conflita diretamente com outros requisitos, porém, é importante estar atento aos requisitos de desempenho para assegurar que a escalabilidade não comprometa a velocidade de resposta. </td>
+        <td> Testes de carga e stress para simular aumento de uso. </td>
+        <td> Ajustes na infraestrutura ou otimização de código conforme necessário. </td>
+        <td> Planejamento contínuo para expandir recursos de acordo com o aumento de demanda. 
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Extensão </td>
-            <td> Desenvolvimento </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Extensão </td>
+        <td> Desenvolvimento </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF17 - Luiz Gustavo </summary>
+    <summary> RNF17 - O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.2 </td>
-            <td> O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td> Revisões linguísticas e testes com usuários em diferentes idiomas. </td>
-            <td> Correções de localização e ajustes na UI para acomodar diferentes idiomas. </td>
-            <td> Avaliação do impacto da adição de novos idiomas na manutenção e no desenvolvimento futuro. </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.2 </td>
+        <td> O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada. </td>
+        <td> Este requisito não conflita com outros requisitos. </td>
+        <td> Revisões linguísticas e testes com usuários em diferentes idiomas. </td>
+        <td> Correções de localização e ajustes na UI para acomodar diferentes idiomas. </td>
+        <td> Avaliação do impacto da adição de novos idiomas na manutenção e no desenvolvimento futuro. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Generalização/Especialização </td>
-            <td> Ambiental </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Generalização/Especialização </td>
+        <td> Ambiental </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF18 - Luiz Gustavo </summary>
+    <summary> RNF18 - Medidas de segurança robustas. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.0 </td>
-            <td> Medidas de segurança robustas. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td> Testes de penetração e auditorias de segurança regularmente. </td>
-            <td> Implementação de correções e atualizações de segurança conforme identificado nos testes. </td>
-            <td> Avaliação constante do impacto das medidas de segurança no desempenho e na usabilidade do aplicativo. </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.0 </td>
+        <td> Medidas de segurança robustas. </td>
+        <td> Este requisito não conflita com outros requisitos. </td>
+        <td> Testes de penetração e auditorias de segurança regularmente. </td>
+        <td> Implementação de correções e atualizações de segurança conforme identificado nos testes. </td>
+        <td> Avaliação constante do impacto das medidas de segurança no desempenho e na usabilidade do aplicativo. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Inclusão </td>
-            <td> Organizacional </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Inclusão </td>
+        <td> Organizacional </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 <details>
-    <summary> RNF19 - Luiz Gustavo </summary>
+    <summary> RNF19 - Requisitos para suporte e manutenção. </summary>
 
-    <center>
-    <font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
-    <table>
-        <tr>
-            <th> Versão </th>
-            <th> Nome do Requisito </th>
-            <th> Resolução de Requisitos em Conflito </th>
-            <th> Verificação </th>
-            <th> Correção de Defeitos </th>
-            <th> Análise de Impacto na Evolução </th>
-        </tr>
-        <tr>
-            <td> 1.0 </td>
-            <td> Requisitos para suporte e manutenção. </td>
-            <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Estrutura de Desenvolvimento do Requisito </font>
+<table>
+    <tr>
+        <th> Versão </th>
+        <th> Nome do Requisito </th>
+        <th> Resolução de Requisitos em Conflito </th>
+        <th> Verificação </th>
+        <th> Correção de Defeitos </th>
+        <th> Análise de Impacto na Evolução </th>
+    </tr>
+    <tr>
+        <td> 1.0 </td>
+        <td> Requisitos para suporte e manutenção. </td>
+        <td> Este requisito não conflita com outros requisitos. </td>
+        <td> Avaliação da eficácia do suporte através de feedback dos usuários. </td>
+        <td> Ajustes no suporte com base em problemas recorrentes ou desafios enfrentados pelos usuários. </td>
+        <td> Análise de como as melhorias no suporte podem impactar a satisfação do usuário e a redução de custos operacionais a longo prazo. </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    <font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
-    <table>
-        <tr>
-            <th> Cenário </th>
-            <th> Léxico </th>
-            <th> Casos de Uso </th>
-            <th> Especificação Suplementar </th>
-            <th> História de Usuário </th>
-            <th> Backlog </th>
-        </tr>
-        <tr>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+<font size="3"> Tabela xx: Artefatos Gerados pelos Requisitos não Funcionais </font>
+<table>
+    <tr>
+        <th> Cenário </th>
+        <th> Léxico </th>
+        <th> Casos de Uso </th>
+        <th> Especificação Suplementar </th>
+        <th> História de Usuário </th>
+        <th> Backlog </th>
+    </tr>
+    <tr>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 
-    <center>
-    Tabela XX: Elos do Requisito
-    <table>
-        <tr>
-            <th> Tipo de Elo </th>
-            <th> Categoria </th>
-            <th> Elementos Rastreáveis </th>
-            <th> Descrição do ELO </th>
-            <th> Requisitos Relacionados </th>
-        </tr>
-        <tr>
-            <td> Extensão </td>
-            <td> Gerencial </td>
-            <td> - </td>
-            <td> - </td>
-            <td> - </td>
-        </tr>
-    </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
-    </center>
+<center>
+Tabela XX: Elos do Requisito
+<table>
+    <tr>
+        <th> Tipo de Elo </th>
+        <th> Categoria </th>
+        <th> Elementos Rastreáveis </th>
+        <th> Descrição do ELO </th>
+        <th> Requisitos Relacionados </th>
+    </tr>
+    <tr>
+        <td> Extensão </td>
+        <td> Gerencial </td>
+        <td> - </td>
+        <td> - </td>
+        <td> - </td>
+    </tr>
+</table>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
+</center>
 </details>
 
 
@@ -3275,3 +3274,4 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 |`1.2`|24/06/2024|24/06/2024|Criando tabela dos requisitos funcionais de 19 à 26 e do requisito não funcional 1| [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://github.com/LuizGust4vo) e  [Henrique Torres](https://github.com/henriqtorresl)|
 |`1.3`|24/06/2024|24/06/2024|Criando tabela dos requisitos funcionais de 01 à 09  | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl),[Luiz Gustavo](https://github.com/LuizGust4vo) e  [Henrique Torres](https://github.com/henriqtorresl)|
 |`1.4`|24/06/2024|24/06/2024| Criando tabela dos requisitos não funcionais de 02 à 12  | [Henrique Torres](https://github.com/henriqtorresl)|[João Artur](https://github.com/joao-artl),[Luiz Gustavo](https://github.com/LuizGust4vo) e [Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.5` | 24/06/2024 | 24/06/2024 | Criando tabela dos requisitos não funcionais de 13 à 19 e correções  | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Diego Sousa](https://github.com/DiegoSousaLeite), [Henrique Torres](https://github.com/henriqtorresl) e [João Artur](https://github.com/joao-artl) |
