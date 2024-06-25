@@ -93,7 +93,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF01 - Autenticação de usuários para acesso seguro</summary>
     <center>
-    <font size="3"> Tabela 01: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 04: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -115,7 +115,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 02: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 05: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -137,7 +137,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
      <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 03: Elos do Requisito
+    <font size="3"> Tabela 06: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -161,7 +161,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF02 - Visualização de edições diárias do Diário Oficial</summary>
     <center>
-    <font size="3"> Tabela 04: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 07: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -183,7 +183,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 05: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 08: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -205,7 +205,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 06: Elos do Requisito
+    <font size="3"> Tabela 09: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -229,7 +229,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF03 - Busca por palavras-chave em documentos</summary>
     <center>
-    <font size="3"> Tabela 07: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 10: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -251,7 +251,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 08: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 11: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -273,7 +273,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 09: Elos do Requisito
+    <font size="3"> Tabela 12: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -299,7 +299,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF04 - Filtragem de conteúdo por data, categoria ou órgão emissor</summary>
     <center>
-    <font size="3"> Tabela 10: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 13: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -321,7 +321,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 11: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 14: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -343,7 +343,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 12: Elos do Requisito
+    <font size="3"> Tabela 15: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -367,7 +367,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF05 - Download de edições e documentos em formatos PDF</summary>
     <center>
-    <font size="3"> Tabela 13: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 16: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -389,7 +389,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 14: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 17: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -411,7 +411,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 15: Elos do Requisito
+    <font size="3"> Tabela 18: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -435,7 +435,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF06 - Notificações push sobre novas publicações relevantes</summary>
     <center>
-    <font size="3"> Tabela 16: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 19: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -457,7 +457,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 17: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 20: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -479,7 +479,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 18: Elos do Requisito
+    <font size="3"> Tabela 21: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -503,7 +503,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF07 - Acesso a edições anteriores arquivadas</summary>
     <center>
-    <font size="3"> Tabela 19: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 22: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -525,7 +525,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 20: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 23: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -547,7 +547,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 21: Elos do Requisito
+    <font size="3"> Tabela 24: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -571,7 +571,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF08 - Integração com sistemas de assinatura digital</summary>
     <center>
-    <font size="3"> Tabela 22: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 25: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -593,7 +593,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 23: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 26: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -615,7 +615,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 24: Elos do Requisito
+    <font size="3"> Tabela 27: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -639,7 +639,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF09 - Compartilhamento de documentos via redes sociais e email</summary>
     <center>
-    <font size="3"> Tabela 25: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 28: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -661,7 +661,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 26: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 29: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -683,7 +683,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
     </center>
     <center>
-    <font size="3"> Tabela 27: Elos do Requisito
+    <font size="3"> Tabela 30: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
