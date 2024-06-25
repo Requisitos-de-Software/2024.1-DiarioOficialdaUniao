@@ -2860,12 +2860,12 @@ Tabela XX: Elos do Requisito
         <th> Backlog </th>
     </tr>
     <tr>
+        <td> C01 - Configurar o aplicativo. </td>
         <td> - </td>
         <td> - </td>
-        <td> - </td>
-        <td> - </td>
-        <td> - </td>
-        <td> - </td>
+        <td> Detalhes de Usabilidade. USA02 - O aplicativo deve incorporar e destacar recursos de acessibilidade em seu design e USA04 - O aplicativo deve oferecer uma interface padronizada que garanta conforto visual ao usuário, seguindo os princípios de ergonomia no design de UI. </td>
+        <td> US14 - Acessibilidade para Usuários com Deficiência Visual. </td>
+        <td> Épico 2 - Acessibilidade e Usabilidade e Épico 7 - Multilíngue e Internacionalização </td>
     </tr>
 </table>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
