@@ -777,7 +777,7 @@ A seguir, serão apresentadas as tabelas que contêm os requisitos não funciona
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</pt></fo - >
 
-??? RNF18 "Medidas de segurança robustas."
+??? "RNF18 Medidas de segurança robustas."
 
     #### Requisito RNF18
 
@@ -794,7 +794,7 @@ A seguir, serão apresentadas as tabelas que contêm os requisitos não funciona
 
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font >
 
-??? - RNF19 "Requisitos para suporte e manutenção."
+??? - "RNF19 Requisitos para suporte e manutenção."
 
     #### Requisito RNF19
 
