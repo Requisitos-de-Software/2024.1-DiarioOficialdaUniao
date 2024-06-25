@@ -2740,7 +2740,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td> - </td>
             <td> - </td>
             <td> - </td>
-            <td> - </td>
+            <td> Detalhes de Desempenho. DES06 - O sistema deve garantir um tempo de resposta não superior a 1 segundo. </td>
             <td> - </td>
             <td> - </td>
         </tr>
@@ -2788,9 +2788,9 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td> 1.2 </td>
             <td> O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1. </td>
             <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> Testes de acessibilidade usando ferramentas e diretrizes padrão (WCAG). </td>
+            <td> Ajustes com base no feedback de usuários e resultados de testes. </td>
+            <td> Atualizações contínuas para manter conformidade com normas de acessibilidade. </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2808,12 +2808,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Backlog </th>
         </tr>
         <tr>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2830,7 +2830,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Generalização/Especialização </td>
             <td> Ambiental </td>
             <td> - </td>
             <td> - </td>
@@ -2859,9 +2859,9 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td> 1.2 </td>
             <td> O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados. </td>
             <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -2901,7 +2901,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Inclusão </td>
             <td> Organizacional </td>
             <td> - </td>
             <td> - </td>
@@ -2972,7 +2972,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Extensão </td>
             <td> Desenvolvimento </td>
             <td> - </td>
             <td> - </td>
@@ -3043,7 +3043,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Generalização/Especialização </td>
             <td> Ambiental </td>
             <td> - </td>
             <td> - </td>
@@ -3069,12 +3069,12 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Análise de Impacto na Evolução </th>
         </tr>
         <tr>
-            <td> 1.2 </td>
+            <td> 1.0 </td>
             <td> Medidas de segurança robustas. </td>
             <td> Este requisito não conflita com outros requisitos. </td>
-            <td>  </td>
-            <td>  </td>
-            <td>  </td>
+            <td> - </td>
+            <td> - </td>
+            <td> - </td>
         </tr>
     </table>
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo). </p></font>
@@ -3114,7 +3114,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Inclusão </td>
             <td> Organizacional </td>
             <td> - </td>
             <td> - </td>
@@ -3185,7 +3185,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <th> Requisitos Relacionados </th>
         </tr>
         <tr>
-            <td> - </td>
+            <td> Extensão </td>
             <td> Gerencial </td>
             <td> - </td>
             <td> - </td>
