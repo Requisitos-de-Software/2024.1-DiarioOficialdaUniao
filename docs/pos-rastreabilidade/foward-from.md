@@ -707,7 +707,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF10 - O aplicativo deve permitir buscas detalhadas por tópicos específicos.</summary>
     <center>
-    <font size="3"> Tabela 28: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 31: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -730,7 +730,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 29: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <font size="3"> Tabela 32: Artefatos Gerados Pelos Requisitos Funcionais </font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -752,7 +752,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 30: Elos do Requisito
+    Tabela 33: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -776,7 +776,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF11 - O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.</summary>
     <center>
-    <font size="3"> Tabela 31: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3"> Tabela 34: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -799,7 +799,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 32: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3"> Tabela 35: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -821,7 +821,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 33: Elos do Requisito
+    Tabela 36: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -845,7 +845,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF12 - O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.</summary>
     <center>
-    <font size="3"> Tabela 34: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 37: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -868,7 +868,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3"> Tabela 35: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3"> Tabela 38: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -890,7 +890,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
         <center>
-    Tabela 36: Elos do Requisito
+    Tabela 39: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -914,7 +914,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF13 - O aplicativo deve oferecer acesso ao histórico de publicações legislativas.</summary>
     <center>
-    <font size="3"> Tabela 37: Estrutura de Desenvolvimento do Requisito </font>
+    <font size="3"> Tabela 40: Estrutura de Desenvolvimento do Requisito </font>
     <table>
         <tr>
             <th>Versão</th>
@@ -937,7 +937,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 38: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 41: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -959,7 +959,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 39: Elos do Requisito
+    Tabela 42: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -983,7 +983,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF14 - O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.</summary>
     <center>
-    <font size="3">Tabela 40: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 43: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1006,7 +1006,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 41: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 44: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1028,7 +1028,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 42: Elos do Requisito
+    Tabela 45: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1052,7 +1052,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF15 - O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.</summary>
     <center>
-    <font size="3">Tabela 43: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 46: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1075,7 +1075,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 44: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 47: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1097,7 +1097,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 45: Elos do Requisito
+    Tabela 48: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1121,7 +1121,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF16 - O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.</summary>
     <center>
-    <font size="3">Tabela 46: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 49: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1143,7 +1143,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    <font size="3">Tabela 47: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 50: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1165,7 +1165,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 48: Elos do Requisito
+    Tabela 51: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1189,7 +1189,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF17 - O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.</summary>
     <center>
-    <font size="3">Tabela 49: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 52: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1212,7 +1212,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 50: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 53: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1234,7 +1234,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 35: Elos do Requisito
+    Tabela 54: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1258,7 +1258,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF18 - Sistema de busca avançada</summary>
     <center>
-    <font size="3">Tabela 35: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 55: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1281,7 +1281,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
     <center>
-    <font size="3">Tabela 36: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 56: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1303,7 +1303,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
     </center>
     <center>
-    Tabela 37: Elos do Requisito
+    Tabela 57: Elos do Requisito
     <table>
         <tr>
             <th>Tipo de Elo</th>
@@ -1327,7 +1327,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
 <details>
     <summary>RF19 - Funcionalidades de acessibilidade.</summary>
     <center>
-    <font size="3">Tabela 37: Estrutura de Desenvolvimento do Requisito</font>
+    <font size="3">Tabela 58: Estrutura de Desenvolvimento do Requisito</font>
     <table>
         <tr>
             <th>Versão</th>
@@ -1350,7 +1350,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     </center>
 
 <center>
-    <font size="3">Tabela 38: Artefatos Gerados Pelos Requisitos Funcionais</font>
+    <font size="3">Tabela 59: Artefatos Gerados Pelos Requisitos Funcionais</font>
     <table>
         <tr>
             <th>Cenário</th>
@@ -1372,7 +1372,7 @@ A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de rela
     <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
     <center>
-    <font size="3">Tabela 21: Elos do Requisito</font>
+    <font size="3">Tabela 60: Elos do Requisito</font>
     <table>
         <tr>
             <th>Tipo de Elo</th>
