@@ -833,4 +833,4 @@ A seguir, serão apresentadas as tabelas que contêm os requisitos não funciona
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :-----------: | :---------: |:---------: |
 |`1.0`|15/06/2024|16/06/2024|Criação do Documento, inserção da introdução e da metodologia. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0)|
-|`1.1`|23/06/2024|124/06/2024|Inserção das tabelas e dos requisitos. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0), [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+|`1.1`|23/06/2024|24/06/2024|Inserção das tabelas e dos requisitos. | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Douglas Marinho](https://github.com/M4RINH0), [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
