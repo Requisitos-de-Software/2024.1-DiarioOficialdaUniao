@@ -6,20 +6,7 @@ Este modelo de rastreabilidade possibilita acompanhar o progresso do desenvolvim
 
 ## <a>Metodologia</a>
 
-Para implementar essa rastreabilidade, começaremos classificando as informações. Com base no meta-modelo de Toranzo, existem quatro níveis de classificação: ambiental, organizacional, gerencial e de desenvolvimento<a id="anchor_5" href="#REF5">^5^</a>. A Figura 01 ilustra esses modelos conforme descrito a seguir:
-
-<center>
-Figura 01: Classificação da informação do rastreamento.
-
-![Figura de Classificação](https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/pos-rastreabilidade/assets/figuraClassificacao.png?raw=True)
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática<a id="anchor_5" href="#REF5">^5^</a>.</p></font>
-</center>
-
- - O **nível ambiental** congrega informações oriundas do contexto ambiental onde a organização está inserida e que podem afetar o sistema sendo desenvolvido<a id="anchor_3" href="#REF3">^3^</a>;
- - O **nível organizacional** reúne informações relacionadas à organização (missão, objetivos, metas e padrões) e que podem impactar os requisitos do sistema<a id="anchor_3" href="#REF3">^3^</a>;
- - O **nível gerencial** agrega informações que permitem associar tarefas a requisitos, e que podem auxiliar a gerência do projeto<a id="anchor_3" href="#REF3">^3^</a>;
- - O **nível desenvolvimento** abarca informações relacionadas aos diversos artefatos gerados no processo de desenvolvimento (documento de requisitos, diagramas, programas, casos de testes, ...)<a id="anchor_3" href="#REF3">^3^</a>.
+Para implementar essa rastreabilidade, começaremos classificando as informações. Com base no meta-modelo de Toranzo<a id="anchor_5" href="#REF5">^5^</a>, com adaptações. 
 
 Após essa classificação, utilizaremos o *Modelo Intermediário para o Rastreamento de Requisitos*, que visa fornecer resultados a partir de uma combinação de fatores, incluindo boas práticas, estudos de casos, abstração, entre outros<a id="anchor_4" href="#REF4">^4^</a>. A literatura apresenta diversos trabalhos que focam nos tipos de relacionamentos associados à rastreabilidade, conhecidos como elos de rastreabilidade<a id="anchor_3" href="#REF3">^3^</a>. Os principais são:
 
@@ -33,7 +20,78 @@ em outras linguagens.
 representa um subsistema.
 - **Agregação:** indica “composição” de elementos.
 
-No modelo, existem algumas notações para identificar os diferentes tipos de relacionamentos: Satisfação *<sat\>*, Recurso *<rec\>*, Responsabilidade *<resp\>*, Representação *<rep\>* e Alocado *<alo\>*<a id="anchor_4" href="#REF4">^4^</a>.
+A seguir, a Tabela 01 representa a estrutura utilizada para documentar o desenvolvimento dos requisitos no artefato. Ela detalha informações essenciais como versão, métodos de verificação, correção de defeitos e análise de impacto, permitindo um rastreamento eficaz e uma compreensão clara de cada aspecto do requisito no contexto do projeto.
+
+<center>
+    <font size="3"> Tabela 01: Estrutura de Desenvolvimento do Requisito </font>
+    <table>
+        <tr>
+            <th>Versão</th>
+            <th>Nome do Requisito</th>
+            <th>Resolução de requisitos em conflito</th>
+            <th>Verificação</th>
+            <th>Correção de Defeitos</th>
+            <th>Análise de impacto na evolução</th>
+        </tr>
+        <tr>
+            <td>A versão atual do requisito, indicando revisões ou atualizações ao longo do tempo.</td>
+            <td>O nome que identifica o requisito específico a ser implementado.</td>
+            <td>Indica como serão resolvidos possíveis conflitos entre este requisito e outros requisitos.</td>
+            <td>Descreve os métodos e critérios usados para verificar se o requisito foi implementado corretamente.</td>
+            <td>Explica o processo de identificação e correção de defeitos, incluindo relatórios de bugs e feedback.</td>
+            <td>Avalia o impacto da implementação ou modificação deste requisito no sistema geral.</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
+</center>
+
+A seguir, a Tabela 02 representa os artefatos gerados pelos requisitos funcionais, fornecendo uma visão geral dos elementos criados a partir de cada requisito, como cenários, léxico, casos de uso e backlog.
+
+<center>
+    <font size="3"> Tabela 02: Artefatos Gerados Pelos Requisitos Funcionais </font>
+    <table>
+        <tr>
+            <th>Cenário</th>
+            <th>Léxico</th>
+            <th>Casos de Uso</th>
+            <th>Especificação Suplementar</th>
+            <th>História de Usuário</th>
+            <th>Backlog</th>
+        </tr>
+        <tr>
+            <td>Lista os cenários gerados a partir deste requisito.</td>
+            <td>Lista os léxico gerados a partir deste requisito.</td>
+            <td>Lista os casos de uso gerados a partir deste requisito.</td>
+            <td>Lista a especificação suplementar gerada a partir deste requisito.</td>
+            <td>Lista as histórias de usuário geradas a partir deste requisito.</td>
+            <td>Lista o backlog gerado a partir deste requisito.</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
+</center>
+
+A seguir, a Tabela 03 representa os elos do requisito, detalhando o tipo de relação que cada requisito tem com outros elementos do sistema, a categoria do requisito, os elementos rastreáveis e a descrição do elo.
+
+<center>
+    <font size="3"> Tabela 03: Elos do Requisito </font>
+    <table>
+        <tr>
+            <th>Tipo de Elo</th>
+            <th>Categoria</th>
+            <th>Elementos Rastreáveis</th>
+            <th>Descrição do ELO</th>
+            <th>Requisitos Relacionados</th>
+        </tr>
+        <tr>
+            <td>Classifica o tipo de relação que este requisito tem com outros elementos do sistema.</td>
+            <td>Classifica o requisito dentro de uma categoria específica, como segurança, desempenho, etc.</td>
+            <td>Especifica os elementos do sistema que serão rastreados em relação a este requisito.</td>
+            <td>Descreve a função do elo de rastreabilidade no contexto deste requisito.</td>
+            <td>Lista outros requisitos que estão relacionados ou são afetados por este requisito específico.</td>
+        </tr>
+    </table>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/DiegoSousaLeite">Diego Sousa</a>.</p></font>
+</center>
 
 ## <a>Rastreabilidade dos Requisitos Funcionais</a>
 
