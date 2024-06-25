@@ -1293,7 +1293,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Alto: Afeta todos os usuários do software</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1316,7 +1316,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
     <center>
     <font size="3">Tabela 21: Elos do Requisito</font>
@@ -1336,7 +1336,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td> RF20 </td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 </details>
 
@@ -1362,7 +1362,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Alto: Afeta todos os usuários do software</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1385,7 +1385,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1406,7 +1406,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> RF19 </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 </details>
 
@@ -1432,7 +1432,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Alto: A busca é uma das principais funcionalidades do sistema</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1455,7 +1455,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Épico 3: Busca e Organização de Conteúdo</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1476,7 +1476,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> ---- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1503,7 +1503,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Médio: Afeta apenas uma parcela dos usuários</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1526,7 +1526,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Épico 7: Multilíngue e Internacionalização</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1547,7 +1547,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1574,7 +1574,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Alto: O requisito visa uma melhor interação dos usuários com a plataforma</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
  
@@ -1599,7 +1599,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Sim</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1620,7 +1620,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>---</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1647,7 +1647,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Médio: Facilita a realização das tarefas</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1670,7 +1670,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Épico 2: Acessibilidade e Usabilidade</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1691,7 +1691,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>---</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1718,7 +1718,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Médio: Funcionalidades adiconais para os documentos</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
  
@@ -1743,7 +1743,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Épico 6: Funcionalidades Avançadas de Documentos</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1764,7 +1764,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1791,7 +1791,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Baixo: Não é uma das funcionalidades principais do aplicativo</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1814,7 +1814,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Épico 4: Interação e Notificação</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1835,7 +1835,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 </details>
@@ -1864,7 +1864,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
             <td>Alta: O aplicativo deve funcionar durante qualquer período do dia</td>
         </tr>
     </table>
-    <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+    <font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
     </center>
 
 <center>
@@ -1887,7 +1887,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td>Épico 5: Infraestrutura e Suporte</td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 
 <center>
@@ -1908,7 +1908,7 @@ No modelo, existem algumas notações para identificar os diferentes tipos de re
         <td> --- </td>
     </tr>
 </table>
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/joao-artl">João Artur</a>.</p></font>
 </center>
 </details>
 
