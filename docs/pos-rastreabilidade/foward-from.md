@@ -6,19 +6,14 @@ Este modelo de rastreabilidade possibilita acompanhar o progresso do desenvolvim
 
 ## <a>Metodologia</a>
 
-Para implementar essa rastreabilidade, começaremos classificando as informações. Com base no meta-modelo de Toranzo<a id="anchor_5" href="#REF5">^5^</a>, com adaptações. 
+ A metodologia será baseada no meta-modelo de Toranzo<a id="anchor_5" href="#REF5">^5^</a>, com adaptações. Também utilizaremos o *Modelo Intermediário para o Rastreamento de Requisitos*, que visa fornecer resultados a partir de uma combinação de fatores, incluindo boas práticas, estudos de casos, abstração, entre outros<a id="anchor_4" href="#REF4">^4^</a>. A literatura apresenta diversos trabalhos que focam nos tipos de relacionamentos associados à rastreabilidade, conhecidos como elos de rastreabilidade<a id="anchor_3" href="#REF3">^3^</a>. Os principais são:
 
-Após essa classificação, utilizaremos o *Modelo Intermediário para o Rastreamento de Requisitos*, que visa fornecer resultados a partir de uma combinação de fatores, incluindo boas práticas, estudos de casos, abstração, entre outros<a id="anchor_4" href="#REF4">^4^</a>. A literatura apresenta diversos trabalhos que focam nos tipos de relacionamentos associados à rastreabilidade, conhecidos como elos de rastreabilidade<a id="anchor_3" href="#REF3">^3^</a>. Os principais são:
-
-- **Satisfação:** classe origem tem dependência de satisfação com a classe destino.
-- **Recurso:** classe origem tem dependência de recurso com a classe
-destino.
-- **Responsabilidade:** registra a participação, responsabilidade e ação de pessoas sobre artefatos.
-- **Representação:** captura a representação ou modelagem dos requisitos
-em outras linguagens.
-- **Alocado:** classe origem está relacionada à classe destino, que
-representa um subsistema.
-- **Agregação:** indica “composição” de elementos.
+1. **Satisfação**: Classe origem tem dependência de satisfação com a classe destino.
+2. **Recurso**: Classe origem tem dependência de recurso com a classe destino.
+3. **Responsabilidade**: Registra a participação, responsabilidade e ação de pessoas sobre artefatos.
+4. **Representação**: Captura a representação ou modelagem dos requisitos em outras linguagens.
+5. **Alocado**: Classe origem está relacionada à classe destino, que representa um subsistema.
+6. **Agregação**: Indica “composição” de elementos.
 
 A seguir, a Tabela 01 representa a estrutura utilizada para documentar o desenvolvimento dos requisitos no artefato. Ela detalha informações essenciais como versão, métodos de verificação, correção de defeitos e análise de impacto, permitindo um rastreamento eficaz e uma compreensão clara de cada aspecto do requisito no contexto do projeto.
 
