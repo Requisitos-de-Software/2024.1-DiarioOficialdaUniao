@@ -4,6 +4,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Sexta Entre
 
 ## <a>Vídeo de Apresentação</a>
 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/oD9L3Ann8oo" title="Entrega etapa 6 - Pós-Rastreabilidade - Grupo 01 Requisitos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Histórico de Versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
