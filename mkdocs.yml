@@ -95,6 +95,34 @@ nav:
         - Backlog: verificacao/grupo2/etapa4/backlog.md
         - NFR Framework: verificacao/grupo2/etapa4/nfrframework.md
         - Histórias de Usuário: verificacao/grupo2/etapa4/historiasUsuario.md
+  - Verificação Grupo 01:
+      - Etapa 1:
+         - Planejamento da Verificação da Etapa 1: verificacaoG1/etapa1/planejamentoVerificacaoE1.md
+         - Rich Picture: verificacaoG1/etapa1/richpicture.md
+      - Etapa 2:
+        - Planejamento da Verificação da Etapa 2: verificacaoG1/etapa2/planejamento-verificacao-grupo2.md
+        - Perfil de Usuários: verificacaoG1/etapa2/perfil-grupo2.md
+        - Personas: verificacaoG1/etapa2/personas-grupo2.md
+        - Elicitação:
+          - Análise de Documentos: verificacaoG1/etapa2/elicitacao/analise-documentos-grupo2.md
+          - Encenação Adaptada: verificacaoG1/etapa2/elicitacao/encenacao-grupo2.md
+          - Questionário: verificacaoG1/etapa2/elicitacao/questionario-grupo2.md
+          - Storytelling: verificacaoG1/etapa2/elicitacao/storytelling-grupo2.md
+        - Priorização:
+          - Quadrante de Três Níveis: verificacaoG1/etapa2/priorizacao/quadrante-grupo2.md
+          - In or Out: verificacaoG1/etapa2/priorizacao/in-out-grupo2.md
+          - MoSCoW: verificacaoG1/etapa2/priorizacao/moscow-grupo2.md
+      - Etapa 3:
+        - Planejamento da Verificação da Etapa 3: verificacaoG1/etapa3/planejamentoVerificacaoE3.md
+        - Cenários: verificacaoG1/etapa3/cenarios.md
+        - Léxicos: verificacaoG1/etapa3/lexicos.md
+        - Caso de Uso: verificacaoG1/etapa3/caso_uso.md
+        - Especificação Suplementar: verificacaoG1/etapa3/especificacao_suplementar.md
+      - Etapa 4:
+        - Planejamento da Verificação da Etapa 4: verificacaoG1/etapa4/planejamento-verificacao.md
+        - Backlog: verificacaoG1/etapa4/backlog.md
+        - NFR Framework: verificacaoG1/etapa4/nfrframework.md
+        - Histórias de Usuário: verificacaoG1/etapa4/historiasUsuario.md
   - Pós-Rastreabilidade:
         - Backward From: pos-rastreabilidade/backward-from.md
         - Forward From: pos-rastreabilidade/foward-from.md
