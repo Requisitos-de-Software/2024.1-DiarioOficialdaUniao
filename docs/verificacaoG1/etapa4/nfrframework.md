@@ -1,11 +1,11 @@
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/modelagemAgil/NFR">NFR Framework</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/nfr_framework/">NFR Framework</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">Grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
 
 
 ## <a>Características da Verificação do NFR Framework</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">Grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">Grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -13,58 +13,35 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 04|NFR Framework| `1.8` | Breno, Larissa, Luana e Pedro | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | 10/06/2024|
+|Entrega 04|NFR Framework| `1.5` | [Henrique Torres](https://github.com/henriqtorresl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl) | 01/07/2024|
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
 ## <a>Verificação do NFR Framework</a>
 
-A Tabela 2 apresenta um checklist abrangente para a verificação geral dos artefatos, incluindo aspectos essenciais como a padronização dos títulos, a inclusão de introduções descritivas, a referência adequada de tabelas e figuras no texto, e a citação correta das fontes. Este checklist é uma ferramenta fundamental para assegurar que os artefatos estejam desenvolvidos de acordo com os padrões estabelecidos, promovendo a clareza, a consistência e a integridade da documentação. A presença de um histórico de versão padronizado, com detalhes sobre as revisões, responsáveis e datas, é crucial para manter um registro claro e organizado das alterações realizadas nos artefatos. A correta utilização de bibliografias e referências bibliográficas, com citações precisas e navegação facilitada, garante a credibilidade das informações apresentadas e a possibilidade de consulta adicional.
+A Tabela 2 apresenta um checklist detalhado e específico para o NFR (Non-Functional Requirements) Framework, abordando aspectos críticos como a definição clara dos requisitos não-funcionais, a participação das partes interessadas na elicitação desses requisitos, e a categorização adequada dos NFRs. Este checklist é fundamental para assegurar que os requisitos não-funcionais estejam bem definidos, documentados e alinhados com os objetivos estratégicos do projeto. A clareza na definição de NFRs é crucial para garantir que o sistema atenda às expectativas de qualidade, desempenho e segurança. A participação das partes interessadas, como o Product Owner (PO), cliente e personas, na elicitação e validação dos NFRs, assegura que todos os requisitos de qualidade sejam capturados e priorizados adequadamente.
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral para o artefato NFR Framework.</p></font>
-
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|-----------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|SIM||
-|2|O artefato possui padronização nos títulos?|INCOMPLETO|No geral existe uma padronização dos artefatos terem introdução e metodologia, mas a metodologia não está presente neste artefato.|
-|3|O artefato, caso contenha tabelas, as referencia no texto?|INCOMPLETO|As tabelas de 7 a 13 não estão referenciadas no texto. A tabela de cartões de acessibilidade não está referenciada.|
-|4|O artefato, caso tenha figuras, as referencia no texto?|SIM||
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|INCOMPLETO|Cartões de acessibilidade não têm fonte. Despadronização na fonte de requisitos não funcionais elicitados anteriormente (possui duas fontes). A fonte das figuras de 1 a 3 está descrita como 'autor' e não 'fonte'.|
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|INCOMPLETO|Não possui a página ou tópico das citações. Não tem bibliografia.|
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|INCOMPLETO|Não possui a página ou tópico das citações e não tem navegabilidade ao clicar na referência pelo index.|
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|INCOMPLETO|Não tem data de revisão.|
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
-
-A Tabela 3 apresenta um checklist detalhado e específico para o NFR (Non-Functional Requirements) Framework, abordando aspectos críticos como a definição clara dos requisitos não-funcionais, a participação das partes interessadas na elicitação desses requisitos, e a categorização adequada dos NFRs. Este checklist é fundamental para assegurar que os requisitos não-funcionais estejam bem definidos, documentados e alinhados com os objetivos estratégicos do projeto. A clareza na definição de NFRs é crucial para garantir que o sistema atenda às expectativas de qualidade, desempenho e segurança. A participação das partes interessadas, como o Product Owner (PO), cliente e personas, na elicitação e validação dos NFRs, assegura que todos os requisitos de qualidade sejam capturados e priorizados adequadamente.
-
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para a verificação do NFR Framework.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist para a verificação do NFR Framework.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
-| 29 | Os requisitos não-funcionais (NFRs) estão claramente definidos e documentados? | SIM | | É crucial ter NFRs bem definidos para garantir que o sistema atenda às expectativas de qualidade e desempenho<a id="anchor_8" href="#REF8">^8^</a>. |
-| 30 | Os NFRs foram elicitados com a participação de todas as partes interessadas relevantes? | INCOMPLETO | Não está documentado de forma descritiva que os NFR foram elicitados com PO, cliente ou persona. | Envolver todas as partes interessadas ajuda a capturar uma visão completa dos requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
-| 31 | Os NFRs são mensuráveis e verificáveis? | SIM | | Para garantir que os NFRs sejam cumpridos, eles devem ser mensuráveis, com critérios claros de aceitação<a id="anchor_8" href="#REF8">^8^</a>. |
-| 32 | Os NFRs foram categorizados adequadamente (e.g., usabilidade, desempenho, segurança)? | SIM | NRF05 consta como usabilidade, mas está em acessibilidade. | Categorizar NFRs ajuda a estruturar e priorizar os requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
-| 33 | Existem conflitos entre NFRs diferentes? Se sim, foram documentados e gerenciados? | SIM | Não foi documentado nenhum conflito. | Identificar e gerenciar conflitos entre NFRs é essencial para evitar problemas de implementação futuros<a id="anchor_8" href="#REF8">^8^</a>. |
-| 34 | Os softgoals foram utilizados para representar NFRs de forma que capturem suas qualidades sutis? | SIM | | Softgoals são usados para capturar a natureza qualitativa dos NFRs e são refinados em metas mais específicas<a id="anchor_8" href="#REF8">^8^</a>. |
-| 35 | Existe um gráfico de interdependência de softgoals (SIG) para visualizar as relações entre NFRs? | SIM | | Um gráfico de interdependência ajuda a visualizar como os diferentes NFRs se relacionam e afetam uns aos outros<a id="anchor_8" href="#REF8">^8^</a>. |
-| 36 | As relações de contribuição (positiva ou negativa) entre softgoals foram identificadas? | SIM | | Entender as contribuições ajuda a balancear trade-offs entre NFRs conflitantes<a id="anchor_8" href="#REF8">^8^</a>. |
-| 37 | As decisões de design foram documentadas em relação aos NFRs? | SIM | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
-| 38 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? | SIM | | Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
+| 1 | Os requisitos não-funcionais (NFRs) estão claramente definidos e documentados? |   | | É crucial ter NFRs bem definidos para garantir que o sistema atenda às expectativas de qualidade e desempenho<a id="anchor_8" href="#REF8">^8^</a>. |
+| 2 | Os NFRs foram elicitados com a participação de todas as partes interessadas relevantes? | | | Envolver todas as partes interessadas ajuda a capturar uma visão completa dos requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
+| 3 | Os NFRs são mensuráveis e verificáveis? |   | | Para garantir que os NFRs sejam cumpridos, eles devem ser mensuráveis, com critérios claros de aceitação<a id="anchor_8" href="#REF8">^8^</a>. |
+| 4 | Os NFRs foram categorizados adequadamente (e.g., usabilidade, desempenho, segurança)? |   | | Categorizar NFRs ajuda a estruturar e priorizar os requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
+| 5 | Existem conflitos entre NFRs diferentes? Se sim, foram documentados e gerenciados? |  |  | Identificar e gerenciar conflitos entre NFRs é essencial para evitar problemas de implementação futuros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 6 | Os softgoals foram utilizados para representar NFRs de forma que capturem suas qualidades sutis? |  | | Softgoals são usados para capturar a natureza qualitativa dos NFRs e são refinados em metas mais específicas<a id="anchor_8" href="#REF8">^8^</a>. |
+| 7 | Existe um gráfico de interdependência de softgoals (SIG) para visualizar as relações entre NFRs? |  | | Um gráfico de interdependência ajuda a visualizar como os diferentes NFRs se relacionam e afetam uns aos outros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 8 | As relações de contribuição (positiva ou negativa) entre softgoals foram identificadas? |  | | Entender as contribuições ajuda a balancear trade-offs entre NFRs conflitantes<a id="anchor_8" href="#REF8">^8^</a>. |
+| 9 | As decisões de design foram documentadas em relação aos NFRs? |  | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
+| 10 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? |  | | Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
 
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
-
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).</p></font>
 
 ## <a>Vídeo de Verificação</a>
 
-Vídeo de Verificação do NRF Framework, executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
-
-<center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RaT_We0p7iM" title="Verificação NRF Framework" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</center>
+Vídeo de Verificação do NRF Framework, executado pelos membros [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).
 
 
 ## <a> Referência Bibliografica </a>
@@ -95,4 +72,4 @@ Vídeo de Verificação do NRF Framework, executado pelos membros [Arthur Alves]
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 10/06/2024 | 10/06/2024 | Criação do documento e inserção da tabela de verificação do artefato | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)| [João Artur](https://github.com/joao-artl) e [Henrique Torres](https://github.com/henriqtorresl) |
+| `1.0` | 30/06/2024 | 01/07/2024 | Criação do documento e inserção das tabelas |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
