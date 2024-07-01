@@ -53,7 +53,7 @@ Fonte: [João Artur](https://github.com/joao-artl)
 
 ## <a>Retorno do Diário Oficial da União</a>
 
-Até o momento da confecção do artefato (08/06/2024), não foram obtidas respostas de validação. Caso a equipe entre em contato por meio de alguma rede social, será inserida neste artefato a comprovação informal quanto ao que foi desenvolvido no projeto.
+Até o momento da entrega do artefato (01/07/2024), não foram obtidas respostas de validação. Caso a equipe entre em contato por meio de alguma rede social, será inserida neste artefato a comprovação informal quanto ao que foi desenvolvido no projeto.
 
 ## <a>Bibliografia</a>
 > <a>1.</a> SERRANO, Milene. SERRANO, Maurício. Requisitos - Aula 23.
@@ -67,4 +67,6 @@ Até o momento da confecção do artefato (08/06/2024), não foram obtidas respo
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 04/06/2024 | 06/06/2024 | Introdução, metodologias e tabelas. | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
-| `1.1` | 08/06/2024 | 10/06/2024 | Adicionando comprovação informal por email e Instagram | [João Artur](https://github.com/joao-artl) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|
+| `1.1` | 22/06/2024 | 25/06/2024 | Adicionando comprovação informal por email e Instagram | [João Artur](https://github.com/joao-artl) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|
+| `1.2` | 01/07/2024 | 01/07/2024 | Atualizando resposta sobre a confirmação| [João Artur](https://github.com/joao-artl) |[Eric Silveira](https://github.com/ericbky)|
+

@@ -183,7 +183,6 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Verificação por inspeção de todos os artefatos da entrega 2 (Técnicas de Priorização, Elicitação, Perfil do Usuário e Personas) | Início dia 28/05 Fim dia 08/06 | Diego Sousa, João Artur e Luiz Gustavo| 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
     | Verificação por inspeção de todos os artefatos da entrega 3 (Cenários, Léxicos, Caso de Uso e Especificação suplementar) | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
     | Verificação por inspeção de todos os artefatos da entrega 4 (Backlog e histórias de usuário e NFR Framework) | Início dia 28/05 Fim dia 08/06 | Arthur Alves e Eric Silveira | 10/06 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 10/06|
-    | Validação: Prototipação e Comprovação Informal | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Eric Silveira e João Artur| 10/06 | Arthur Alves, Eric Silveira e João Artur| 10/06|
     | Iteração do Git Pages| Início dia 28/05 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | Início dia 06/06 Fim dia 08/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 10/06|
     | Período de gravação da apresentação| Início dia 08/06 Fim dia 10/06 | Douglas Marinho | Início dia 08/06 Fim dia 10/06 | Eric Silveira | 10/06|
     | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
@@ -206,6 +205,25 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Correção pós apresentação  | Início dia 26/06 Fim dia 27/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 28/06 Fim dia 29/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+=== "Cronograma Executado"
+    Na Tabela 12, está explicitado o cronograma executado das atividades da entrega 5.1.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos: Verificação e Validação</p></font>
+
+    | Atividade| Período de desenvolvimento | Responsável| Revisão| Revisores| Data da Entrega |
+    |------------------|-----------------|--------------------|-----------|------------|-----------------|
+    | Planejamento das verificações| Início dia 26/06 Fim dia 30/06| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07 |
+    | Verificação por inspeção de todos os artefatos da entrega 1 (Rich Picture) | 01/07 | Henrique Torres |01/07| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
+    | Verificação por inspeção de todos os artefatos da entrega 2 (Técnicas de Priorização, Elicitação, Perfil do Usuário e Personas) | 01/07 | Diego Sousa João Artur e Luiz Gustavo| 01/07 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
+    | Verificação por inspeção de todos os artefatos da entrega 3 (Cenários, Léxicos, Caso de Uso e Especificação suplementar) | 01/07 | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
+    | Verificação por inspeção de todos os artefatos da entrega 4 (Backlog e histórias de usuário e NFR Framework) | Início dia 10/06 Fim dia 01/07 | Arthur Alves e Eric Silveira | 01/07 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
+    | Validação: Prototipação e Comprovação Informal | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Eric Silveira e João Artur| 01/07| Arthur Alves, Eric Silveira e João Artur| 01/07|
+    | Iteração do Git Pages| Início dia 28/06 Fim dia 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 01/07|
+    | Período de gravação da apresentação| 01/07 | Douglas Marinho | 01/07 | Eric Silveira | 01/07|
+    | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
+
+    <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
 ## Entrega 6 - Pós-Rastreabilidade
 
@@ -275,3 +293,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.7`|27/05/2024|27/05/2024| Atualizando todo o cronograma executado da quarta entrega | [Diego Sousa](https://github.com/DiegoSousaLeite) |[Eric Silveira](https://github.com/ericbky) |
 |`1.8`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 |`1.9`|24/06/2024 | 24/06/2024 | Adicionando Cronograma Executado da entrega 6| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`2.0`|01/07/2024 | 01/07/2024 | Adicionando Cronograma Executado da entrega 5.2| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |

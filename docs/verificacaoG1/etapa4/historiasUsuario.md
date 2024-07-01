@@ -78,4 +78,4 @@ Vídeo de Verificação das US 6 ao 11 executado pelos membros [Douglas Marinho]
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 30/06/2024 | 01/07/2024 | Criação do documento e inserção das tabelas |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento e inserção das tabelas |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
