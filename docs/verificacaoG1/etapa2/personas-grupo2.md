@@ -26,20 +26,12 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
 | ---- | ----------- | ----------- | ------------- |
-| 1  | O artefato possui uma introdução descrevendo-o? | - | - |
-| 2  | O artefato possui padronização nos títulos? | - | - |
-| 3  | O artefato caso contenha tabelas, as chama no texto? | - | - |
-| 4  | O artefato caso tenha figuras as chamam no texto? | - | - |		
-| 5  | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? | - | - |		
-| 6  | O artefato possui bibliografia e/ou referência bibliográfica? | - | - |
-| 7  | O artefato chama as referências bibliográficas presentes de forma correta no texto? | - | - |
-| 8  | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? | - | - |
-| 9  | A persona possui nome e foto fictícios? | - | - |
-| 10 | Inclui uma biografia resumida? | - | - |
-| 11 | Descreve os objetivos e motivações da persona? | - | - |
-| 12 | Fornece informações sobre os desafios e frustrações da persona? | - | - |
-| 13 | Inclui dados demográficos como idade, profissão e localização? | - | - |
-| 14 | Detalha o comportamento da persona em relação ao produto/serviço? | - | - |
+| 9  | A persona possui nome e foto fictícios? | Sim | Porém o link da imagem está quebrado |
+| 10 | Inclui uma biografia resumida? | Sim | - |
+| 11 | Descreve os objetivos e motivações da persona? | Sim | - |
+| 12 | Fornece informações sobre os desafios e frustrações da persona? | Não | - |
+| 13 | Inclui dados demográficos como idade, profissão e localização? | Incompleto | Idade e profissão estão presentes, mas falta a localização |
+| 14 | Detalha o comportamento da persona em relação ao produto/serviço? | Sim | - |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -47,7 +39,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 ## <a>Vídeo da verificação</a>
 
-<iframe width="853" height="480" src="" title="Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="" title="Gravação da Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Bibliografia</a>
@@ -63,4 +55,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl) |
+| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos Artefatos, Checklist e Gravação da Verificação | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl) |
