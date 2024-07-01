@@ -55,7 +55,7 @@ Aqui está a nova tabela com as informações adicionais:
 | Design responsivo pra dispositivos móveis | [Luiz Gustavo]()                                                                                                                                                                          |                  |                       |             | Microsoft Teams   |
 | Suporte multilíngue                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                              |                  |                       |             | Microsoft Teams   |
 | Onboarding personalizado                | [Arthur Alves](https://github.com/arthrok)                                                                                                                                                |      Júlio Cezar            |          01/07/2024 18:30             |      10 minutos       | Microsoft Teams   |
-| Notificações personalizadas             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                       |                  |                       |             | Microsoft Teams   |
+| Notificações personalizadas             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                       |    Thiago Torres              |     20:00                   |       10 minutos      | Microsoft Teams   |
 | Download de documentos pra acesso offline | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                                         |                  |                       |             | Microsoft Teams   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
@@ -138,7 +138,37 @@ Aqui está a nova tabela com as informações adicionais:
     Não houver feedbacks, o usuário achou o protótipo totalmente alinhado com a proposta do requisito.
 
 
+??? - "US09 - Notificações personalizadas"
+    ### <a>US09 - Notificações personalizadas</a>
 
+    As imagens A e B apresentam o protótipo referente à US09 de notificações personalizadas. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através de notificações adaptadas aos seus interesses. Com o DOU sendo uma fonte vasta de informações, a personalização permite que os usuários recebam apenas conteúdos relevantes, tornando a interação mais direta e significativa. Os usuários podem configurar tópicos, áreas de interesse e a frequência das notificações, garantindo uma usabilidade otimizada e conveniente.
+
+    <center>
+
+    ??? "Ver imagem A"
+        Imagem B - Tela de configuração das notificações.
+
+        <font><figure markdown>![Mensagem por e-mail.](./assets/config_notificacoes.png){: style="width:300px"}
+
+        Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+    
+
+    ??? "Ver imagem B"
+        Imagem B - Exemplo de Notificação.
+
+        <font><figure markdown>![Mensagem por e-mail.](./assets/notificacao.png){: style="width:300px"}
+
+        Fonte: [Henrique Torres](https://github.com/henriqtorresl)
+    </center>
+
+
+    #### <a>Validação com o Entrevistado</a>
+    <center>
+    
+    </center>
+
+    #### Feedbacks do Entrevistado
+    
 
 
 ## <a>Análise dos Resultados</a>
@@ -154,4 +184,5 @@ Aqui está a nova tabela com as informações adicionais:
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 04/06/2024 | 06/06/2024 | Introdução, metodologias e tabelas. | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
+| `1.0` | 01/07/2024 | 01/07/2024 | Introdução, metodologias e tabelas. | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
+| `1.1` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US09. | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
