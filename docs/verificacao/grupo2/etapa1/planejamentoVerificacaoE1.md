@@ -77,9 +77,6 @@ O rich picture é um artefato essencial para a compreensão e representação vi
 | 17 | Comunica mais ideias do que palavras?  | | | Rich pictures devem usar imagens e diagramas para comunicar mais ideias do que palavras sozinhas. <a id="REF3" href="#REF3">^3^</a> |
 | 18 | Contém a explicação dos componentes? | | | Deve conter explicações claras dos componentes incluídos para garantir que todos os stakeholders entendam o diagrama. <a id="REF3" href="#REF3">^3^</a> |
 
-### Referências
-4. "Your rich picture must tell a story. This means using images, pictures, keywords and descriptive labels, to give the reader a very good idea of what is going on." (refere.pdf, p.3)
-
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
@@ -90,8 +87,7 @@ O rich picture é um artefato essencial para a compreensão e representação vi
 
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
 
-> ntroducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
-
+> <a id="REF3" href="#anchor_3">3. </a> Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2844957/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
 
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
