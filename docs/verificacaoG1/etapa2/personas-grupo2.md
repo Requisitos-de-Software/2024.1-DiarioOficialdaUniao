@@ -1,6 +1,6 @@
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/personas/">Personas</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">Grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade dos casos de uso assegurando que eles sejam realistas e exequíveis.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/personas/">Personas</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">Grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade das personas, assegurando que elas sejam realistas e exequíveis.
 
 
 ## <a>Características da Verificação das Personas</a>
