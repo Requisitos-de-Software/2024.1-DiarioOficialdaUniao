@@ -28,24 +28,16 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 
 **ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
-| 1  | O artefato possui uma introdução descrevendo-o?| |-|
-| 2  | O artefato possui padronização nos títulos?| |-|
-| 3  | O artefato, caso contenha tabelas, as referencia no texto?| |-|
-| 4  | O artefato, caso tenha figuras, as referencia no texto?| |-|		
-| 5  | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?| |-|	
-| 6  | O artefato possui bibliografia e/ou referência bibliográfica?| |-|
-| 7  | O artefato chama as referências bibliográficas presentes de forma correta no texto?| |-|
-| 8  | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?| |-|
-| 9  | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 10 | Foi utilizada alguma técnica na produção do rich picture? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 11 | O rich picture possui mais textos do que imagens? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 12 | O artefato está bem desenhado e é possível de ser entendido? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 13 | Ele conta uma história? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 14 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 15 | O rich picture dá uma ideia do que realmente está acontecendo? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 16 | Contém palavras-chave relevantes? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 17 | Comunica mais ideias do que palavras? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 18 | Contém a explicação dos componentes? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 1  | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 2 | Foi utilizada alguma técnica na produção do rich picture? <a id="REF4" href="#anchor_3">1.</a>| |-|
+| 3 | O rich picture possui mais textos do que imagens? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 4 | O artefato está bem desenhado e é possível de ser entendido? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 5 | Ele conta uma história? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 6 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 7 | O rich picture dá uma ideia do que realmente está acontecendo? <a id="REF4" href="#anchor_3">1.</a>| |-|
+| 8 | Contém palavras-chave relevantes? <a id="REF4" href="#anchor_3">1.</a>| |-|
+| 9 | Comunica mais ideias do que palavras? <a id="REF4" href="#anchor_3">1.</a>| |-|
+| 10 | Contém a explicação dos componentes? <a id="REF4" href="#anchor_3">1.</a> | |-|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 </center>
