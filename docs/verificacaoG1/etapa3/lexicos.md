@@ -70,11 +70,9 @@ Vídeo de Verificação dos léxicos executado pelo membro [Henrique Torres](htt
 
 > <a>1. </a>BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a>2. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/>. Acesso em 06 de junho de 2024.
+> <a>2. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
 
-> <a>3. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
-
-> <a>4. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
+> <a>3. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
 
 ## <a>Histórico de Versão</a>
 

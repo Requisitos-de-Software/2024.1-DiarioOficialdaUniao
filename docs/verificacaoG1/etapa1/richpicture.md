@@ -62,11 +62,9 @@ Vídeo de Verificação do Rich Picture executado pelo membro [Henrique Torres](
 > <a id="REF4" href="#anchor_3">1.</a>Introducing Rich Pictures - Rich Picture Drawing Guidelines. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf](https://aprender3.unb.br/pluginfile.php/2523045/mod_resource/content/2/1_5145791542719414573.pdf). Acessado em: 07 de junho de 2024
 
 ## <a>Bibliografia</a>
-> <a>1. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/>. Acesso em 05 de junho de 2024.
+> <a>1. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>. Acesso em 05 de junho de 2024.>
 
-> <a>2. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa1/planejamento/>. Acesso em 05 de junho de 2024.>
-
-> <a>3. </a> Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>. Acesso em 05 de junho de 2024.
+> <a>2. </a> Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_planejamento/planejamento_avaliacao/>. Acesso em 05 de junho de 2024.
 
 
 ## <a>Histórico de Versão</a>
