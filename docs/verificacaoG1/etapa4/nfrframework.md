@@ -26,22 +26,24 @@ A Tabela 2 apresenta um checklist detalhado e específico para o NFR (Non-Functi
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
-| 1 | Os requisitos não-funcionais (NFRs) estão claramente definidos e documentados? |   | | É crucial ter NFRs bem definidos para garantir que o sistema atenda às expectativas de qualidade e desempenho<a id="anchor_8" href="#REF8">^8^</a>. |
-| 2 | Os NFRs foram elicitados com a participação de todas as partes interessadas relevantes? | | | Envolver todas as partes interessadas ajuda a capturar uma visão completa dos requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
-| 3 | Os NFRs são mensuráveis e verificáveis? |   | | Para garantir que os NFRs sejam cumpridos, eles devem ser mensuráveis, com critérios claros de aceitação<a id="anchor_8" href="#REF8">^8^</a>. |
+| 1 | Os requisitos não-funcionais (NFRs) estão claramente definidos e documentados? | Sim  | | É crucial ter NFRs bem definidos para garantir que o sistema atenda às expectativas de qualidade e desempenho<a id="anchor_8" href="#REF8">^8^</a>. |
+| 2 | Os NFRs foram elicitados com a participação de todas as partes interessadas relevantes? | Não | Não existe uma validação com a Persona ou Cliente| Envolver todas as partes interessadas ajuda a capturar uma visão completa dos requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
+| 3 | Os NFRs são mensuráveis e verificáveis? | Sim  | | Para garantir que os NFRs sejam cumpridos, eles devem ser mensuráveis, com critérios claros de aceitação<a id="anchor_8" href="#REF8">^8^</a>. |
 | 4 | Os NFRs foram categorizados adequadamente (e.g., usabilidade, desempenho, segurança)? |   | | Categorizar NFRs ajuda a estruturar e priorizar os requisitos de qualidade<a id="anchor_8" href="#REF8">^8^</a>. |
-| 5 | Existem conflitos entre NFRs diferentes? Se sim, foram documentados e gerenciados? |  |  | Identificar e gerenciar conflitos entre NFRs é essencial para evitar problemas de implementação futuros<a id="anchor_8" href="#REF8">^8^</a>. |
-| 6 | Os softgoals foram utilizados para representar NFRs de forma que capturem suas qualidades sutis? |  | | Softgoals são usados para capturar a natureza qualitativa dos NFRs e são refinados em metas mais específicas<a id="anchor_8" href="#REF8">^8^</a>. |
-| 7 | Existe um gráfico de interdependência de softgoals (SIG) para visualizar as relações entre NFRs? |  | | Um gráfico de interdependência ajuda a visualizar como os diferentes NFRs se relacionam e afetam uns aos outros<a id="anchor_8" href="#REF8">^8^</a>. |
-| 8 | As relações de contribuição (positiva ou negativa) entre softgoals foram identificadas? |  | | Entender as contribuições ajuda a balancear trade-offs entre NFRs conflitantes<a id="anchor_8" href="#REF8">^8^</a>. |
-| 9 | As decisões de design foram documentadas em relação aos NFRs? |  | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
-| 10 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? |  | | Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
+| 5 | Existem conflitos entre NFRs diferentes? Se sim, foram documentados e gerenciados? | Sim  |  | Identificar e gerenciar conflitos entre NFRs é essencial para evitar problemas de implementação futuros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 6 | Os softgoals foram utilizados para representar NFRs de forma que capturem suas qualidades sutis? | Sim | | Softgoals são usados para capturar a natureza qualitativa dos NFRs e são refinados em metas mais específicas<a id="anchor_8" href="#REF8">^8^</a>. |
+| 7 | Existe um gráfico de interdependência de softgoals (SIG) para visualizar as relações entre NFRs? | Sim | | Um gráfico de interdependência ajuda a visualizar como os diferentes NFRs se relacionam e afetam uns aos outros<a id="anchor_8" href="#REF8">^8^</a>. |
+| 8 | As relações de contribuição (positiva ou negativa) entre softgoals foram identificadas? | Sim | | Entender as contribuições ajuda a balancear trade-offs entre NFRs conflitantes<a id="anchor_8" href="#REF8">^8^</a>. |
+| 9 | As decisões de design foram documentadas em relação aos NFRs? | Sim  | | Documentar decisões de design com base nos NFRs assegura que as escolhas feitas durante o desenvolvimento são justificáveis e rastreáveis<a id="anchor_8" href="#REF8">^8^</a>. |
+| 10 | Há evidências de que os NFRs foram considerados durante todas as fases do ciclo de vida do projeto? | Não  | Não a referencia do NFR na construção de outros artefatos| Garantir que os NFRs sejam considerados desde o início até a fase de manutenção é vital para a qualidade do produto final<a id="anchor_8" href="#REF8">^8^</a>. |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).</p></font>
 
 ## <a>Vídeo de Verificação</a>
 
 Vídeo de Verificação do NRF Framework, executado pelos membros [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_aNi6rb2Oo?si=QXkWI6SC4NfXpI4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a> Referência Bibliografica </a>
