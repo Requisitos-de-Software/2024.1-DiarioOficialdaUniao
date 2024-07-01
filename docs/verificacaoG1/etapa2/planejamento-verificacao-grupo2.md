@@ -1,8 +1,8 @@
 ## <a>Introdução</a>
 
-A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.    Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/">*Grupo 02*</a>.
+A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.    Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/">*Grupo 01*</a>.
 
-O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 2 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
+O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 01 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
 
 ## <a>Metodologia</a>
 A metodologia que utilizaremos será a de inspeção, que é aplicada para a verificação de documentos, pois seu objetivo principal é a descoberta de "defeitos" nos mesmo<a id="anchor_2" href="#REF2">^2^</a>. Será utilizado uma espécie de checklist, parte da análise estática, onde não há execução do produto<a id="anchor_1" href="#REF1">^1^</a>. Avaliaremos cada entrega com base nos artefatos desenvolvidos, utilizando checklists detalhados para garantir que todos os aspectos do projeto estejam cobertos. Isso nos permitirá verificar se todos os itens estão definidos e completos, e se não há ausência de dados ou especificações importantes. 
@@ -13,16 +13,16 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação da entrega 2 será o integrante do <b>*Grupo 01*</b> - [Douglas Marinho](https://github.com/M4RINH0). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
+A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-|Entrega 02|Personas|`1.0`|Pedro Augusto|[Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
-|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
+|Entrega 02|Perfil de Usuário|`1.1`|Bruno Araújo e Iago Passaglia|[Eric Silveira](https://github.com/ericbky)|
+|Entrega 02|Personas|`1.0`|Pedro Augusto|-|
+|Entrega 02|Análise de Documentos|`1.1`|Larissa Stéfane|-|
 |Entrega 02|Encenação Adaptada|`1.1`|Larissa Stéfane e Caio Mesquita| [João Artur](https://github.com/joao-artl)|
 |Entrega 02|Questionário|`1.2`|Breno Alexandre e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
 |Entrega 02|Storytelling|`1.0`|Luana Medeiros e Larissa Stéfane|[João Artur](https://github.com/joao-artl)|
@@ -31,19 +31,18 @@ O responsável pela execução da verificação da entrega 2 será o integrante 
 |Entrega 02|Priorização MoSCoW|`1.0`|Caio Mesquita|[Douglas Marinho](https://github.com/M4RINH0)|
 
 </center>
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/perfil-grupo2/">Verificação do artefato Perfil de Usuário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/personas-grupo2/">Verificação do artefato Personas</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/analise-documentos-grupo2/">Verificação do artefato Análise de Documentos</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/encenacao-grupo2/">Verificação do artefato Encenação Adaptada</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/questionario-grupo2/">Verificação do artefato Questionário</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/elicitacao/storytelling-grupo2/">Verificação do artefato Storytelling</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2/">Verificação do artefato Quadrante de Três Níveis</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/in-out-grupo2/">Verificação do artefato In or Out</a>
-- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/priorizacao/moscow-grupo2/">Verificação do artefato MoSCoW</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/perfil-grupo2/">Verificação do artefato Perfil de Usuário</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/personas-grupo2/">Verificação do artefato Personas</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/introspeccao/">Verificação do artefato Introspecção</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/observacao/">Verificação do artefato Observação</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/analise-interface/">Verificação do artefato Análise de Interface</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/priorizacao/quadrante-grupo2/">Verificação do artefato Quadrante de Três Níveis</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/priorizacao/in-out-grupo2/">Verificação do artefato In or Out</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/grupo2/etapa2/priorizacao/moscow-grupo2/">Verificação do artefato MoSCoW</a>
 
 ## <a>Checklists</a>
 
@@ -87,7 +86,6 @@ Veja na tabela 3 a tabela de verificação que será usada para Perfil de Usuár
 
 Veja na tabela 4 a tabela de verificação que será usada para Personas.
 
-
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Personas.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** |
@@ -102,73 +100,52 @@ Veja na tabela 4 a tabela de verificação que será usada para Personas.
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
-### <a>Análise de Documentos</a>
+### <a>Introspecção</a>
 
-Veja na tabela 5 a tabela de verificação que será usada para Análise de Documentos.
+Veja na tabela 5 de verificação que será usada para Introspecção.
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Análise de Documentos.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Introspecção.</p></font>
 
+| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | A introspecção permite uma reflexão profunda sobre o uso do sistema pelo próprio usuário? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 2 | O método de introspecção está claramente definido e justificado? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 3 | Foram fornecidos exemplos ou casos práticos de introspecção? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 4 | A introspecção inclui a identificação de sentimentos e pensamentos dos usuários durante o uso do sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 5 | Há uma análise dos dados coletados através da introspecção? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 6 | Inclui recomendações baseadas na introspecção para melhorias no sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 7 | O processo de introspecção foi revisado e ajustado conforme necessário? | Não | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9 | A análise identifica os documentos revisados? [3.](#anchor_3) | | Identificar os documentos revisados garante a rastreabilidade e a transparência do processo de análise. |
-| 10 | Descreve o método utilizado para a análise dos documentos? [3.](#anchor_3) | | Descrever o método utilizado proporciona clareza sobre o processo de análise e facilita a replicação do estudo. |
-| 11 | Resumo dos principais achados da análise? [3.](#anchor_3) | | Um resumo dos principais achados destaca as informações mais relevantes obtidas durante a análise. |
-| 12 | Fornece exemplos de dados extraídos dos documentos? [3.](#anchor_3) | | Exemplos de dados extraídos ajudam a ilustrar e apoiar os resultados apresentados na análise. |
-| 13 | Inclui uma seção de interpretação dos dados? [3.](#anchor_3) | | A interpretação dos dados é fundamental para entender o significado e as implicações dos achados da análise. |
-| 14 | Apresenta recomendações baseadas na análise? [3.](#anchor_3) | | Recomendações baseadas na análise fornecem direções práticas e acionáveis para melhorias futuras. |
+### <a>Observação</a>
 
+Veja na tabela 6 de verificação que será usada para Observação.
 
-### <a>Encenação Adaptada</a>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Observação.</p></font>
 
-Veja na tabela 6 a tabela de verificação que será usada para Encenação Adaptada.
+| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | A observação descreve claramente o cenário e os participantes? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 2 | Inclui uma descrição detalhada das interações entre os participantes e o sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 3 | Fornece exemplos de comportamentos observados? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 4 | A observação inclui uma análise dos dados coletados? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 5 | Apresenta recomendações baseadas nas observações para melhorias no sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 6 | O método de observação foi revisado e ajustado conforme necessário? | Não | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| 7 | A observação é suportada por registros visuais ou auditivos? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
 
+### <a>Análise de Interface</a>
+Veja na tabela 7 de verificação que será usada para Análise de Interface.
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Encenação Adaptada.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist para Análise de Interface.</p></font>
 
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9 | A encenação adaptada possui um roteiro claro? [3.](#anchor_3) | | Um roteiro claro é essencial para garantir que todos os participantes compreendam a sequência dos eventos e suas responsabilidades durante a encenação. |
-| 10 | Inclui descrição dos personagens e suas características? [3.](#anchor_3) | | Descrições detalhadas dos personagens ajudam a definir melhor suas personalidades e papéis na encenação. |
-| 11 | Descreve o cenário e os props utilizados na encenação? [3.](#anchor_3) | | Detalhar o cenário e os props proporciona um ambiente mais realista e ajuda na imersão dos participantes. |
-| 12 | Detalha as interações entre os personagens? [3.](#anchor_3) | | As interações bem definidas entre os personagens garantem uma encenação coesa e fluida. |
-| 13 | Fornece objetivos claros para a encenação? [3.](#anchor_3) | | Objetivos claros permitem que todos os participantes entendam o propósito da encenação e o que se espera alcançar com ela. |
-| 14 | Inclui feedback ou avaliação pós-encenação? [3.](#anchor_3) | | Feedback pós-encenação é crucial para identificar pontos fortes e áreas de melhoria, contribuindo para o aperfeiçoamento das próximas encenações. |
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
-</center>
-
-### <a>Questionário</a>
-
-Veja na tabela 7 a tabela de verificação que será usada para Questionário.
-
-
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Checklist para Questionário.</p></font>
-
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 9 | O questionário possui uma introdução clara sobre seu propósito? [3.](#anchor_3) | | Uma introdução clara ajuda os respondentes a entenderem o objetivo do questionário e sua importância. |
-| 10 | As perguntas estão bem formuladas e são objetivas? [3.](#anchor_3) | | Perguntas bem formuladas e objetivas garantem respostas mais precisas e relevantes. |
-| 11 | Inclui uma variedade de tipos de perguntas (abertas, fechadas, escalas)? [3.](#anchor_3) | | Utilizar diferentes tipos de perguntas pode enriquecer os dados coletados e fornecer uma visão mais completa. |
-| 12 | As perguntas estão ordenadas de forma lógica? [3.](#anchor_3) | | Uma ordem lógica nas perguntas facilita o fluxo do questionário e melhora a experiência do respondente. |
-| 13 | Inclui instruções claras para os respondentes? [3.](#anchor_3) | | Instruções claras são essenciais para garantir que os respondentes compreendam como responder corretamente às perguntas. |
-| 14 | Possui uma seção para comentários adicionais? [3.](#anchor_3) | | Uma seção para comentários adicionais permite que os respondentes ofereçam insights extras que não foram cobertos nas perguntas. |
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
-</center>
-
-### <a>Storytelling</a>
-Veja na tabela 8 a tabela de verificação que será usada para Storytelling.
-
-<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Checklist para Storytelling.</p></font>
-
-| **ID** | **Pergunta para Verificação do Documento** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 1 | O documento introduziu claramente o conceito e a aplicação do storytelling como técnica de elicitação de requisitos? [3.](#anchor_3) | | Verificar se a introdução explana de maneira adequada sobre o uso do storytelling para entender as necessidades dos usuários. |
-| 2 | Como o texto descreve a metodologia utilizada para aplicar o storytelling na elicitação de requisitos? [3.](#anchor_3) | | Avaliar se o método de entrevistas baseadas em storytelling foi descrito de forma clara e compreensível. |
-| 3 | Quais são os principais insights obtidos através das entrevistas com os usuários mencionados no texto? [3.](#anchor_3) | | Identificar os padrões e tendências comuns extraídos das histórias compartilhadas pelos usuários. |
-| 4 | Os requisitos elicitados estão claramente listados e alinhados com as histórias compartilhadas pelos usuários? [3.](#anchor_3) | | Verificar se os requisitos mencionados no documento são diretamente derivados das histórias de uso dos usuários. |
-| 5 | Como o documento conclui a eficácia da metodologia de storytelling na elicitação de requisitos para o aplicativo Carteira de Trabalho Digital? [3.](#anchor_3) | | Avaliar se a conclusão enfatiza de forma adequada os benefícios obtidos com o uso do storytelling. |
+| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | A análise de interface identifica os principais elementos da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 2 | Descreve a funcionalidade de cada elemento da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 3 | Fornece uma avaliação da usabilidade da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 4 | Inclui recomendações para melhorias na interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 5 | Apresenta uma análise dos feedbacks dos usuários sobre a interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 6 | A análise de interface foi revisada e ajustada conforme necessário? | Não | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| 7 | Inclui exemplos ou casos práticos de uso da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
