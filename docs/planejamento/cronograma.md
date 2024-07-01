@@ -1,9 +1,13 @@
-## Objetivo
+## <a>Introdução</a>
 
-O principal objetivo desse cronograma é definir prazos, distribuir atividades entre os membros da equipe e aprimorar a nossa organização, visando o cumprimento das atividades e entregas da disciplina de Requisitos de Software.
+O presente artefato trata-se de um cronograma detalhado, desenvolvido para guiar e organizar as atividades do projeto. Um cronograma é uma ferramenta fundamental no gerenciamento de projetos, pois permite a visualização clara das etapas, prazos e dependências das tarefas envolvidas. Ele serve como um guia estratégico para a equipe de desenvolvimento, assegurando que todas as atividades sejam realizadas de maneira ordenada e dentro do tempo estipulado.
+
+## <a>Objetivo</a>
+
+O objetivo deste cronograma é fornecer uma visão estruturada e sequencial das atividades do projeto, facilitando o planejamento, a execução e o monitoramento do progresso. Ele busca garantir que todos os membros da equipe estejam alinhados quanto aos prazos e responsabilidades, promovendo uma gestão eficaz do tempo e recursos disponíveis. Além disso, o cronograma visa identificar possíveis riscos e obstáculos com antecedência, permitindo a implementação de medidas corretivas de forma proativa para assegurar o sucesso do projeto.
 
 
-## Entrega 1 - Planejamento do Projeto
+## <a>Entrega 1 - Planejamento do Projeto</a>
 
 === "Cronograma Planejado"
     Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
@@ -41,7 +45,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
-## Entrega 2 - Elicitação – Técnicas e Priorização
+## <a>Entrega 2 - Elicitação – Técnicas e Priorização</a>
 
 === "Cronograma Planejado"
     Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
@@ -82,7 +86,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 
-## Entrega 3 - Modelagem de Requisitos
+## <a>Entrega 3 - Modelagem de Requisitos</a>
 
 === "Cronograma Planejado"
     Na Tabela 5, está explicitado o cronograma planejado das atividades da terceira entrega.
@@ -119,7 +123,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 
-## Entrega 4 - Modelagem de Requisitos - Ágil
+## <a>Entrega 4 - Modelagem de Requisitos - Ágil</a>
 
 
 === "Cronograma Planejado"
@@ -154,7 +158,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
-## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
+## <a>Entrega 5.1 - Análise de Requisitos: Verificação e Validação</a>
 
 === "Cronograma Planejado"
     Na Tabela 9, tem-se o cronograma planejado para todas as atividades da primeira metade da quinta entrega.
@@ -189,7 +193,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-## Entrega 5.2 - Análise de Requisitos: Verificação e Validação
+## <a>Entrega 5.2 - Análise de Requisitos: Verificação e Validação</a>
 
 === "Cronograma Planejado"
     Na Tabela 11, tem-se o cronograma planejado para todas as atividades da segunda parte da quinta entrega.
@@ -221,7 +225,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-## Entrega 6 - Pós-Rastreabilidade
+## <a>Entrega 6 - Pós-Rastreabilidade</a>
 
 === "Cronograma Planejado"
     Na Tabela 13, tem-se o cronograma planejado para todas as atividades da sexta entrega.
@@ -254,7 +258,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-## Entrega Final
+## <a>Entrega Final</a>
 
 === "Cronograma Planejado"
     Na Tabela 15, tem-se o cronograma planejado para todas as atividades da entrega final.
@@ -290,3 +294,4 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 |`1.8`|09/06/2024 | 10/06/2024 | Adicionando Cronograma Executado da entrega 5.1| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 |`1.9`|24/06/2024 | 24/06/2024 | Adicionando Cronograma Executado da entrega 6| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 |`2.0`|01/07/2024 | 01/07/2024 | Adicionando Cronograma Executado da entrega 5.2| [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+|`2.1`|01/07/2024 | 01/07/2024 | Ajustando cronograma e Padronizando| [Eric Silveira](https://github.com/ericbky) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
