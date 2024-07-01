@@ -1,23 +1,29 @@
 # Ferramentas
 
-## Introdução
+## <a>Introdução</a>
 
-Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. Na Tabela 1, estão listadas as ferramentas selecionadas para condução deste projeto.
+Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferramentas específicas com o propósito de facilitar diversas atividades e a produção de artefatos. O uso dessas ferramentas visa a garantir a eficiência e a organização em todas as fases do projeto, desde o planejamento até a implementação e monitoramento.
 
-## Ferramentas Utilizadas
+## <a>Objetivo</a>
+
+O objetivo deste cronograma é fornecer uma visão estruturada e sequencial das atividades do projeto, facilitando o planejamento, a execução e o monitoramento do progresso. Ele busca garantir que todos os membros da equipe estejam alinhados quanto aos prazos e responsabilidades, promovendo uma gestão eficaz do tempo e dos recursos disponíveis. Além disso, o cronograma visa identificar possíveis riscos e obstáculos com antecedência, permitindo a implementação de medidas corretivas de forma proativa para assegurar o sucesso do projeto.
+
+## <a>Ferramentas Utilizadas</a>
+
+A tabela 1 a seguir representa as ferramentas selecionadas para a condução deste projeto, destacando suas descrições e principais utilizações:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1 - Ferramentas selecionadas</b></p></font>
 
-|                                                                                                             |        Ferramenta         |                                   Finalidade                                    |
-| :---------------------------------------------------------------------------------------------------------: | :-----------------------: | :-----------------------------------------------------------------------------: |
-| ![Logo do GitHub](../assets/github.png){: style="height:100px;width:100px"}                                 |          GitHub           | Para organizar, versionar e documentar os artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
-| ![Logo do Git](../assets/git.png){: style="height:110px;width:110px"}                                       |          Git              | Para controle de versão e colaboração eficiente.<a id="anchor_2" href="#FRM2">^2^</a> |
-| ![Logo do Whatsapp](../assets/whatsapp.png){: style="height:100px;width:100px"}                             |          WhatsApp         | Para estabelecer uma comunicação remota de maneira fácil e rápida entre os participantes do grupo.<a id="anchor_3" href="#FRM3">^3^</a> |
-| ![Logo do Teams](../assets/teams.png){: style="height:100px;width:100px"}                                   |      Microsoft Teams      | Para realizar as gravações das entregas.<a id="anchor_4" href="#FRM4">^4^</a> |
-| ![Logo do MkDocs](../assets/mkdocs.png)                                                                     |          MkDocs           | Para geração de documentação estática a partir de arquivos Markdown.<a id="anchor_5" href="#FRM5">^5^</a> |
-| ![Logo do Pacote Office](../assets/office.png){: style="height:100px;width:120px"}                          |       Pacote Office       | Para criação e edição de documentos.<a id="anchor_6" href="#FRM6">^6^</a> |
-| ![Logo do VsCode](../assets/vscode.png){: style="height:100px;width:100px"}                                 |          VsCode           | Para edição eficiente e desenvolvimento de código.<a id="anchor_7" href="#FRM7">^7^</a> |
-| ![Logo do LucidChart](../assets/lucidchart.png){: style="height:100px;width:100px"}                         |          LucidChart          | Para gerar diagramas e gráficos.<a id="anchor_8" href="#FRM8">^8^</a> |
+|           |  **Ferramenta**   | **Finalidade**  |
+| :-------: | :---------------: | :-------------: |
+| ![Logo do GitHub](../assets/github.png){: style="height:100px;width:100px"}     |    GitHub     | Para organizar, versionar e documentar os artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
+| ![Logo do Git](../assets/git.png){: style="height:110px;width:110px"}     |    Git| Para controle de versão e colaboração eficiente.<a id="anchor_2" href="#FRM2">^2^</a> |
+| ![Logo do Whatsapp](../assets/whatsapp.png){: style="height:100px;width:100px"} |    WhatsApp   | Para estabelecer uma comunicação remota de maneira fácil e rápida entre os participantes do grupo.<a id="anchor_3" href="#FRM3">^3^</a> |
+| ![Logo do Teams](../assets/teams.png){: style="height:100px;width:100px"} |Microsoft Teams| Para realizar as gravações das entregas.<a id="anchor_4" href="#FRM4">^4^</a> |
+| ![Logo do MkDocs](../assets/mkdocs.png) |    MkDocs     | Para geração de documentação estática a partir de arquivos Markdown.<a id="anchor_5" href="#FRM5">^5^</a> |
+| ![Logo do Pacote Office](../assets/office.png){: style="height:100px;width:120px"}| Pacote Office | Para criação e edição de documentos.<a id="anchor_6" href="#FRM6">^6^</a> |
+| ![Logo do VsCode](../assets/vscode.png){: style="height:100px;width:100px"}     |    VsCode     | Para edição eficiente e desenvolvimento de código.<a id="anchor_7" href="#FRM7">^7^</a> |
+| ![Logo do LucidChart](../assets/lucidchart.png){: style="height:100px;width:100px"}     |    LucidChart    | Para gerar diagramas e gráficos.<a id="anchor_8" href="#FRM8">^8^</a> |
 
 <font size="3"><p style="text-align: center">Fonte: [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
@@ -45,3 +51,4 @@ Para otimizar o gerenciamento e a execução do projeto, foram empregadas ferram
 |`1.0`| 29/03/2024 | 29/03/2024 | Criação da página de ferramentas. | [Henrique Torres](https://github.com/henriqtorresl) | [Douglas Marinho](https://github.com/M4RINH0) |
 |`1.1`| 04/04/2024 | 04/04/2024 | Padronização do histórico de versão | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves Melo](https://github.com/Arthrok)|
 |`1.2`| 16/05/2024 | 16/05/2024 | Correções na tabela de ferramentas | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves Melo](https://github.com/Arthrok) |
+|`1.3`| 01/07/2024 | 01/07/2024 | Correções na tabela de ferramentas | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves Melo](https://github.com/Arthrok) |
