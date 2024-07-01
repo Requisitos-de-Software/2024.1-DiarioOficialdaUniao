@@ -16,8 +16,20 @@ A tabela 1 representada a seguir demonstra os requisitos selecionados, assim com
 
 <center>
 
-|**ID**|**Título do Requisito**|**Responsável pela prototipação**|
-|------|-----------------------|------------------|
+| **ID**  | **Nome da US**                                          | **Responsável**                                                                                                                                                                                                                                                                             |
+|---------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| US01    | Ajuste automático da data de término                    | [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                                                                 |
+| US05    | Busca por palavras-chave                                | [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                                                                 |
+| US07    | Filtros temáticos geográficos                           | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                    |
+| US10    | Funcionalidade de histórico de pesquisa                 | [João Artur](https://github.com/joao-artl)                                                                                                                                                                                                                                                  |
+| US02    | Limitação de diários por página                         | [Douglas Marinho](https://github.com/M4RINH0)                                                                                                                                                                                                                                               |
+| US19    | Design responsivo pra dispositivos móveis               | [Luiz Gustavo]()                                                                                                                                                                                                                                                                                      |
+| US06    | Suporte multilíngue                                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                                                                                                                               |
+| US08    | Onboarding personalizado                                | [Arthur Alves](https://github.com/arthrok)                                                                                                                                                                                                                                                  |
+| US09    | Notificações personalizadas                             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                                                                                                                         |
+| US18    | Download de documentos pra acesso offline               | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                                                                                                                                           |
+
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -31,8 +43,20 @@ A seguir na tabela 2, temos a nossa execução de entrevistas para a validação
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Informações sobre as entrevistas executadas.</p></font>
 
-|**Título do Requisito**|**Avaliador**|**Entrevistado**|**Horário de início**|**Duração**|**Local**|
-|------|-----------------------|------------------|----|-----|-------|
+Aqui está a nova tabela com as informações adicionais:
+
+| **Nome da US**                          | **Avaliador**                                                                                                                                     | **Entrevistado** | **Horário de Início** | **Duração** | **Local**          |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------|-------------|-------------------|
+| Ajuste automático da data de término    | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
+| Busca por palavras-chave                | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
+| Filtros temáticos geográficos           | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                  |                  |                       |             | Microsoft Teams   |
+| Funcionalidade de histórico de pesquisa | [João Artur](https://github.com/joao-artl)                                                                                                                                                |                  |                       |             | Microsoft Teams   |
+| Limitação de diários por página         | [Douglas Marinho](https://github.com/M4RINH0)                                                                                                                                             |                  |                       |             | Microsoft Teams   |
+| Design responsivo pra dispositivos móveis | [Luiz Gustavo]()                                                                                                                                                                          |                  |                       |             | Microsoft Teams   |
+| Suporte multilíngue                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                              |                  |                       |             | Microsoft Teams   |
+| Onboarding personalizado                | [Arthur Alves](https://github.com/arthrok)                                                                                                                                                |                  |                       |             | Microsoft Teams   |
+| Notificações personalizadas             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                       |                  |                       |             | Microsoft Teams   |
+| Download de documentos pra acesso offline | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                                         |                  |                       |             | Microsoft Teams   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -41,6 +65,46 @@ A seguir na tabela 2, temos a nossa execução de entrevistas para a validação
 ## <a>Protótipos</a>
 
 Inserir requisito e protótipo, destacando os pontos mais relevantes.
+
+??? - "US08 - Onboarding personalizado"
+    ### US08 - Onboarding personalizado	
+
+    As imagens X, Y e Z apresentam o protótipo referente à US08 de onboarding personalizado. A implementação deste requisito visa aproximar pessoas mais leigas ao uso do aplicativo do Diário Oficial da União (DOU). Dado que o DOU é um aplicativo repleto de termos técnicos, pode afastar pessoas comuns de seu uso. É importante ressaltar que o DOU é um jornal publicado pela Imprensa Nacional, com o objetivo de ser uma fonte rica, detalhada e segura de dados. Conforme visto na seção [Perfil de Usuário](), parte dos usuários são civis. Este requisito busca facilitar o uso do aplicativo por esse público. Ao iniciar o aplicativo pela primeira vez, o usuário poderá configurar o app tanto em conteúdo quanto em acessibilidade, tornando sua experiência mais fácil e agradável.
+
+    <center>
+
+    ??? "Ver imagem X"
+        Imagem X - Primeira Tela do Onboarding.
+
+        <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200_%20Onboarding.png){: style="width:300px"}
+
+        Fonte: [Arthur Alves](https://github.com/arthrok)
+    
+
+    ??? "Ver imagem Y"
+        Imagem Y - Segunda Tela do Onboarding.
+
+        <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200.1_%20Onboarding.png){: style="width:300px"}
+
+        Fonte: [Arthur Alves](https://github.com/arthrok)
+
+    ??? "Ver imagem Z"
+        Imagem Z - Terceira Tela do Onboarding.
+
+        <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200.2_%20Onboarding.png){: style="width:300px"}
+
+        Fonte: [Arthur Alves](https://github.com/arthrok)
+    </center>
+
+
+    #### Validação com o Entrevistado
+
+
+
+
+
+
+
 
 ## <a>Análise dos Resultados</a>
 
