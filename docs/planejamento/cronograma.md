@@ -21,7 +21,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Período de gravação da apresentação|Início dia 29/03 Fim dia 31/03|Douglas Marinho e Henrique Torres|Início dia 29/03 Fim dia 31/03|Eric Silveira|01/04|
     |Implementação do Git Pages|Início dia 19/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 29/03 Fim dia 01/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
@@ -39,7 +39,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Período de gravação da apresentação|Início dia 30/03 Fim dia 31/03|Douglas Marinho e Henrique Torres| 31/03|Eric Silveira|01/04|
     |Implementação do Git Pages|Início dia 26/03 Fim dia 28/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Início dia 28/03 Fim dia 31/03|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|01/04|
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 ## Entrega 2 - Elicitação – Técnicas e Priorização
 
@@ -60,7 +60,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Período de gravação da apresentação| Início dia 22/04 Fim dia 01/05 | Douglas Marinho| Dia 01/05 |Eric Silveira|01/05|
     |Correção pós apresentação| Início dia 01/05 Fim dia 01/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| Início dia 01/05 Fim dia 01/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
@@ -79,7 +79,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     |Período de gravação da apresentação| 21/04 | Douglas Marinho| 21/04 |Eric Silveira|22/04|
     |Correção pós apresentação| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 24/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo|Não há entrega|
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 
 ## Entrega 3 - Modelagem de Requisitos
@@ -99,7 +99,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação | Início dia 18/05 Fim dia 19/05 | Douglas Marinho| Início dia 22/05 Fim dia 24/05 | Eric Silveira  | 20/05  |
     | Correção pós apresentação  | Início dia 22/05 Fim dia 23/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 24/05 Fim dia 25/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
@@ -116,7 +116,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação | Início: 20/05, Fim: 20/05 | Douglas Marinho | Sem revisão | Eric Silveira | 20/05 |
     | Correção pós apresentação | Início: 18/05, Fim: 19/05 | Todos os membros do time | Início: 20/05, Fim: 20/05 | Todos os membros do time | 20/05 |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 
 ## Entrega 4 - Modelagem de Requisitos - Ágil
@@ -136,7 +136,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação    | Início dia 24/05 Fim dia 26/05 | Douglas Marinho  | Início dia 29/05 Fim dia 31/05 | Eric Silveira | 27/05   |
     | Correção pós apresentação| Início dia 21/05 Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
@@ -152,7 +152,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação | Início dia 24/05, Fim dia 27/05 | Douglas Marinho | Início dia 28/05, Fim dia 28/05 | Eric Silveira | 27/05 |
     | Correção pós apresentação | Início dia 29/05, Fim dia 30/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 31/05, Fim dia 31/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 ## Entrega 5.1 - Análise de Requisitos: Verificação e Validação
 
@@ -169,7 +169,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação| Início dia 08/06 Fim dia 10/06 | Douglas Marinho | Início dia 08/06 Fim dia 10/06 | Eric Silveira | 10/06|
     | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 10, está explicitado o cronograma executado das atividades da entrega 5.1.
@@ -198,13 +198,13 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
 
     | Atividade| Período de desenvolvimento | Responsável| Revisão| Revisores| Data da Entrega |
     |------------------------------------------------|-----------------------------|--------------------------------------------------|--------------------------------------|---------------------------------------------------------------|-----------------|
-    | Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados) | Início dia 11/06 Fim dia 16/06 | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo | Início dia 17/06 Fim dia 20/06 | Arthur Alves, Eric Silveira e João Artur| 24/06 |
-    | Validação: Prototipação e Comprovação Informal | Início dia 11/06 Fim dia 16/06 | Arthur Alves, Eric Silveira e João Artur | Início dia 17/06 Fim dia 20/06  | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo| 24/06 |
-    | Iteração do Git Pages | Início dia 11/06 Fim dia 23/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 24/06 Fim dia 25/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 24/06 |
-    | Período de gravação da apresentação  | Início dia 22/06 Fim dia 23/06 | Douglas Marinho | Início dia 26/06 Fim dia 27/06  | Eric Silveira | 24/06 |
-    | Correção pós apresentação  | Início dia 26/06 Fim dia 27/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 28/06 Fim dia 29/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| Não há entrega  |
+    | Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados) | Início dia 24/06 Fim dia 01/07 | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo | Início dia 17/06 Fim dia 01/06 | Arthur Alves, Eric Silveira e João Artur| 01/07 |
+    | Validação: Prototipação e Comprovação Informal | Início dia 26/07 Fim dia 01/07 | Arthur Alves, Eric Silveira e João Artur | Início dia 01/07 Fim dia 01/07  | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo| 01/07 |
+    | Iteração do Git Pages | Início dia 01/07 Fim dia 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 01/07 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 01/07 |
+    | Período de gravação da apresentação  | Início dia 22/06 Fim dia 23/06 | Douglas Marinho | Início dia 26/06 Fim dia 27/06  | Eric Silveira | 01/07 |
+    | Correção pós apresentação  | Início dia 02/06 Fim dia 09/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 02/07 Fim dia 09/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 12, está explicitado o cronograma executado das atividades da entrega 5.1.
@@ -212,16 +212,12 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Análise de Requisitos: Verificação e Validação</p></font>
 
     | Atividade| Período de desenvolvimento | Responsável| Revisão| Revisores| Data da Entrega |
-    |------------------|-----------------|--------------------|-----------|------------|-----------------|
-    | Planejamento das verificações| Início dia 26/06 Fim dia 30/06| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07 |
-    | Verificação por inspeção de todos os artefatos da entrega 1 (Rich Picture) | 01/07 | Henrique Torres |01/07| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
-    | Verificação por inspeção de todos os artefatos da entrega 2 (Técnicas de Priorização, Elicitação, Perfil do Usuário e Personas) | 01/07 | Diego Sousa João Artur e Luiz Gustavo| 01/07 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
-    | Verificação por inspeção de todos os artefatos da entrega 3 (Cenários, Léxicos, Caso de Uso e Especificação suplementar) | 01/07 | Arthur Alves, Diego Sousa, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
-    | Verificação por inspeção de todos os artefatos da entrega 4 (Backlog e histórias de usuário e NFR Framework) | Início dia 10/06 Fim dia 01/07 | Arthur Alves e Eric Silveira | 01/07 |  Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo| 01/07|
-    | Validação: Prototipação e Comprovação Informal | Início dia 28/05 Fim dia 08/06 | Arthur Alves, Eric Silveira e João Artur| 01/07| Arthur Alves, Eric Silveira e João Artur| 01/07|
-    | Iteração do Git Pages| Início dia 28/06 Fim dia 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur, Luiz Gustavo | 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 01/07|
-    | Período de gravação da apresentação| 01/07 | Douglas Marinho | 01/07 | Eric Silveira | 01/07|
-    | Correção pós apresentação | Início dia 10/06 Fim dia 10/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Não há entrega  |
+    |------------------------------------------------|-----------------------------|--------------------------------------------------|--------------------------------------|---------------------------------------------------------------|-----------------|
+    | Verificação por inspeção de todos os artefatos (subdividir de acordo com os artefatos quando criados) | Início dia 24/06 Fim dia 01/07 | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo | Início dia 17/06 Fim dia 01/07 | Arthur Alves, Eric Silveira e João Artur| 01/07 |
+    | Validação: Prototipação e Comprovação Informal | Início dia 26/06 Fim dia 01/07 | Arthur Alves, Eric Silveira e João Artur | Início dia 01/07 Fim dia 01/07  | Diego Sousa, Douglas Marinho, Henrique Torres e Luiz Gustavo| 01/07 |
+    | Iteração do Git Pages | Início dia 01/07 Fim dia 01/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 01/07 Fim dia 01/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| 01/07 |
+    | Período de gravação da apresentação  | Início dia 22/06 Fim dia 23/06 | Douglas Marinho | Início dia 26/06 Fim dia 27/06  | Eric Silveira | 01/07 |
+    | Correção pós apresentação  | Início dia 02/06 Fim dia 09/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 02/07 Fim dia 09/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo| Não há entrega  |
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -240,7 +236,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação| Início dia 14/06 Fim dia 15/06 | Douglas Marinho  | Início dia 19/06 Fim dia 20/06   | Eric Silveira | 24/06   |
     | Correção pós apresentação  | Início dia 19/06 Fim dia 20/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 21/06 Fim dia 22/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 === "Cronograma Executado"
     Na Tabela 14, tem-se o cronograma executado para todas as atividades da sexta entrega.
@@ -272,7 +268,7 @@ O principal objetivo desse cronograma é definir prazos, distribuir atividades e
     | Período de gravação da apresentação  | Início dia 29/06 Fim dia 30/06 | Douglas Marinho  | Início dia 03/07 Fim dia 04/07  | Eric Silveira | 02/07 |
     | Correção pós apresentação | Início dia 03/07 Fim dia 04/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo | Início dia 05/07 Fim dia 06/07 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, Henrique Torres, João Artur e Luiz Gustavo   | Não há entrega  |
 
-    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 ## <a>Bibliografia</a>
 
