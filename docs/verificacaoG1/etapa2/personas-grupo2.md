@@ -39,7 +39,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 ## <a>Vídeo da verificação</a>
 
-<iframe width="853" height="480" src="" title="Gravação da Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/d0Hf8EhnOuQ?si=cprUaLZJRpK7rPbI" title="Gravação da Verificação - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Bibliografia</a>
@@ -55,4 +55,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos Artefatos, Checklist e Gravação da Verificação | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky), [Henrique Torres](https://github.com/henriqtorresl) e [João Artur](https://github.com/joao-artl) |
+| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento com Introdução, Metodologia, Características da Verificação dos Artefato, Checklist e Gravação da Verificação | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky), [Henrique Torres](https://github.com/henriqtorresl) e [João Artur](https://github.com/joao-artl) |

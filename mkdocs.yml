@@ -105,10 +105,9 @@ nav:
         - Perfil de Usuários: verificacaoG1/etapa2/perfil-grupo2.md
         - Personas: verificacaoG1/etapa2/personas-grupo2.md
         - Elicitação:
-          - Análise de Documentos: verificacaoG1/etapa2/elicitacao/analise-documentos-grupo2.md
-          - Encenação Adaptada: verificacaoG1/etapa2/elicitacao/encenacao-grupo2.md
-          - Questionário: verificacaoG1/etapa2/elicitacao/questionario-grupo2.md
-          - Storytelling: verificacaoG1/etapa2/elicitacao/storytelling-grupo2.md
+          - Introspecção: verificacaoG1/etapa2/elicitacao/instrospeccao.md
+          - Observação: verificacaoG1/etapa2/elicitacao/observacao.md
+          - Análise de Interface: verificacaoG1/etapa2/elicitacao/analise-interface.md
         - Priorização:
           - Quadrante de Três Níveis: verificacaoG1/etapa2/priorizacao/quadrante-grupo2.md
           - In or Out: verificacaoG1/etapa2/priorizacao/in-out-grupo2.md
