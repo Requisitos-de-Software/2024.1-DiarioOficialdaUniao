@@ -1,12 +1,12 @@
-# Encenação Adaptada
+# Observação
 
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação da <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada">Encenação Adaptada</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade da Encenação Adaptada.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação da <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada">Observação</a> desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade da Observação.
 
 ## <a>Características da Verificação dos Princípios Gerais do Projeto</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -14,42 +14,35 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 02|Encenação Adaptada|`1.1`|Larissa|João Artur|10/06|
+|Entrega 02|Observação|`1.2`|Diego Sousa|[Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)|01/07|
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada">Encenação Adaptada</a> do <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/Elicitacao/TecnicasElicitacao/Execucao/EncenacaoAdaptada">Observação</a> do <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação da Encenação Adaptada.</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação da Observação.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|Sim||
-|2|O artefato possui padronização nos títulos?|Sim||
-|3|O artefato caso contenha tabelas, as chama no texto?|Sim||
-|4|O artefato caso tenha figuras as chamam no texto?|Sim||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Sim||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|Sim||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Sim||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Sim||
-|9| A encenação adaptada possui um roteiro claro? | Sim| |
-|10| Inclui descrição dos personagens e suas características? | Sim| Através de um link para o artefato das Personas |
-|11| Descreve o cenário e os props utilizados na encenação? | Sim | |
-|12| Detalha as interações entre os personagens? |Sim | |
-|13| Fornece objetivos claros para a encenação? |Sim | |
-|14| Inclui feedback ou avaliação pós-encenação? |Sim | |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | **Imagem da Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | 
+| 1 | A observação descreve claramente o cenário e os participantes? | Incompleto | O cenário não está bem descrito | Descrever o cenário e os participantes com clareza é fundamental para contextualizar as observações feitas. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 2 | Inclui uma descrição detalhada das interações entre os participantes e o sistema? | Não | | Uma descrição detalhada das interações ajuda a compreender como os usuários realmente utilizam o sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 3 | Fornece exemplos de comportamentos observados? | Não | | Exemplos de comportamentos observados ilustram padrões de uso e problemas recorrentes. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 4 | A observação inclui uma análise dos dados coletados? | Não | | Analisar os dados coletados é essencial para transformar observações em insights acionáveis. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 5 | Apresenta recomendações baseadas nas observações para melhorias no sistema? | Não | | Recomendações baseadas nas observações ajudam a guiar melhorias concretas e práticas no sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 6 | O método de observação foi revisado e ajustado conforme necessário? | Não | | Revisar e ajustar o método de observação garante que ele continue sendo relevante e eficaz ao longo do tempo. |<button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 7 | A observação é suportada por registros visuais ou auditivos? | Não | | Registros visuais ou auditivos complementam as observações escritas, proporcionando uma visão mais completa e detalhada. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 ## <a>Gravação da Verificação</a>
 
-A verificação foi realizada pelo membro do grupo 1 [João Artur](https://github.com/joao-artl), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
+A verificação foi realizada pelo membro do grupo 1 [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky), seguindo a checklist criada no [planejamento](https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/).
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/lQ0JUcV8U7Q?si=CXBIXROdUCm5IyA2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -72,5 +65,4 @@ A verificação foi realizada pelo membro do grupo 1 [João Artur](https://githu
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 10/06/2024 | 10/06/2024 | Criando documento, introdução e gravação e execução da checklist | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-
+| `1.0` | 01/07/2024 | 10/06/2024 | Criando documento |[Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
