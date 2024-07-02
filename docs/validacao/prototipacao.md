@@ -316,3 +316,4 @@ Aqui está a nova tabela com as informações adicionais:
 | `1.1` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US09. | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
 | `1.2` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US10. | [João Artur](https://github.com/joao-artl) |[Henrique Torres](https://github.com/henriqtorresl) |
 | `1.3` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US02. | [Douglas Marinho](https://github.com/M4RINH0) |[Henrique Torres](https://github.com/henriqtorresl) |
+| `1.4` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US01 e US05. | [Eric Silveira](https://github.com/ericbky) |[Henrique Torres](https://github.com/henriqtorresl) |
