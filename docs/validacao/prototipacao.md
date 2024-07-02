@@ -216,3 +216,4 @@ Aqui está a nova tabela com as informações adicionais:
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 01/07/2024 | 01/07/2024 | Introdução, metodologias e tabelas. | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
 | `1.1` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US09. | [Henrique Torres](https://github.com/henriqtorresl) | [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl)|
+| `1.2` | 01/07/2024 | 01/07/2024 | Adicionando o protótipo da US10. | [João Artur](https://github.com/joao-artl) |[Henrique Torres](https://github.com/henriqtorresl) |
