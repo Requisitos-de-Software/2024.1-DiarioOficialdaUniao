@@ -29,14 +29,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referêcia** |
 | ---- | ----------- | ----------- | ------------- | ------------- |
-| 1| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?| | |O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_1" href="#REF1">^1^</a>|
-| 2  | Os símbolos possuem noção e impacto? |   | |Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_2" href="#REF2">^2^</a>|
-| 3 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?|  | |Estado: o que indica e ações que levaram a esse estado<a id="anchor_2" href="#REF2">^2^</a>|
-| 4|Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?|  | |Verbos registram ações ou funcionalidades a serem desempenhadas pelos sujeitos ou pelo sistema em desenvolvimento, com algum impacto ou reflexo no ambiente operacional.<a id="anchor_2" href="#REF2">^2^</a>|
-| 5 | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito?|  | |Objetos são entidades passivas utilizadas ou necessárias a uma ação ou conjunto de ações, e estados são caracterizados por atributos significativos que registram valores em diferentes momentos da execução do sistema<a id="anchor_2" href="#REF2">^2^</a>|
-| 6 | O artefato possui um léxico relacionado aos usuários?|  | |Sujeitos correspondem a entidades ativas, atores com papel relevante para a aplicação; um sujeito pode ser um ator, um componente ou um outro sistema com o qual deverá ocorrer interação<a id="anchor_2" href="#REF2">^2^</a>|
-| 7 | A descrição dos léxicos é coerente?|  | |O léxico não é apenas uma exigência de processos de qualidade, mas se constitui também em fonte de consulta para os participantes do processo de requisitos<a id="anchor_3" href="#REF3">^3^</a>|
-| 8 | O vocabulário foi apropriadamente adotado nas descrições?| | |Os termos a serem inseridos num glossário são aqueles utilizados pelos participantes do processo para fazer referências às características da aplicação, visando facilitar o entendimento entre eles<a id="anchor_2" href="#REF2">^2^</a>|
+| 1| O Léxico Ampliado da Linguagem foi adotado na construção dos léxicos?| Sim | |O Léxico Ampliado da Linguagem, ou LAL, é uma forma mais elaborada de registro de termos próprios do domínio da aplicação, fornecendo mais informações que simplesmente a definição de um termo<a id="anchor_1" href="#REF1">^1^</a>|
+| 2  | Os símbolos possuem noção e impacto? | Sim | |Símbolos do LAL possuem noção e denotação. A noção de um símbolo é o que o define, e a denotação registra os impactos que o símbolo provoca ou recebe no domínio considerado  <a id="anchor_2" href="#REF2">^2^</a>|
+| 3 | Caso seja do tipo Estado, as definições de noção e de impacto se encaixam com o que é descrito?| Sim | |Estado: o que indica e ações que levaram a esse estado<a id="anchor_2" href="#REF2">^2^</a>|
+| 4|Caso seja do tipo Verbo, as definições de noção e de impacto se encaixam com o que é descrito?| Sim | |Verbos registram ações ou funcionalidades a serem desempenhadas pelos sujeitos ou pelo sistema em desenvolvimento, com algum impacto ou reflexo no ambiente operacional.<a id="anchor_2" href="#REF2">^2^</a>|
+| 5 | Caso seja do tipo Objeto, as definições de noção e de impacto se encaixam com o que é descrito?| Sim | |Objetos são entidades passivas utilizadas ou necessárias a uma ação ou conjunto de ações, e estados são caracterizados por atributos significativos que registram valores em diferentes momentos da execução do sistema<a id="anchor_2" href="#REF2">^2^</a>|
+| 6 | O artefato possui um léxico relacionado aos usuários?| Sim | |Sujeitos correspondem a entidades ativas, atores com papel relevante para a aplicação; um sujeito pode ser um ator, um componente ou um outro sistema com o qual deverá ocorrer interação<a id="anchor_2" href="#REF2">^2^</a>|
+| 7 | A descrição dos léxicos é coerente?| Sim | |O léxico não é apenas uma exigência de processos de qualidade, mas se constitui também em fonte de consulta para os participantes do processo de requisitos<a id="anchor_3" href="#REF3">^3^</a>|
+| 8 | O vocabulário foi apropriadamente adotado nas descrições?| Sim | |Os termos a serem inseridos num glossário são aqueles utilizados pelos participantes do processo para fazer referências às características da aplicação, visando facilitar o entendimento entre eles<a id="anchor_2" href="#REF2">^2^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 </center>
@@ -46,7 +46,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://requi
 Vídeo de Verificação dos léxicos executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
 
 <center>
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/shX7q0bXpUc?si=BjWTGAsfUToJnTTu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 

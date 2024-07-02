@@ -28,16 +28,16 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 
 **ID**|**Descrição**|**Avaliação**|**Observações**|
 |----|-----------|-----------|-------------|
-| 1  | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 2 | Foi utilizada alguma técnica na produção do rich picture? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 3 | O rich picture possui mais textos do que imagens? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 4 | O artefato está bem desenhado e é possível de ser entendido? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 5 | Ele conta uma história? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 6 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? <a id="REF4" href="#anchor_3">1.</a> | |-|
-| 7 | O rich picture dá uma ideia do que realmente está acontecendo? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 8 | Contém palavras-chave relevantes? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 9 | Comunica mais ideias do que palavras? <a id="REF4" href="#anchor_3">1.</a>| |-|
-| 10 | Contém a explicação dos componentes? <a id="REF4" href="#anchor_3">1.</a> | |-|
+| 1  | O rich picture possui atores, operações, armazenamento de dados, setas e o limite do sistema? <a id="REF4" href="#anchor_3">1.</a> | Sim |-|
+| 2 | Foi utilizada alguma técnica na produção do rich picture? <a id="REF4" href="#anchor_3">1.</a>| Sim |-|
+| 3 | O rich picture possui mais textos do que imagens? <a id="REF4" href="#anchor_3">1.</a> | Não |-|
+| 4 | O artefato está bem desenhado e é possível de ser entendido? <a id="REF4" href="#anchor_3">1.</a> | Sim |-|
+| 5 | Ele conta uma história? <a id="REF4" href="#anchor_3">1.</a> | Sim |-|
+| 6 | O rich picture diz qual dado está sendo processado, qual está chegando ao sistema e qual informação está saindo? <a id="REF4" href="#anchor_3">1.</a> | Sim |-|
+| 7 | O rich picture dá uma ideia do que realmente está acontecendo? <a id="REF4" href="#anchor_3">1.</a>| Sim |-|
+| 8 | Contém palavras-chave relevantes? <a id="REF4" href="#anchor_3">1.</a>| Sim |-|
+| 9 | Comunica mais ideias do que palavras? <a id="REF4" href="#anchor_3">1.</a>| Sim |-|
+| 10 | Contém a explicação dos componentes? <a id="REF4" href="#anchor_3">1.</a> | Sim |-|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 </center>
@@ -47,7 +47,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato [rich picture](https:/
 Vídeo de Verificação do Rich Picture executado pelo membro [Henrique Torres](https://github.com/henriqtorresl)
 
 <center>
-
+<iframe width="853" height="480" src="https://www.youtube.com/embed/TG-nRcdiGMk?si=plXd3GpTriDoGdTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 ## <a>Referência Bibliografica</a>
