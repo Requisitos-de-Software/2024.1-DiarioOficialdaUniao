@@ -89,15 +89,16 @@ Veja na tabela 4 de verificação que será usada para Introspecção.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist para Introspecção.</p></font>
 
-| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
-| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | A introspecção permite uma reflexão profunda sobre o uso do sistema pelo próprio usuário? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 2 | O método de introspecção está claramente definido e justificado? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 3 | Foram fornecidos exemplos ou casos práticos de introspecção? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 4 | A introspecção inclui a identificação de sentimentos e pensamentos dos usuários durante o uso do sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 5 | Há uma análise dos dados coletados através da introspecção? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 6 | Inclui recomendações baseadas na introspecção para melhorias no sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 7 | O processo de introspecção foi revisado e ajustado conforme necessário? | Não | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | **Imagem da Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | 
+| 1 | A introspecção permite uma reflexão profunda sobre o uso do sistema pelo próprio usuário? | | | Refletir profundamente sobre o uso do sistema permite identificar problemas e oportunidades de melhoria do ponto de vista do usuário. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 2 | O método de introspecção está claramente definido e justificado? | | | Ter um método bem definido e justificado assegura que a introspecção seja realizada de maneira consistente e eficaz. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>| 
+| 3 | Foram fornecidos exemplos ou casos práticos de introspecção? | | | Exemplos práticos ajudam a ilustrar como a introspecção pode ser aplicada em diferentes contextos. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 4 | A introspecção inclui a identificação de sentimentos e pensamentos dos usuários durante o uso do sistema? | | | Identificar sentimentos e pensamentos dos usuários durante o uso do sistema ajuda a compreender melhor suas necessidades e expectativas. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 5 | Há uma análise dos dados coletados através da introspecção? | | | Analisar os dados coletados permite extrair insights valiosos que podem guiar melhorias no sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 6 | Inclui recomendações baseadas na introspecção para melhorias no sistema? | | | Recomendações baseadas na introspecção ajudam a direcionar esforços de melhoria de forma eficaz e focada nas necessidades dos usuários. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 7 | O processo de introspecção foi revisado e ajustado conforme necessário? | | | Revisar e ajustar o processo de introspecção garante que ele se mantenha relevante e eficaz ao longo do tempo. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+
 
 ### <a>Observação</a>
 
@@ -105,30 +106,30 @@ Veja na tabela 5 de verificação que será usada para Observação.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist para Observação.</p></font>
 
-| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
-| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | A observação descreve claramente o cenário e os participantes? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 2 | Inclui uma descrição detalhada das interações entre os participantes e o sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 3 | Fornece exemplos de comportamentos observados? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 4 | A observação inclui uma análise dos dados coletados? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 5 | Apresenta recomendações baseadas nas observações para melhorias no sistema? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 6 | O método de observação foi revisado e ajustado conforme necessário? | Não | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
-| 7 | A observação é suportada por registros visuais ou auditivos? | Sim | | Capítulo 12 | Seção 12.2 | Avaliação de IHC através de Observação | Página 301 |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | **Imagem da Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | 
+| 1 | A observação descreve claramente o cenário e os participantes? | | | Descrever o cenário e os participantes com clareza é fundamental para contextualizar as observações feitas. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 2 | Inclui uma descrição detalhada das interações entre os participantes e o sistema? | | | Uma descrição detalhada das interações ajuda a compreender como os usuários realmente utilizam o sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 3 | Fornece exemplos de comportamentos observados? | | | Exemplos de comportamentos observados ilustram padrões de uso e problemas recorrentes. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 4 | A observação inclui uma análise dos dados coletados? | | | Analisar os dados coletados é essencial para transformar observações em insights acionáveis. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 5 | Apresenta recomendações baseadas nas observações para melhorias no sistema? | | | Recomendações baseadas nas observações ajudam a guiar melhorias concretas e práticas no sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 6 | O método de observação foi revisado e ajustado conforme necessário? | | | Revisar e ajustar o método de observação garante que ele continue sendo relevante e eficaz ao longo do tempo. |<button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 7 | A observação é suportada por registros visuais ou auditivos? | | | Registros visuais ou auditivos complementam as observações escritas, proporcionando uma visão mais completa e detalhada. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/301.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
 
 ### <a>Análise de Interface</a>
 Veja na tabela 6 de verificação que será usada para Análise de Interface.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Análise de Interface.</p></font>
 
-| *ID* | *Descrição* | *Avaliação* | *Observações* | *Capítulo* | *Seção* | *Nome da Seção* | *Página* |
-| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | A análise de interface identifica os principais elementos da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 2 | Descreve a funcionalidade de cada elemento da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 3 | Fornece uma avaliação da usabilidade da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 4 | Inclui recomendações para melhorias na interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 5 | Apresenta uma análise dos feedbacks dos usuários sobre a interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 6 | A análise de interface foi revisada e ajustada conforme necessário? | Não | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
-| 7 | Inclui exemplos ou casos práticos de uso da interface? | Sim | | Capítulo 9 | Seção 9.4 | Design da Interface | Página 219 |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | **Imagem da Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- | ------------- | 
+| 1 | A análise de interface identifica os principais elementos da interface? | | | Identificar os principais elementos da interface é crucial para entender a estrutura e o funcionamento do sistema. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 2 | Descreve a funcionalidade de cada elemento da interface? | | | Descrever a funcionalidade de cada elemento ajuda a esclarecer como o sistema deve ser utilizado. |<button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button> |
+| 3 | Fornece uma avaliação da usabilidade da interface? | | | Avaliar a usabilidade da interface permite identificar problemas que podem ser resolvidos para melhorar a experiência do usuário. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 4 | Inclui recomendações para melhorias na interface? | | | Recomendações para melhorias são essenciais para guiar as mudanças necessárias para aprimorar a interface. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 5 | Apresenta uma análise dos feedbacks dos usuários sobre a interface? | | | Analisar o feedback dos usuários ajuda a entender as dificuldades encontradas e as preferências dos usuários. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 6 | A análise de interface foi revisada e ajustada conforme necessário? | | | Revisar e ajustar a análise de interface garante que as mudanças feitas continuem sendo eficazes e relevantes. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
+| 7 | Inclui exemplos ou casos práticos de uso da interface? | | | Exemplos práticos de uso da interface ajudam a ilustrar como os usuários interagem com o sistema em situações reais. | <button style="background-color: blue; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/95.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Imagem</button>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
