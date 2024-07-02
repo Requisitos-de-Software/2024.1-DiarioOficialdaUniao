@@ -16,18 +16,18 @@ A tabela 1 representada a seguir demonstra os requisitos selecionados, assim com
 
 <center>
 
-| **ID**  | **Nome da US**                                          | **Responsável**                                                                                                                                                                                                                                                                             |
+| **ID**     | **Nome da US**     | **Responsável**     |
 |---------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| US01    | Ajuste automático da data de término                    | [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                                                                 |
-| US05    | Busca por palavras-chave                                | [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                                                                 |
-| US07    | Filtros temáticos geográficos                           | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                    |
-| US10    | Funcionalidade de histórico de pesquisa                 | [João Artur](https://github.com/joao-artl)                                                                                                                                                                                                                                                  |
-| US02    | Limitação de diários por página                         | [Douglas Marinho](https://github.com/M4RINH0)                                                                                                                                                                                                                                               |
-| US19    | Design responsivo pra dispositivos móveis               | [Luiz Gustavo]()                                                                                                                                                                                                                                                                                      |
-| US06    | Suporte multilíngue                                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                                                                                                                               |
-| US08    | Onboarding personalizado                                | [Arthur Alves](https://github.com/arthrok)                                                                                                                                                                                                                                                  |
-| US09    | Notificações personalizadas                             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                                                                                                                         |
-| US18    | Download de documentos pra acesso offline               | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                                                                                                                                           |
+| US01   | Ajuste automático da data de término     | [Eric Silveira](https://github.com/ericbky)     |
+| US05   | Busca por palavras-chave     | [Eric Silveira](https://github.com/ericbky)     |
+| US07   | Filtros temáticos geográficos     | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)     |
+| US10   | Funcionalidade de histórico de pesquisa   | [João Artur](https://github.com/joao-artl)     |
+| US02   | Limitação de diários por página   | [Douglas Marinho](https://github.com/M4RINH0)   |
+| US19   | Design responsivo pra dispositivos móveis     | [Luiz Gustavo]()     |
+| US06   | Suporte multilíngue   | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)   |
+| US08   | Onboarding personalizado     | [Arthur Alves](https://github.com/arthrok)     |
+| US09   | Notificações personalizadas   | [Henrique Torres](https://github.com/henriqtorresl)     |
+| US18   | Download de documentos pra acesso offline     | [Diego Sousa](https://github.com/DiegoSousaLeite)     |
 
 
 
@@ -45,24 +45,64 @@ A seguir na tabela 2, temos a nossa execução de entrevistas para a validação
 
 Aqui está a nova tabela com as informações adicionais:
 
-| **Nome da US**                          | **Avaliador**                                                                                                                                     | **Entrevistado** | **Horário de Início** | **Duração** | **Local**          |
+| **Nome da US**     | **Avaliador**   | **Entrevistado** | **Horário de Início** | **Duração** | **Local**     |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------|-------------|-------------------|
-| Ajuste automático da data de término    | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
-| Busca por palavras-chave                | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
-| Filtros temáticos geográficos           | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                  |      Júlio Cezar            |          01/07/2024 18:40             |      10 minutos       | Microsoft Teams   |
-| Funcionalidade de histórico de pesquisa | [João Artur](https://github.com/joao-artl)                                                                                                                                                |  José Roberto                |        01/07/2024 20:40               |       5 minutos      | Microsoft Teams   |
-| Limitação de diários por página         | [Douglas Marinho](https://github.com/M4RINH0)                                                                                                                                             |    Ana Júlia              |      01/07/2024 22:00                 |     5 minutos        | Microsoft Teams   |
-| Design responsivo pra dispositivos móveis | [Luiz Gustavo]()                                                                                                                                                                          |                  |                       |             | Microsoft Teams   |
-| Suporte multilíngue                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                              |                  |                       |             | Microsoft Teams   |
-| Onboarding personalizado                | [Arthur Alves](https://github.com/arthrok)                                                                                                                                                |      Júlio Cezar            |          01/07/2024 18:30             |      10 minutos       | Microsoft Teams   |
-| Notificações personalizadas             | [Henrique Torres](https://github.com/henriqtorresl)                                                                                                                                       |    Thiago Torres              |     20:00                   |       10 minutos      | Microsoft Teams   |
-| Download de documentos pra acesso offline | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                                         |                  |                       |             | Microsoft Teams   |
+| Ajuste automático da data de término   | [Eric Silveira](https://github.com/ericbky)   | William Bernardo |  22:45  |   23:00   | Microsoft Teams    |
+| Busca por palavras-chave   | [Eric Silveira](https://github.com/ericbky)   | William Bernardo |  22:45  |   23:00   | Microsoft Teams    |
+| Filtros temáticos geográficos   | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)   |  Júlio Cezar   |  01/07/2024 18:40   |    10 minutos   | Microsoft Teams     |
+| Funcionalidade de histórico de pesquisa | [João Artur](https://github.com/joao-artl)   |  José Roberto  |     01/07/2024 20:40      |    5 minutos     | Microsoft Teams     |
+| Limitação de diários por página     | [Douglas Marinho](https://github.com/M4RINH0)     |  Ana Júlia     |    01/07/2024 22:00     |   5 minutos    | Microsoft Teams    |
+| Design responsivo pra dispositivos móveis | [Luiz Gustavo]()   |  |      |    | Microsoft Teams      |
+| Suporte multilíngue     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)    |   |   |     | Microsoft Teams   |
+| Onboarding personalizado   | [Arthur Alves](https://github.com/arthrok)   |  Júlio Cezar   |  01/07/2024 18:30   |    10 minutos   | Microsoft Teams     |
+| Notificações personalizadas     | [Henrique Torres](https://github.com/henriqtorresl)   |    Thiago Torres   |   20:00     |   10 minutos   | Microsoft Teams   |
+| Download de documentos pra acesso offline | [Diego Sousa](https://github.com/DiegoSousaLeite)   |    |    |      | Microsoft Teams    |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
 
 </center>
 
 ## <a>Protótipos</a>
+
+??? - "US01 - Ajuste automático da data de término"
+    ### <a>US01 - Ajuste automático da data de término</a>
+
+    As imagens A e B apresentam o protótipo correspondente à US01, que trata do ajuste automático da data de término. Este requisito foi implementado para melhorar a experiência dos usuários do Diário Oficial da União (DOU) ao selecionar períodos de tempo para suas pesquisas. Muitas vezes, ao definir um intervalo de datas, a data de término pode não ser ajustada corretamente, causando inconsistências nos resultados. Para resolver esse problema, foi incluído no protótipo um sistema de ajuste automático da data de término, garantindo que ela sempre esteja corretamente alinhada com a data de início selecionada. Essa funcionalidade permite uma configuração mais precisa e eficiente dos períodos de busca, aprimorando significativamente a usabilidade e a confiabilidade do sistema.
+
+    <center>
+
+    ??? "Ver imagem A"
+        Imagem A - Página de Pesquisa.
+
+        <font><figure markdown>![Página de Pesquisa.](./assets/dataAutomatica.png){: style="width:300px"}
+
+        Fonte: [Eric Silveira](https://github.com/ericbky)
+    
+    </center>
+
+    <center>
+
+    ??? "Ver imagem B"
+        Imagem B - Resultados de pesquisa.
+
+        <font><figure markdown>![Resultados de pesquisa.](./assets/paginas.png){: style="width:300px"}
+
+        Fonte: [Eric Silveira](https://github.com/ericbky)
+    
+    </center>
+    
+    #### <a>Validação com o Entrevistado</a>
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DsWJfG-rjpA?si=J9XnAsxOjtk2SQsv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+
+    #### <a>Feedbacks do Entrevistado</a>
+    O usuário expressou satisfação com o protótipo desenvolvido, destacando a interface intuitiva e a navegação fácil, que facilitam o uso mesmo para quem não tem muita familiaridade com tecnologia. A disposição clara dos elementos na tela e a identificação fácil dos ícones foram pontos positivos mencionados.
+
+    A performance do protótipo foi elogiada durante os testes, com as principais funcionalidades operando conforme esperado e um fluxo de trabalho fluido. A responsividade do design, adaptando-se bem a diferentes tamanhos de tela, também foi apreciada.
+
+    A atenção aos detalhes e a preocupação em criar uma experiência de usuário agradável foram reconhecidas.
 
 ??? - "US02 - Limitação de diários por página"
     ### <a>US02 - Limitação de diários por página</a>
@@ -89,6 +129,36 @@ Aqui está a nova tabela com as informações adicionais:
     #### <a>Feedbacks do Entrevistado</a>
     O usuário achou o protótipo totalmente alinhado com a proposta do requisito e necessário para o melhor uso, apenas citou que poderia trocar as setas ">>" pois usuários com pouca informação podem não entender a função das mesmas.
 
+??? - "US05 - Busca por palavras-chave	"
+    ### <a>US05 - Busca por palavras-chave	</a>
+
+    A imagem A apresenta o protótipo correspondente à US05, que trata dos resultados da pesquisa por palavras-chave. Este requisito foi implementado para aprimorar a experiência dos usuários do Diário Oficial da União (DOU) ao visualizar os resultados das pesquisas. Dado que o DOU contém uma vasta quantidade de informações, a visualização de resultados pode se tornar muito extensa dependendo da pesquisa, resultando em uma rolagem quase infinita em alguns casos. Para resolver esse problema, foi incluído no protótipo um sistema de busca por palavras chaves. Essa funcionalidade permite uma navegação mais eficiente e organizada, melhorando significativamente a usabilidade do sistema.
+
+    <center>
+
+    ??? "Ver imagem A"
+        Imagem A - Resultados de pesquisa.
+
+        <font><figure markdown>![Resultados de pesquisa.](./assets/paginas.png){: style="width:300px"}
+
+        Fonte: [Eric Silveira](https://github.com/ericbky)
+    
+    </center>
+    
+    #### <a>Validação com o Entrevistado</a>
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DsWJfG-rjpA?si=J9XnAsxOjtk2SQsv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+
+    #### <a>Feedbacks do Entrevistado</a>
+    O usuário expressou grande satisfação com o protótipo, ressaltando a interface amigável e a facilidade de navegação, que tornam o sistema acessível até para os menos experientes em tecnologia. A organização clara dos elementos na tela e a facilidade de identificação dos ícones foram aspectos especialmente apreciados.
+
+    Durante os testes, a performance do protótipo foi elogiada, com todas as funcionalidades principais funcionando corretamente e proporcionando um fluxo de trabalho eficiente. A responsividade do design, que se ajusta bem a diferentes dispositivos, também foi destacada como um ponto positivo.
+
+    A performance do protótipo foi elogiada durante os testes, com as principais funcionalidades operando conforme esperado e um fluxo de trabalho fluido. A responsividade do design, adaptando-se bem a diferentes tamanhos de tela, também foi apreciada.
+
+    A atenção aos detalhes e a preocupação em criar uma experiência de usuário agradável foram reconhecidas.
 
 ??? - "US07 - Filtros temáticos geográficos"
     ### <a>US07 - Filtros temáticos geográficos</a>
