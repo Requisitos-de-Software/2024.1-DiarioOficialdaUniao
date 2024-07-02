@@ -64,7 +64,7 @@ A tabela 3 representada a seguir, descreve a verificação para as histórias de
 <font size="3"><p style="text-align: center"><b>Fonte: </b>[Henrique Torres](https://github.com/henriqtorresl).</p></font>
 </center>
 
-A tabela 4 representada a seguir, descreve a verificação para as histórias de usuário de 6 a 11.
+A tabela 4 representada a seguir, descreve a verificação para as histórias de usuário de 16 a 21.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist de verificação das Histórias de Usuário de 16 a 21.</p></font>
