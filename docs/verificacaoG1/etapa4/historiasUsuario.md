@@ -104,6 +104,12 @@ Vídeo de Verificação das US 16 a 21 executado pelos membros [Diego Sousa](htt
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/_m4wMovU69c" title="Verificação - Grupo 01 - US 16 a 21" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+### <a> Vídoe 4 </a>
+
+Vídeo de Verificação das US 1 a 5 executado pelos membros [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky).
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/AxORPlKH4PI" title="historiaUsuario" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a> Referência Bibliografica </a>
 
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 07 de junho de 2024 às 21:00.
