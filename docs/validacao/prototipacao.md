@@ -67,12 +67,12 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US01 - Ajuste automático da data de término"
     ### <a>US01 - Ajuste automático da data de término</a>
 
-    As imagens A e B apresentam o protótipo correspondente à US01, que trata do ajuste automático da data de término. Este requisito foi implementado para melhorar a experiência dos usuários do Diário Oficial da União (DOU) ao selecionar períodos de tempo para suas pesquisas. Muitas vezes, ao definir um intervalo de datas, a data de término pode não ser ajustada corretamente, causando inconsistências nos resultados. Para resolver esse problema, foi incluído no protótipo um sistema de ajuste automático da data de término, garantindo que ela sempre esteja corretamente alinhada com a data de início selecionada. Essa funcionalidade permite uma configuração mais precisa e eficiente dos períodos de busca, aprimorando significativamente a usabilidade e a confiabilidade do sistema.
+    As imagens 1 e 2 apresentam o protótipo correspondente à US01, que trata do ajuste automático da data de término. Este requisito foi implementado para melhorar a experiência dos usuários do Diário Oficial da União (DOU) ao selecionar períodos de tempo para suas pesquisas. Muitas vezes, ao definir um intervalo de datas, a data de término pode não ser ajustada corretamente, causando inconsistências nos resultados. Para resolver esse problema, foi incluído no protótipo um sistema de ajuste automático da data de término, garantindo que ela sempre esteja corretamente alinhada com a data de início selecionada. Essa funcionalidade permite uma configuração mais precisa e eficiente dos períodos de busca, aprimorando significativamente a usabilidade e a confiabilidade do sistema.
 
     <center>
 
-    ??? "Ver imagem A"
-        Imagem A - Página de Pesquisa.
+    ??? "Ver imagem 1"
+        Imagem 1 - Página de Pesquisa.
 
         <font><figure markdown>![Página de Pesquisa.](./assets/dataAutomatica.png){: style="width:300px"}
 
@@ -82,8 +82,8 @@ Aqui está a nova tabela com as informações adicionais:
 
     <center>
 
-    ??? "Ver imagem B"
-        Imagem B - Resultados de pesquisa.
+    ??? "Ver imagem 2"
+        Imagem 2 - Resultados de pesquisa.
 
         <font><figure markdown>![Resultados de pesquisa.](./assets/paginas.png){: style="width:300px"}
 
@@ -107,12 +107,12 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US02 - Limitação de diários por página"
     ### <a>US02 - Limitação de diários por página</a>
 
-    As imagens A apresenta o protótipo referente à US02 de limitação de diários por página. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através da visualização do meu diario e dos resultados de pesquisas. Com o DOU sendo uma fonte vasta de informações, a visualização dos diarios se torna muito extensa dependendo da pesquisa o que ocasionava numa rolagem quase infinita algumas vezes para contornar foi incluido na prototipação o sistema de páginas.
+    As imagens 3 apresenta o protótipo referente à US02 de limitação de diários por página. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através da visualização do meu diario e dos resultados de pesquisas. Com o DOU sendo uma fonte vasta de informações, a visualização dos diarios se torna muito extensa dependendo da pesquisa o que ocasionava numa rolagem quase infinita algumas vezes para contornar foi incluido na prototipação o sistema de páginas.
 
     <center>
 
-    ??? "Ver imagem A"
-        Imagem A - Resultados de pesquisa.
+    ??? "Ver imagem 3"
+        Imagem 3 - Resultados de pesquisa.
 
         <font><figure markdown>![Resultados de pesquisa.](./assets/paginas.png){: style="width:300px"}
 
@@ -132,12 +132,12 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US05 - Busca por palavras-chave	"
     ### <a>US05 - Busca por palavras-chave	</a>
 
-    A imagem A apresenta o protótipo correspondente à US05, que trata dos resultados da pesquisa por palavras-chave. Este requisito foi implementado para aprimorar a experiência dos usuários do Diário Oficial da União (DOU) ao visualizar os resultados das pesquisas. Dado que o DOU contém uma vasta quantidade de informações, a visualização de resultados pode se tornar muito extensa dependendo da pesquisa, resultando em uma rolagem quase infinita em alguns casos. Para resolver esse problema, foi incluído no protótipo um sistema de busca por palavras chaves. Essa funcionalidade permite uma navegação mais eficiente e organizada, melhorando significativamente a usabilidade do sistema.
+    A imagem 4 apresenta o protótipo correspondente à US05, que trata dos resultados da pesquisa por palavras-chave. Este requisito foi implementado para aprimorar a experiência dos usuários do Diário Oficial da União (DOU) ao visualizar os resultados das pesquisas. Dado que o DOU contém uma vasta quantidade de informações, a visualização de resultados pode se tornar muito extensa dependendo da pesquisa, resultando em uma rolagem quase infinita em alguns casos. Para resolver esse problema, foi incluído no protótipo um sistema de busca por palavras chaves. Essa funcionalidade permite uma navegação mais eficiente e organizada, melhorando significativamente a usabilidade do sistema.
 
     <center>
 
-    ??? "Ver imagem A"
-        Imagem A - Resultados de pesquisa.
+    ??? "Ver imagem 4"
+        Imagem 4 - Resultados de pesquisa.
 
         <font><figure markdown>![Resultados de pesquisa.](./assets/paginas.png){: style="width:300px"}
 
@@ -163,19 +163,19 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US07 - Filtros temáticos geográficos"
     ### <a>US07 - Filtros temáticos geográficos</a>
 
-    As imagens H e J representa o protótipo referente ao requisito de filtros temáticos geográficos. O requisito tem como objetivo implementar um filtro para pesquisa avançada capaz de filtrar os diários de acordo com seu impacto (Nacional, Regional e Estadual).
+    As imagens 5 e 6 representa o protótipo referente ao requisito de filtros temáticos geográficos. O requisito tem como objetivo implementar um filtro para pesquisa avançada capaz de filtrar os diários de acordo com seu impacto (Nacional, Regional e Estadual).
 
     <center>
 
-    ??? "Ver imagem H"
-        Imagem H - Filtro temático geográfico
+    ??? "Ver imagem 5"
+        Imagem 5 - Filtro temático geográfico
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%203.1_%20Filtros%20Avançados%20de%20Pesquisa.png){: style="width:300px"}
 
         Fonte: [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)
 
-    ??? "Ver imagem J"
-        Imagem J - Filtro temático geográfico com dropdown aberto.
+    ??? "Ver imagem 6"
+        Imagem 6 - Filtro temático geográfico com dropdown aberto.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/dropdown.png){: style="width:300px"}
 
@@ -196,27 +196,27 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US08 - Onboarding personalizado"
     ### <a>US08 - Onboarding personalizado</a>
 
-    As imagens X, Y e Z apresentam o protótipo referente à US08 de onboarding personalizado. A implementação deste requisito visa aproximar pessoas mais leigas ao uso do aplicativo do Diário Oficial da União (DOU). Dado que o DOU é um aplicativo repleto de termos técnicos, pode afastar pessoas comuns de seu uso. É importante ressaltar que o DOU é um jornal publicado pela Imprensa Nacional, com o objetivo de ser uma fonte rica, detalhada e segura de dados. Conforme visto na seção [Perfil de Usuário](), parte dos usuários são civis. Este requisito busca facilitar o uso do aplicativo por esse público. Ao iniciar o aplicativo pela primeira vez, o usuário poderá configurar o app tanto em conteúdo quanto em acessibilidade, tornando sua experiência mais fácil e agradável.
+    As imagens 7, 8 e 9 apresentam o protótipo referente à US08 de onboarding personalizado. A implementação deste requisito visa aproximar pessoas mais leigas ao uso do aplicativo do Diário Oficial da União (DOU). Dado que o DOU é um aplicativo repleto de termos técnicos, pode afastar pessoas comuns de seu uso. É importante ressaltar que o DOU é um jornal publicado pela Imprensa Nacional, com o objetivo de ser uma fonte rica, detalhada e segura de dados. Conforme visto na seção [Perfil de Usuário](), parte dos usuários são civis. Este requisito busca facilitar o uso do aplicativo por esse público. Ao iniciar o aplicativo pela primeira vez, o usuário poderá configurar o app tanto em conteúdo quanto em acessibilidade, tornando sua experiência mais fácil e agradável.
 
     <center>
 
-    ??? "Ver imagem X"
-        Imagem X - Primeira Tela do Onboarding.
+    ??? "Ver imagem 7"
+        Imagem 7 - Primeira Tela do Onboarding.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200_%20Onboarding.png){: style="width:300px"}
 
         Fonte: [Arthur Alves](https://github.com/arthrok)
     
 
-    ??? "Ver imagem Y"
-        Imagem Y - Segunda Tela do Onboarding.
+    ??? "Ver imagem 8"
+        Imagem 8 - Segunda Tela do Onboarding.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200.1_%20Onboarding.png){: style="width:300px"}
 
         Fonte: [Arthur Alves](https://github.com/arthrok)
 
-    ??? "Ver imagem Z"
-        Imagem Z - Terceira Tela do Onboarding.
+    ??? "Ver imagem 9"
+        Imagem 9 - Terceira Tela do Onboarding.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/Tela%200.2_%20Onboarding.png){: style="width:300px"}
 
@@ -236,20 +236,20 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US09 - Notificações personalizadas"
     ### <a>US09 - Notificações personalizadas</a>
 
-    As imagens A e B apresentam o protótipo referente à US09 de notificações personalizadas. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através de notificações adaptadas aos seus interesses. Com o DOU sendo uma fonte vasta de informações, a personalização permite que os usuários recebam apenas conteúdos relevantes, tornando a interação mais direta e significativa. Os usuários podem configurar tópicos, áreas de interesse e a frequência das notificações, garantindo uma usabilidade otimizada e conveniente.
+    As imagens 10 e 11 apresentam o protótipo referente à US09 de notificações personalizadas. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através de notificações adaptadas aos seus interesses. Com o DOU sendo uma fonte vasta de informações, a personalização permite que os usuários recebam apenas conteúdos relevantes, tornando a interação mais direta e significativa. Os usuários podem configurar tópicos, áreas de interesse e a frequência das notificações, garantindo uma usabilidade otimizada e conveniente.
 
     <center>
 
-    ??? "Ver imagem A"
-        Imagem B - Tela de configuração das notificações.
+    ??? "Ver imagem 10"
+        Imagem 10 - Tela de configuração das notificações.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/config_notificacoes.png){: style="width:300px"}
 
         Fonte: [Henrique Torres](https://github.com/henriqtorresl)
     
 
-    ??? "Ver imagem B"
-        Imagem B - Exemplo de Notificação.
+    ??? "Ver imagem 11"
+        Imagem 11 - Exemplo de Notificação.
 
         <font><figure markdown>![Mensagem por e-mail.](./assets/notificacao.png){: style="width:300px"}
 
@@ -268,20 +268,20 @@ Aqui está a nova tabela com as informações adicionais:
 ??? - "US10 - Histórico de Pesquisa"
     ### <a>US10 - Histórico de Pesquisa</a>
 
-    As imagens A e B apresentam o protótipo referente à US10 de histórico de pesquisa. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através do armazenamento e acesso fácil ao histórico de buscas realizadas. Com o DOU sendo uma fonte vasta de informações, a funcionalidade de histórico de pesquisa permite que os usuários revisitem pesquisas anteriores de forma rápida e eficiente, tornando a interação mais produtiva e conveniente. Os usuários podem visualizar e gerenciar suas buscas passadas.
+    As imagens 12 e 13 apresentam o protótipo referente à US10 de histórico de pesquisa. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através do armazenamento e acesso fácil ao histórico de buscas realizadas. Com o DOU sendo uma fonte vasta de informações, a funcionalidade de histórico de pesquisa permite que os usuários revisitem pesquisas anteriores de forma rápida e eficiente, tornando a interação mais produtiva e conveniente. Os usuários podem visualizar e gerenciar suas buscas passadas.
 
     <center>
 
-    ??? "Ver imagem A"
-        Imagem A - Botão do Histórico de Pesquisa.
+    ??? "Ver imagem 12"
+        Imagem 12 - Botão do Histórico de Pesquisa.
 
         <font><figure markdown>![Visualização do histórico.](./assets/historico01.png){: style="width:300px"}
 
         Fonte: [João Artur](https://github.com/joao-artl)
     
 
-    ??? "Ver imagem B"
-        Imagem B - Página de Histórico de Pesquisa.
+    ??? "Ver imagem 13"
+        Imagem 13 - Página de Histórico de Pesquisa.
 
         <font><figure markdown>![Detalhe da pesquisa.](./assets/historico02.png){: style="width:300px"}
 
