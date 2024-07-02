@@ -164,11 +164,11 @@ Aqui está a nova tabela com as informações adicionais:
 
     #### <a>Validação com o Entrevistado</a>
     <center>
-    
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/u6De-1DAnII?si=TxbEmyqahDvzM3BQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </center>
 
     #### Feedbacks do Entrevistado
-    
+    Não houveram feedbacks, o usuário achou o protótipo totalmente alinhado com a proposta do requisito.
 
 
 ## <a>Análise dos Resultados</a>
