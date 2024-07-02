@@ -45,7 +45,7 @@ A Tabela 2 apresenta um checklist detalhado para a verificação específica do 
 Vídeo de Verificação do backlog, executado pelos membros [Diego Sousa](https://github.com/DiegoSousaLeite) e [Luiz Gustavo](https://github.com/LuizGust4vo).
 
 <center>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/4-6kAGkT54k?si=YHIMQClZ3WuCwFlo" title="Gravação da Verificação - Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/4-6kAGkT54k?si=YHIMQClZ3WuCwFlo" title="Gravação da Verificação - Backlog" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
 
