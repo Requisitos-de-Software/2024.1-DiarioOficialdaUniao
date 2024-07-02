@@ -42,13 +42,41 @@ A tabela 2 representada a seguir, descreve a verificação para as histórias de
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).</p></font>
 
+A tabela 3 representada a seguir, descreve a verificação para as histórias de usuário de 12 a 15.
+</center>
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist de verificação das Histórias de Usuário de 12 a 15.</p></font>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| ---- | ----------- | ----------- | ------------- | ------------- |
+| 1 | As histórias de usuário estão escritas do ponto de vista do usuário final? | Sim | | Uma história de usuário é uma explicação geral e informal de um recurso de software escrita do ponto de vista do usuário final<a id="anchor_6" href="#REF6">^6^</a>. |
+| 2 | As histórias de usuário articulam como uma funcionalidade de software fornecerá valor ao cliente? | Sim | | O objetivo de uma história de usuário é articular como uma peça de trabalho fornecerá um valor particular ao cliente<a id="anchor_6" href="#REF6">^6^</a>. |
+| 3 | As histórias de usuário estão descritas em linguagem simples e sem detalhes técnicos? | Sim |  | As histórias de usuário são algumas frases em linguagem simples que descrevem o resultado desejado<a id="anchor_6" href="#REF6">^6^</a>. |
+| 4 | As histórias de usuário são usadas para facilitar a colaboração e a criatividade da equipe? | Sim | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral<a id="anchor_6" href="#REF6">^6^</a>. |
+| 5 | As histórias de usuário são acompanhadas por critérios de aceitação claros? | Sim | | As histórias de usuário devem ter critérios de aceitação claramente definidos<a id="anchor_6" href="#REF6">^6^</a>. |
+| 6 | O “quem”, “o que” e o “por que” estão definidos na história de usuário? | Sim | | Cada história de usuário inclui uma persona (quem), o que ela quer e por quê<a id="anchor_6" href="#REF6">^6^</a>. |
+| 7 | A participação do cliente e/ou persona na validação das histórias de usuário? | Sim | | As histórias ajudam a fornecer uma estrutura focada no usuário para o trabalho diário, o que impulsiona a colaboração, a criatividade e um produto melhor em geral. Geralmente, uma história é escrita pelo proprietário do produto, gerente de produto ou gerente de programa e enviada para revisão<a id="anchor_6" href="#REF6">^6^</a>. |
+| 8 | As histórias de usuário seguem algum modelo ou padrão? | Sim | | N/A (Apenas para controle de organização) |
+| 9 | Todos os membros do grupo contribuiram com o artefato? | Sim | | N/A (Apenas para controle de organização) |
+| 10 | As histórias de usuário são testáveis? | Sim | | As histórias devem ser escritas de modo a serem testáveis. A aprovação nos testes prova que uma história foi desenvolvida com sucesso. Se a história não puder ser testada, como os desenvolvedores poderão saber quando terminaram a codificação?<a id="anchor_7" href="#REF7">^7^</a> |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b>[Henrique Torres](https://github.com/henriqtorresl).</p></font>
+</center>
+
 ## <a>Vídeo de Verificação</a>
 
 ### <a> Vídeo 1 </a>
 
 Vídeo de Verificação das US 6 ao 11 executado pelos membros [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m9acDHXQk0M?si=MsCXRfPrHYWEsjk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/m9acDHXQk0M?si=MsCXRfPrHYWEsjk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### <a> Vídeo 2 </a>
+
+Vídeo de Verificação das US 12 a 15 executado pelo membro [Henrique Torres](https://github.com/henriqtorresl).
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/7DLRiHH0SMw?si=JpvkNDZ9zINkC2J1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a> Referência Bibliografica </a>
 
@@ -79,3 +107,4 @@ Vídeo de Verificação das US 6 ao 11 executado pelos membros [Douglas Marinho]
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento e inserção das tabelas |[João Artur](https://github.com/joao-artl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.1` | 01/07/2024 | 01/07/2024 | Adicionando a verificação das US12 a 15 | [Henrique Torres](https://github.com/henriqtorresl)  | [Luiz Gustavo](https://github.com/LuizGust4vo) |
