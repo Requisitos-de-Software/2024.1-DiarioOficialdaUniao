@@ -1,0 +1,4248 @@
+
+<!doctype html>
+<html lang="pt" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../foward-from/">
+      
+      
+      
+      <link rel="icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.0, mkdocs-material-9.5.27">
+    
+    
+      
+        <title>Matriz de Rastreabilidade - Grupo 01</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.6543a935.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/style.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#introducao" class="md-skip">
+          Pular para conteúdo
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <div data-md-color-scheme="default" data-md-component="outdated" hidden>
+        
+      </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabeçalho">
+    <a href="../.." title="Grupo 01" class="md-header__button md-logo" aria-label="Grupo 01" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Grupo 01
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Matriz de Rastreabilidade
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="claro" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Mudar para o modo escuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Mudar para o modo escuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Mudar para a preferência do sistema"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Mudar para a preferência do sistema" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var media,input,key,value,palette=__md_get("__palette");if(palette&&palette.color){"(prefers-color-scheme)"===palette.color.media&&(media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']"),palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent"));for([key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Buscar" placeholder="Buscar" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Pesquisar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpar" aria-label="Limpar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando busca
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/Requisitos-de-Software/2024.1-Grupo01" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.1-Grupo01
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Abas" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../.." class="md-tabs__link">
+        
+  
+    
+  
+  Início
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../apresentacao/apresentacao1/" class="md-tabs__link">
+          
+  
+  Apresentações
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../reuniao/reuniao01/" class="md-tabs__link">
+          
+  
+  Reuniões
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../planejamento/cronograma/" class="md-tabs__link">
+          
+  
+  Planejamento
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../pre-rastreabilidade/rich-picture/" class="md-tabs__link">
+          
+  
+  Pré-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../elicitacao/perfilUsuario/" class="md-tabs__link">
+          
+  
+  Elicitação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../modelagem/cenarios/" class="md-tabs__link">
+          
+  
+  Modelagem
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../termoDeUso/" class="md-tabs__link">
+        
+  
+    
+  
+  Termo de Uso
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../validacao/prototipacao/" class="md-tabs__link">
+          
+  
+  Validação
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verificacao/grupo2/etapa1/planejamentoVerificacaoE1/" class="md-tabs__link">
+          
+  
+  Verificação
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../verificacaoG1/etapa1/planejamentoVerificacaoE1/" class="md-tabs__link">
+          
+  
+  Verificação Grupo 01
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../backward-from/" class="md-tabs__link">
+          
+  
+  Pós-Rastreabilidade
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegação" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Grupo 01" class="md-nav__button md-logo" aria-label="Grupo 01" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    Grupo 01
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/Requisitos-de-Software/2024.1-Grupo01" title="Ir para repositório" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.5.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    2024.1-Grupo01
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Início
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Apresentações
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Apresentações
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao4/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao5-1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 5.1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao5-2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 5.2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../apresentacao/apresentacao6/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Apresentação 6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Reuniões
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Reuniões
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniao01/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniao02/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniao03/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniao04/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniao05/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião 5
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniaoPriorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião de Priorização de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniaoElicitacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião de Elicitação de Requisitos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reuniao/reuniaoValidacaoUS/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Reunião de Validação de Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Planejamento
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Planejamento
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/cronograma/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cronograma
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/heatmap/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heatmap
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/ferramentas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ferramentas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/appsavaliados/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    APPs Avaliados
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../planejamento/appescolhido/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    APP escolhido
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Pré-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Pré-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../pre-rastreabilidade/rich-picture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/perfilUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil dos Usuários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/priorizacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/personas/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_6_4" id="__nav_6_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Técnicas
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_6_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6_4">
+            <span class="md-nav__icon md-icon"></span>
+            Técnicas
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/analise-de-interface/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Analise de Interface
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elicitacao/tecnicas/entrevista/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Entrevista
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/useCase/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Casos de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/especificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_7_5" id="__nav_7_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Modelagem Ágil
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_7_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7_5">
+            <span class="md-nav__icon md-icon"></span>
+            Modelagem Ágil
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/modelagemAgil/nfr_framework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/modelagemAgil/historiaUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../modelagem/modelagemAgil/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../termoDeUso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Termo de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Validação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Validação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/prototipacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prototipação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../validacao/comprovacao-informal/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Comprovação Informal
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_1" id="__nav_10_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_1">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa1/planejamentoVerificacaoE1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa1/richpicture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2" id="__nav_10_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/planejamento-verificacao-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/perfil-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/personas-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_4" id="__nav_10_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/elicitacao/analise-documentos-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Documentos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/elicitacao/encenacao-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Encenação Adaptada
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/elicitacao/questionario-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Questionário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/elicitacao/storytelling-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Storytelling
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_2_5" id="__nav_10_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_10_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/priorizacao/quadrante-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quadrante de Três Níveis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/priorizacao/in-out-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa2/priorizacao/moscow-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCoW
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_3" id="__nav_10_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_3">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa3/planejamentoVerificacaoE3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa3/caso_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_10_4" id="__nav_10_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_10_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10_4">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa4/planejamento-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa4/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa4/nfrframework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacao/grupo2/etapa4/historiasUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11" >
+        
+          
+          <label class="md-nav__link" for="__nav_11" id="__nav_11_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Verificação Grupo 01
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_11_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11">
+            <span class="md-nav__icon md-icon"></span>
+            Verificação Grupo 01
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_1" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_1" id="__nav_11_1_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 1
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_1">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 1
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa1/planejamentoVerificacaoE1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 1
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa1/richpicture/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Rich Picture
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2" id="__nav_11_2_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 2
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 2
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/planejamento-verificacao-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/perfil-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Perfil de Usuários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/personas-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Personas
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_4" id="__nav_11_2_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Elicitação
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Elicitação
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/elicitacao/introspeccao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Introspecção
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/elicitacao/observacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Observação
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/elicitacao/analise-interface/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Análise de Interface
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_2_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_2_5" id="__nav_11_2_5_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Priorização
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_11_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            Priorização
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/priorizacao/quadrante-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Quadrante de Três Níveis
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/priorizacao/in-out-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    In or Out
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa2/priorizacao/moscow-grupo2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    MoSCoW
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_3" id="__nav_11_3_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 3
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_3">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 3
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa3/planejamentoVerificacaoE3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 3
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa3/cenarios/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Cenários
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa3/lexicos/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Léxicos
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa3/caso_uso/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Caso de Uso
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa3/especificacao_suplementar/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Especificação Suplementar
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_11_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_11_4" id="__nav_11_4_label" tabindex="0">
+            
+  
+  <span class="md-ellipsis">
+    Etapa 4
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_11_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_11_4">
+            <span class="md-nav__icon md-icon"></span>
+            Etapa 4
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa4/planejamento-verificacao/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Planejamento da Verificação da Etapa 4
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa4/backlog/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backlog
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa4/nfrframework/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    NFR Framework
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../verificacaoG1/etapa4/historiasUsuario/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Histórias de Usuário
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_12" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_12" id="__nav_12_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Pós-Rastreabilidade
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_12_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_12">
+            <span class="md-nav__icon md-icon"></span>
+            Pós-Rastreabilidade
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../backward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Backward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../foward-from/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Forward From
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Matriz de Rastreabilidade
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matriz-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Matriz de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referência Bibliográfica
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Índice">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Índice
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introdução
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Metodologia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#matriz-de-rastreabilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      Matriz de Rastreabilidade
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencia-bibliografica" class="md-nav__link">
+    <span class="md-ellipsis">
+      Referência Bibliográfica
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#bibliografia" class="md-nav__link">
+    <span class="md-ellipsis">
+      Bibliografia
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versao" class="md-nav__link">
+    <span class="md-ellipsis">
+      Histórico de Versão
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+  <h1>Matriz de Rastreabilidade</h1>
+
+<h2 id="introducao"><a>Introdução</a></h2>
+<p>A rastreabilidade de requisitos é uma técnica fundamental no processo de desenvolvimento de software, permitindo a conexão entre os requisitos e os artefatos gerados ao longo do ciclo de vida do projeto. A rastreabilidade assegura que cada requisito seja devidamente implementado e verificado, facilitando a identificação de dependências e impactos de mudanças, além de proporcionar uma visão clara do progresso e da conformidade do projeto<a id="anchor_1" href="#REF1"><sup>1</sup></a>.</p>
+<h2 id="metodologia"><a>Metodologia</a></h2>
+<p>Existem diversas abordagens para implementar a rastreabilidade, sendo as mais comuns centradas em referências cruzadas ou documentos. Referências cruzadas são simples e eficientes, utilizando hipertexto, esquemas de numeração, indexação e uso de tags. Já as técnicas baseadas em documentos envolvem o uso de modelos e templates para transformar e integrar documentos de forma coesa<a id="anchor_2" href="#REF2"><sup>2</sup></a>. Iremos utilizar para desenvolver a matriz de rastreabilidade o uso de referência cruzada, através de uma tabela para representação. A seguir na figura 01 temos um exemplo de matriz de rastreabilidade: </p>
+<p><center>
+Figura 01: Exemplo de Matriz de Rastreabilidade.</p>
+<p><img alt="Exemplo de Matriz de Rastreabilidade" src="https://github.com/Requisitos-de-Software/2024.1-DiarioOficialdaUniao/blob/git-pages/docs/pos-rastreabilidade/assets/exemploMatriz.png?raw=True" /></p>
+<p><font size="3"><p style="text-align: center"><b>Fonte:</b> Requisitos – Aula 26. Página 29<a id="anchor_3" href="#REF3"><sup>3</sup></a>.</p></font>
+</center></p>
+<h2 id="matriz-de-rastreabilidade"><a>Matriz de Rastreabilidade</a></h2>
+<p>A matriz de rastreabilidade é uma ferramenta essencial em projetos de software, permitindo rastrear a origem e a implementação dos requisitos ao longo do ciclo de vida do projeto. Ela ajuda a garantir que todos os requisitos sejam atendidos e que as mudanças possam ser gerenciadas de forma eficaz<a id="anchor_2" href="#REF2"><sup>2</sup></a>.</p>
+<p>As Tabela 01 e 02 apresentam os requisitos utilizados para realizar a rastreabilidade (<a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pos-rastreabilidade/backward-from/">backward</a> e <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/pos-rastreabilidade/foward-from/">forward</a>) e a construção da matriz de rastreabilidade. Esses requisitos foram fundamentais para garantir a conformidade do sistema com as especificações e facilitar a gestão de mudanças durante o desenvolvimento.</p>
+<details>
+<summary>Tabela 01: Requisitos Funcionais</summary>
+<p><center>
+Tabela 01: Requisitos Funcionais</p>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Descrição</th>
+<th>ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RF01</td>
+<td>Autenticação de usuários para acesso seguro.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01">OBS01</a></td>
+</tr>
+<tr>
+<td>RF02</td>
+<td>Visualização de edições diárias do Diário Oficial.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS02">OBS02</a></td>
+</tr>
+<tr>
+<td>RF03</td>
+<td>Busca por palavras-chave em documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS03">OBS03</a></td>
+</tr>
+<tr>
+<td>RF04</td>
+<td>Filtragem de conteúdo por data, categoria ou órgão emissor.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS04">OBS04</a></td>
+</tr>
+<tr>
+<td>RF05</td>
+<td>Download de edições e documentos em formatos PDF.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS05">OBS05</a></td>
+</tr>
+<tr>
+<td>RF06</td>
+<td>Notificações push sobre novas publicações relevantes.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS06">OBS06</a></td>
+</tr>
+<tr>
+<td>RF07</td>
+<td>Acesso a edições anteriores arquivadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS07">OBS07</a></td>
+</tr>
+<tr>
+<td>RF08</td>
+<td>Integração com sistemas de assinatura digital.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS08">OBS08</a></td>
+</tr>
+<tr>
+<td>RF09</td>
+<td>Compartilhamento de documentos via redes sociais e email.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS09">OBS09</a></td>
+</tr>
+<tr>
+<td>RF10</td>
+<td>O aplicativo deve permitir buscas detalhadas por tópicos específicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS01">IS01</a></td>
+</tr>
+<tr>
+<td>RF11</td>
+<td>O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS02">IS02</a></td>
+</tr>
+<tr>
+<td>RF12</td>
+<td>O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS03">IS03</a></td>
+</tr>
+<tr>
+<td>RF13</td>
+<td>O aplicativo deve oferecer acesso ao histórico de publicações legislativas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS04">IS04</a></td>
+</tr>
+<tr>
+<td>RF14</td>
+<td>O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS05">IS05</a></td>
+</tr>
+<tr>
+<td>RF15</td>
+<td>O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS06">IS06</a></td>
+</tr>
+<tr>
+<td>RF16</td>
+<td>O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS07">IS07</a></td>
+</tr>
+<tr>
+<td>RF17</td>
+<td>O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS08">IS08</a></td>
+</tr>
+<tr>
+<td>RF18</td>
+<td>Sistema de busca avançada</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT01">ENT01</a></td>
+</tr>
+<tr>
+<td>RF19</td>
+<td>Funcionalidades de acessibilidade</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT02">ENT02</a></td>
+</tr>
+<tr>
+<td>RF20</td>
+<td>Ferramentas de usabilidade aprimoradas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT03">ENT03</a></td>
+</tr>
+<tr>
+<td>RF21</td>
+<td>Otimização do processo de busca diária</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT04">ENT04</a></td>
+</tr>
+<tr>
+<td>RF22</td>
+<td>Suporte multilíngue no sistema</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT05">ENT05</a></td>
+</tr>
+<tr>
+<td>RF23</td>
+<td>Sistema de notificações personalizadas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT06">ENT06</a></td>
+</tr>
+<tr>
+<td>RF24</td>
+<td>Interface do usuário altamente intuitiva</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT08">ENT08</a></td>
+</tr>
+<tr>
+<td>RF25</td>
+<td>Funcionalidades avançadas de documentos</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT10">ENT10</a></td>
+</tr>
+<tr>
+<td>RF26</td>
+<td>Melhoria na interação entre usuários</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11">ENT11</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ericbky">Eric Silveira</a> e <a href="https://github.com/Arthrok">Arthur Alves</a>.</p></font>
+</center></p>
+</details>
+<details>
+<summary>Tabela 02: Requisitos Não-Funcionais</summary>
+<p><center>
+Tabela 02: Requisitos Não-Funcionais</p>
+<table>
+<thead>
+<tr>
+<th>Tipo</th>
+<th>Descrição</th>
+<th>ID</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RNF01</td>
+<td>Alta disponibilidade do sistema, com 99,9% de uptime.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS10">OBS10</a></td>
+</tr>
+<tr>
+<td>RNF02</td>
+<td>Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS11">OBS11</a></td>
+</tr>
+<tr>
+<td>RNF03</td>
+<td>Design responsivo que se adapta a tablets e smartphones.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS12">OBS12</a></td>
+</tr>
+<tr>
+<td>RNF04</td>
+<td>Segurança de dados com criptografia de ponta-a-ponta.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS13">OBS13</a></td>
+</tr>
+<tr>
+<td>RNF05</td>
+<td>Suporte multilíngue para facilitar o acesso por usuários não-nativos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS14">OBS14</a></td>
+</tr>
+<tr>
+<td>RNF06</td>
+<td>Tempo de resposta de busca inferior a 2 segundos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS15">OBS15</a></td>
+</tr>
+<tr>
+<td>RNF07</td>
+<td>Implementação de medidas de acessibilidade para usuários com deficiência.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16">OBS16</a></td>
+</tr>
+<tr>
+<td>RNF08</td>
+<td>Facilidade de atualização de conteúdo pelo gestor do sistema.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS17">OBS17</a></td>
+</tr>
+<tr>
+<td>RNF09</td>
+<td>Suporte técnico com tempo de resposta de 24 horas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS18">OBS18</a></td>
+</tr>
+<tr>
+<td>RNF10</td>
+<td>O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS09">IS09</a></td>
+</tr>
+<tr>
+<td>RNF11</td>
+<td>O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS10">IS10</a></td>
+</tr>
+<tr>
+<td>RNF12</td>
+<td>O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS11">IS11</a></td>
+</tr>
+<tr>
+<td>RNF13</td>
+<td>O aplicativo deve apresentar um tempo de resposta rápido (&lt; 2 segundos) nas buscas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS12">IS12</a></td>
+</tr>
+<tr>
+<td>RNF14</td>
+<td>O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS13">IS13</a></td>
+</tr>
+<tr>
+<td>RNF15</td>
+<td>O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS14">IS14</a></td>
+</tr>
+<tr>
+<td>RNF16</td>
+<td>O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS15">IS15</a></td>
+</tr>
+<tr>
+<td>RNF17</td>
+<td>O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS16">IS16</a></td>
+</tr>
+<tr>
+<td>RNF18</td>
+<td>Medidas de segurança robustas</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT07">ENT07</a></td>
+</tr>
+<tr>
+<td>RNF19</td>
+<td>Requisitos para suporte e manutenção</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09">ENT09</a></td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ericbky">Eric Silveira</a> e <a href="https://github.com/Arthrok">Arthur Alves</a>.</p></font>
+</center></p>
+</details>
+<p>A seguir, a Tabela 03 mostra a matriz de rastreabilidade do projeto</p>
+<p><center>
+Tabela 03: Matriz de Rastreabilidade do Projeto</p>
+<table>
+<thead>
+<tr>
+<th><strong>Requisito</strong></th>
+<th><strong>Descrição</strong></th>
+<th><strong>Origem</strong></th>
+<th><strong>Artefatos Gerados a Partir do Requisito</strong></th>
+<th><strong>Requisitos Relacionados</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RF01</td>
+<td>Autenticação de usuários para acesso seguro.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS01">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-1-autenticacao-segura-e-gestao-de-usuarios">Épico 1: Autenticação Segura e Gestão de Usuários</a></li></ul></td>
+<td>RF26</td>
+</tr>
+<tr>
+<td>RF02</td>
+<td>Visualização de edições diárias do Diário Oficial.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS02">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l02-diario-oficial">L02: Diário Oficial</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l03-usuario">L03: Usuário</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l04-favoritar">L04: Favoritar</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l05-diario-publicado">L05: Diário Publicado</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/#uc05-filtrar-documentos-por-data-categoria-ou-orgao-emissor">UC05: Filtrar Documentos por Data, Categoria ou Órgão Emissor</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US04</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-3-busca-e-organizacao-de-conteudo">Épico 3: Busca e Organização de Conteúdo</a></li></ul></td>
+<td>RF18, RF21</td>
+</tr>
+<tr>
+<td>RF03</td>
+<td>Busca por palavras-chave em documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS03">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/cenarios/#c03-busca-por-palavras-chave">C03: Busca por Palavras-chave</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l01-filtrar-publicacoes">L01: Filtrar Publicações</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/#uc01-consultar-documentos-legislativos">UC01: Consultar Documentos Legislativos</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US05</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-6-funcionalidades-avancadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a></li></ul></td>
+<td>RF18, RF25</td>
+</tr>
+<tr>
+<td>RF04</td>
+<td>Filtragem de conteúdo por data, categoria ou órgão emissor.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS04">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/cenarios/#c02-filtrar-publicacoes-por-temas">C02: Filtrar Publicações por Temas</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l01-filtrar-publicacoes">L01: Filtrar Publicações</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l01-filtrar-publicacoes">UC05: Filtrar Documentos por Data, Categoria ou Órgão Emissor</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US01</a>,<a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US04</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-6-funcionalidades-avancadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a></li></ul></td>
+<td>RF18, RF25</td>
+</tr>
+<tr>
+<td>RF05</td>
+<td>Download de edições e documentos em formatos PDF.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS05">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l03-usuario">L03: Usuário</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l05-diario-publicado">L05: Diário Publicado</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/#uc02-salvar-documentos-para-consulta-offline">UC02: Salvar Documentos para Consulta Offline </a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US18</a></li></ul></td>
+<td>RF11</td>
+</tr>
+<tr>
+<td>RF06</td>
+<td>Notificações push sobre novas publicações relevantes.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS06">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l02-diario-oficial">L02: Diário Oficial</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l03-usuario">L03: Usuário</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l05-diario-publicado">L05: Diário Publicado</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l06-configuracao-de-notificacoes">L06: Configuração de Notificações</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/#uc03-receber-notificacoes-personalizadas">UC03: Receber Notificações Personalizadas</a></li></td>
+<td></td>
+</tr>
+<tr>
+<td>RF07</td>
+<td>Acesso a edições anteriores arquivadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS07">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l04-favoritar">L04: Favoritar</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/useCase/#uc04-acessar-historico-de-publicacoes-legislativas">UC04: Acessar Histórico de Publicações Legislativas</a></li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF08</td>
+<td>Integração com sistemas de assinatura digital.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS08">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l03-usuario">L03: Usuário</a></li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF09</td>
+<td>Compartilhamento de documentos via redes sociais e email.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS09">Observação</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l03-usuario">L03: Usuário</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/historiaUsuario/#historias-de-usuario_1">US11: Compartilhamento de Documentos</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-6-funcionalidades-avancadas-de-documentos">Épico 6: Funcionalidades Avançadas de Documentos</a></li></ul></td>
+<td>RF16</td>
+</tr>
+<tr>
+<td>RF10</td>
+<td>O aplicativo deve permitir buscas detalhadas por tópicos específicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS01">Introspecção</a></td>
+<td><ul><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/cenarios/#c03-busca-por-palavras-chave">C03: Busca por Palavras-chave</a></li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/lexicos/#l01-filtrar-publicacoes">L01: Filtrar Publicações</a></li><li>UC10: Busca Detalhada</li><li>DES01: Paginação de Diários</li><li>US05: Busca por Palavras-chave, US07: Filtros Temáticos e Geográficos</li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-3-busca-e-organizacao-de-conteudo">Épico 3: Busca e Organização de Conteúdo</a></li></ul></td>
+<td>RNF06, RNF13, RN03</td>
+</tr>
+<tr>
+<td>RF11</td>
+<td>O aplicativo deve oferecer a funcionalidade de salvar documentos para consulta offline.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS02">Introspecção</a></td>
+<td><ul><li>UC02: Salvar Documentos para Consulta Offline</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF12</td>
+<td>O aplicativo deve enviar notificações personalizadas sobre novas publicações relevantes.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS03">Introspecção</a></td>
+<td><ul><li>C01: Configurar o aplicativo, C04: Design responsivo que se adapta a tablets e smartphones</li><li>L06: Configuração de Notificações</li><li>UC03: Receber Notificações Personalizadas</li><li>US09: Notificações Personalizadas, US15: Sistema de Marcadores para Documentos</li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-4-interacao-e-notificacao">Épico 4: Interação e Notificação</a></li></ul></td>
+<td>RF06, RF12, RF23</td>
+</tr>
+<tr>
+<td>RF13</td>
+<td>O aplicativo deve oferecer acesso ao histórico de publicações legislativas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS04">Introspecção</a></td>
+<td><ul><li>UC04: Acessar Histórico de Publicações Legislativas</li><li>US10: Funcionalidade de Histórico de Pesquisa</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF14</td>
+<td>O aplicativo deve ter um sistema de marcadores para rastrear alterações em documentos específicos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS05">Introspecção</a></td>
+<td><ul><li>US15: Sistema de Marcadores para Documentos</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF15</td>
+<td>O aplicativo deve fornecer uma interface que facilite a leitura de textos legislativos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS06">Introspecção</a></td>
+<td><ul><li>C04: Design responsivo que se adapta a tablets e smartphones</li><li>USA04: Interface padronizada e confortável</li><li>US17: Navegação Intuitiva</li><li><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/modelagem/modelagemAgil/backlog/#epico-2-acessibilidade-e-usabilidade">Épico 2: Acessibilidade e Usabilidade</a></li></ul></td>
+<td>RF24, RNF10</td>
+</tr>
+<tr>
+<td>RF16</td>
+<td>O aplicativo deve incluir uma funcionalidade de compartilhamento de documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS07">Introspecção</a></td>
+<td><ul><li>US11: Funcionalidade de Compartilhamento Aprimorada</li><li>Épico 6: Funcionalidades Avançadas de Documentos</li></ul></td>
+<td>RF09</td>
+</tr>
+<tr>
+<td>RF17</td>
+<td>O aplicativo deve manter um índice atualizado e pesquisável de todos os documentos publicados.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS08">Introspecção</a></td>
+<td>-</td>
+<td>RF18</td>
+</tr>
+<tr>
+<td>RF18</td>
+<td>Sistema de busca avançada.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT01">Entrevista</a></td>
+<td><ul><li>C03: Busca por Palavras-chave</li><li>L01: Filtrar Publicações</li><li>UC01: Consultar Documentos Legislativos</li><li>DES01: O sistema deve, mostrar como padrão no máximo 15 diários por página</li><li>US05: Busca por Palavras-chave, US07: Filtros Temáticos e Geográficos</li><li>Épico 3: Busca e Organização de Conteúdo</li></ul></td>
+<td>RF17, RF21, RNF06, RNF13, RF03, RF10</td>
+</tr>
+<tr>
+<td>RF19</td>
+<td>Funcionalidades de acessibilidade.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT02">Entrevista</a></td>
+<td><ul><li>C04: Design responsivo que se adapta a tablets e smartphones</li><li>C05: Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</li><li>C06: Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</li><li>L06: Configuração de Notificações</li><li>UC03: Receber Notificações Personalizadas</li><li>USA01, USA02, USA03, USA04, USA05 e USA06</li><li>US16: Compatibilidade com Sistemas Operacionais Móveis, US06: Suporte Multilíngue, US19: Design Responsivo para Dispositivos Móveis, US17: Navegação Intuitiva, US14: Acessibilidade para Usuários com Deficiência Visual</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>RF20</td>
+</tr>
+<tr>
+<td>RF20</td>
+<td>Ferramentas de usabilidade aprimoradas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT03">Entrevista</a></td>
+<td><ul><li>C04: Design responsivo que se adapta a tablets e smartphones</li><li>C05: Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</li><li>C06: Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</li><li>L06: Configuração de Notificações</li><li>UC03: Receber Notificações Personalizadas</li><li>USA01, USA02, USA03, USA04, USA05 e USA06</li><li>US16: Compatibilidade com Sistemas Operacionais Móveis, US06: Suporte Multilíngue, US19: Design Responsivo para Dispositivos Móveis, US17: Navegação Intuitiva, US14: Acessibilidade para Usuários com Deficiência Visual</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>RF19</td>
+</tr>
+<tr>
+<td>RF21</td>
+<td>Otimização do processo de busca diária.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT04">Entrevista</a></td>
+<td><ul><li>C02: Filtrar Publicações por Temas</li><li>C03: Busca por Palavras-chave</li><li>L01: Filtrar Publicações</li><li>L06: Configuração de Notificações</li><li>UC01: Consultar Documentos Legislativos</li><li>DES01: Paginação de Diários</li><li>US04: Filtragem de Data em Meu Diário, US05: Busca por Palavras-chave, US07: Filtros Temáticos e Geográficos, US10: Funcionalidade de Histórico de Pesquisa</li><li>Épico 3: Busca e Organização de Conteúdo</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF22</td>
+<td>Suporte multilíngue no sistema.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT05">Entrevista</a></td>
+<td><ul><li>C06: Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</li><li>US06: Suporte Multilíngue</li><li>Épico 7: Multilíngue e Internacionalização</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RF23</td>
+<td>Sistema de notificações personalizadas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT06">Entrevista</a></td>
+<td><ul><li>C01: Configurar o aplicativo</li><li>L06: Configuração de Notificações</li><li>UC03: Receber Notificações Personalizadas</li><li>US09: Notificações Personalizadas</li></ul></td>
+<td>RF12, RF06</td>
+</tr>
+<tr>
+<td>RF24</td>
+<td>Interface do usuário altamente intuitiva.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT08">Entrevista</a></td>
+<td><ul><li>C04: Design responsivo que se adapta a tablets e smartphones</li><li>C05: Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</li><li>C06: Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</li><li>L06: Configuração de Notificações</li><li>UC03: Receber Notificações Personalizadas</li><li>USA01, USA02, USA03, USA04, USA05 e USA06</li><li>US16: Compatibilidade com Sistemas Operacionais Móveis, US06: Suporte Multilíngue, US19: Design Responsivo para Dispositivos Móveis, US17: Navegação Intuitiva, US14: Acessibilidade para Usuários com Deficiência Visual</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>RF25</td>
+</tr>
+<tr>
+<td>RF25</td>
+<td>Funcionalidades avançadas de documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT10">Entrevista</a></td>
+<td><ul><li>US11: Funcionalidade de Compartilhamento Aprimorada</li><li>Épico 6: Funcionalidades Avançadas de Documentos</li></ul></td>
+<td>RF24</td>
+</tr>
+<tr>
+<td>RF26</td>
+<td>Melhoria na interação entre usuários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT11">Entrevista</a></td>
+<td><ul><li>US12: Comentários e Anotações em Publicações, US21: Anotações Colaborativas</li><li>Épico 4: Interação e Notificação</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF01</td>
+<td>Alta disponibilidade do sistema, com 99,9% de uptime.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS10">Observação</a></td>
+<td><ul><li>Épico 5: Infraestrutura e Suporte</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF02</td>
+<td>Compatibilidade com as versões mais recentes de sistemas operacionais móveis.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS11">Observação</a></td>
+<td><ul><li>C05: Compatibilidade com as Versões Mais Recentes de Sistemas Operacionais Móveis</li><li>US16: Compatibilidade com Sistemas Operacionais Móveis</li><li>Épico 5: Infraestrutura e Suporte</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF03</td>
+<td>Design responsivo que se adapta a tablets e smartphones.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS12">Observação</a></td>
+<td><ul><li>C04: Design responsivo que se adapta a tablets e smartphones</li><li>US19: Design Responsivo para Dispositivos Móveis</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF04</td>
+<td>Segurança de dados com criptografia de ponta-a-ponta.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS13">Observação</a></td>
+<td><ul><li>CON06: O sistema deve evitar que o usuário execute atividades que possam comprometer a integridade do sistema.</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF05</td>
+<td>Suporte multilíngue para facilitar o acesso por usuários não-nativos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS14">Observação</a></td>
+<td><ul><li>C06: Suporte Multilíngue para Facilitar o Acesso por Usuários Não-nativos</li><li>US06: Suporte Multilíngue</li><li>Épico 7: Multilíngue e Internacionalização</li></ul></td>
+<td>RF22</td>
+</tr>
+<tr>
+<td>RNF06</td>
+<td>Tempo de resposta de busca inferior a 2 segundos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS15">Observação</a></td>
+<td><ul><li>C03: Busca por Palavras-chave</li><li>DES06: O sistema deve garantir um tempo de resposta não superior a 1 segundo.</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF07</td>
+<td>Implementação de medidas de acessibilidade para usuários com deficiência.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS16">Observação</a></td>
+<td><ul><li>US14: Acessibilidade para Usuários com Deficiência Visual</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>RF19</td>
+</tr>
+<tr>
+<td>RNF08</td>
+<td>Facilidade de atualização de conteúdo pelo gestor do sistema.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS17">Observação</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF09</td>
+<td>Suporte técnico com tempo de resposta de 24 horas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/observacao/#OBS18">Observação</a></td>
+<td><ul><li>C07: Suporte Técnico com Tempo de Resposta de 24 Horas</li><li>CON05: O aplicativo deve possuir um sistema de suporte ao usuário</li><li>SUP03: O sistema deve oferecer suporte ao usuário através de canais apropriados e uma equipe disponível.</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF10</td>
+<td>O aplicativo deve ter uma interface de usuário intuitiva e fácil de navegar.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS09">Introspecção</a></td>
+<td><ul><li>USA04: O aplicativo deve oferecer uma interface padronizada que garanta conforto visual ao usuário, seguindo os princípios de ergonomia no design de UI 3</li><li>DES02: O sistema deve oferecer uma navegação fluida e sem interrupções, com caminhos organizados de forma lógica</li><li>DES04: O aplicativo deve ter uma interface de design simplificado, seguindo os princípios de ergonomia no design de UI.</li><li>US17: Navegação Intuitiva</li><li>Épico 2: Acessibilidade e Usabilidade</li></ul></td>
+<td>RF24</td>
+</tr>
+<tr>
+<td>RNF11</td>
+<td>O aplicativo deve garantir a segurança e a privacidade dos dados dos usuários.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS10">Introspecção</a></td>
+<td><ul><li>US13: Autenticação Multifatorial</li><li>Épico 1: Autenticação Segura e Gestão de Usuários</li></ul></td>
+<td>RF01</td>
+</tr>
+<tr>
+<td>RNF12</td>
+<td>O aplicativo deve estar disponível 24/7, com exceção de períodos de manutenção programada.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS11">Introspecção</a></td>
+<td><ul><li>CON01: O sistema deve ser acessível 24 horas por dia, 7 dias por semana, ou seja, de maneira ininterrupta.</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF13</td>
+<td>O aplicativo deve apresentar um tempo de resposta rápido (&lt; 2 segundos) nas buscas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS12">Introspecção</a></td>
+<td><ul><li>Detalhes de Desempenho: DES06 - O sistema deve garantir um tempo de resposta não superior a 1 segundo.</li></ul></td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF14</td>
+<td>O aplicativo deve ser acessível de acordo com os padrões da WCAG 2.1.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS13">Introspecção</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF15</td>
+<td>O aplicativo deve ter um mecanismo robusto de backup e recuperação de dados.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS14">Introspecção</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF16</td>
+<td>O aplicativo deve ser escalável para acomodar um crescente número de usuários e documentos.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS15">Introspecção</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF17</td>
+<td>O aplicativo deve oferecer suporte multilíngue para atender a uma base de usuários diversificada.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/elicitacao/tecnicas/introspeccao/#IS16">Introspecção</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF18</td>
+<td>Medidas de segurança robustas.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT07">Entrevista</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td>RNF19</td>
+<td>Requisitos para suporte e manutenção.</td>
+<td><a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/reuniao/reuniaoElicitacao/#ENT09">Entrevista</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+</tbody>
+</table>
+<p><font size="3"><p style="text-align: center"><b>Fonte:</b> <a href="https://github.com/ericbky">Eric Silveira</a> e <a href="https://github.com/Arthrok">Arthur Alves</a>.</p></font>
+</center></p>
+<h2 id="referencia-bibliografica"><a>Referência Bibliográfica</a></h2>
+<blockquote>
+<p><a id="REF1" href="#anchor_1">1. </a>Página 3, 2.1 Rastreabilidade. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.</p>
+<p><a id="REF2" href="#anchor_2">2. </a>Página 12, 3.1 Técnicas e ferramentas: suporte à questã da rastreabilidade. SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf.</p>
+<p><a id="REF3" href="#anchor_3">3. </a> Página 29. Requisitos – Aula 26. SERRANO, Milene. SERRANO, Maurício. Acesso em 16 de junho de 2024.</p>
+</blockquote>
+<h2 id="bibliografia"><a>Bibliografia</a></h2>
+<blockquote>
+<p><a">1. </a>SAYÃO, Miriam; LEITE, Julio. Rastreabilidade de Requisitos. PUC-Rio: Departamento de Informática, ISSN 0103-9741, Rio de Janeiro, 2005. Disponível em: https://www-di.inf.puc-rio.br/~julio/rastre.pdf. Acesso em: 15 de jun de 2024.</p>
+<p><a">2. </a>TORANZO, M.; CASTRO, J; MELLO, E. Uma proposta para melhorar o rastreamento de requisitos. PUC-Rio: Workshop em Engenharia de Requisitos, Rio de Janeiro, 2002. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/toranzo.pdf. Acesso em: 14 de jun de 2024.</p>
+<p><a">3. </a>Requisitos – Aula 26. SERRANO, Milene. SERRANO, Maurício. Acesso em 16 de junho de 2024.</p>
+</blockquote>
+<h2 id="historico-de-versao"><a>Histórico de Versão</a></h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Data Prevista de Revisão</th>
+<th style="text-align: center;">Descrição</th>
+<th style="text-align: center;">Autor</th>
+<th style="text-align: center;">Revisor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><code>1.0</code></td>
+<td style="text-align: center;">15/06/2024</td>
+<td style="text-align: center;">16/06/2024</td>
+<td style="text-align: center;">Criação do Documento, definição da metodologia e inserção da matriz.</td>
+<td style="text-align: center;"><a href="https://github.com/Arthrok">Arthur Alves</a> e <a href="https://github.com/ericbky">Eric Silveira</a></td>
+<td style="text-align: center;"><a href="https://github.com/joao-artl">João Artur</a> e <a href="https://github.com/M4RINH0">Douglas Marinho</a></td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Voltar para o topo
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Rodapé" >
+        
+          
+          <a href="../foward-from/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Forward From">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                Forward From
+              </div>
+            </div>
+          </a>
+        
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.tracking", "navigation.tabs", "navigation.tabs.sticky", "navigation.top", "navigation.footer"], "search": "../../assets/javascripts/workers/search.b8dbb3d2.min.js", "translations": {"clipboard.copied": "Copiado para \u00e1rea de transfer\u00eancia", "clipboard.copy": "Copiar para \u00e1rea de transfer\u00eancia", "search.result.more.one": "mais 1 nesta p\u00e1gina", "search.result.more.other": "# mais nesta p\u00e1gina", "search.result.none": "Nenhum documento encontrado", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Digite para iniciar a busca", "search.result.term.missing": "Ausente", "select.version": "Selecione a vers\u00e3o"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.ad660dcc.min.js"></script>
+      
+    
+  </body>
+</html>
