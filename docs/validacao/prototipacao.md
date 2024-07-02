@@ -50,7 +50,7 @@ Aqui está a nova tabela com as informações adicionais:
 | Ajuste automático da data de término    | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
 | Busca por palavras-chave                | [Eric Silveira](https://github.com/ericbky)                                                                                                                                               |                  |                       |             | Microsoft Teams   |
 | Filtros temáticos geográficos           | [Arthur Alves](https://github.com/arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                  |      Júlio Cezar            |          01/07/2024 18:40             |      10 minutos       | Microsoft Teams   |
-| Funcionalidade de histórico de pesquisa | [João Artur](https://github.com/joao-artl)                                                                                                                                                |                  |                       |             | Microsoft Teams   |
+| Funcionalidade de histórico de pesquisa | [João Artur](https://github.com/joao-artl)                                                                                                                                                |  José Roberto                |        01/07/2024 20:40               |       5 min      | Microsoft Teams   |
 | Limitação de diários por página         | [Douglas Marinho](https://github.com/M4RINH0)                                                                                                                                             |                  |                       |             | Microsoft Teams   |
 | Design responsivo pra dispositivos móveis | [Luiz Gustavo]()                                                                                                                                                                          |                  |                       |             | Microsoft Teams   |
 | Suporte multilíngue                     | [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)                                              |                  |                       |             | Microsoft Teams   |
@@ -170,6 +170,36 @@ Aqui está a nova tabela com as informações adicionais:
     #### Feedbacks do Entrevistado
     Não houveram feedbacks, o usuário achou o protótipo totalmente alinhado com a proposta do requisito.
 
+??? - "US10 - Histórico de Pesquisa"
+
+    As imagens A e B apresentam o protótipo referente à US10 de histórico de pesquisa. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através do armazenamento e acesso fácil ao histórico de buscas realizadas. Com o DOU sendo uma fonte vasta de informações, a funcionalidade de histórico de pesquisa permite que os usuários revisitem pesquisas anteriores de forma rápida e eficiente, tornando a interação mais produtiva e conveniente. Os usuários podem visualizar e gerenciar suas buscas passadas.
+
+    <center>
+
+    ??? "Ver imagem A"
+        Imagem A - Botão do Histórico de Pesquisa.
+
+        <font><figure markdown>![Visualização do histórico.](./assets/historico01.png){: style="width:300px"}
+
+        Fonte: [João Artur](https://github.com/joao-artl)
+    
+
+    ??? "Ver imagem D"
+        Imagem B - Página de Histórico de Pesquisa.
+
+        <font><figure markdown>![Detalhe da pesquisa.](./assets/historico02.png){: style="width:300px"}
+
+        Fonte: [João Artur](https://github.com/joao-artl)
+    </center>
+    
+    #### <a>Validação com o Entrevistado</a>
+
+    <center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xjKOvV7vVdg?si=pmLJm3jtM22L9RnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </center>
+
+    #### <a>Feedbacks do Entrevistado</a>
+    O usuário achou o protótipo totalmente alinhado com a proposta do requisito.
 
 ## <a>Análise dos Resultados</a>
 
