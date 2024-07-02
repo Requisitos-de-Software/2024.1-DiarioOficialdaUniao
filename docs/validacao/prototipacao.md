@@ -171,6 +171,7 @@ Aqui está a nova tabela com as informações adicionais:
     Não houveram feedbacks, o usuário achou o protótipo totalmente alinhado com a proposta do requisito.
 
 ??? - "US10 - Histórico de Pesquisa"
+    ### <a>US10 - Histórico de Pesquisa</a>
 
     As imagens A e B apresentam o protótipo referente à US10 de histórico de pesquisa. Esse requisito visa melhorar a experiência dos usuários do Diário Oficial da União (DOU) através do armazenamento e acesso fácil ao histórico de buscas realizadas. Com o DOU sendo uma fonte vasta de informações, a funcionalidade de histórico de pesquisa permite que os usuários revisitem pesquisas anteriores de forma rápida e eficiente, tornando a interação mais produtiva e conveniente. Os usuários podem visualizar e gerenciar suas buscas passadas.
 
@@ -184,7 +185,7 @@ Aqui está a nova tabela com as informações adicionais:
         Fonte: [João Artur](https://github.com/joao-artl)
     
 
-    ??? "Ver imagem D"
+    ??? "Ver imagem B"
         Imagem B - Página de Histórico de Pesquisa.
 
         <font><figure markdown>![Detalhe da pesquisa.](./assets/historico02.png){: style="width:300px"}
