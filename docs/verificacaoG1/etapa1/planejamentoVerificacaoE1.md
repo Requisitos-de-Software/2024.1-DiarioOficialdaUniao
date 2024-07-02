@@ -2,7 +2,7 @@
 
 A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.
 
-Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://requisitos-de-software.github.io/2024.1-CarteiradeTrabalhoDigital/#/">*Grupo 02*</a> para o aplicativo <b>*Carteira de Trabalho Digital*</b>. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais. É importante citar que essa verificação em momento nenhum busca diminuir os membros do Grupo 2 ou seu trabalho, apenas aplicar os conceitos de verificação nos artefatos.
+Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo nosso grupo. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais.
 
 ## <a>Metodologia</a>
 
@@ -14,46 +14,26 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação da entrega 1 será o integrante do <b>*Grupo 01*</b> - [Diego Sousa](https://github.com/DiegoSousaLeite). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
+O responsável pela execução da verificação da entrega 1 será o  [Henrique Torres](https://github.com/henriqtorresl). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 01|Rich Picture|`1.1`|Breno Alexandre|[Henrique Torres](https://github.com/henriqtorresl)|
+|Entrega 01|Rich Picture|`1.1`|[Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)|[Henrique Torres](https://github.com/henriqtorresl)|
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Henrique Torres](https://github.com/henriqtorresl).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa1/richpicture/">Verificação do artefato Rich Picture</a>
+- <a href="https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/verificacaoG1/etapa1/richpicture/">Verificação do artefato Rich Picture</a>
 
 ## <a>Checklists</a>
 
 Os checklists são uma ferramenta essencial de verificação, ajudando a identificar defeitos ou características ausentes no projeto. Esses checklists asseguram a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
-
-Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o integrante do grupo 01, [Eric Silveira](https://github.com/ericbky), elaborou checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir apresenta as verificações gerais para todos os artefatos incluídos no projeto:
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|-----------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|||
-|2|O artefato possui padronização nos títulos?|||
-|3|O artefato, caso contenha tabelas, as referencia no texto?|||
-|4|O artefato, caso tenha figuras, as referencia no texto?|||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
-</center>
 
 ### <a>Rich Picture</a>
 
@@ -82,7 +62,6 @@ O rich picture é um artefato essencial para a compreensão e representação vi
 4. "Your rich picture must tell a story. This means using images, pictures, keywords and descriptive labels, to give the reader a very good idea of what is going on." (refere.pdf, p.3)
 
 
-
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>
 
@@ -99,12 +78,8 @@ O rich picture é um artefato essencial para a compreensão e representação vi
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
-
-
-
-
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 07/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [Diego Sousa](https://github.com/DiegoSousaLeite)|[Eric Silveira](https://github.com/ericbky) , [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.0` | 01/07/2024 | 01/07/2024 | Criação do documento | [Henrique Torres](https://github.com/henriqtorresl) | [Eric Silveira](https://github.com/ericbky) |
